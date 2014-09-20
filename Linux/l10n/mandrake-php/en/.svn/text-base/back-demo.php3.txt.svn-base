@@ -1,8 +1,0 @@
-<table width=100%>
-<tr>
-<td <? include("styles/bg-orange2.php3"); ?>>
-<font color=white size=3>
-<a href="/en/main.php3"><img src="/images/magic.gif" border=0 width=33 height=30></a> ...Back to Linux-Mandrake main page...
-</td>
-</tr>
-</table>

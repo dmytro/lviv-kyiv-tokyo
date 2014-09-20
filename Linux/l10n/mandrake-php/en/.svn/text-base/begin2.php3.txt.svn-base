@@ -1,9 +1,0 @@
-<? include("body.php3"); ?>
-<? include("mdktitle.php3"); ?>
-<? include("leftcol.php3"); ?>
-
-<table border=0 width=90% cellspacing=0 cellpadding=3>
-<tr>
-<td <? include("styles/bg-orange2.php3"); ?> >
-<font color=white face="helvetica">
-<b>

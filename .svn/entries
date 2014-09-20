@@ -1,163 +1,0 @@
-8
-
-dir
-56
-svn://svn/system-config/Web/yarylo.sytes.net/LvivKyiivTokyo
-svn://svn/system-config
-
-
-
-2009-03-30T09:54:28.365128Z
-56
-dk
-
-
-svn:special svn:externals svn:needs-lock
-
-
-
-
-
-
-
-
-
-
-
-7d651875-403f-0410-a190-b993fda9113e
-
-Tychyna
-dir
-
-translations
-dir
-
-dmytro.gif
-file
-57
-
-
-
-2001-06-26T10:00:09.000000Z
-976b751c4ba69a5aa713bf1ac6f1c7ab
-2009-03-30T10:50:41.766055Z
-57
-dk
-has-props
-
-Tarnavsky
-dir
-
-WelcomeU.html
-file
-63
-
-
-
-2009-03-30T11:31:33.000000Z
-6a300a9c6499da5bdf9cf89df1167da6
-2009-03-30T13:07:44.366423Z
-63
-dk
-
-BooBaaBoo
-dir
-
-KYSELYOV
-dir
-
-Macintosh
-dir
-
-U_study
-dir
-
-Kraiany
-dir
-
-Linux
-dir
-
-PesSirko
-dir
-
-igor.gif
-file
-57
-
-
-
-2001-10-03T01:09:42.000000Z
-e05d85326ff4e01ce6d36c84a513f0f3
-2009-03-30T10:50:41.766055Z
-57
-dk
-has-props
-
-images
-dir
-
-Articles
-dir
-
-index.html~
-file
-57
-
-
-
-2006-03-17T12:07:01.000000Z
-9444f04bea7c4c1c7bbf820a93ae67b2
-2009-03-30T10:50:41.766055Z
-57
-dk
-
-index-en.html
-file
-57
-
-
-
-2000-03-24T02:50:47.000000Z
-7d501cc1bf9e3f5840a8407bad75cdb9
-2009-03-30T10:50:41.766055Z
-57
-dk
-
-index.html
-file
-57
-
-
-
-2006-03-17T12:06:18.000000Z
-787b5002170a27b07b80d0b6eb0ba2cc
-2009-03-30T10:50:41.766055Z
-57
-dk
-has-props
-
-
-svn:special
-
-Versions.html
-file
-63
-
-
-
-2009-03-30T11:28:10.000000Z
-1efa1177b43842bed245da7cb405bc74
-2009-03-30T13:07:44.366423Z
-63
-dk
-
-TLUG
-dir
-
-soft
-dir
-
-Svitlychny
-dir
-

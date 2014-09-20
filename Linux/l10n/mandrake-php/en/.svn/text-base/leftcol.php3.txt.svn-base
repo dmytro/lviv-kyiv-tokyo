@@ -1,6 +1,0 @@
-<table border=0 width=100%>
-<tr>
-<td width=14% valign=top>
-<? include("menu.php3"); ?>
-</td>
-<td valign=top align=center>
