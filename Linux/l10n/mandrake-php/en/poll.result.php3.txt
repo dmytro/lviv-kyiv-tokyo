@@ -1,0 +1,155 @@
+<? include("begin.php3"); ?>
+<? include("title.php3"); ?>
+Linux-Mandrake Polls
+<? include("body.php3"); ?>
+<? include("mdktitle.php3"); ?>
+<? include("leftcol.php3"); ?>
+
+<table border=0 width=90%>
+<tr valign=top>
+<td <? include("styles/bg-red1.php3"); ?> width=30% valign=top>
+<font color=white face="helvetica">
+POLL RESULTS
+</font>
+</td>
+</tr>
+<tr>
+<td <? include("styles/bg-grey1.php3"); ?> valign=top> 
+<font size=-1 face="helvetica">
+
+<?
+error_reporting(0);
+$headers = getallheaders();
+$ip=gethostbyname($headers["Host"]);
+
+$found=0;
+
+$fd = fopen("polls/results/ips.txt", "r");
+
+if (!$fd) {
+	$fd = fopen("polls/results/ips.txt", "w");
+	if ($fd) {
+	  fputs($fd, "# begin\n"); 
+	}
+}
+
+if (!$fd) echo " - 2 - <b>Database Error - Aborting</b>";
+
+/*
+  else {
+  
+  fclose($fd);
+  
+  $fd = fopen("polls/results/ips.txt", "r");
+  
+  if ($fd) {
+    
+    while (!feof($fd) && $found==0) {
+      $buf=fgets($fd, 255);
+      if (strstr($buf, $ip)) 
+	$found=1;
+     }
+    
+     }
+    }
+*/
+
+$found=0;
+
+if ($fd) {
+    
+  fclose($fd);
+    
+  if ($found==1) {
+    echo "<b>You have already voted!</b> <p>This poll has already received a vote from $ip - If you do not have voted yet, try again without going through a WWW proxy"; 
+  }
+  else {	
+    $fd = fopen("polls/results/ips.txt", "a");
+    if ($fd) {
+      fputs($fd, $ip."\n");
+#      echo "<b>Your vote from $ip has been successfully registered</b>";
+	    fclose($fd);
+    } else echo "- 6 - <b>Database Error - Aborting</b>";
+  }
+}
+
+echo "<center><b>".$question."</b></center><p>";
+
+
+$choix[1]=$one;
+$choix[2]=$two;
+$choix[3]=$three;
+$nmax=3;
+$res[1]=0;
+$res[2]=0;
+$res[3]=0;
+
+
+
+if ($choix[3]=="none") $nmax--;
+
+for ($i=1; $i<=$nmax; $i++) {
+
+  $fd = fopen("polls/results/res.".$choix[$i], "r");
+
+  if ($fd) {
+    $buf=fgets($fd, 255);
+    $res[$i]=$buf;
+    fclose($fd);
+  } 
+  
+  $fd = fopen("polls/results/res.".$choix[$i], "w");
+  if ($fd) {
+    if ($i==$ch && !$found) $res[$i]++;
+    fputs($fd, $res[$i]);
+    fclose($fd);
+  } else
+    {
+      echo "<b> Error writing results - Aborting </b>";
+    }
+}
+
+$totalvotes=$res[1]+$res[2]+$res[3];
+
+if ($totalvotes<1) $totalvotes=1;
+
+$p1=($res[1]/$totalvotes)*100;
+$p2=($res[2]/$totalvotes)*100;
+$p3=($res[3]/$totalvotes)*100;
+
+echo "<table border=0 cellpadding=30 width=100%><tr><td>";
+
+
+
+echo "<p><b>$one (".$res[1]." votes)</b>";
+
+echo "<table border=0 width=".$p1."% bgcolor=yellow><tr><td align=center>";
+echo (int)$p1."%";
+echo "</td></tr></table><p>";
+
+echo "<p><b>$two (".$res[2]." votes)</b>";
+
+echo "<table border=0 width=".$p2."% bgcolor=yellow><tr><td align=center>";
+echo (int)$p2."%";
+
+echo "</td></tr></table><p>";
+
+
+//if ($choix[3]=!"none") {
+
+
+ echo "<p><b>$three (".$res[3]." votes)</b>";
+
+ echo "<table border=0 width=".$p3."% bgcolor=yellow><tr><td align=center>";
+ echo (int)$p3."%";
+ echo "</td></tr></table>";
+
+// }
+
+echo "</tr></td></table>";
+
+echo "<p><b>Total: ".$totalvotes." votes</b>";
+
+?>
+
+<? include("end1.php3"); ?>

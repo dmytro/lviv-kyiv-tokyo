@@ -1,0 +1,149 @@
+# KPanel Ukrainian translation
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# Dmytro Koval'ov <kov@tokyo.email.ne.jp>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: kpanel VERSION\n"
+"POT-Creation-Date: 1999-04-24 01:28+0200\n"
+"PO-Revision-Date: 2000-04-19 11:07+09:00\n"
+"Last-Translator: Dmytro Koval'ov <kov@tokyo.email.ne.jp>\n"
+"Language-Team: Ukrainian <linux@linux.org.ua>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=koi8-u\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "\n%b %d"
+msgstr "\n%b %d"
+
+msgid "&Move"
+msgstr "&Пересунути"
+
+msgid "&Properties"
+msgstr "&Властивост╕"
+
+msgid "(Access Denied)"
+msgstr "(В╕дмовлено в доступ╕)"
+
+msgid "(Too Many Files)"
+msgstr "(Занадто багато файл╕в)"
+
+msgid "(Unreadable)"
+msgstr "(Не чита╓ться)"
+
+msgid "(empty folder)"
+msgstr "(пуста тека)"
+
+msgid "Add Application"
+msgstr "Додати програму"
+
+msgid "Add Disk Navigator"
+msgstr "Додати нав╕гатор диск╕в"
+
+msgid "Add Windowlist"
+msgstr "Додати список в╕кон"
+
+msgid "Add a Disk Navigator menu onto the panel"
+msgstr "Додати меню Нав╕гатора Диск╕в до панел╕"
+
+msgid "Add a windowlist menu onto the panel"
+msgstr "Додати меню списку в╕кон до панел╕"
+
+msgid "Add an application or a submenu onto the panel"
+msgstr "Додати програму або п╕дменю до панел╕"
+
+msgid "Add or remove applications in the menu structure "
+msgstr "Додати чи прибрати програми ╕з структури меню"
+
+msgid "Cannot put this as button onto the panel!"
+msgstr "Не можу додати цю кнопку до панел╕!"
+
+msgid "Configure"
+msgstr "Конф╕╜урац╕я"
+
+msgid "Configure panel"
+msgstr "Сконф╕╜урувати панель"
+
+msgid "Customize Disk Navigator"
+msgstr "Настро╖ти нав╕гатор диск╕в"
+
+msgid "Disk Navigator"
+msgstr "Нав╕гатор диск╕в"
+
+msgid "Edit Menus"
+msgstr "Редагувати меню"
+
+msgid "Entries shared among all users"
+msgstr "Пункти сп╕льн╕ для вс╕х користувач╕в"
+
+msgid "Go!"
+msgstr "Вперед!"
+
+msgid "Hide the panel"
+msgstr "Заховати панель"
+
+msgid "Iconify other &windows"
+msgstr "М╕н╕м╕зувати ╕нш╕ &в╕кна"
+
+msgid "KDiskNavigator"
+msgstr "KDiskNavigator"
+
+msgid "Lock Screen"
+msgstr "Замок Екрану"
+
+msgid "Lock screen"
+msgstr "Замкнути екран"
+
+msgid "Logout"
+msgstr "Вийти"
+
+msgid "No info available"
+msgstr "Нема╓ ╕нформац╕╖"
+
+msgid "Oops!"
+msgstr "Ой!"
+
+msgid "Open Folder"
+msgstr "В╕дкрити теку"
+
+msgid "Open this folder (+Shift: Launch a terminal here)"
+msgstr "В╕дкрити цю теку (+ Shift: запустити тут терм╕нал)"
+
+msgid "Options..."
+msgstr "Параметри..."
+
+msgid "Panel"
+msgstr "Панель"
+
+msgid "Personal entries"
+msgstr "Особист╕ пункти"
+
+msgid "Personal:"
+msgstr "Особисте:"
+
+msgid "Quickly navigate through the filesystem"
+msgstr "Швидко просуватися по файлов╕й систем╕"
+
+msgid "Recent entries"
+msgstr "Недавн╕ пункти"
+
+msgid "Recent:"
+msgstr "Недавн╕:"
+
+msgid "Restart"
+msgstr "Перезапустити"
+
+msgid "Restart panel"
+msgstr "Перезапустити панель"
+
+msgid "Shared:"
+msgstr "Сп╕льн╕:"
+
+msgid "Show the panel"
+msgstr "Показувати цю панель"
+
+msgid "The menu editor is not installed."
+msgstr "Редактор меню не встановлений"
+
+msgid "Windowlist"
+msgstr "Список В╕кон"

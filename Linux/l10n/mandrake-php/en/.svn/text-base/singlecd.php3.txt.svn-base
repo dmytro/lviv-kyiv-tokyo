@@ -1,0 +1,59 @@
+<? include("begin1.php3"); ?>
+Linux Mandrake Purchases all around the world
+<? include("begin2.php3"); ?>
+Linux Mandrake Purchases all around the world
+<? include("begin3.php3"); ?>
+
+<center>
+<table width="95%">
+<tr>
+<td>
+<center>
+<b>> SELECT YOUR WORLD LOCATION <</b>
+</center>
+</td>
+</tr>
+<tr>
+<td>      
+<div align="center"><img src="../images/worldmap.png" width="527" height="224" border="0" usemap="#map" alt="world map"></div>
+
+<map name="map">
+  <area shape="poly" coords="140,193,131,184,84,190,84,217,146,210,141,190,134,187" href="antartica.php3">
+  <area shape="poly" coords="84,67,92,66,149,47,211,65,189,106,141,94,127,131,82,128,41,147,41,113,45,92,56,68,88,65,87,68" href="oceania.php3">
+  <area shape="poly" coords="1,107,43,94,51,68,90,60,73,43,39,52,26,28,0,21,0,108,3,107,2,107" href="asia.php3">
+  <area shape="poly" coords="412,2,413,2,425,58,471,68,476,105,510,125,512,79,526,88,526,1,413,3,412,4" href="asia.php3">
+  <area shape="poly" coords="451,69,447,69,412,61,391,92,392,124,433,130,441,127,463,71,446,67" href="europe.php3">
+  <area shape="poly" coords="438,133,422,137,407,133,400,129,372,156,375,181,411,184,443,214,484,219,498,210,486,195,472,178,473,152,458,152,440,134,435,133" href="africa.php3">
+  <area shape="poly" coords="348,6,319,16,297,25,273,33,267,60,276,88,276,104,281,85,281,66,292,69,306,81,340,74,351,63,343,54,331,47,337,38,348,37,348,23,369,9,345,6,346,8" href="namerica.php3">
+  <area shape="poly" coords="297,137,284,123,267,135,263,162,217,187,205,192,250,194,276,194,300,197,310,191,326,187,305,163,306,151,295,135,295,134" href="samerica.php3">
+</map>
+</td>
+</tr>
+<tr>
+<td>
+<center>
+<a href="../en/america.php3">[USA/CANADA/SOUTH AMERICA]</a> -  
+<a href="../en/europe.php3">[EUROPE/RUSSIA]</a> -  
+<a href="../en/asia.php3">[ASIA/OCEANIA]</a> - 
+<a href="../en/africa.php3">[AFRICA]</a> - 
+</center>
+</td>
+</tr>
+<tr>
+<td colspan=2>
+<p>
+<blockquote>
+<li> <b>you don't find any reseller</b> that provides the PowerPack in your area, <a href="../en/register-customer.php3">please fill this form</a>.
+<li> <b>you are a reseller</b> and want to order some PowerPacks, <a href="../en/register-reseller.php3">please fill this form</a>.
+</blockquote>
+</td>
+</tr>
+</table>
+</center>
+<hr><font size=1>
+<!-- Created: Wed Mar  3 00:10:30 CET 1999 -->
+<!-- hhmts start -->
+Last modified: Wed Dec  1 18:26:09 CET 1999
+<!-- hhmts end -->
+<? include("end1.php3"); ?>
+

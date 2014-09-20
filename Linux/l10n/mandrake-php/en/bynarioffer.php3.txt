@@ -1,0 +1,50 @@
+<? include("begin1.php3"); ?>
+Linux-Mandrake - Bynari special offer
+<? include("begin2.php3"); ?>
+Linux-Mandrake - Bynari special offer
+<? include("begin3.php3"); ?>
+
+
+<table border=0 cellpadding=3 cellspacing=3>
+<tr>
+<td>
+<p>&nbsp;<br>
+<center>
+<font face="arial,helvetica" size="+1"><b>$25 OFF</b>
+<br>Discount for Phone Support from MandrakeSoft</font></center>
+<p align=justify>
+<img src="../images/bynari.jpg" width="106" height="100" border="0" align=right alt="bynari-logo">In appreciation of your purchase of Linux-Mandrake, please accept this
+coupon toward the cost of phone support from Bynari International.
+<p>
+Bynari International provides toll free support in the United States
+and Canada and local support in countries worldwide. This coupon is
+good toward any level of support. Use it for any support problem.
+<p>
+Bynari International charges $65 for a level 1 incident which includes
+installation, configuration of X-windows, email, connecting to your
+ISP, and setting up your desktop. For higher levels of support they
+charge slightly more.
+<p>
+In the North America contact their suppport center at 800-750-5320
+(US) or 800-295-6208 (Canada). (Toll free)
+<br>Or visit their web site at
+<a href="http://www.bynari.com/contacts.htm">http://www.bynari.com/contacts.htm</a> for additional locations.
+<p>
+Please provide your serial number in order to receive your discount.
+Offer good through February 29, 2000.
+<p>
+</td>
+</tr>
+</table>
+<blockquote>
+<center><a href="ffreesup.php3">back to free support page</a>
+</center>
+</blockquote>
+
+
+<hr><font size=1>
+<!-- Created: Tue Jun  9 09:42:15 EDT 1998 -->
+<!-- hhmts start -->
+Last modified: Mon Dec 20 15:10:48 CET 1999
+<!-- hhmts end -->
+<? include("end1.php3"); ?>

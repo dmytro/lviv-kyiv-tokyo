@@ -1,0 +1,24 @@
+<? include("begin1.php3"); ?>
+Linux Mandrake - Y2K compatibility
+<? include("begin2.php3"); ?>
+Linux Mandrake - Year 2000 compliance
+<? include("begin3.php3"); ?>
+<p>&nbsp;
+<p>&nbsp;
+<b>Linux-Mandrake has passed the year 2000 compliance tests</b>
+
+<p align="justify"><img src="../images/Y2K.png" align=right alt="Y2K compliance" width=150 height=158>As  one of the most powerful operating systems, Linux-Mandrake has already being tested to comply with all Y2K issues and concerns. We can certify that the Linux-Mandrake distribution has all the core softwares and deamons that make manipulations with the year 2000 date change and can support any critical date.
+<p align="justify">An independent study was made by Alcove on these softwares and deamons with all critical dates from 2000 to 2004. All worked perfecly well. The document that explains these tests is located here in <a href="../certif.ps">PS</a> format or in <a href="../certif.pdf">pdf</a> format.
+
+<p align="justify">Linux-Mandrake 6.1 has full compatibility with all the year 2000 issues and with the critical dates already tested.
+This is a summary of what the certification organization concluded after reviewing the Linux-Mandrake distribution.
+<p align="justify">
+Note that many softwares under the GPL licence included in the distribution already have a conformity test on critical dates. You can obtain a list of these programs on the <a href="http://www.gnu.org/software/year2000-list.html">Free Software Foundation website</a>
+<p>&nbsp;
+
+<hr><font size=1>
+<!-- Created: Wed Mar  3 00:10:30 CET 1999 -->
+<!-- hhmts start -->
+Last modified: Mon Dec 13 16:13:55 CET 1999
+<!-- hhmts end -->
+<? include("end1.php3"); ?>

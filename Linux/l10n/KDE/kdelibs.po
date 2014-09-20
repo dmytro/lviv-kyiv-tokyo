@@ -1,0 +1,4238 @@
+# Ukrainian translation of kdelibs.pot.
+# Copyright (C) 2000 Free Software Foundation, Inc.
+# Andy Rysin <arysin@yahoo.com>, 2000.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: kdelibs\n"
+"POT-Creation-Date: 2000-03-19 00:51+0100\n"
+"PO-Revision-Date: 2000-04-27 12:00-0700\n"
+"Last-Translator: Andy Rysin <arysin@yahoo.com>\n"
+"Language-Team: UKRAINIAN <linux@linux.org.ua>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=koi8-u\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: common_texts.cpp:43 rc.cpp:1
+msgid "&File"
+msgstr "&Файл"
+
+#: common_texts.cpp:97 rc.cpp:2
+msgid "&Game"
+msgstr "&Гра"
+
+#: common_texts.cpp:47 rc.cpp:3
+msgid "&Edit"
+msgstr "&Редагування"
+
+#: common_texts.cpp:50 rc.cpp:4
+msgid "&View"
+msgstr "&Вигляд"
+
+#: rc.cpp:5 rc.cpp:6
+msgid "&Go"
+msgstr "&Перейти"
+
+#: common_texts.cpp:146 rc.cpp:7
+msgid "&Bookmarks"
+msgstr "&Закладки"
+
+#: common_texts.cpp:149 rc.cpp:8
+msgid "&Tools"
+msgstr "&╤нструменти"
+
+#: rc.cpp:9
+msgid "&Settings"
+msgstr "П&араметри"
+
+#: common_texts.cpp:45 kdeui/kdialogbase.cpp:340 kdeui/kstdaction.cpp:817
+#: kspell/ksconfig.cpp:99 kspell/kspelldlg.cpp:130 rc.cpp:10
+msgid "&Help"
+msgstr "&Дов╕дка"
+
+#: common_texts.cpp:24 kdeui/kmessagebox.cpp:250
+msgid "Error"
+msgstr "Помилка"
+
+#: common_texts.cpp:25 kio/krun.cpp:117 kio/krun.cpp:545
+msgid "Malformed URL"
+msgstr "Синтаксична помилка в URL"
+
+#: common_texts.cpp:26
+msgid "Charset:"
+msgstr "Наб╕р символ╕в:"
+
+#: common_texts.cpp:27 kio/listprogressdlg.cpp:204
+msgid "Yes"
+msgstr "Так"
+
+#: common_texts.cpp:28 kio/listprogressdlg.cpp:206
+msgid "No"
+msgstr "Н╕"
+
+#: common_texts.cpp:29 kdeui/kmessagebox.cpp:117 kdeui/kmessagebox.cpp:160
+#: kdeui/kmessagebox.cpp:205
+msgid "Warning"
+msgstr "Попередження"
+
+#: common_texts.cpp:30
+msgid "Save a file"
+msgstr "Зберегти файл"
+
+#: common_texts.cpp:31
+msgid "Contents"
+msgstr "Зм╕ст"
+
+#: common_texts.cpp:32 kfile/kfiledialogconf.cpp:57
+msgid "About"
+msgstr "Про програму"
+
+#: common_texts.cpp:33
+msgid "A&bout..."
+msgstr "Пр&о програму"
+
+#: common_texts.cpp:34
+msgid "Untitled"
+msgstr "Без ╕мен╕"
+
+#: common_texts.cpp:37
+msgid "On"
+msgstr "Вв╕мкнено"
+
+#: common_texts.cpp:38
+msgid "Off"
+msgstr "Вимикнено"
+
+#: common_texts.cpp:46
+msgid "Edit"
+msgstr "Редагування"
+
+#: common_texts.cpp:48
+msgid "&Options"
+msgstr "Пара&метри"
+
+#: common_texts.cpp:49 kfile/kdiroperator.cpp:903
+msgid "View"
+msgstr "Вид"
+
+#: common_texts.cpp:51
+msgid "E&xit"
+msgstr "В&их╕д"
+
+#: common_texts.cpp:52 kdecore/kstdaccel.cpp:149 kdeui/kdockwindow.cpp:47
+#: kdeui/kdockwindow.cpp:51
+msgid "Quit"
+msgstr "Вих╕д"
+
+#: common_texts.cpp:53 kdeui/kstdaction.cpp:495
+msgid "&Quit"
+msgstr "Ви&х╕д"
+
+#: common_texts.cpp:54 kdecore/kstdaccel.cpp:173 kfile/kdiroperator.cpp:866
+msgid "Reload"
+msgstr "Перевантажити"
+
+#: common_texts.cpp:55 kdeui/kwizard.cpp:28
+msgid "Back"
+msgstr "Назад"
+
+#: common_texts.cpp:57 kdeui/kstdaction.cpp:527
+msgid "&Copy"
+msgstr "&Коп╕ювати"
+
+#: common_texts.cpp:59 kdeui/kstdaction.cpp:535
+msgid "&Paste"
+msgstr "&Вставити"
+
+#: common_texts.cpp:60
+msgid "&New Window..."
+msgstr "&Нове в╕кно..."
+
+#: common_texts.cpp:61
+msgid "New &Window..."
+msgstr "Нове &в╕кно..."
+
+#: common_texts.cpp:62
+msgid "&New Window"
+msgstr "&Нове в╕кно"
+
+#: common_texts.cpp:63
+msgid "New Game"
+msgstr "Нова гра"
+
+#: common_texts.cpp:64
+msgid "&New Game"
+msgstr "Нова гра"
+
+#: common_texts.cpp:66
+msgid "Open a file"
+msgstr "В╕дкрити файл"
+
+#: common_texts.cpp:67
+msgid "Open..."
+msgstr "В╕дкрити..."
+
+#: common_texts.cpp:68
+msgid "&Open..."
+msgstr "&В╕дкрити..."
+
+#: common_texts.cpp:70
+msgid "&Cut"
+msgstr "&Вир╕зати"
+
+#: common_texts.cpp:71 kdeui/kstdaction.cpp:519
+msgid "C&ut"
+msgstr "В&ир╕зати"
+
+#: common_texts.cpp:72 kdeui/kfontdialog.cpp:114
+msgid "Font"
+msgstr "Шрифт"
+
+#: common_texts.cpp:73
+msgid "&Foreground Color"
+msgstr "Кол╕р &тексту"
+
+#: common_texts.cpp:74
+msgid "&Background Color"
+msgstr "Кол╕р &тла"
+
+#: common_texts.cpp:78
+msgid "Save as..."
+msgstr "Зберегти як..."
+
+#: common_texts.cpp:79
+msgid "S&ave as..."
+msgstr "З&берегти як..."
+
+#: common_texts.cpp:81 kab/addressbook.cc:327 kdeui/kdialogbase.cpp:400
+#: kdeui/kstdaction.cpp:480
+msgid "&Close"
+msgstr "&Закрити"
+
+#: common_texts.cpp:82 kdeui/kstdaction.cpp:464
+msgid "&Print..."
+msgstr "&Друкувати..."
+
+#: common_texts.cpp:83 kdeui/kmessagebox.cpp:278
+msgid "Sorry"
+msgstr "Вибачте"
+
+#: common_texts.cpp:85
+msgid "Remove"
+msgstr "Видалити"
+
+#: common_texts.cpp:86
+msgid "Add"
+msgstr "Добавити"
+
+#: common_texts.cpp:87
+msgid "Change"
+msgstr "Зм╕нити"
+
+#: common_texts.cpp:88
+msgid "Delete"
+msgstr "Витерти"
+
+#: common_texts.cpp:91 kdeui/kfontdialog.cpp:146 kdeui/kfontdialog.cpp:314
+msgid "Italic"
+msgstr "Курсив"
+
+#: common_texts.cpp:92
+msgid "Roman"
+msgstr "Прямий"
+
+#: common_texts.cpp:94
+msgid "&Undo"
+msgstr "&В╕дм╕нити"
+
+#: common_texts.cpp:96
+msgid "&Redo"
+msgstr "&Повторити"
+
+#: common_texts.cpp:98 kdeui/kmessagebox.cpp:324 kio/skipdlg.cpp:28
+msgid "Information"
+msgstr "╤нформац╕я"
+
+#: common_texts.cpp:101
+msgid "locally connected"
+msgstr "локально з'╓днаний"
+
+#: common_texts.cpp:103
+msgid "Stop"
+msgstr "Стоп"
+
+#: common_texts.cpp:104
+msgid "&Remove"
+msgstr "В&идалити"
+
+#: common_texts.cpp:105
+msgid "&Properties..."
+msgstr "Вл&астивост╕..."
+
+#: common_texts.cpp:106
+msgid "Properties"
+msgstr "Властивост╕"
+
+#: common_texts.cpp:107
+msgid "&Start"
+msgstr "&Старт"
+
+#: common_texts.cpp:108
+msgid "St&op"
+msgstr "Ст&оп"
+
+#: common_texts.cpp:109
+msgid "Miscellaneous"
+msgstr "Р╕зне"
+
+#: common_texts.cpp:110
+msgid "Font Size"
+msgstr "Розм╕р Шрифту"
+
+#: common_texts.cpp:111
+msgid "Fonts"
+msgstr "Шрифти"
+
+#: common_texts.cpp:112
+msgid "&Fonts"
+msgstr "&Шрифти"
+
+#: common_texts.cpp:113
+msgid "&Reload"
+msgstr "&Перевантажити"
+
+#: common_texts.cpp:114
+msgid "Files"
+msgstr "Файли"
+
+#: common_texts.cpp:115
+msgid "Continue"
+msgstr "Продовжити"
+
+#: common_texts.cpp:116 kdeui/kdockwindow.cpp:93
+msgid "Restore"
+msgstr "Повернути"
+
+#: common_texts.cpp:117
+msgid "Appearance"
+msgstr "Вигляд"
+
+#: common_texts.cpp:119 kdecore/klocale.cpp:160
+msgid "Monday"
+msgstr "Понед╕лок"
+
+#: common_texts.cpp:120 kdecore/klocale.cpp:161
+msgid "Tuesday"
+msgstr "В╕второк"
+
+#: common_texts.cpp:121 kdecore/klocale.cpp:162
+msgid "Wednesday"
+msgstr "Середа"
+
+#: common_texts.cpp:122 kdecore/klocale.cpp:163
+msgid "Thursday"
+msgstr "Четвер"
+
+#: common_texts.cpp:123 kdecore/klocale.cpp:164
+msgid "Friday"
+msgstr "П'ятниця"
+
+#: common_texts.cpp:124 kdecore/klocale.cpp:165
+msgid "Saturday"
+msgstr "Субота"
+
+#: common_texts.cpp:125 kdecore/klocale.cpp:166
+msgid "Sunday"
+msgstr "Нед╕ля"
+
+#: common_texts.cpp:126
+msgid "&Update"
+msgstr "Обновити"
+
+#: common_texts.cpp:127
+msgid "Layout"
+msgstr "Розклад"
+
+#: common_texts.cpp:128
+msgid "Highscore"
+msgstr "Таблиця результат╕в"
+
+#: common_texts.cpp:129
+msgid "&New View"
+msgstr "&Новий вид"
+
+#: common_texts.cpp:130
+msgid "&Insert"
+msgstr "Вставити"
+
+#: common_texts.cpp:133
+msgid "&Next"
+msgstr "Наступний"
+
+#: common_texts.cpp:134
+msgid "&Previous"
+msgstr "Попередн╕й"
+
+#: common_texts.cpp:135 kdecore/kstdaccel.cpp:158 kdeui/keditcl2.cpp:397
+#: kdeui/keditcl2.cpp:422 kdeui/keditcl2.cpp:435 kdeui/keditcl2.cpp:706
+msgid "Replace"
+msgstr "Зам╕нити"
+
+#: common_texts.cpp:136
+msgid "&Replace..."
+msgstr "&Зам╕нити..."
+
+#: common_texts.cpp:137 kdecore/kstdaccel.cpp:161
+msgid "Insert"
+msgstr "Вставити"
+
+#: common_texts.cpp:138 kdecore/kcompletionbase.cpp:153
+msgid "Default"
+msgstr "Типовий"
+
+#: common_texts.cpp:139
+msgid "&Defaults"
+msgstr "&Типовий"
+
+#: common_texts.cpp:140 kdecore/kapp.cpp:459 kdeui/khelpmenu.cpp:133
+#: kdeui/kstdaction.cpp:825
+msgid "&Contents"
+msgstr "&Зм╕ст"
+
+#: common_texts.cpp:141
+msgid "&About..."
+msgstr "Пр&о програму..."
+
+#: common_texts.cpp:142
+msgid "Open Recent"
+msgstr "В╕ткрити недавн╕"
+
+#: common_texts.cpp:143 kdeui/kstdaction.cpp:435
+msgid "Open &Recent"
+msgstr "В╕дкрити &недавн╕"
+
+#: common_texts.cpp:144
+msgid "&Find..."
+msgstr "&Знайти..."
+
+#: common_texts.cpp:145 kdeui/kstdaction.cpp:558
+msgid "Find &Next"
+msgstr "Знайти &дал╕"
+
+#: common_texts.cpp:147 kdeui/kstdaction.cpp:728
+msgid "&Add Bookmark"
+msgstr "&Додати закладку"
+
+#: common_texts.cpp:148 kdeui/kstdaction.cpp:736
+msgid "&Edit Bookmarks..."
+msgstr "&Редагувати закладки..."
+
+#: common_texts.cpp:150 kdeui/kstdaction.cpp:743
+msgid "&Spelling..."
+msgstr "&Перев╕рка орфограф╕╖..."
+
+#: common_texts.cpp:151 kdeui/kstdaction.cpp:752
+msgid "Show &Menubar"
+msgstr "Показати смужку &меню"
+
+#: common_texts.cpp:152 kdeui/kstdaction.cpp:764
+msgid "Show &Toolbar"
+msgstr "Показати смужку &╕нструмент╕в"
+
+#: common_texts.cpp:153
+msgid "Show &Statusbar"
+msgstr "Показати смужку &стану"
+
+#: common_texts.cpp:154 kdeui/kstdaction.cpp:795
+msgid "Configure &Key Bindings..."
+msgstr "Сконф╕гурувати прив'язку &клав╕ш..."
+
+#: common_texts.cpp:155 kdeui/kstdaction.cpp:802
+msgid "&Preferences..."
+msgstr "&Настройки..."
+
+#: common_texts.cpp:156 kdeui/kmessagebox.cpp:348
+msgid "Do not show this message again"
+msgstr "Не показувати б╕льше це пов╕домлення"
+
+#: kdecore/kaccel.cpp:343
+msgid "KAccel : cannont enable action %1 which is not in the object dictionary"
+msgstr "KAccel : не можливо enable д╕ю %1 яка не присутня в словнику об'╓кт╕в"
+
+#: kdecore/kapp.cpp:465
+msgid "&About %1..."
+msgstr "Пр&о %1..."
+
+#: kdecore/kapp.cpp:472 kdeui/khelpmenu.cpp:158 kdeui/kstdaction.cpp:857
+msgid "About &KDE..."
+msgstr "Про &KDE..."
+
+#: kdecore/kapp.cpp:493
+msgid "About KDE"
+msgstr "Про KDE"
+
+#: kdecore/kapp.cpp:495
+msgid ""
+"\n"
+"The KDE Desktop Environment was written by the KDE Team,\n"
+"a world-wide network of software engineers committed to\n"
+"free software development.\n"
+"\n"
+"Visit http://www.kde.org for more information on the KDE\n"
+"Project. Please consider joining and supporting KDE.\n"
+"\n"
+"Please report bugs at http://bugs.kde.org.\n"
+msgstr ""
+"\n"
+"Граф╕чна оболонка KDE була написана группою KDE,\n"
+"у розробц╕ цього в╕льного ПО прийняли участь програм╕сти з╕ всього св╕ту"
+"\n"
+"Для подальшо╖ ╕нформац╕╖ щодо KDE зав╕тайте на сайт http://www.kde.org\n"
+"Заохочу╓ться при╓днання та п╕дримка проекту\n"
+"Щодо помилок зв╕туйте до http://bugs.kde.org.\n"
+
+#: kdecore/kapp.cpp:511 kdeui/kaboutdialog.cpp:1473 kdeui/khelpmenu.cpp:201
+#: kdeui/kmessagebox.cpp:397
+#, c-format
+msgid "About %1"
+msgstr "Про %1"
+
+#: kdecore/kapp.cpp:529
+msgid ""
+"There was some error setting up inter-process\n"
+"communications for KDE.  The message returned\n"
+"by the system was:\n"
+"\n"
+msgstr ""
+"Помилка ╕н╕ц╕ал╕зац╕╖ зв'язку модул╕в KDE\n"
+"Система повернула пов╕домлення:\n"
+"\n"
+
+#: kdecore/kapp.cpp:533
+msgid ""
+"\n"
+"\n"
+"Please check that the \"dcopserver\" program is running!"
+msgstr ""
+"\n"
+"\n"
+"Будь ласка перев╕рте що програма \"dcopserver\" завантажена!"
+
+#: kdecore/kapp.cpp:536
+msgid "DCOP communications error (%1)"
+msgstr "Помилка зв'язку DCOP (%1)"
+
+#: kdecore/kapp.cpp:537
+msgid "Ok"
+msgstr "Гаразд"
+
+#: kdecore/kapp.cpp:617
+msgid "Use the X-server display 'displayname'"
+msgstr "Використовувати д╕сплей X-серверу 'displayname'"
+
+#: kdecore/kapp.cpp:618
+msgid "Set default font to 'fontname'"
+msgstr "Встановити типовий шрифт як 'fontname'"
+
+#: kdecore/kapp.cpp:624
+msgid "Use 'caption' as name in the titlebar"
+msgstr "Використовувати 'caption' як ╕м'я у заголовку"
+
+#: kdecore/kapp.cpp:625
+msgid "Use 'icon' as the application icon"
+msgstr "Використати 'icon' як п╕ктограму програми"
+
+#: kdecore/kapp.cpp:626
+msgid "Use 'icon' as the icon in the titlebar"
+msgstr "Використати 'icon' як п╕ктограму у заголовку"
+
+#: kdecore/kapp.cpp:627
+msgid "Restore session and use 'number' for something"
+msgstr "В╕дновити сесс╕ю та використовувати 'number' для чогось"
+
+#: kdecore/kapp.cpp:628
+msgid "Use the DCOP Server specified by 'server'"
+msgstr "Використовувати сервер DCOP зазначений 'server'"
+
+#: kdecore/kapp.cpp:922
+msgid "**"
+msgstr "**"
+
+#: kdecore/kapp.cpp:1316
+msgid "Could not register with DCOP.\n"
+msgstr "Не можливо заре╓строватися через DCOP.\n"
+
+#: kdecore/kapp.cpp:1329
+msgid "KLauncher could not be reached via DCOP.\n"
+msgstr "Не можу д╕статися KLauncher через DCOP.\n"
+
+#: kdecore/kcmdlineargs.cpp:396 kdecore/kcmdlineargs.cpp:403
+msgid "Unknown option '%1'."
+msgstr "Нев╕домий параметр '%1'."
+
+#: kdecore/kcmdlineargs.cpp:4тг 08
+msgid "'%1' missing."
+msgstr "Не можу знайти '%1'."
+
+#: kdecore/kcmdlineargs.cpp:493
+msgid "Unexpected argument '%1'."
+msgstr "Неоч╕куваний аргумент '%1'."
+
+#: kdecore/kcmdlineargs.cpp:584
+msgid "Use --help to get a list of available command line options."
+msgstr "Використовуйте --help щоб отримати сп╕сок можливих опц╕й комндно╖ строки."
+
+#: kdecore/kcmdlineargs.cpp:599
+msgid ""
+"\n"
+"%1:\n"
+msgstr ""
+"\n"
+"%1:\n"
+
+#: kdecore/kcmdlineargs.cpp:608
+msgid "[options] "
+msgstr "[параметри] "
+
+#: kdecore/kcmdlineargs.cpp:615
+msgid "[%1-options]"
+msgstr "[%1-параметри]"
+
+#: kdecore/kcmdlineargs.cpp:635
+msgid "Usage: %1 %2\n"
+msgstr "Використання: %1 %2\n"
+
+#: kdecore/kcmdlineargs.cpp:638
+msgid "Generic options"
+msgstr "Загальн╕ параметри"
+
+#: kdecore/kcmdlineargs.cpp:639
+msgid "Show help about options"
+msgstr "Показати дов╕дку щодо параметр╕в"
+
+#: kdecore/kcmdlineargs.cpp:647
+msgid "Show %1 specific options"
+msgstr "Показати параметри стосовно %1"
+
+#: kdecore/kcmdlineargs.cpp:654
+msgid "Show all options"
+msgstr "Показати вс╕ параметри"
+
+#: kdecore/kcmdlineargs.cpp:655
+msgid "Show version information"
+msgstr "Показати ╕нформац╕ю про верс╕ю"
+
+#: kdecore/kcmdlineargs.cpp:656
+msgid "End of options"
+msgstr "К╕нець параметр╕в"
+
+#: kdecore/kcmdlineargs.cpp:698
+msgid ""
+"\n"
+"Arguments:\n"
+msgstr ""
+"\n"
+"Аргументи:\n"
+
+#: kdecore/kcmdlineargs.cpp:713
+msgid ""
+"\n"
+"Options:\n"
+msgstr ""
+"\n"
+"Параметри:\n"
+
+#: kdecore/kcompletionbase.cpp:142
+msgid "None"
+msgstr "Нема╓"
+
+#: kdecore/kcompletionbase.cpp:144
+msgid "Manual"
+msgstr "Ручн╕"
+
+#: kdecore/kcompletionbase.cpp:146
+msgid "Automatic"
+msgstr "Автоматичн╕"
+
+#: kdecore/kcompletionbase.cpp:148
+msgid "Semi-Automatic"
+msgstr "Полу-автоматичн╕"
+
+#: kdecore/kcompletionbase.cpp:163
+msgid "Completion"
+msgstr "Доповнення"
+
+#: kdecore/kglobalaccel.cpp:105
+msgid ""
+"KGlobalAccel : Cannot connect action %1 which is not in the object dictionary"
+msgstr ""
+"KGlobalAccel : не можливо зв'язати д╕ю %1 яка не присутня в словнику об'╓кт╕в"
+
+#: kdecore/kglobalaccel.cpp:368
+msgid ""
+"KGlobalAccel : cannont enable action %1 which is not in the object dictionary"
+msgstr ""
+"KGlobalAccel : не можливо вв╕мкнути д╕ю %1 яка не присутня в словнику об'╓кт╕в"
+
+#: kdecore/klocale.cpp:139 kdeui/kdatepik.cpp:58
+msgid "January"
+msgstr "С╕чень"
+
+#: kdecore/klocale.cpp:140 kdeui/kdatepik.cpp:58
+msgid "February"
+msgstr "Лютий"
+
+#: kdecore/klocale.cpp:141 kdeui/kdatepik.cpp:58
+msgid "March"
+msgstr "Березень"
+
+#: kdecore/klocale.cpp:142 kdeui/kdatepik.cpp:58
+msgid "April"
+msgstr "Кв╕тень"
+
+#: kdecore/klocale.cpp:143 kdeui/kdatepik.cpp:59 kfile/kfileviewitem.cpp:335
+msgid "May"
+msgstr "Травень"
+
+#: kdecore/klocale.cpp:144 kdeui/kdatepik.cpp:59
+msgid "June"
+msgstr "Червень"
+
+#: kdecore/klocale.cpp:145 kdeui/kdatepik.cpp:59
+msgid "July"
+msgstr "Липень"
+
+#: kdecore/klocale.cpp:146 kdeui/kdatepik.cpp:59
+msgid "August"
+msgstr "Серпень"
+
+#: kdecore/klocale.cpp:147 kdeui/kdatepik.cpp:60
+msgid "September"
+msgstr "Вересень"
+
+#: kdecore/klocale.cpp:148 kdeui/kdatepik.cpp:60
+msgid "October"
+msgstr "Жовтень"
+
+#: kdecore/klocale.cpp:149 kdeui/kdatepik.cpp:60
+msgid "November"
+msgstr "Листопад"
+
+#: kdecore/klocale.cpp:150 kdeui/kdatepik.cpp:60
+msgid "December"
+msgstr "Грудень"
+
+#: kdecore/klocale.cpp:824
+msgid "pm"
+msgstr "pm"
+
+#: kdecore/klocale.cpp:824
+msgid "am"
+msgstr "am"
+
+#: kdecore/kstdaccel.cpp:145
+msgid "New"
+msgstr "Новий"
+
+#: kdecore/kstdaccel.cpp:155 kdeui/keditcl2.cpp:103 kdeui/keditcl2.cpp:116
+#: kdeui/keditcl2.cpp:342 kdeui/keditcl2.cpp:355 kdeui/keditcl2.cpp:630
+msgid "Find"
+msgstr "Знайти"
+
+#: kdecore/kstdaccel.cpp:156
+msgid "Find Next"
+msgstr "Знайти наступний"
+
+#: kdecore/kstdaccel.cpp:157
+msgid "Find Prev"
+msgstr "Знайти попередн╕й"
+
+#: kdecore/kstdaccel.cpp:159
+msgid "Zoom In"
+msgstr "Зб╕льшити"
+
+#: kdecore/kstdaccel.cpp:160
+msgid "Zoom Out"
+msgstr "Зменшити"
+
+#: kdecore/kstdaccel.cpp:164
+msgid "Prior"
+msgstr "Попередн╕й"
+
+#: kdecore/kstdaccel.cpp:165 kdeui/kwizard.cpp:29
+msgid "Next"
+msgstr "Наступний"
+
+#: kdecore/kstdaccel.cpp:166
+msgid "Add Bookmark"
+msgstr "Додати закладку"
+
+#: kdecore/kstdaccel.cpp:168
+msgid "Text Completion"
+msgstr "Доповнення тексту"
+
+#: kdecore/kstdaccel.cpp:169
+msgid "Rotate Up"
+msgstr "Повернути проти годинниково╖ стр╕лки"
+
+#: kdecore/kstdaccel.cpp:170
+msgid "Rotate Down"
+msgstr "Повернути за годинниковою╖ стр╕лкою"
+
+#: kdecore/kstdaccel.cpp:171
+msgid "Popup Menu Context"
+msgstr "В╕дкрити контекст меню"
+
+#: kdecore/kstdaccel.cpp:172
+msgid "What's This"
+msgstr "Що це"
+
+#: kdeui/kaboutdialog.cpp:76
+msgid "Author"
+msgstr "Автор"
+
+#: kdeui/kaboutdialog.cpp:77
+msgid "Email"
+msgstr "Електронна пошта"
+
+#: kdeui/kaboutdialog.cpp:78
+msgid "Homepage"
+msgstr "Домашня стор╕нка"
+
+#: kdeui/kaboutdialog.cpp:79
+msgid "Task"
+msgstr "Задача"
+
+#: kdeui/kaboutdialog.cpp:637
+msgid "Version: %1 %2 (KDE %3)"
+msgstr "Верс╕я: %1 %2 (KDE %3)"
+
+#: kdeui/kaboutdialog.cpp:639
+msgid "%1 %2, %3"
+msgstr "%1 %2, %3"
+
+#: kdeui/kaboutdialog.cpp:1266
+msgid "Other Contributors:"
+msgstr "╤нш╕ учасники:"
+
+#: kdeui/kaboutdialog.cpp:1267
+msgid "(No logo available)"
+msgstr "(Без логотипу)"
+
+#: kdeui/kaboutdialog.cpp:1673
+msgid "Image missing"
+msgstr "Не можу знайти зображення"
+
+#: kdeui/kaccelmenu.cpp:132
+msgid "Change shortcut for: "
+msgstr "Зм╕нити акселератор для: "
+
+#: kdeui/kaccelmenu.cpp:138
+msgid "Global Key: cannot change shortcut"
+msgstr "Глобальна клав╕ша: не можу зм╕нити акселератор"
+
+#: kdeui/kaccelmenu.cpp:193
+msgid "Key already used as global key: "
+msgstr "Клав╕ша вже зад╕яна як глобальна: "
+
+#: kdeui/kaccelmenu.cpp:203
+msgid "Global key cannot be changed"
+msgstr "Глобальна клавиша не може бути зм╕нена"
+
+#: kdeui/kauthicon.cpp:81
+msgid "Editing disabled"
+msgstr "Редагування не дозволене"
+
+#: kdeui/kauthicon.cpp:82
+msgid "Editing enabled"
+msgstr "Редагування дозволене"
+
+#: kdeui/kbugreport.cpp:47
+msgid "Submit a bug report"
+msgstr "Над╕слати зв╕т про помилку"
+
+#: kdeui/kbugreport.cpp:67
+msgid "From :"
+msgstr "В╕д :"
+
+#: kdeui/kbugreport.cpp:74
+msgid "Application : "
+msgstr "Програма : "
+
+#: kdeui/kbugreport.cpp:80
+msgid "Version : "
+msgstr "Верс╕я : "
+
+#: kdeui/kbugreport.cpp:84
+msgid "no version set (programmer error!)"
+msgstr "верс╕я не встановлена (помилка прогам╕ста!)"
+
+#: kdeui/kbugreport.cpp:91
+msgid "Configure E-Mail"
+msgstr "Настро╖ти електронну пошту"
+
+#: kdeui/kbugreport.cpp:98
+msgid "Severity"
+msgstr "Значим╕сть"
+
+#: kdeui/kbugreport.cpp:100
+msgid "Critical"
+msgstr "Критична"
+
+#: kdeui/kbugreport.cpp:100
+msgid "Grave"
+msgstr "Фатальна"
+
+#: kdeui/kbugreport.cpp:100
+msgid "Normal"
+msgstr "Звичайна"
+
+#: kdeui/kbugreport.cpp:100
+msgid "Wishlist"
+msgstr "Список побажань"
+
+#: kdeui/kbugreport.cpp:113
+msgid "Subject : "
+msgstr "Тема : "
+
+#: kdeui/kbugreport.cpp:119
+msgid ""
+"Enter the text (in English if possible) that you wish to submit for the bug "
+"report.\n"
+"If you press \"OK\", a mail message will be sent to the maintainer of this "
+"program \n"
+"and to the KDE buglist."
+msgstr ""
+"Набер╕ть текст (на Англ╕йск╕й якщо це можливо) зв╕ту про помилку.\n"
+"П╕сля натиску \"OK\", почтове пов╕домлення буде в╕дправлене в╕дпов╕дальному за програму\n"
+"та в арх╕в помилок KDE."
+
+#: kdeui/kbugreport.cpp:151
+msgid "You can access previously reported bugs and wishes at "
+msgstr "Ви можете знайти попередн╕ зв╕ти про помилки та побажання на "
+
+#: kdeui/kbugreport.cpp:210
+msgid ""
+"You must specify both a subject and a description\n"
+"before the report can be sent."
+msgstr ""
+"Ви повинн╕ вказати тему та опис зв╕ту перед в╕дправкою."
+
+#: kdeui/kbugreport.cpp:219
+msgid ""
+"Couldn't send the bug report.\n"
+"Hmmm, submit a bug report manually, sorry...\n"
+"See http://bugs.kde.org/ for instructions."
+msgstr ""
+"Помилка в╕дправки зв╕ту про помилку.\n"
+"Гммм, в╕дправте, будь ласка, зв╕т вручну..."
+"Для подальшо╖ ╕нформац╕╖ див╕ться http://bugs.kde.org/."
+
+#: kdeui/kbugreport.cpp:228
+msgid "Bug report sent, thanks for your input."
+msgstr "Зв╕т про помилку в╕д╕сланий, дяку╓мо за участь."
+
+#: kdeui/kcharselect.cpp:307
+msgid "\t Font:\t"
+msgstr "\t Шрифт:\t"
+
+#: kdeui/kcharselect.cpp:318
+msgid "  Table:  "
+msgstr " Таблиця: "
+
+#: kdeui/kcolordlg.cpp:446
+msgid "* Custom Colors *"
+msgstr "* Нетипов╕ кольори *"
+
+#: kdeui/kcolordlg.cpp:447
+msgid "* Recent Colors *"
+msgstr "* Недавн╕ кольори *"
+
+#: kdeui/kcolordlg.cpp:448
+msgid "Named Colors"
+msgstr "╤менован╕ кольори"
+
+#: kdeui/kcolordlg.cpp:582
+msgid ""
+"Unable to read X11 rgb color strings. The following\n"
+"file location(s) were examined:\n"
+"\n"
+msgstr ""
+"Не можливо прочитати X11 rgb строчки кольр╕в. Було перев╕рено\n"
+"наступн╕ каталоги:\n"
+"\n"
+
+#: kdeui/kcolordlg.cpp:759
+msgid "Select Color"
+msgstr "Вибер╕ть кол╕р"
+
+#: kdeui/kcolordlg.cpp:906
+msgid "Add to &Custom Colors"
+msgstr "Додати до нетипових кольор╕в"
+
+#: kdeui/kcolordlg.cpp:1104
+msgid "-unnamed-"
+msgstr "-без назви-"
+
+#: kdeui/kcolordlg.cpp:1267 kdeui/kcolordlg.cpp:1319
+msgid "Custom..."
+msgstr "Нетипов╕..."
+
+#: kdeui/kdatetbl.cpp:142
+msgid "Sun"
+msgstr "Ндл"
+
+#: kdeui/kdatetbl.cpp:142
+msgid "Mon"
+msgstr "Пнд"
+
+#: kdeui/kdatetbl.cpp:142
+msgid "Tue"
+msgstr "Втр"
+
+#: kdeui/kdatetbl.cpp:143
+msgid "Wed"
+msgstr "Срд"
+
+#: kdeui/kdatetbl.cpp:143
+msgid "Thu"
+msgstr "Чтв"
+
+#: kdeui/kdatetbl.cpp:143
+msgid "Fri"
+msgstr "Птн"
+
+#: kdeui/kdatetbl.cpp:144
+msgid "Sat"
+msgstr "Сбт"
+
+#: kdeui/kdialogbase.cpp:345
+msgid "&Default"
+msgstr "&Типов╕"
+
+#: kdeui/kdialogbase.cpp:384 kdeui/kdialogbase.cpp:607
+msgid "&Apply"
+msgstr "Застосувати"
+
+#: kdeui/kdialogbase.cpp:390
+msgid "&Try"
+msgstr "Спробувати"
+
+#: kdeui/kdialogbase.cpp:580
+msgid ""
+"If you press the <b>OK</b> button, all changes\n"
+"you made will be used to proceed."
+msgstr ""
+"Якщо ви натисните клавишу <b>OK</b>, вс╕ зм╕ни,\n"
+"що ви зробили будуть впроваджен╕."
+
+#: kdeui/kdialogbase.cpp:585
+msgid "Accept settings"
+msgstr "Прийняти параметри"
+
+#: kdeui/kdialogbase.cpp:601
+msgid ""
+"When clicking <b>Apply</b>, the settings will be\n"
+"handed over to the program, but the dialog\n"
+"will not be closed.Use this to try different settings. "
+msgstr ""
+"При натисканн╕ <b>Apply</b>, параметри будуть\n"
+"передан╕ у програму, але д╕алог\n"
+"закритий не буде. Ви зможете спробувати ╕нш╕ параметри. "
+
+#: kdeui/kdialogbase.cpp:608
+msgid "Apply settings"
+msgstr "Застосувати параметри"
+
+#: kdeui/kdialogbase.cpp:623
+msgid ""
+"If you press the <b>Cancel</b> button, all changes\n"
+"you made will be abandoned and the dialog\n"
+"will be closed.\n"
+"The program will be in the state before\n"
+"opening the dialog."
+msgstr ""
+"При натисканн╕кнопки <b>Скасувати</b>, вс╕ зм╕ни\n"
+"зроблен╕ вами будуть скасован╕ та д╕алог\n"
+"буде закрито.\n"
+"Програма буде знаходитися у стан╕ у якому була\n"
+"до в╕дкриття д╕алогу."
+
+#: kdeui/kdialogbase.cpp:631
+msgid "Cancel settings"
+msgstr "Скасувати параметри"
+
+#: kdeui/kdialogbase.cpp:1025
+msgid "Get help..."
+msgstr "В╕дкрити дов╕дку..."
+
+#: kdeui/kdockwindow.cpp:46 kdeui/kdockwindow.cpp:91
+msgid "Minimize"
+msgstr "М╕н╕м╕зувати"
+
+#: kdeui/keditcl2.cpp:101 kdeui/keditcl2.cpp:340 kdeui/keditcl2.cpp:420
+msgid ""
+"End of document reached.\n"
+"Continue from the beginning?"
+msgstr ""
+"К╕нець документу.\n"
+"Продовжити з початку?"
+
+#: kdeui/keditcl2.cpp:114 kdeui/keditcl2.cpp:353 kdeui/keditcl2.cpp:395
+#: kdeui/keditcl2.cpp:433
+msgid ""
+"Beginning of document reached.\n"
+"Continue from the end?"
+msgstr ""
+"Початок документу.\n"
+"Продовжити з к╕нця?"
+
+#: kdeui/keditcl2.cpp:631 kdeui/keditcl2.cpp:708 kdeui/kstdaction.cpp:550
+msgid "&Find"
+msgstr "Знайти"
+
+#: kdeui/keditcl2.cpp:637 kdeui/keditcl2.cpp:714
+msgid "Find:"
+msgstr "Знайти:"
+
+#: kdeui/keditcl2.cpp:652 kdeui/keditcl2.cpp:737
+msgid "Case Sensitive"
+msgstr "Чутливий до рег╕стру"
+
+#: kdeui/keditcl2.cpp:654 kdeui/keditcl2.cpp:739
+msgid "Find Backwards"
+msgstr "Пошук назад"
+
+#: kdeui/keditcl2.cpp:708
+msgid "Replace &All"
+msgstr "Зам╕нити вс╕"
+
+#: kdeui/keditcl2.cpp:708 kdeui/kstdaction.cpp:575 kspell/kspelldlg.cpp:110
+msgid "&Replace"
+msgstr "Зам╕нити"
+
+#: kdeui/keditcl2.cpp:723
+msgid "Replace with:"
+msgstr "Зам╕нити на:"
+
+#: kdeui/keditcl2.cpp:806
+msgid "Goto Line"
+msgstr "Перейти на строчку"
+
+#: kdeui/keditcl2.cpp:813
+msgid "Goto Line:"
+msgstr "Перейти на строчку:"
+
+#: kdeui/kedittoolbar.cpp:196 kdeui/kedittoolbar.cpp:209
+msgid "Configure Toolbars"
+msgstr "Настро╖ти полоску ╕нструмент╕в"
+
+#: kdeui/kedittoolbar.cpp:362
+msgid "Toolbar:"
+msgstr "Полоска ╕нструмент╕в:"
+
+#: kdeui/kedittoolbar.cpp:368 kdeui/kstdaction.cpp:418
+msgid "&New"
+msgstr "&Новий"
+
+#: kdeui/kedittoolbar.cpp:376
+msgid "Available actions:"
+msgstr "Дозволен╕ д╕╖:"
+
+#: kdeui/kedittoolbar.cpp:386
+msgid "Current actions:"
+msgstr "Поточн╕ д╕╖"
+
+#: kdeui/kedittoolbar.cpp:420
+msgid "Text position:"
+msgstr "Позиц╕я тексту:"
+
+#: kdeui/kedittoolbar.cpp:422
+msgid "No text"
+msgstr "Без тексту"
+
+#: kdeui/kedittoolbar.cpp:423
+msgid "Text aside icon"
+msgstr "Текст поруч з п╕ктограмою"
+
+#: kdeui/kedittoolbar.cpp:424 kdeui/ktoolbar.cpp:158
+msgid "Text only"
+msgstr "Т╕льки текст"
+
+#: kdeui/kedittoolbar.cpp:425
+msgid "Text under icon"
+msgstr "Текст п╕д пиктограмою"
+
+#: kdeui/kedittoolbar.cpp:429
+msgid "Icon size:"
+msgstr "Розм╕р п╕ктограми:"
+
+#: kdeui/kedittoolbar.cpp:431 kdeui/ktoolbar.cpp:163
+msgid "Small icons"
+msgstr "Мал╕ п╕ктограми"
+
+#: kdeui/kedittoolbar.cpp:432
+msgid "Normal icons"
+msgstr "Звичайн╕ п╕ктограми"
+
+#: kdeui/kedittoolbar.cpp:433 kdeui/ktoolbar.cpp:165
+msgid "Large icons"
+msgstr "Велик╕ п╕ктограми"
+
+#: kdeui/kedittoolbar.cpp:437
+msgid "Toolbar position:"
+msgstr "Позиц╕я полоски ╕нтрумент╕в"
+
+#: kdeui/kedittoolbar.cpp:439
+msgid "Top (normal)"
+msgstr "Зверху (звичайна)"
+
+#: kdeui/kedittoolbar.cpp:442 kdeui/ktoolbar.cpp:150
+msgid "Bottom"
+msgstr "Знизу"
+
+#: kdeui/kedittoolbar.cpp:443 kdeui/ktoolbar.cpp:152
+msgid "Floating"
+msgstr "Плаваюча"
+
+#: kdeui/kedittoolbar.cpp:444 kdeui/ktoolbar.cpp:153 kdeui/ktoolbar.cpp:2377
+msgid "Flat"
+msgstr "Плоска"
+
+#: kdeui/kfontdialog.cpp:98
+msgid "Requested Font"
+msgstr "Запитаний шрифт"
+
+#: kdeui/kfontdialog.cpp:116
+msgid "Font style"
+msgstr "Стиль шрифту"
+
+#: kdeui/kfontdialog.cpp:145
+msgid "Regular"
+msgstr "Звичайний"
+
+#: kdeui/kfontdialog.cpp:147 kdeui/kfontdialog.cpp:318
+msgid "Bold"
+msgstr "Жирний"
+
+#: kdeui/kfontdialog.cpp:148
+msgid "Bold Italic"
+msgstr "Жирний курсив"
+
+#: kdeui/kfontdialog.cpp:185
+msgid "Character set:"
+msgstr "Наб╕р символ╕в: "
+
+#: kdeui/kfontdialog.cpp:197
+msgid "The Quick Brown Fox Jumps Over The Lazy Dog"
+msgstr "Абвг╜де╓и╕╖йклмнопрстуфхцчшщюя╓' :-)"
+
+#: kdeui/kfontdialog.cpp:209 kdeui/kfontdialog.cpp:219
+msgid "Actual Font"
+msgstr "Фактичний шрифт"
+
+#: kdeui/kfontdialog.cpp:279
+msgid "default"
+msgstr "типовий"
+
+#: kdeui/kfontdialog.cpp:282
+msgid "any"
+msgstr "любий"
+
+#: kdeui/khelpmenu.cpp:140
+msgid "What's &This"
+msgstr "&Що це"
+
+#: kdeui/khelpmenu.cpp:148 kdeui/kstdaction.cpp:842
+msgid "&Report Bug..."
+msgstr "Над╕слати &зв╕т про помилку"
+
+#: kdeui/khelpmenu.cpp:154 kdeui/khelpmenu.cpp:259 kdeui/kstdaction.cpp:849
+msgid "&About"
+msgstr "Пр&о"
+
+#: kdeui/khelpmenu.cpp:221
+msgid ""
+"The <b>K Desktop Environment</b> is written and maintained by the KDE Team, "
+"a world-wide network of software engineers committed to free software "
+"development.<br><br>No single group, company or organization controls the "
+"KDE source code. Everyone is welcome to contribute to KDE.<br><br>Visit <A "
+"HREF=\"http://www.kde.org/\">http://www.kde.org/</A> for more information on "
+"the KDE Project. "
+msgstr ""
+"Граф╕чна оболонка <b>K Desktop Environment</b> написана та п╕дтриму╓ться группою KDE Team, "
+"группою програм╕ст╕и з╕ всього св╕ту, що роблять внесок до розвитку в╕льного програмного"
+"забезпечення.<br><br>Н╕яка ╓дина група, копман╕я або орган╕зац╕я не контролю╓ "
+"вих╕дн╕ тексти KDE. Заохочуються будь-як╕ внески до розвитку KDE.<br><br>Заи╕тайте до <A "
+"HREF=\"http://www.kde.org/\">http://www.kde.org/</A> для подальшо╖ ╕нформац╕╖ щодо "
+"проекту KDE. "
+
+#: kdeui/khelpmenu.cpp:230
+msgid ""
+"Software can always be improved, and the KDE Team is ready to do so. "
+"However, you - the user - must tell us when something does not work as "
+"expected or could be done better.<br><br>The K Desktop Environment has a bug "
+"tracking system. Visit <A "
+"HREF=\"http://bugs.kde.org/\">http://bugs.kde.org/</A> or use the \"Report "
+"Bug\" dialog to report bugs.<br><br>If you have a suggestion for improvement "
+"then you are welcome to visit <A "
+"HREF=\"http://wishlist.kde.org/\">http://wishlist.kde.org/</A> and register "
+"your wish."
+msgstr ""
+"Програмне забезпечення завжди може бути покращене, ╕ Група KDE готова це робити. "
+"Проте, Ви - користувач - повинн╕ пов╕домити нас, якщо щось не працю╓, як "
+"оч╕кувалось або може бути зроблене краще.<br><br>K Desktop Environment ма╓ систему "
+"стеження за помилками. Зав╕тайте до <A "
+"HREF=\"http://bugs.kde.org/\">http://bugs.kde.org/</A> або спробуйте д╕алог \"Зв╕т про "
+"Помилку\" щоб спов╕стити про помилку.<br><br>Якщо у Вас ╓ пропозиц╕я щодо удосконалення "
+"зав╕тайте, будь ласка, до <A "
+"HREF=\"http://wishlist.kde.org/\">http://wishlist.kde.org/</A> та заре╓струйте "
+"Ваше побажання."
+
+#: kdeui/khelpmenu.cpp:241
+msgid ""
+"You don't have to be a software developer to be a member of the KDE Team. "
+"You can join the national teams that translate program interfaces. You can "
+"provide graphics, themes, sounds and improved documentation. You "
+"decide!<br><br>Visit <A "
+"HREF=\"http://www.kde.org/jobs.html\">http://www.kde.org/jobs.html</A> for "
+"information on some projects in which you can participate.<br><br>If you "
+"need more information or documentation, then a visit to <A "
+"HREF=\"http://developer.kde.org/\">http://developer.kde.org/</A> will "
+"provide with what you need."
+msgstr ""
+"Ви не повинн╕ бути програм╕стом, для того щоб бути членом Групи KDE. "
+"Ви можете при╓днатися до нац╕ональних команд, що перекладають ╕нтерфейс програм. Ви можете "
+"забезпечити граф╕кою, темами, звуками та вдосконаленою документац╕ю. Вам "
+"вир╕шувати!<br><br>Зав╕тайте до <A "
+"HREF=\"http://www.kde.org/jobs.html\">http://www.kde.org/jobs.html</A> щодо "
+"╕нформац╕╖ про деяк╕ проекти, у яких ви можете прийняти участь.<br><br>Якщо Ви "
+"потребу╓те б╕льше ╕нформац╕╖ або документац╕╖, тод╕ зав╕тайте до <A "
+"HREF=\"http://developer.kde.org/\">http://developer.kde.org/</A> забезбечить "
+"Вас потр╕бною ╕нформац╕╓ю."
+
+#: kdeui/khelpmenu.cpp:257
+#, c-format
+msgid "K Desktop Environment. Release %1"
+msgstr "K Desktop Environment. Випуск %1"
+
+#: kdeui/khelpmenu.cpp:260
+msgid "&Report bugs or wishes"
+msgstr "Над╕слати &зв╕т про помилку або побажання"
+
+#: kdeui/khelpmenu.cpp:261
+msgid "&Join the KDE team"
+msgstr "&При╓днатися до группи KDE"
+
+#: kdeui/kiconloaderdialog.cpp:164 kdeui/kiconloaderdialog.cpp:172
+msgid "Select Icon"
+msgstr "Вибрати п╕ктограму"
+
+#: kdeui/kiconloaderdialog.cpp:194 kfile/kfiledialog.cpp:275
+msgid "&Filter:"
+msgstr "&Ф╕льтр:"
+
+#: kdeui/kkeydialog.cpp:239
+msgid "Configure Key Bindings"
+msgstr "Настро╖ти прив'язку клавиш"
+
+#: kdeui/kkeydialog.cpp:332
+msgid "&Action"
+msgstr "&Д╕я"
+
+#: kdeui/kkeydialog.cpp:335
+msgid "Current key"
+msgstr "Поточна клавиша"
+
+#: kdeui/kkeydialog.cpp:376
+msgid "Choose a key for the selected action"
+msgstr "Вибер╕ть клавишу для вибрано╖ д╕╖"
+
+#: kdeui/kkeydialog.cpp:403
+msgid "&No key"
+msgstr "&Без клавиши"
+
+#: kdeui/kkeydialog.cpp:407
+msgid "&Default key"
+msgstr "&Типова клав╕ша"
+
+#: kdeui/kkeydialog.cpp:411
+msgid "&Custom key"
+msgstr "&Нетипова клав╕ша"
+
+#: kdeui/kkeydialog.cpp:458
+msgid "No keys defined"
+msgstr "Клав╕ши не визначен╕"
+
+#: kdeui/kkeydialog.cpp:461
+msgid "Not configurable"
+msgstr "Не конф╕гуру╓ться"
+
+#: kdeui/kkeydialog.cpp:518
+msgid "Global Keys"
+msgstr "Глобальн╕ клавиши"
+
+#: kdeui/kkeydialog.cpp:546
+msgid "Keys"
+msgstr "Клав╕ши"
+
+#: kdeui/kkeydialog.cpp:617 kdeui/kkeydialog.cpp:959
+msgid "Attention : key already used"
+msgstr "Увага : клав╕ша вже використову╓ться"
+
+#: kdeui/kkeydialog.cpp:904
+msgid "Press the wanted key"
+msgstr "Натистн╕ть бажану клав╕шу"
+
+#: kdeui/kkeydialog.cpp:932
+msgid "Undefined key"
+msgstr "Невизначена клав╕ша"
+
+#: kdeui/kkeydialog.cpp:982
+msgid "Return to end edition"
+msgstr "Return для завершення редагування"
+
+#: kdeui/kkeydialog.cpp:992
+msgid "Incorrect key"
+msgstr "Нев╕рна клавиша"
+
+#: kdeui/kkeydialog.cpp:1017
+msgid ""
+"The %1 key combination has already been allocated\n"
+"to the global %2 action.\n"
+"\n"
+"Please choose a unique key combination."
+msgstr ""
+"Комб╕нац╕я клавиш %1 вже асоц╕йована\n"
+"з д╕╓ю %2.\n"
+"\n"
+"Будь ласка, вибер╕ть ун╕кальну комб╕нац╕ю."
+
+#: kdeui/kkeydialog.cpp:1023
+msgid "Global key conflict"
+msgstr "Конфл╕кт глобальних клав╕ш"
+
+#: kdeui/kkeydialog.cpp:1045
+msgid ""
+"The %1 key combination has already been allocated\n"
+"to the standard %2 action.\n"
+"\n"
+"Please choose a unique key combination."
+msgstr ""
+"Комб╕нац╕я клавиш %1 вже асоц╕йована\n"
+"з д╕╓ю %2.\n"
+"\n"
+"Будь ласка, вибер╕ть ун╕кальну комб╕нац╕ю."
+
+#: kdeui/kkeydialog.cpp:1052
+msgid "Standard key conflict"
+msgstr "Конфл╕кт стандартних клав╕ш"
+
+#: kdeui/kkeydialog.cpp:1071
+msgid ""
+"The %1 key combination has already been allocated\n"
+"to the %2 action.\n"
+"\n"
+"Please choose a unique key combination."
+msgstr ""
+"Комб╕нац╕я клавиш %1 вже асоц╕йована\n"
+"з д╕╓ю %2.\n"
+"\n"
+"Будь ласка, вибер╕ть ун╕кальну комб╕нац╕ю."
+
+#: kdeui/kkeydialog.cpp:1078
+msgid "Key conflict"
+msgstr "Конфл╕кт клавиш"
+
+#: kdeui/klineeditdlg.cpp:53 kdeui/klineeditdlg.cpp:144 kio/kopenwith.cpp:380
+msgid "C&lear"
+msgstr "О&чистити"
+
+#: kdeui/klineeditdlg.cpp:81 kdeui/klineeditdlg.cpp:125
+msgid "&Browse..."
+msgstr "&Переглянути..."
+
+#: kdeui/kmessagebox.cpp:65
+msgid "Question"
+msgstr "Запитання"
+
+#: kdeui/kpassdlg.cpp:169
+msgid "&Password:"
+msgstr "П&ароль:"
+
+#: kdeui/kpassdlg.cpp:188
+msgid "&Keep Password"
+msgstr "&Запам'ятати пароль"
+
+#: kdeui/kpassdlg.cpp:200
+msgid "&Verify:"
+msgstr "П&ерев╕рити:"
+
+#: kdeui/kpassdlg.cpp:264
+msgid "You entered two different passwords. Please try again."
+msgstr "Ви набрали р╕зн╕ парол╕. Спробуйте ще раз."
+
+#: kdeui/kstdaction.cpp:450
+msgid "Save &As..."
+msgstr "Збер╕гти &як..."
+
+#: kdeui/kstdaction.cpp:457
+msgid "Re&vert"
+msgstr "&В╕дновити"
+
+#: kdeui/kstdaction.cpp:472
+msgid "Print Previe&w..."
+msgstr "&Перегляд друку"
+
+#: kdeui/kstdaction.cpp:488
+msgid "&Mail..."
+msgstr "&Пошта..."
+
+#: kdeui/kstdaction.cpp:503
+msgid "Und&o"
+msgstr "&В╕дкат"
+
+#: kdeui/kstdaction.cpp:511
+msgid "Re&do"
+msgstr "В&╕дкат вперед"
+
+#: kdeui/kstdaction.cpp:543
+msgid "Select &All"
+msgstr "Вибрати &все"
+
+#: kdeui/kstdaction.cpp:567
+msgid "Find &Previous"
+msgstr "Знайти &попередн╕й"
+
+#: kdeui/kstdaction.cpp:583
+msgid "&Actual Size"
+msgstr "&Фактичний розм╕р"
+
+#: kdeui/kstdaction.cpp:590
+msgid "&Fit To Page"
+msgstr "Влаштувати &у стор╕нку"
+
+#: kdeui/kstdaction.cpp:597
+msgid "Fit To Page &Width"
+msgstr "Влаштувати у &ширину стор╕нки"
+
+#: kdeui/kstdaction.cpp:604
+msgid "Fit To Page &Height"
+msgstr "Влаштувати у &висоту стор╕нки"
+
+#: kdeui/kstdaction.cpp:611
+msgid "Zoom &In"
+msgstr "З&б╕льшити"
+
+#: kdeui/kstdaction.cpp:620
+msgid "Zoom &Out"
+msgstr "З&меншити"
+
+#: kdeui/kstdaction.cpp:628
+msgid "&Zoom..."
+msgstr "&Масштаб..."
+
+#: kdeui/kstdaction.cpp:636
+msgid "&Redisplay"
+msgstr "&Перерисовати"
+
+#: kdeui/kstdaction.cpp:644
+msgid "&Up"
+msgstr "&Нагору"
+
+#: kdeui/kstdaction.cpp:651
+msgid "&Back"
+msgstr "&Повернутися"
+
+#: kdeui/kstdaction.cpp:659
+msgid "&Forward"
+msgstr "В&перед"
+
+#: kdeui/kstdaction.cpp:667
+msgid "&Home"
+msgstr "&Додому"
+
+#: kdeui/kstdaction.cpp:675
+msgid "&Previous Page"
+msgstr "&Попередня стор╕нка"
+
+#: kdeui/kstdaction.cpp:683
+msgid "&Next Page"
+msgstr "&Наступна стор╕нка"
+
+#: kdeui/kstdaction.cpp:691
+msgid "&Go to..."
+msgstr "П&ерейти..."
+
+#: kdeui/kstdaction.cpp:698
+msgid "&Go to Page..."
+msgstr "Перейти до &стор╕нки..."
+
+#: kdeui/kstdaction.cpp:705
+msgid "&Go to Line..."
+msgstr "Перейти до р&ядка..."
+
+#: kdeui/kstdaction.cpp:712
+msgid "&First Page"
+msgstr "Пе&рша стор╕нка"
+
+#: kdeui/kstdaction.cpp:720
+msgid "&Last Page"
+msgstr "&Остання стор╕нка"
+
+#: kdeui/kstdaction.cpp:777
+msgid "Show St&atusbar"
+msgstr "Пок&азати панель стану"
+
+#: kdeui/kstdaction.cpp:788
+msgid "&Save Options"
+msgstr "&Збер╕гти параметри"
+
+#: kdeui/kstdaction.cpp:810
+msgid "Configure Tool&bars..."
+msgstr "Настро╖ти панел╕ &╕нструмент╕в"
+
+#: kdeui/kstdaction.cpp:833
+msgid "What's &This?"
+msgstr "&Що це"
+
+#: kdeui/ktoolbar.cpp:146
+msgid "Top"
+msgstr "Нагор╕"
+
+#: kdeui/ktoolbar.cpp:157
+msgid "Icons only"
+msgstr "Т╕льки п╕ктограми"
+
+#: kdeui/ktoolbar.cpp:159
+msgid "Text aside icons"
+msgstr "Текст поруч з п╕ктограмами"
+
+#: kdeui/ktoolbar.cpp:160
+msgid "Text under icons"
+msgstr "Текст п╕д п╕ктограмами"
+
+#: kdeui/ktoolbar.cpp:164
+msgid "Medium icons"
+msgstr "Середн╕ п╕ктограми"
+
+#: kdeui/ktoolbar.cpp:169
+msgid "Text position"
+msgstr "Позиц╕я тексту"
+
+#: kdeui/ktoolbar.cpp:171
+msgid "Icon size"
+msgstr "Розм╕р п╕ктограм"
+
+#: kdeui/ktoolbar.cpp:2150
+msgid "UnFloat"
+msgstr "Закр╕плений"
+
+#: kdeui/ktoolbar.cpp:2165
+msgid "Float"
+msgstr "Плаваючий"
+
+#: kdeui/ktoolbar.cpp:2364
+msgid "UnFlat"
+msgstr "Не плоский"
+
+#: kdeui/kxmlguibuilder.cpp:88
+msgid "No text!"
+msgstr "Без тексту!"
+
+#: kfile/kdiroperator.cpp:263
+msgid "Create new directory in: "
+msgstr "Створити новий каталог у: "
+
+#: kfile/kdiroperator.cpp:266
+msgid "New Directory"
+msgstr "Новий каталог"
+
+#: kfile/kdiroperator.cpp:319
+msgid "You don't have permissions to create that directory."
+msgstr "У Вас недостатньо прав для створення нового каталогу."
+
+#: kfile/kdiroperator.cpp:443
+msgid ""
+"The specified directory does not exist\n"
+"or was not readable."
+msgstr ""
+"Вказаний каталог не ╕сну╓\n"
+"або недостатьно прав для перегляду."
+
+#: kfile/kdiroperator.cpp:494
+msgid "The specified directory does not exist or was not readable."
+msgstr "Вказаний каталог не ╕сну╓ або недостатьно прав для перегляду."
+
+#: kfile/kdiroperator.cpp:590 kfile/kdiroperator.cpp:599
+#: kfile/kdiroperator.cpp:904
+msgid "Short View"
+msgstr "Стислий вигляд"
+
+#: kfile/kdiroperator.cpp:856
+msgid "Menu"
+msgstr "Меню"
+
+#: kfile/kdiroperator.cpp:864
+msgid "New Folder..."
+msgstr "Нова папка..."
+
+#: kfile/kdiroperator.cpp:870
+msgid "Sorting"
+msgstr "Упорядкування"
+
+#: kfile/kdiroperator.cpp:871
+msgid "By Name"
+msgstr "По ╕мен╕"
+
+#: kfile/kdiroperator.cpp:874
+msgid "By Date"
+msgstr "По дат╕"
+
+#: kfile/kdiroperator.cpp:877
+msgid "By Size"
+msgstr "По розм╕ру"
+
+#: kfile/kdiroperator.cpp:880
+msgid "Reverse"
+msgstr "У зворотньому порядку"
+
+#: kfile/kdiroperator.cpp:890
+msgid "Directories first"
+msgstr "Каталоги спочатку"
+
+#: kfile/kdiroperator.cpp:892
+msgid "Case insensitive"
+msgstr "Не чутливий до рег╕стру"
+
+#: kfile/kdiroperator.cpp:906 kfile/kfiledetailview.cpp:43
+msgid "Detailed View"
+msgstr "Детальний вигляд"
+
+#: kfile/kdiroperator.cpp:909
+msgid "Show Hidden Files"
+msgstr "Показувати файли з прапорцем \"Схований\""
+
+#: kfile/kdiroperator.cpp:911
+msgid "Separate Directories"
+msgstr "Каталоги окремо"
+
+#: kfile/kfilebookmark.cpp:248
+msgid "<!-- Do not edit this file -->"
+msgstr "<!-- Не редагуйте цей файл -->"
+
+#: kfile/kfiledetailview.cpp:48
+msgid "Permissions"
+msgstr "Права доступу"
+
+#: kfile/kfiledetailview.cpp:50
+msgid "Owner"
+msgstr "Власник"
+
+#: kfile/kfiledetailview.cpp:51
+msgid "Group"
+msgstr "Група"
+
+#: kfile/kfiledialog.cpp:149
+#, c-format
+msgid "Root Directory: %1"
+msgstr "Корневий каталог: %1"
+
+#: kfile/kfiledialog.cpp:153
+#, c-format
+msgid "Home Directory: %1"
+msgstr "Домашн╕й каталог: %1"
+
+#: kfile/kfiledialog.cpp:157
+#, c-format
+msgid "Desktop: %1"
+msgstr "Робочий ст╕л: %1"
+
+#: kfile/kfiledialog.cpp:167
+msgid "Often used directories"
+msgstr "Каталоги частого використання"
+
+#: kfile/kfiledialog.cpp:228
+msgid "Bookmarks"
+msgstr "Закладки"
+
+#: kfile/kfiledialog.cpp:232
+msgid "Configure this dialog"
+msgstr "Настро╖ти цей д╕алог"
+
+#: kfile/kfiledialog.cpp:254
+msgid "&Location:"
+msgstr "Положення:"
+
+#: kfile/kfiledialog.cpp:349
+msgid "You can only select local files."
+msgstr "Можна вибирати т╕льк╕ локальн╕ файли."
+
+#: kfile/kfiledialog.cpp:350
+msgid "Remote files not accepted"
+msgstr "Зовн╕шн╕ файли не прийнятн╕"
+
+#: kfile/kfiledialog.cpp:377
+msgid ""
+"Sorry,\n"
+"%1\n"
+"doesn't look like a valid URL\n"
+"to me."
+msgstr ""
+"Вибачте,\n"
+"%1\n"
+"не вигляда╓ як дозволений URL\n"
+"."
+
+#: kfile/kfiledialog.cpp:377
+msgid "Invalid URL"
+msgstr "Нев╕рний URL"
+
+#: kfile/kfiledialog.cpp:393
+msgid "You have to select a directory!"
+msgstr "Ви повинн╕ вибрати каталог!"
+
+#: kfile/kfiledialog.cpp:394
+msgid "Not a directory"
+msgstr "Це не каталог"
+
+#: kfile/kfiledialog.cpp:782
+msgid "Add to bookmarks"
+msgstr "Додати до закладинок"
+
+#: kfile/kfiledialog.cpp:916
+msgid "directory"
+msgstr "каталог"
+
+#: kfile/kfiledialog.cpp:918
+msgid "directories"
+msgstr "каталоги"
+
+#: kfile/kfiledialog.cpp:921
+msgid "file"
+msgstr "файл"
+
+#: kfile/kfiledialog.cpp:923
+msgid "files"
+msgstr "файли"
+
+#: kfile/kfiledialog.cpp:926
+msgid "%1 %2 and %3 %4"
+msgstr "%1 %2 та %3 %4"
+
+#: kfile/kfiledialog.cpp:930 kfile/kfiledialog.cpp:932
+msgid "%1 %2"
+msgstr "%1 %2"
+
+#: kfile/kfiledialog.cpp:1016
+msgid "Select Directory"
+msgstr "Вибер╕ть каталог"
+
+#: kfile/kfiledialog.cpp:1055
+msgid ""
+"The chosen filename(s) don't\n"
+"appear to be valid."
+msgstr ""
+"Вибране ╕м'я файлу(╕в) не\n"
+"явля╓ться дозволеним."
+
+#: kfile/kfiledialog.cpp:1055
+msgid "Invalid filename(s)"
+msgstr "Нев╕рне ╕м'я файлу(╕в)"
+
+#: kfile/kfiledialogconf.cpp:53
+msgid "Configure file selector"
+msgstr "Настро╖ти д╕алог в╕бору файл╕в"
+
+#: kfile/kfiledialogconf.cpp:56
+msgid "Look and Feel"
+msgstr "Вигляд та повед╕нка"
+
+#: kfile/kfiledialogconf.cpp:83
+msgid ""
+"<h3>KDE File Selector</h3><hr><br>Richard Moore <A "
+"HREF=\"mailto:rich@kde.org\">rich@kde.org</A><br>Stephan Kulow <A "
+"HREF=\"mailto:coolo@kde.org\">coolo@kde.org</A><br>Daniel Grana <A "
+"HREF=\"mailto:grana@ie.iwi.unibe.ch\">grana@ie.iwi.unibe.ch</A><br>Carsten "
+"Pfeiffer <A "
+"HREF=\"mailto:pfeiffer@kde.org\">pfeiffer@kde.org</A><br><br><br>with "
+"contributions by<br><br>Mario Weilguni <A "
+"HREF=\"mailto:mweilguni@sime.com\">mweilguni@sime.com</A><br>Martin Jones <A "
+"HREF=\"mailto:mjones@kde.org\">mjones@kde.org</A> and<br>Espen Sand <A "
+"HREF=\"mailto:espen@kde.org\">espen@kde.org</A> and<br>Olaf Kirch <A "
+"HREF=\"mailto:okir@caldera.de\">okir@caldera.de</A>"
+msgstr ""
+"<h3>Виб╕р файл╕в KDE</h3><hr><br>Richard Moore <A "
+"HREF=\"mailto:rich@kde.org\">rich@kde.org</A><br>Stephan Kulow <A "
+"HREF=\"mailto:coolo@kde.org\">coolo@kde.org</A><br>Daniel Grana <A "
+"HREF=\"mailto:grana@ie.iwi.unibe.ch\">grana@ie.iwi.unibe.ch</A><br>Carsten "
+"Pfeiffer <A "
+"HREF=\"mailto:pfeiffer@kde.org\">pfeiffer@kde.org</A><br><br><br>with "
+"також за участю <br><br>Mario Weilguni <A "
+"HREF=\"mailto:mweilguni@sime.com\">mweilguni@sime.com</A><br>Martin Jones <A "
+"HREF=\"mailto:mjones@kde.org\">mjones@kde.org</A> and<br>Espen Sand <A "
+"HREF=\"mailto:espen@kde.org\">espen@kde.org</A> and<br>Olaf Kirch <A "
+"HREF=\"mailto:okir@caldera.de\">okir@caldera.de</A>"
+
+#: kfile/kfiledialogconf.cpp:125
+msgid "Miscellaneous options"
+msgstr "Додатков╕ параметри"
+
+#: kfile/kfiledialogconf.cpp:132
+msgid "Show Status Line"
+msgstr "Показати смужку статусу"
+
+#: kfile/kfilefilter.cpp:50
+msgid "*|All Files"
+msgstr "*|Вс╕ файли"
+
+#: kfile/kfileiconview.cpp:46
+msgid "Icon View"
+msgstr "Вигляд з п╕ктограмами"
+
+#: kfile/kfilepreview.cpp:35
+msgid "Sorry, no preview available."
+msgstr "Вибачте, перегляд недоступний"
+
+#: kfile/kfilepreview.cpp:43
+msgid "Preview"
+msgstr "Перегляд"
+
+#: kfile/kfileview.cpp:56
+msgid "Unknown View"
+msgstr "Нев╕домий вигляд"
+
+#: kfile/kfileviewitem.cpp:331
+msgid "Jan"
+msgstr "С╕ч"
+
+#: kfile/kfileviewitem.cpp:332
+msgid "Feb"
+msgstr "Лют"
+
+#: kfile/kfileviewitem.cpp:333
+msgid "Mar"
+msgstr "Бер"
+
+#: kfile/kfileviewitem.cpp:334
+msgid "Apr"
+msgstr "Кв╕"
+
+#: kfile/kfileviewitem.cpp:336
+msgid "Jun"
+msgstr "Чер"
+
+#: kfile/kfileviewitem.cpp:337
+msgid "Jul"
+msgstr "Лип"
+
+#: kfile/kfileviewitem.cpp:338
+msgid "Aug"
+msgstr "Сер"
+
+#: kfile/kfileviewitem.cpp:339
+msgid "Sep"
+msgstr "Вер"
+
+#: kfile/kfileviewitem.cpp:340
+msgid "Oct"
+msgstr "Жов"
+
+#: kfile/kfileviewitem.cpp:341
+msgid "Nov"
+msgstr "Лис"
+
+#: kfile/kfileviewitem.cpp:342
+msgid "Dec"
+msgstr "Гру"
+
+#: kfile/kfileviewitem.cpp:531 kfile/kfileviewitem.cpp:545
+#: kio/renamedlg.cpp:120 kio/renamedlg.cpp:121 kio/renamedlg.cpp:122
+#: kio/renamedlg.cpp:129 kio/renamedlg.cpp:130 kio/renamedlg.cpp:131
+msgid "unknown"
+msgstr "нев╕домий"
+
+#: khtml/khtml_factory.cpp:64
+msgid "KHTML"
+msgstr "KHTML"
+
+#: khtml/khtml_factory.cpp:65
+msgid "Embeddable HTML component"
+msgstr "Вмонтований HTML компонент"
+
+#: khtml/khtml_part.cpp:184
+msgid "View Document Source"
+msgstr "Переглянути вих╕дний текст документу"
+
+#: khtml/khtml_part.cpp:185
+msgid "View Frame Source"
+msgstr "Переглянути вих╕дний текст рамки"
+
+#: khtml/khtml_part.cpp:186
+msgid "Save &Background Image As.."
+msgstr "Збер╕гти зображення тла як..."
+
+#: khtml/khtml_part.cpp:187
+msgid "&Save As.."
+msgstr "&Збер╕гти як..."
+
+#: khtml/khtml_part.cpp:188
+msgid "Save &Frame As.."
+msgstr "Зреб╕гти &рамку як..."
+
+#: khtml/khtml_part.cpp:482
+msgid "* Unknown *"
+msgstr "* Нев╕домий *"
+
+#: khtml/khtml_part.cpp:826
+msgid "Symbolic Link"
+msgstr "Символичне посилання"
+
+#: khtml/khtml_part.cpp:828
+msgid "%1 (Link)"
+msgstr "%1 (Посилання)"
+
+#: khtml/khtml_part.cpp:848
+msgid "bytes"
+msgstr "байт"
+
+#: khtml/khtml_part.cpp:890
+msgid ""
+"This page is untrusted\n"
+"but it contains a link to your local file system."
+msgstr ""
+"Ця стор╕нка не ма╓ дов╕ри\n"
+"але м╕стить link до вашо╖ локально╖ системи."
+
+#: khtml/khtml_part.cpp:891
+msgid "Security Alert"
+msgstr "Тривога небезпеки"
+
+#: khtml/khtml_part.cpp:936
+msgid "Save background image as"
+msgstr "Збер╕гти зображення фону як"
+
+#: khtml/khtml_part.cpp:961
+msgid "HTML files|* *.html *.htm"
+msgstr "файли HTML|* *.html *.htm"
+
+#: kimgio/kimgio.cpp:103
+msgid ""
+"*.gif *GIF *.bmp *.BMP *.xbm *.XBM *.xpm *.XPM *.pnm *.PNM *.PBM *.PGM *.PPM "
+"*.PBMRAW *.PGMRAW *.PPMRAW *.jpg *.JPG *.jpeg *.JPEG *.pbm *.pgm *.ppm "
+"*.pbmdraw *.pgmdraw *.ppmdraw *.png *.PNG *.TIF *.tif *.tiff *.TIFF |All "
+"pictures\n"
+"*.png *.PNG|PNG-Pictures\n"
+"*.gif *.GIF|GIF-Pictures\n"
+"*.jpg *.JPG *.jpeg *.JPEG|JPEG-Pictures\n"
+"*.bmp *.BMP|Windows Bitmaps\n"
+"*.xbm *.XBM|XWindow Pitmaps\n"
+"*.xpm *.XPM|Pixmaps\n"
+"*.pnm *.PNM *.PBM *.PGM *.PPM *.PBMRAW *.PGMRAW *.PPMRAW *.pbm *.pgm *.ppm "
+"*.pbmdraw *.pgmdraw *.ppmdraw|PNM-Pictures\n"
+"*.TIF *.tif *.TIFF *.tiff|TIF-Pictures"
+msgstr ""
+"*.gif *GIF *.bmp *.BMP *.xbm *.XBM *.xpm *.XPM *.pnm *.PNM *.PBM *.PGM *.PPM "
+"*.PBMRAW *.PGMRAW *.PPMRAW *.jpg *.JPG *.jpeg *.JPEG *.pbm *.pgm *.ppm "
+"*.pbmdraw *.pgmdraw *.ppmdraw *.png *.PNG *.TIF *.tif *.tiff *.TIFF |Вс╕ "
+"зображення\n"
+"*.png *.PNG|PNG-зображення\n"
+"*.gif *.GIF|GIF-зображення\n"
+"*.jpg *.JPG *.jpeg *.JPEG|JPEG-зображення\n"
+"*.bmp *.BMP|Windows Bitmaps\n"
+"*.xbm *.XBM|XWindow Pitmaps\n"
+"*.xpm *.XPM|Pixmaps\n"
+"*.pnm *.PNM *.PBM *.PGM *.PPM *.PBMRAW *.PGMRAW *.PPMRAW *.pbm *.pgm *.ppm "
+"*.pbmdraw *.pgmdraw *.ppmdraw|PNM-зображення\n"
+"*.TIF *.tif *.TIFF *.tiff|TIF-зображення"
+
+#: kio/defaultprogress.cpp:27
+msgid "Source:"
+msgstr "Джерело:"
+
+#: kio/defaultprogress.cpp:32
+msgid "Destination:"
+msgstr "Призначення:"
+
+#: kio/defaultprogress.cpp:91
+msgid "%1% of %2 "
+msgstr "%1% з %2 "
+
+#: kio/defaultprogress.cpp:95
+msgid " (Copying)"
+msgstr " (Коп╕ювання)"
+
+#: kio/defaultprogress.cpp:98
+msgid " (Moving)"
+msgstr " (Перем╕щення)"
+
+#: kio/defaultprogress.cpp:101
+msgid " (Deleting)"
+msgstr " (Видалення)"
+
+#: kio/defaultprogress.cpp:104
+msgid " (Creating)"
+msgstr " (Створення)"
+
+#: kio/defaultprogress.cpp:115
+msgid "%1 of %2 "
+msgstr "%1 ╕з %2 "
+
+#: kio/defaultprogress.cpp:125 kio/defaultprogress.cpp:137
+msgid "%1 / %2 directories  "
+msgstr "%1 / %2 каталог╕в  "
+
+#: kio/defaultprogress.cpp:126 kio/defaultprogress.cpp:139
+msgid "%1 / %2 files"
+msgstr "%1 / %2 файл╕в"
+
+#: kio/defaultprogress.cpp:147 kio/listprogressdlg.cpp:148
+msgid "Stalled"
+msgstr "Призупинений"
+
+#: kio/defaultprogress.cpp:149 kio/listprogressdlg.cpp:151
+msgid "%1/s"
+msgstr "%1/с"
+
+#: kio/defaultprogress.cpp:157
+msgid "Copy file(s) progress"
+msgstr "Статус коп╕ювання файлу(╕в)"
+
+#: kio/defaultprogress.cpp:167
+msgid "Move file(s) progress"
+msgstr "Статус пересування файлу(╕в)"
+
+#: kio/defaultprogress.cpp:176
+msgid "Creating directory"
+msgstr "Створюю каталог"
+
+#: kio/defaultprogress.cpp:184
+msgid "Delete file(s) progress"
+msgstr "Статус видалення файлу(╕в)"
+
+#: kio/defaultprogress.cpp:193
+msgid "Resumable"
+msgstr "Можна в╕дновити"
+
+#: kio/defaultprogress.cpp:195
+msgid "Not resumable"
+msgstr "Не можна в╕дновити"
+
+#: kio/global.cpp:40
+msgid "%1 TB"
+msgstr "%1 ТБ"
+
+#: kio/global.cpp:42
+msgid "%1 GB"
+msgstr "%1 ГБ"
+
+#: kio/global.cpp:48
+msgid "%1 MB"
+msgstr "%1 МБ"
+
+#: kio/global.cpp:54
+msgid "%1 KB"
+msgstr "%1 КБ"
+
+#: kio/global.cpp:60
+msgid "%1 B"
+msgstr "%1 Б"
+
+#: kio/global.cpp:105
+#, c-format
+msgid ""
+"Could not read\n"
+"%1"
+msgstr ""
+"Неможливо прочитати\n"
+"%1"
+
+#: kio/global.cpp:108 kio/job.cpp:696
+#, c-format
+msgid ""
+"Could not write to\n"
+"%1"
+msgstr ""
+"Помилка запису в\n"
+"%1"
+
+#: kio/global.cpp:111
+#, c-format
+msgid ""
+"Could not start process\n"
+"%1"
+msgstr ""
+"Не можу запустити процес\n"
+"%1"
+
+#: kio/global.cpp:114
+#, c-format
+msgid ""
+"Internal Error\n"
+"Please send a full bugreport at http://bugs.kde.org\n"
+"\n"
+"%1"
+msgstr ""
+"Внутр╕шня помилка\n"
+"Будь ласка над╕шл╕ть зв╕т про помилку у http://bugs.kde.org\n" "\n"
+"%1"
+
+#: kio/global.cpp:117 kio/job.cpp:609 kio/job.cpp:624 kio/paste.cpp:35
+#: kio/renamedlg.cpp:210
+#, c-format
+msgid ""
+"Malformed URL\n"
+"%1"
+msgstr ""
+"Помилка URL\n"
+"%1"
+
+#: kio/global.cpp:120
+msgid ""
+"The protocol %1\n"
+" is not supported"
+msgstr ""
+"Протокол %1\n"
+" не п╕дтр╕му╓ться"
+
+#: kio/global.cpp:123
+msgid ""
+"The protocol %1\n"
+"is only a filter protocol.\n"
+msgstr ""
+"Протокол %1\n"
+"- т╕льки ф╕льтруюч╕й.\n"
+
+#: kio/global.cpp:126
+#, c-format
+msgid ""
+"Unsupported action\n"
+"%1"
+msgstr ""
+"Д╕я %1\n"
+"не п╕дтриму╓ться"
+
+#: kio/global.cpp:129
+msgid ""
+"%1\n"
+" is a directory,\n"
+"but a file was expected"
+msgstr ""
+"%1\n"
+" - каталог,\n"
+"проте оч╕кувався файл"
+
+#: kio/global.cpp:132
+msgid ""
+"%1\n"
+" is a file,\n"
+"but a directory was expected"
+msgstr ""
+"%1\n"
+" - файл,\n"
+"проте оч╕кувався каталог"
+
+#: kio/global.cpp:135 kio/krun.cpp:378
+msgid ""
+"The file or directory\n"
+"%1\n"
+"does not exist"
+msgstr ""
+"Файл або каталог\n"
+"%1\n"
+"не ╕сну╓"
+
+#: kio/global.cpp:138
+msgid ""
+"File named\n"
+"%1\n"
+"does already exist"
+msgstr ""
+"Файл\n"
+"%1\n"
+"вже ╕сну╓"
+
+#: kio/global.cpp:141
+msgid ""
+"A directory named\n"
+"%1\n"
+"does already exist"
+msgstr ""
+"Каталог\n"
+"%1\n"
+"вже ╕сну╓"
+
+#: kio/global.cpp:144
+#, c-format
+msgid ""
+"Unknown host\n"
+"%1"
+msgstr ""
+"Нев╕домий хост\n"
+"%1"
+
+#: kio/global.cpp:147
+#, c-format
+msgid ""
+"Access denied to\n"
+"%1"
+msgstr ""
+"Доступ до %1\n"
+"заборонено"
+
+#: kio/global.cpp:150
+#, c-format
+msgid ""
+"Access denied\n"
+"Could not write to\n"
+"%1"
+msgstr ""
+"Доступ до заборонено\n"
+"не можу записати у %1"
+
+#: kio/global.cpp:153
+#, c-format
+msgid ""
+"Could not enter directory\n"
+"%1"
+msgstr ""
+"Не можу ув╕йти у каталог\n"
+"%1"
+
+#: kio/global.cpp:156
+msgid ""
+"The protocol %1\n"
+"does not implement a directory service"
+msgstr ""
+"Протокол %1\n"
+"не забезпечу╓ серв╕с каталог╕в"
+
+#: kio/global.cpp:159
+#, c-format
+msgid ""
+"Found a cyclic link in\n"
+"%1"
+msgstr ""
+"Знайдено цикл╕чне посилання в\n"
+"%1"
+
+#: kio/global.cpp:165
+#, c-format
+msgid ""
+"Found a cyclic link while copying\n"
+"%1"
+msgstr ""
+"Знайдено цикл╕чне посилання при коп╕юванн╕\n"
+"%1"
+
+#: kio/global.cpp:168
+#, c-format
+msgid ""
+"Could not create socket for accessing\n"
+"%1"
+msgstr ""
+"Не можу створити сокет для доступу до\n"
+"%1"
+
+#: kio/global.cpp:171
+#, c-format
+msgid ""
+"Could not connect to host\n"
+"%1"
+msgstr ""
+"Не можу пр╕╓днат╕ся до машини\n"
+"%1"
+
+#: kio/global.cpp:174
+msgid ""
+"Connection to host\n"
+"%1\n"
+"is broken"
+msgstr ""
+"Зв'язок з машиною\n"
+"%1\n"
+"загублено"
+
+#: kio/global.cpp:177
+msgid ""
+"The protocol %1\n"
+"is not a filter protocol"
+msgstr ""
+"Протокол %1\n"
+"не ╓ ф╕льтровим"
+
+#: kio/global.cpp:180
+#, c-format
+msgid ""
+"Could not mount device.\n"
+"The reported error was:\n"
+"\n"
+"%1"
+msgstr ""
+"Не можливо змонтувати пристр╕й.\n"
+"Помилка:\n"
+"\n"
+"%1"
+
+#: kio/global.cpp:183
+#, c-format
+msgid ""
+"Could not unmount device.\n"
+"The reported error was:\n"
+"\n"
+"%1"
+msgstr ""
+"Не можливо розмонтувати пристр╕й.\n"
+"Помилка:\n"
+"\n"
+"%1"
+
+#: kio/global.cpp:186
+#, c-format
+msgid ""
+"Could not read file\n"
+"%1"
+msgstr ""
+"Не можливо прочитати файл\n"
+"%1"
+
+#: kio/global.cpp:189
+#, c-format
+msgid ""
+"Could not write to file\n"
+"%1"
+msgstr ""
+"Не можливо записати у файл\n"
+"%1"
+
+#: kio/global.cpp:192
+#, c-format
+msgid ""
+"Could not bind\n"
+"%1"
+msgstr ""
+"Не можу прив`язати\n"
+"%1"
+
+#: kio/global.cpp:195
+#, c-format
+msgid ""
+"Could not listen\n"
+"%1"
+msgstr ""
+"Не можу прослухати\n"
+"%1"
+
+#: kio/global.cpp:198
+#, c-format
+msgid ""
+"Could not accept\n"
+"%1"
+msgstr ""
+"Не можу прийняти\n"
+"%1"
+
+#: kio/global.cpp:201
+#, c-format
+msgid "Could not login into %1"
+msgstr "Не можу заре╓струватися в %1"
+
+#: kio/global.cpp:204
+#, c-format
+msgid ""
+"Could not access\n"
+"%1"
+msgstr ""
+"Не можу д╕статися\n"
+"%1"
+
+#: kio/global.cpp:207
+#, c-format
+msgid ""
+"Could not terminate listing\n"
+"%1"
+msgstr ""
+"Не вдалося завершити список (listing)\n"
+"%1"
+
+#: kio/global.cpp:210
+#, c-format
+msgid ""
+"Could not make directory\n"
+"%1"
+msgstr ""
+"Не можу створити каталог\n"
+"%1"
+
+#: kio/global.cpp:213
+#, c-format
+msgid ""
+"Could not remove directory\n"
+"%1"
+msgstr ""
+"Не можу видалити каталог\n"
+"%1"
+
+#: kio/global.cpp:216
+#, c-format
+msgid "Could not resume file %1"
+msgstr "Не можу в╕дновити файл %1"
+
+#: kio/global.cpp:219
+#, c-format
+msgid "Could not rename file %1"
+msgstr "Не можу пере╕менувати файл %1"
+
+#: kio/global.cpp:222
+#, c-format
+msgid ""
+"Could not change permissions for\n"
+"%1"
+msgstr ""
+"Не можу зм╕нити права доступу до\n"
+"%1"
+
+#: kio/global.cpp:225
+#, c-format
+msgid "Could not delete file %1"
+msgstr "Не можу видтерти файл %1"
+
+#: kio/global.cpp:228
+msgid ""
+"The process for the\n"
+"%1 protocol\n"
+"died unexpectedly"
+msgstr ""
+"Процес щодо\n"
+"протоколу %1\n"
+"неспод╕ванно завершився"
+
+#: kio/global.cpp:231
+#, c-format
+msgid ""
+"Error. Out of Memory.\n"
+"%1"
+msgstr ""
+"Помилка. Недостатньо оперативно╖ пам'ят╕.\n"
+"%1"
+
+#: kio/global.cpp:234
+#, c-format
+msgid ""
+"Unknown proxy host\n"
+"%1"
+msgstr ""
+"Нев╕дома машина-proxy\n"
+"%1"
+
+#: kio/global.cpp:237
+msgid "Authorization failed, %1 authentication not supported"
+msgstr "Авторизац╕я завершена невдало, аутентиф╕кац╕я %1 не п╕дриму╓ться"
+
+#: kio/global.cpp:240
+#, c-format
+msgid ""
+"User canceled action\n"
+"%1"
+msgstr ""
+"Користувач скасував д╕ю\n"
+"%1"
+
+#: kio/global.cpp:243
+#, c-format
+msgid ""
+"Internal error in server\n"
+"%1"
+msgstr ""
+"Внутр╕шня помилка сервера\n"
+"%1"
+
+#: kio/global.cpp:246
+#, c-format
+msgid ""
+"Timeout on server\n"
+"%1"
+msgstr ""
+"Таймаут на сервер╕\n"
+"%1"
+
+#: kio/global.cpp:249
+#, c-format
+msgid ""
+"Unknown error\n"
+"%1"
+msgstr ""
+"Нев╕дома помилка\n"
+"%1"
+
+#: kio/global.cpp:252
+#, c-format
+msgid ""
+"Unknown interrupt\n"
+"%1"
+msgstr ""
+"Нев╕доме преривання\n"
+"%1"
+
+#: kio/global.cpp:263
+msgid ""
+"Could not delete original file %1.\n"
+"Please check permissions."
+msgstr ""
+"Не можу видалити перв╕сний файл %1.\n"
+"Будь ласка, перев╕рте права доступу."
+
+#: kio/global.cpp:266
+msgid ""
+"Could not rename partial file %1.\n"
+"Please check permissions."
+msgstr ""
+"Не можу пере╕менувати частковий файл %1.\n"
+"Будь ласка, перев╕рте права доступу."
+
+#: kio/global.cpp:269
+msgid ""
+"Could not rename original file %1.\n"
+"Please check permissions."
+msgstr ""
+"Не можу пере╕менувати перв╕сний файл %1.\n"
+"Будь ласка, перев╕рте права доступу."
+
+#: kio/global.cpp:272
+msgid ""
+"Could not rename partial file %1.\n"
+"Please check permissions."
+msgstr ""
+"Не можу пере╕менувати частковий файл %1.\n"
+"Будь ласка, перев╕рте права доступу."
+
+#: kio/global.cpp:275
+msgid ""
+"Unknown error code %1\n"
+"%2\n"
+"\n"
+"Please send a full bugreport at http://bugs.kde.org"
+msgstr ""
+"Нев╕домий код помилки %1\n"
+"%2\n"
+"\n"
+"Будь ласка, вишл╕ть повний зв╕т про помилку до http://bugs.kde.org"
+
+#: kio/job.cpp:615
+msgid "Can only make links on local file system"
+msgstr "Посилання (links) дозволен╕ т╕льки на локальн╕й файлов╕й систем╕"
+
+#: kio/job.cpp:647
+#, c-format
+msgid ""
+"Could not overwrite\n"
+"%1"
+msgstr ""
+"Не можу перезаписати\n"
+"%1"
+
+#: kio/job.cpp:655
+#, c-format
+msgid ""
+"Destination exists (real dialog box not implemented yet)\n"
+"%1"
+msgstr ""
+"М╕сце призначеня ╕сну╓ (фактичне в╕кно д╕алогу ще не реал╕зоване)\n"
+"%1"
+
+#: kio/job.cpp:662
+msgid ""
+"Failed to make symlink from \n"
+"%1\n"
+"to\n"
+"%2\n"
+msgstr ""
+"Не вдалося створити символ╕чне посилання (symlink) ╕з \n"
+"%1\n"
+"до\n"
+"%2\n"
+
+#: kio/job.cpp:1093
+msgid "Directory already exists"
+msgstr "Каталог вже ╕сну╓"
+
+#: kio/job.cpp:1284
+msgid "File already exists"
+msgstr "Файл вже ╕сну╓"
+
+#: kio/job.cpp:1284
+msgid "Already exists as a directory"
+msgstr "Вже ╕сну╓ як каталог"
+
+#: kio/kmimetype.cpp:87
+msgid "No mime types installed!"
+msgstr "Не встановлен╕ типи mime!"
+
+#: kio/kmimetype.cpp:113
+#, c-format
+msgid ""
+"Could not find mime type\n"
+"%1"
+msgstr ""
+"Не можу знайти тип mime\n"
+"%1"
+
+#: kio/kmimetype.cpp:497
+msgid ""
+"The desktop entry file\n"
+"%1\n"
+"has no Type=... entry"
+msgstr ""
+"Файл елемент╕в робочого столу\n"
+"%1\n"
+"не ма╓ елементу Type=..."
+
+#: kio/kmimetype.cpp:515
+msgid ""
+"The desktop entry of type\n"
+"%1\n"
+"is unknown"
+msgstr ""
+"Файл елемент╕в робочого столу\n"
+"%1\n"
+"нев╕домий"
+
+#: kio/kmimetype.cpp:528 kio/kmimetype.cpp:622 kio/kmimetype.cpp:732
+msgid ""
+"The desktop entry file\n"
+"%1\n"
+"is of type FSDevice but has no Dev=... entry"
+msgstr ""
+"Файл елемент╕в робочого столу\n"
+"%1\n"
+"належить до типу FSDevice, але не ма╓ елементу Dev=..."
+
+#: kio/kmimetype.cpp:586
+msgid ""
+"The desktop entry file\n"
+"%1\n"
+"is of type Link but has no URL=... entry"
+msgstr ""
+"Файл елемент╕в робочого столу\n"
+"%1\n"
+"належить до типу Link, але не ма╓ елементу URL=..."
+
+#: kio/kmimetype.cpp:632
+msgid "Mount"
+msgstr "Змонтувати"
+
+#: kio/kmimetype.cpp:639
+msgid "Unmount"
+msgstr "Розмонтувати"
+
+#: kio/kmimetype.cpp:701
+msgid ""
+"The desktop entry file\n"
+"%1\n"
+" has an invalid menu entry\n"
+"%2"
+msgstr ""
+"Файл елемент╕в робочого столу\n"
+"%1\n"
+" ма╓ нев╕рний елемент меню\n"
+"%2"
+
+#: kio/kopenwith.cpp:121
+msgid "Known Applications"
+msgstr "В╕дом╕ програми"
+
+#: kio/kopenwith.cpp:362
+msgid "Run in terminal"
+msgstr "Запустити у терм╕нал╕"
+
+#: kio/kopenwith.cpp:372
+msgid "Remember application association for this file"
+msgstr "Зберегти ассоц╕ац╕ю програми для цього файлу"
+
+#: kio/krun.cpp:43
+msgid ""
+"Can not enter\n"
+"%1\n"
+"Access denied"
+msgstr ""
+"Не можу ув╕йти до\n"
+"%1\n"
+"Доступ заборонений"
+
+#: kio/krun.cpp:65
+msgid "Open With:"
+msgstr "В╕дкрити за допомогою:"
+
+#: kio/listprogressdlg.cpp:88 kio/listprogressdlg.cpp:168
+msgid "Copying"
+msgstr "Коп╕ювання"
+
+#: kio/listprogressdlg.cpp:92
+msgid "Moving"
+msgstr "Пересування"
+
+#: kio/listprogressdlg.cpp:95 kio/listprogressdlg.cpp:194
+msgid "Deleting"
+msgstr "В╕далення"
+
+#: kio/listprogressdlg.cpp:98
+msgid "Getting"
+msgstr "Отримання"
+
+#: kio/listprogressdlg.cpp:101
+msgid "Mounting"
+msgstr "Монтування"
+
+#: kio/listprogressdlg.cpp:104
+msgid "Umnounting"
+msgstr "Розмонтовування"
+
+#: kio/listprogressdlg.cpp:107
+msgid "New dir"
+msgstr "Новий каталог"
+
+#: kio/listprogressdlg.cpp:132
+msgid "%1 % of %2 "
+msgstr "%1 % з %2 "
+
+#: kio/listprogressdlg.cpp:161
+msgid "Scanning"
+msgstr "Сканування"
+
+#: kio/listprogressdlg.cpp:180
+msgid "Creating"
+msgstr "Утворення"
+
+#: kio/listprogressdlg.cpp:187
+msgid "Fetching"
+msgstr "Виб╕рка"
+
+#: kio/listprogressdlg.cpp:235
+msgid "Operation"
+msgstr "Функц╕онування"
+
+#: kio/listprogressdlg.cpp:236
+msgid "Local Filename"
+msgstr "Локальне ╕м'я  файлу"
+
+#: kio/listprogressdlg.cpp:237
+msgid "Res."
+msgstr ""
+
+#: kio/listprogressdlg.cpp:238
+msgid "Count"
+msgstr "П╕драхунок"
+
+#: kio/listprogressdlg.cpp:239
+#, c-format
+msgid "%"
+msgstr "%"
+
+#: kio/listprogressdlg.cpp:240
+msgid "Total"
+msgstr "Усього"
+
+#: kio/listprogressdlg.cpp:241
+msgid "Speed"
+msgstr "Швидк╕сть"
+
+#: kio/listprogressdlg.cpp:242
+msgid "Rem. Time"
+msgstr "Зал. часу"
+
+#: kio/listprogressdlg.cpp:243
+msgid "Address( URL )"
+msgstr "Адреса( URL )"
+
+#: kio/listprogressdlg.cpp:298 kio/listprogressdlg.cpp:381
+msgid " Files : %1 "
+msgstr "Файли : %1 "
+
+#: kio/listprogressdlg.cpp:299
+msgid " Size : %1 kB "
+msgstr "Розм╕р : %1 кБ "
+
+#: kio/listprogressdlg.cpp:300
+msgid " Time : 00:00:00 "
+msgstr " Час : 00:00:00 "
+
+#: kio/listprogressdlg.cpp:301
+msgid " %1 kB/s "
+msgstr " %1 кБ/с "
+
+#: kio/listprogressdlg.cpp:382
+msgid " Size : %1 "
+msgstr " Розм╕р : %1 "
+
+#: kio/listprogressdlg.cpp:384
+msgid " Time : %1 "
+msgstr " Час : %1 "
+
+#: kio/listprogressdlg.cpp:385 kio/statusbarprogress.cpp:107
+msgid " %1/s "
+msgstr " %1/с "
+
+#: kio/passdlg.cpp:35
+msgid "User"
+msgstr "Користувач"
+
+#: kio/passdlg.cpp:46 kio/passdlg.cpp:90
+msgid "Password"
+msgstr "Пароль"
+
+#: kio/paste.cpp:45 kio/paste.cpp:65
+msgid "The clipboard is empty"
+msgstr "Буфер обм╕ну порожн╕й"
+
+#: kio/paste.cpp:74
+msgid "Filename for clipboard content:"
+msgstr "╤м'я файлу для зм╕сту буферу обм╕ну:"
+
+#: kio/paste.cpp:79
+msgid "You did not enter a filename"
+msgstr "Ви не ввели ╕м'я файлу"
+
+#: kio/renamedlg.cpp:62
+msgid "Rename"
+msgstr "Перейменувати"
+
+#: kio/renamedlg.cpp:67 kio/skipdlg.cpp:33
+msgid "Skip"
+msgstr "Пропустити"
+
+#: kio/renamedlg.cpp:70 kio/skipdlg.cpp:38
+msgid "Auto Skip"
+msgstr "Автоматично пропускати"
+
+#: kio/renamedlg.cpp:75
+msgid "Overwrite"
+msgstr "Перезаписати"
+
+#: kio/renamedlg.cpp:79
+msgid "Overwrite All"
+msgstr "Перезаписувати вс╕"
+
+#: kio/renamedlg.cpp:85
+msgid "Resume"
+msgstr "Повернути"
+
+#: kio/renamedlg.cpp:90
+msgid "Resume All"
+msgstr "Повернути вс╕"
+
+#: kio/renamedlg.cpp:103
+msgid ""
+"This action would overwrite %1 with itself.\n"
+"Do you want to rename it instead?"
+msgstr ""
+"%1 буде перезаписаний самим собою.\n"
+"Хочете натом╕сть перейменувати?"
+
+#: kio/renamedlg.cpp:110
+msgid ""
+"An older item named %1 already exists\n"
+"    size %2\n"
+"    created on %3\n"
+"    modified on %4\n"
+msgstr ""
+"Вже ╕сну╓ стар╕ший вар╕ант на ╕м'я %1\n"
+"    розм╕р %2\n"
+"    утворен╕й %3\n"
+"    зм╕нений %4\n"
+
+#: kio/renamedlg.cpp:113
+msgid ""
+"A newer item named %1 already exists\n"
+"    size %2\n"
+"    created on %3\n"
+"    modified on %4\n"
+msgstr ""
+"Вже ╕сну╓ нов╕ший вар╕ант на ╕м'я %1\n"
+"    розм╕р %2\n"
+"    утворен╕й %3\n"
+"    зм╕нений %4\n"
+
+#: kio/renamedlg.cpp:124
+msgid ""
+"The original file is %1\n"
+"    size %2\n"
+"    created on %3\n"
+"    modified on %4\n"
+msgstr ""
+"Вих╕дний файл %1\n"
+"    розм╕р %2\n"
+"    утворен╕й %3\n"
+"    зм╕нений %4\n"
+
+#: kio/renamedlg.cpp:139
+msgid "An older item than %1 already exists.\n"
+msgstr "Вже ╕сну╓ стар╕ший вар╕ант н╕ж %1.\n"
+
+#: kio/renamedlg.cpp:141
+msgid "A newer item than %1 already exists.\n"
+msgstr "Вже ╕сну╓ нов╕ший вар╕ант н╕ж %1\n"
+
+#: kio/renamedlg.cpp:143
+msgid "Do you want to use another file name?"
+msgstr "Бажа╓те зм╕нити ╕м'я файлу?"
+
+#: kio/renamedlg.cpp:216
+msgid "You must not change the protocol"
+msgstr "Не сл╕д зм╕нювати протокол"
+
+#: kio/slave.cpp:182
+msgid "Can't launch kioslave: '%1'"
+msgstr "Не можу запустити kioslave: '%1'"
+
+#: kio/slave.cpp:189
+msgid "Error launching kioslave: got '%1' but expected 'kioslave'"
+msgstr "Помилка запуску kioslave: отримано '%1', але оч╕кувалося 'kioslave'"
+
+#: kio/slave.cpp:210
+msgid "can't talk to klauncher"
+msgstr "не можу зв'язатися з klauncher"
+
+#: kio/slave.cpp:221
+#, c-format
+msgid ""
+"Unable to create io-slave:\n"
+"%1"
+msgstr ""
+"Не можу створити io-slave:\n"
+"%1"
+
+#: kio/statusbarprogress.cpp:24
+msgid "Cancel job"
+msgstr "Скасувати задачу"
+
+#: kio/statusbarprogress.cpp:105
+msgid " Stalled "
+msgstr " Застряг :-( "
+
+#: kparts/part.cpp:365
+msgid ""
+"The document has been modified\n"
+"Do you want to save it ?"
+msgstr ""
+"Документ було зм╕нено\n"
+"Хочете збер╕гти зм╕ни ?"
+
+#: kspell/ksconfig.cpp:56
+msgid "Create root/affix combinations not in dictionary"
+msgstr "Утворити кор╕нь/суфф╕кс комб╕нац╕╖ не присутн╕ у словнику"
+
+#: kspell/ksconfig.cpp:61
+msgid "Consider run-together words as spelling errors"
+msgstr "Рахувати сполучен╕ слова як орфограф╕чн╕ помилки"
+
+#: kspell/ksconfig.cpp:72
+msgid "Dictionary:"
+msgstr "Словник:"
+
+#: kspell/ksconfig.cpp:76
+msgid "7-Bit/ASCII"
+msgstr "7-б╕т/ASCII"
+
+#: kspell/ksconfig.cpp:77
+msgid "Latin1"
+msgstr "Latin1"
+
+#: kspell/ksconfig.cpp:78
+msgid "Latin2"
+msgstr "Latin2"
+
+#: kspell/ksconfig.cpp:83
+msgid "Encoding:"
+msgstr "Кодування:"
+
+#: kspell/ksconfig.cpp:88
+msgid "International Ispell"
+msgstr "М╕жнародний Ispell"
+
+#: kspell/ksconfig.cpp:89
+msgid "Aspell"
+msgstr "Aspell"
+
+#: kspell/ksconfig.cpp:94
+msgid "Client:"
+msgstr "Кл╕╓нт:"
+
+#: kspell/ksconfig.cpp:312
+msgid "English"
+msgstr "Англ╕йська"
+
+#: kspell/ksconfig.cpp:318
+msgid "Spanish"
+msgstr "╤спанська"
+
+#: kspell/ksconfig.cpp:324
+msgid "German"
+msgstr "Н╕мецька"
+
+#: kspell/ksconfig.cpp:331
+msgid "Brazilian Portuguese"
+msgstr "Бразильска португальска"
+
+#: kspell/ksconfig.cpp:337
+msgid "Unknown"
+msgstr "Нев╕домий"
+
+#: kspell/ksconfig.cpp:369
+msgid "ISpell Default"
+msgstr "Типовий ISpell"
+
+#: kspell/kspell.cpp:1001
+msgid "Spell Checker"
+msgstr "Перев╕рка орфогра╕╖"
+
+#: kspell/kspelldlg.cpp:47
+msgid "R&eplace All"
+msgstr "Зам╕нити вс╕"
+
+#: kspell/kspelldlg.cpp:66
+msgid "Misspelled Word:"
+msgstr "Помилки у словах:"
+
+#: kspell/kspelldlg.cpp:74
+msgid "Replacement:"
+msgstr "Зам╕на:"
+
+#: kspell/kspelldlg.cpp:81
+msgid "Suggestions:"
+msgstr "Можлив╕ варианти:"
+
+#: kspell/kspelldlg.cpp:90
+msgid "&Ignore"
+msgstr "Пропустити"
+
+#: kspell/kspelldlg.cpp:100
+msgid "I&gnore All"
+msgstr "Пропустити вс╕"
+
+#: kspell/kspelldlg.cpp:120
+msgid "A&dd"
+msgstr "Додати"
+
+#: kspell/kspelldlg.cpp:162
+msgid "&Stop"
+msgstr "&Стоп"
+
+#: kab/addressbook.cc:168 kab/addressbook.cc:804
+msgid "Cannot initialize local variables."
+msgstr "Неможливо ╕н╕ц╕ал╕зувати локальн╕ зм╕нн╕."
+
+#: kab/addressbook.cc:169 kab/addressbook.cc:805
+msgid "Out of memory"
+msgstr "Недостатньо оперативно╖ пам'ят╕"
+
+#: kab/addressbook.cc:185
+msgid ""
+"Your local kab configuration file\n"
+"\"%1\"\n"
+"could not be created. kab will probably not\n"
+"work correctly without it.\n"
+"Make sure you did not remove writing permission\n"
+"from your local kde directory."
+msgstr ""
+"Неможливо створити локальний файл конф╕гурац╕╖ kab\n"
+"\"%1\"\n"
+"можл╕во kab не буде в╕рно\n"
+"працювати без цього.\n"
+"Перев╕рте наявн╕сь права зап╕су\n"
+"у ваш локальний каталог kde."
+
+#: kab/addressbook.cc:191 kab/addressbook.cc:214 kab/addressbook.cc:238
+#: kab/addressbook.cc:244 kab/addressbook.cc:253 kab/addressbook.cc:319
+#: kab/addressbook.cc:334 kab/addressbook.cc:356 kab/addressbook.cc:566
+#: kab/addressbook.cc:954 kab/addressbook.cc:1319 kab/addressbook.cc:1337
+#: kab/addressbook.cc:1346 kab/addressbook.cc:1370 kab/addressbook.cc:1379
+#: kab/addressbook.cc:1388 kab/addressbook.cc:1397 kab/addressbook.cc:1422
+#: kab/addressbook.cc:1429
+msgid "File error"
+msgstr "Помилка файлу"
+
+#: kab/addressbook.cc:196
+msgid ""
+"kab has created your local configuration file in\n"
+"\"%1\""
+msgstr ""
+"kab строрив ваш локальний файл конф╕гурац╕╖ у\n"
+"\"%1\""
+
+#: kab/addressbook.cc:208
+msgid ""
+"Your standard kab database file\n"
+"\"%1\"\n"
+"could not be created. kab will probably not\n"
+"work correctly without it.\n"
+"Make sure you did not remove writing permission\n"
+"from your local kde directory."
+msgstr ""
+"Неможливо створити локальний файл конф╕гурац╕╖ kab\n"
+"\"%1\"\n"
+"можл╕во kab не буде в╕рно\n"
+"працювати без цього.\n"
+"Перев╕рте наявн╕сь права зап╕су\n"
+"у ваш локальний каталог kde."
+
+#: kab/addressbook.cc:219
+msgid ""
+"kab has created your standard addressbook in\n"
+"\"%1\""
+msgstr ""
+"kab створив вашу основну адресну книгу в\n"
+"\"%1\""
+
+#: kab/addressbook.cc:237
+msgid "Cannot create backup file (permission denied)."
+msgstr "Неможливо створити арх╕вний файл (доступ заборонено)"
+
+#: kab/addressbook.cc:242
+msgid "Cannot open backup file for writing (permission denied)."
+msgstr "Неможливо в╕дкрити арх╕вний файл для запису (доступ заборонено)"
+
+#: kab/addressbook.cc:251
+msgid ""
+"Critical error:\n"
+"Permissions changed in local directory!"
+msgstr ""
+"Критична помилка:\n"
+"Права доступу зм╕нено у локальному каталоз╕!"
+
+#: kab/addressbook.cc:314
+msgid "File reloaded."
+msgstr "Файл перевантажений."
+
+#: kab/addressbook.cc:320
+msgid ""
+"The currently loaded file\n"
+"\""
+msgstr ""
+"Завантажений файл -\n"
+"\""
+
+#: kab/addressbook.cc:323
+msgid ""
+"cannot be reloaded. kab may close or save it.\n"
+"Save it if you accidently deleted your data file.\n"
+"Close it if you intended to do so.\n"
+"Your file will be closed by default."
+msgstr ""
+"не можливо перевантажити. kab може закрити або збер╕гти його.\n"
+"Збер╕ж╕ть його, якщо ви помилково видалили ваш файл даних.\n"
+"Закрийте його, якщо ви цього хот╕ли.\n"
+"Ваш файл буде закритий за умовчанням."
+
+#: kab/addressbook.cc:330
+msgid "(Safety copy on file error)"
+msgstr "(Помилка безпечного коп╕ювання файлу)"
+
+#: kab/addressbook.cc:333
+msgid "Cannot save the file, will close it now."
+msgstr "Неможливо збер╕гти файл, в╕н буде закритий."
+
+#: kab/addressbook.cc:351
+msgid "File opened."
+msgstr "Файл в╕дкрито."
+
+#: kab/addressbook.cc:355
+msgid "Could not load the file."
+msgstr "Неможливо завантажити файл."
+
+#: kab/addressbook.cc:358
+msgid "No such file."
+msgstr "Нема╓ такого файлу."
+
+#: kab/addressbook.cc:363
+msgid "No such file"
+msgstr "Нема╓ такого файлу"
+
+#: kab/addressbook.cc:364
+msgid ""
+"The file\n"
+"\""
+msgstr ""
+"Файл\n"
+"\""
+
+#: kab/addressbook.cc:366
+msgid " cannot be found. Create a new one?"
+msgstr " не знайдено. Створити новий?"
+
+#: kab/addressbook.cc:371
+msgid "New file."
+msgstr "Новий файл."
+
+#: kab/addressbook.cc:373
+msgid "Cancelled."
+msgstr "Скасовано."
+
+#: kab/addressbook.cc:406
+msgid "(Internal error in kab)"
+msgstr "(Внутр╕шня помилка в kab)"
+
+#: kab/addressbook.cc:411 kab/addressbook.cc:1042
+msgid "(empty entry)"
+msgstr "(порожн╕й елемент)"
+
+#: kab/addressbook.cc:565
+msgid "Cannot reload configuration file!"
+msgstr "Не можливо перечитати файл конф╕гурац╕╖!"
+
+#: kab/addressbook.cc:570
+msgid "Configuration file reloaded."
+msgstr "Файл конф╕гурац╕╖ перевантажено."
+
+#: kab/addressbook.cc:598
+msgid "File saved."
+msgstr "Файл збережено."
+
+#: kab/addressbook.cc:638
+msgid "Permission denied."
+msgstr "Доступ заборонено."
+
+#: kab/addressbook.cc:644
+msgid "File closed."
+msgstr "Файл закрито."
+
+#: kab/addressbook.cc:952
+msgid ""
+"The file you wanted to change could not be locked.\n"
+"It is probably in use by another application or read-only."
+msgstr ""
+"Файл, який ви збирались редагувати не може бути заблокований.\n"
+"Можливо в╕н в╕дкритий у ╕нш╕й програм╕або ╓ т╕льк╕ для читання."
+
+#: kab/addressbook.cc:1317
+msgid ""
+"Cannot find kab's template file.\n"
+"You cannot create new files."
+msgstr ""
+"Не можу знайти файл шаблону kab.\n"
+"Ви не можете утворювати нов╕ файли."
+
+#: kab/addressbook.cc:1325
+msgid ""
+"Cannot read kab's template file.\n"
+"You cannot create new files."
+msgstr ""
+"Не можу прочитати файл шаблону kab.\n"
+"Ви не можете утворювати нов╕ файли."
+
+#: kab/addressbook.cc:1327
+msgid "Format error"
+msgstr "Помилка формату"
+
+#: kab/addressbook.cc:1334 kab/addressbook.cc:1385
+msgid ""
+"Cannot create the file\n"
+"\""
+msgstr ""
+"Не можу утворити файл\n"
+"\""
+
+#: kab/addressbook.cc:1336 kab/addressbook.cc:1345
+msgid "Could not create the new file."
+msgstr "Не можу утворити новий файл."
+
+#: kab/addressbook.cc:1343 kab/addressbook.cc:1394
+msgid ""
+"Cannot save the file\n"
+"\""
+msgstr ""
+"Не можу збер╕гти файл"
+"\""
+
+#: kab/addressbook.cc:1368
+msgid ""
+"Cannot find kab's configuration template file.\n"
+"kab cannot be configured."
+msgstr ""
+"Не можу знайти файл шаблону kab.\n"
+"kab не може бути завантажений."
+
+#: kab/addressbook.cc:1377
+msgid ""
+"Cannot read kab's configuration template file.\n"
+"kab cannot be configured."
+msgstr ""
+"Не можу знайти файл шаблону kab.\n"
+"kab не може бути сконф╕гуровано."
+
+#: kab/addressbook.cc:1387 kab/addressbook.cc:1396
+msgid "Could not create the new configuration file."
+msgstr "Не можу створити новий файл конф╕гурац╕╖."
+
+#: kab/addressbook.cc:1419
+msgid ""
+"Cannot load kab's local configuration file,\n"
+"possibly there is a formation error.\n"
+"kab cannot be configured."
+msgstr ""
+"Не можу завантажити файл шаблону kab.\n"
+"можливо помилка формату.\n"
+"kab не може бути сконф╕гуровано."
+
+#: kab/addressbook.cc:1427
+msgid ""
+"Cannot find kab's local configuration file.\n"
+"kab cannot be configured."
+msgstr ""
+"Не можу знайти локальний файл конф╕гурац╕╖ kab.\n"
+"kab не може бути сконф╕гуровано."
+
+#: kab/addressbook.cc:1473
+msgid ""
+"The directory where user specific data for the\n"
+"addressbook application is stored does not exist.\n"
+"The program will try to create\n"
+"         \""
+msgstr ""
+"Каталог у якому збер╕гаються дан╕ \n"
+"адресно╖ книги користувача не ╕сну╓.\n"
+"Програма спробу╓ створити ╖╖\n"
+"         \""
+
+#: kab/addressbook.cc:1477
+msgid "and store all local files in this directory."
+msgstr "та збер╕гти локальн╕ файли у цьому каталоз╕"
+
+#: kab/addressbook.cc:1478
+msgid "First usage"
+msgstr "Перше використання"
+
+#: kab/addressbook.cc:1484
+msgid ""
+"The directory could not be created.\n"
+"Probably you do not have used KDE before, so\n"
+"you do not have a local \".kde\" directory\n"
+"in your home directory. Run the KDE filemanager\n"
+"kfm once to automatically create it.\n"
+"kab will continue, but no file will be loaded."
+msgstr ""
+"Каталог не може бути створений.\n"
+"Можливо ви не запускали KDE ран╕ше, тому\n"
+"у вас нема╓ локального каталогу \".kde\"\n"
+"у вашому домашньому каталоз╕. Запуст╕ть менеджер файл╕в KDE\n"
+"kfm зараз для утворення цього каталогу.\n"
+"kab продовжить роботу, але файли не будуть завантажен╕."
+
+#: kab/addressbook.cc:1490
+msgid "Error creating directory"
+msgstr "Помилка створення каталогу"
+
+#: kab/addressbook.cc:1495
+msgid "The directory has been created."
+msgstr "Каталог утворено."
+
+#: kab/addressbook.cc:1496
+msgid "Directory created"
+msgstr "Каталог утворено"
+
+#: kab/addressbook.cc:1509
+msgid "fixed"
+msgstr "ф╕ксований"
+
+#: kab/addressbook.cc:1510
+msgid "mobile"
+msgstr "моб╕льний"
+
+#: kab/addressbook.cc:1511
+msgid "fax"
+msgstr "факс"
+
+#: kab/addressbook.cc:1512
+msgid "modem"
+msgstr "модем"
+
+#: kab/addressbook.cc:1513
+msgid "general"
+msgstr "загальний"
+
+#: kab/kabapi.cc:137
+msgid "Your new entry could not be added."
+msgstr "Неможливо додати новий елемент."
+
+#: dialogs/qcolordialog.cpp:682
+msgid "Hu&e:"
+msgstr "&В╕дт╕нок:"
+
+#: dialogs/qcolordialog.cpp:689
+msgid "&Sat:"
+msgstr "&Насичення:"
+
+#: dialogs/qcolordialog.cpp:696
+msgid "&Val:"
+msgstr "&Значення:"
+
+#: dialogs/qcolordialog.cpp:703
+msgid "&Red:"
+msgstr "&Червоний:"
+
+#: dialogs/qcolordialog.cpp:710
+msgid "&Green:"
+msgstr "З&елений:"
+
+#: dialogs/qcolordialog.cpp:717
+msgid "Bl&ue:"
+msgstr "&Син╕й:"
+
+#: dialogs/qcolordialog.cpp:724
+msgid "A&lpha channel:"
+msgstr "&Альфа канал:"
+
+#: dialogs/qcolordialog.cpp:898
+msgid "&Basic colors"
+msgstr "&Базов╕ кольори"
+
+#: dialogs/qcolordialog.cpp:911
+msgid "&Custom colors"
+msgstr "&Нетипов╕ кольори"
+
+#: dialogs/qcolordialog.cpp:916
+msgid "&Define Custom Colors >>"
+msgstr "Визначити &нетипов╕ кольори >>"
+
+#: dialogs/qcolordialog.cpp:924 dialogs/qfiledialog.cpp:2066
+#: dialogs/qfiledialog.cpp:3015 dialogs/qfontdialog.cpp:280
+#: dialogs/qmessagebox.cpp:1014 dialogs/qmessagebox.cpp:1035
+#: dialogs/qmessagebox.cpp:1361 dialogs/qprintdialog.cpp:612
+#: dialogs/qtabdialog.cpp:214 dialogs/qtabdialog.cpp:1068
+msgid "OK"
+msgstr "Гаразд"
+
+#: dialogs/qcolordialog.cpp:927 dialogs/qfiledialog.cpp:2070
+#: dialogs/qfontdialog.cpp:291 dialogs/qprintdialog.cpp:620
+#: dialogs/qprogressdialog.cpp:230 dialogs/qtabdialog.cpp:843
+#: dialogs/qwizard.cpp:127
+msgid "Cancel"
+msgstr "Скасувати"
+
+#: dialogs/qcolordialog.cpp:960
+msgid "&Add To Custom Colors"
+msgstr "&Додати до нетипових кольор╕в"
+
+#: dialogs/qcolordialog.cpp:1023
+msgid "Select color"
+msgstr "Вибер╕ть кол╕р"
+
+#: dialogs/qfiledialog.cpp:728
+msgid "Copy or Move a File"
+msgstr "Скоп╕ювати або пересунути файл"
+
+#: dialogs/qfiledialog.cpp:736
+#, c-format
+msgid "Read: %1"
+msgstr "Прочитати: %1"
+
+#: dialogs/qfiledialog.cpp:741 dialogs/qfiledialog.cpp:769
+#, c-format
+msgid "Write: %1"
+msgstr "Записати: %1"
+
+#: dialogs/qfiledialog.cpp:748 dialogs/qinputdialog.cpp:135
+#: dialogs/qlinedialog.cpp:145
+msgid "&Cancel"
+msgstr "Скасувати"
+
+#: dialogs/qfiledialog.cpp:1933 dialogs/qfiledialog.cpp:1961
+msgid "All files (*)"
+msgstr "Вс╕ файли (*)"
+
+#: dialogs/qfiledialog.cpp:2020
+msgid "Name"
+msgstr "╤м'я"
+
+#: dialogs/qfiledialog.cpp:2021
+msgid "Size"
+msgstr "Розм╕р"
+
+#: dialogs/qfiledialog.cpp:2023
+msgid "Type"
+msgstr "Тип"
+
+#: dialogs/qfiledialog.cpp:2024
+msgid "Date"
+msgstr "Дата"
+
+#: dialogs/qfiledialog.cpp:2025
+msgid "Attributes"
+msgstr "Атрибути"
+
+#: dialogs/qfiledialog.cpp:2100
+msgid "Look &in:"
+msgstr "Д&ивитися в:"
+
+#: dialogs/qfiledialog.cpp:2101
+msgid "File &name:"
+msgstr "&╤м'я файлу:"
+
+#: dialogs/qfiledialog.cpp:2102
+msgid "File &type:"
+msgstr "&Тип файлу:"
+
+#: dialogs/qfiledialog.cpp:2106
+msgid "One directory up"
+msgstr "Одним каталогом вище"
+
+#: dialogs/qfiledialog.cpp:2113
+msgid "Create New Folder"
+msgstr "Утворити нову теку"
+
+#: dialogs/qfiledialog.cpp:2129
+msgid "List View"
+msgstr "Вигляд списком"
+
+#: dialogs/qfiledialog.cpp:2135
+msgid "Detail View"
+msgstr "Детальний вигляд"
+
+#: dialogs/qfiledialog.cpp:2142
+msgid "Preview File Info"
+msgstr "Переглянути ╕нформац╕ю про файл"
+
+#: dialogs/qfiledialog.cpp:2149
+msgid "Preview File Contents"
+msgstr "Переглянути зм╕ст файлу"
+
+#: dialogs/qfiledialog.cpp:2240
+msgid "Read-write"
+msgstr "Для зчитування та записування"
+
+#: dialogs/qfiledialog.cpp:2241
+msgid "Read-only"
+msgstr "Т╕льк╕ для зчитування"
+
+#: dialogs/qfiledialog.cpp:2242
+msgid "Write-only"
+msgstr "Т╕льки для запису"
+
+#: dialogs/qfiledialog.cpp:2243
+msgid "Inaccessible"
+msgstr "Недоступний"
+
+#: dialogs/qfiledialog.cpp:2245
+msgid "Symlink to File"
+msgstr "Посилання до файлу"
+
+#: dialogs/qfiledialog.cpp:2246
+msgid "Symlink to Directory"
+msgstr "Посилання до каталогу"
+
+#: dialogs/qfiledialog.cpp:2247
+msgid "Symlink to Special"
+msgstr "Посилання до спец╕ального файлу"
+
+#: dialogs/qfiledialog.cpp:2248
+msgid "File"
+msgstr "Файл"
+
+#: dialogs/qfiledialog.cpp:2249
+msgid "Dir"
+msgstr "Каталог"
+
+#: dialogs/qfiledialog.cpp:2250
+msgid "Special"
+msgstr "Спец╕альний"
+
+#: dialogs/qfiledialog.cpp:2744 dialogs/qfiledialog.cpp:3013
+#: dialogs/qfiledialog.cpp:3195 dialogs/qfiledialog.cpp:3222
+#: dialogs/qfiledialog.cpp:4457 dialogs/qfiledialog_win.cpp:230
+#: dialogs/qfiledialog_win.cpp:239 dialogs/qfiledialog_win.cpp:307
+#: dialogs/qfiledialog_win.cpp:337
+msgid "Open"
+msgstr "В╕дкрити"
+
+#: dialogs/qfiledialog.cpp:2834
+msgid "Save as"
+msgstr "Збер╕гти як"
+
+#: dialogs/qfiledialog.cpp:3015 dialogs/qtranslatordialog.cpp:192
+msgid "Save"
+msgstr "Збер╕гти"
+
+#: dialogs/qfiledialog.cpp:3388 dialogs/qfiledialog.cpp:3391
+msgid "&Open"
+msgstr "&В╕дкрити"
+
+#: dialogs/qfiledialog.cpp:3390
+msgid "&Save"
+msgstr "&Збер╕гти"
+
+#: dialogs/qfiledialog.cpp:3395
+msgid "&Rename"
+msgstr "&Перейменувати"
+
+#: dialogs/qfiledialog.cpp:3396
+msgid "&Delete"
+msgstr "В&идалити"
+
+#: dialogs/qfiledialog.cpp:3420
+msgid "R&eload"
+msgstr "П&еревантажити"
+
+#: dialogs/qfiledialog.cpp:3424
+msgid "Sort by &Name"
+msgstr "Упорядкувати за &╕м'ям"
+
+#: dialogs/qfiledialog.cpp:3426
+msgid "Sort by &Size"
+msgstr "Упорядкувати за &розм╕ром"
+
+#: dialogs/qfiledialog.cpp:3427
+msgid "Sort by &Date"
+msgstr "Упорядкувати за &датою"
+
+#: dialogs/qfiledialog.cpp:3429
+msgid "&Unsorted"
+msgstr "&Неупорядкований"
+
+#: dialogs/qfiledialog.cpp:3444
+msgid "Sort"
+msgstr "Упорядкувати"
+
+#: dialogs/qfiledialog.cpp:3448
+msgid "Show &hidden files"
+msgstr "Покузувати &схован╕ файли"
+
+#: dialogs/qfiledialog.cpp:3486
+#, c-format
+msgid "Delete %1"
+msgstr "Видалити %1"
+
+#: dialogs/qfiledialog.cpp:3487
+msgid "<qt>Do you really want to delete the %1 \"%2\"?</qt>"
+msgstr "<qt>Ви впевнен╕, що хочете видалити %1 \"%2\"?</qt>"
+
+#: dialogs/qfiledialog.cpp:3489
+msgid "&Yes"
+msgstr "&Так"
+
+#: dialogs/qfiledialog.cpp:3489
+msgid "&No"
+msgstr "&Н╕"
+
+#: dialogs/qfiledialog.cpp:3522
+msgid "New Folder 1"
+msgstr "Нова тека 1"
+
+#: dialogs/qfiledialog.cpp:3527
+msgid "New Folder"
+msgstr "Нова тека"
+
+#: dialogs/qfiledialog.cpp:3532
+#, c-format
+msgid "New Folder %1"
+msgstr "Нова тека %1"
+
+#: dialogs/qfiledialog.cpp:3583
+msgid "Find Directory"
+msgstr "Знайти каталог"
+
+#: dialogs/qfiledialog.cpp:3588
+msgid "Directories"
+msgstr "Каталоги"
+
+#: dialogs/qfiledialog.cpp:4561
+msgid "ERROR"
+msgstr "ПОМИЛКА"
+
+#: dialogs/qfiledialog_win.cpp:267 dialogs/qfiledialog_win.cpp:276
+msgid "Save As"
+msgstr "Збер╕гти як"
+
+#: dialogs/qfontdialog.cpp:158
+msgid "&Font"
+msgstr "&Шрифт"
+
+#: dialogs/qfontdialog.cpp:166
+msgid "Font st&yle"
+msgstr "&Стиль шрифту"
+
+#: dialogs/qfontdialog.cpp:174 widgets/qworkspace.cpp:455
+msgid "&Size"
+msgstr "&Розм╕р"
+
+#: dialogs/qfontdialog.cpp:178
+msgid "Effects"
+msgstr "Ефекти"
+
+#: dialogs/qfontdialog.cpp:180
+msgid "Stri&keout"
+msgstr "Пере&креслити"
+
+#: dialogs/qfontdialog.cpp:182
+msgid "&Underline"
+msgstr "П&╕дкреслити"
+
+#: dialogs/qfontdialog.cpp:188
+msgid "&Color"
+msgstr "&Кол╕р"
+
+#: dialogs/qfontdialog.cpp:192
+msgid "Sample"
+msgstr "Приклад"
+
+#: dialogs/qfontdialog.cpp:205
+msgid "Scr&ipt"
+msgstr "&Скрипт"
+
+#: dialogs/qfontdialog.cpp:280 dialogs/qtabdialog.cpp:705
+msgid "Apply"
+msgstr "Застосувати"
+
+#: dialogs/qfontdialog.cpp:291 dialogs/qtranslatordialog.cpp:193
+#: widgets/qaction.cpp:1410 widgets/qworkspace.cpp:459
+msgid "Close"
+msgstr "Закрити"
+
+#: dialogs/qfontdialog.cpp:392
+msgid "Select Font"
+msgstr "Вибер╕ть шрифт"
+
+#: dialogs/qinputdialog.cpp:133 dialogs/qlinedialog.cpp:143
+msgid "&OK"
+msgstr "&Гаразд"
+
+#: dialogs/qlinedialog.cpp:281
+msgid "Please enter a Text"
+msgstr "Набер╕ть, будь ласка, текст"
+
+#: dialogs/qlinedialog.cpp:326
+msgid "Please enter an integral Number"
+msgstr "Набер╕ть, будь ласка, ц╕ле Число"
+
+#: dialogs/qlinedialog.cpp:370
+msgid "Please enter a decimal Number"
+msgstr "Набер╕ть, будь ласка, десяткове Число"
+
+#: dialogs/qlinedialog.cpp:417
+msgid "Please select an Item"
+msgstr "Вибер╕ть, будь ласка, елемент"
+
+#: dialogs/qprintdialog.cpp:666
+msgid "Print destination"
+msgstr "Призначення друку"
+
+#: dialogs/qprintdialog.cpp:678
+msgid "Print to printer:"
+msgstr "Друкувати на принтер:"
+
+#: dialogs/qprintdialog.cpp:691
+msgid "Printer"
+msgstr "Принтер"
+
+#: dialogs/qprintdialog.cpp:692
+msgid "Host"
+msgstr "Хост"
+
+#: dialogs/qprintdialog.cpp:693
+msgid "Comment"
+msgstr "Коментар"
+
+#: dialogs/qprintdialog.cpp:792
+msgid "Print to file:"
+msgstr "Друкувати у файл:"
+
+#: dialogs/qprintdialog.cpp:803
+msgid "Browse..."
+msgstr "Перегляд..."
+
+#: dialogs/qprintdialog.cpp:820
+msgid "Options"
+msgstr "Параметри"
+
+#: dialogs/qprintdialog.cpp:841
+msgid "Print all"
+msgstr "Друкувати все"
+
+#: dialogs/qprintdialog.cpp:845
+msgid "Print range"
+msgstr "Область друку"
+
+#: dialogs/qprintdialog.cpp:853
+msgid "From page:"
+msgstr "З╕ стор╕нки:"
+
+#: dialogs/qprintdialog.cpp:866
+msgid "To page:"
+msgstr "По стор╕нку:"
+
+#: dialogs/qprintdialog.cpp:882
+msgid "Print first page first"
+msgstr "Друкувати першу стор╕нку спочатку"
+
+#: dialogs/qprintdialog.cpp:888
+msgid "Print last page first"
+msgstr "Друкувати останню стор╕нку спочатку"
+
+#: dialogs/qprintdialog.cpp:899
+msgid "Print in color if available"
+msgstr "Друкувати у кольорах, якщо можливо"
+
+#: dialogs/qprintdialog.cpp:905
+msgid "Print in grayscale"
+msgstr "Друкувати в градац╕ях с╕рого"
+
+#: dialogs/qprintdialog.cpp:920
+msgid "Number of copies:"
+msgstr "К╕льк╕сть коп╕й:"
+
+#: dialogs/qprintdialog.cpp:944
+msgid "Paper format"
+msgstr "Формат пап╕ру"
+
+#: dialogs/qprintdialog.cpp:961
+msgid "Portrait"
+msgstr "Портрет"
+
+#: dialogs/qprintdialog.cpp:969
+msgid "Landscape"
+msgstr "Ландшафт"
+
+#: dialogs/qprintdialog.cpp:1030
+msgid "Setup Printer"
+msgstr "Настро╖ти принтер"
+
+#: dialogs/qprintdialog.cpp:1091
+msgid "Postscript files (*.ps);;All files (*)"
+msgstr "Файли постскрипт (*.ps);;Вс╕ файли (*)"
+
+#: dialogs/qtabdialog.cpp:748 dialogs/qwizard.cpp:131
+msgid "Help"
+msgstr "Дов╕дка"
+
+#: dialogs/qtabdialog.cpp:793
+msgid "Defaults"
+msgstr "Типов╕ значення"
+
+#: dialogs/qtranslatordialog.cpp:200
+msgid "Key"
+msgstr "Клав╕ша"
+
+#: dialogs/qtranslatordialog.cpp:201
+msgid "Translation"
+msgstr "Переклад"
+
+#: dialogs/qwizard.cpp:128
+msgid "< Back"
+msgstr "< Назад"
+
+#: dialogs/qwizard.cpp:129
+msgid "Next >"
+msgstr "Уперед >"
+
+#: dialogs/qwizard.cpp:130
+msgid "Finish"
+msgstr "Зак╕нчити"
+
+#: kernel/qaccel.cpp:525 kernel/qaccel.cpp:656
+msgid "Ctrl"
+msgstr "Ctrl"
+
+#: kernel/qaccel.cpp:529 kernel/qaccel.cpp:534 kernel/qaccel.cpp:624
+msgid "+"
+msgstr "+"
+
+#: kernel/qaccel.cpp:530 kernel/qaccel.cpp:660
+msgid "Alt"
+msgstr "Alt"
+
+#: kernel/qaccel.cpp:535 kernel/qaccel.cpp:658
+msgid "Shift"
+msgstr "Shift"
+
+#: kernel/qaccel.cpp:542
+#, c-format
+msgid "F%1"
+msgstr "F%1"
+
+#: kernel/qaccel.cpp:548
+msgid "Space"
+msgstr "Пропуск"
+
+#: kernel/qaccel.cpp:551
+msgid "Esc"
+msgstr "Esc"
+
+#: kernel/qaccel.cpp:554
+msgid "Tab"
+msgstr "Табуляц╕я"
+
+#: kernel/qaccel.cpp:557
+msgid "Backtab"
+msgstr "Зворотня табуляц╕я"
+
+#: kernel/qaccel.cpp:560
+msgid "Backspace"
+msgstr ""
+
+#: kernel/qaccel.cpp:563
+msgid "Return"
+msgstr "Return"
+
+#: kernel/qaccel.cpp:566
+msgid "Enter"
+msgstr "Enter"
+
+#: kernel/qaccel.cpp:569
+msgid "Ins"
+msgstr "Ins"
+
+#: kernel/qaccel.cpp:572
+msgid "Del"
+msgstr "Del"
+
+#: kernel/qaccel.cpp:575
+msgid "Pause"
+msgstr "Pause"
+
+#: kernel/qaccel.cpp:578
+msgid "Print"
+msgstr "Print"
+
+#: kernel/qaccel.cpp:581
+msgid "SysReq"
+msgstr "SysReq"
+
+#: kernel/qaccel.cpp:584
+msgid "Home"
+msgstr "Home"
+
+#: kernel/qaccel.cpp:587
+msgid "End"
+msgstr "End"
+
+#: kernel/qaccel.cpp:590
+msgid "Left"
+msgstr "Стр╕лка вл╕во"
+
+#: kernel/qaccel.cpp:593
+msgid "Up"
+msgstr "Стр╕лка догори"
+
+#: kernel/qaccel.cpp:596
+msgid "Right"
+msgstr "Стр╕лка вправо"
+
+#: kernel/qaccel.cpp:599
+msgid "Down"
+msgstr "Стр╕лка вниз"
+
+#: kernel/qaccel.cpp:602
+msgid "PgUp"
+msgstr "PgUp"
+
+#: kernel/qaccel.cpp:605
+msgid "PgDown"
+msgstr "PgDown"
+
+#: kernel/qaccel.cpp:608
+msgid "CapsLock"
+msgstr "CapsLock"
+
+#: kernel/qaccel.cpp:611
+msgid "NumLock"
+msgstr "NumLock"
+
+#: kernel/qaccel.cpp:614
+msgid "ScrollLock"
+msgstr "ScrollLock"
+
+#: kernel/qlocalfs.cpp:77 kernel/qlocalfs.cpp:87
+msgid "Could not read directory\n"
+msgstr "Не можу прочитати каталог\n"
+
+#: kernel/qlocalfs.cpp:132
+msgid "Could not create directory\n"
+msgstr "Не можу утворити каталог\n"
+
+#: kernel/qlocalfs.cpp:158
+msgid "Could not remove file or directory\n"
+msgstr "Не можу видалити файл або каталог\n"
+
+#: kernel/qlocalfs.cpp:185
+msgid ""
+"Could not rename\n"
+"%1\n"
+"to\n"
+"%2"
+msgstr ""
+"Неможливо перейменувати\n"
+"%1\n"
+"в\n"
+"%2"
+
+#: kernel/qlocalfs.cpp:210
+#, c-format
+msgid ""
+"Could not open\n"
+"%1"
+msgstr ""
+"Неможливо в╕дкритиCould not open\n"
+"%1"
+
+#: kernel/qlocalfs.cpp:273
+#, c-format
+msgid ""
+"Could not write\n"
+"%1"
+msgstr ""
+"Неможливо записати\n"
+"%1"
+
+#: kernel/qnetworkprotocol.cpp:797
+msgid "Operation stopped by the user"
+msgstr "Д╕я зупинена користувачем"
+
+#: kernel/qurloperator.cpp:339
+msgid ""
+"The protocol `%1' is not supported\n"
+"or `%2' doesn't support listing directores"
+msgstr ""
+"Протокол `%1' не п╕дтриму╓ться\n"
+"або `%2' не забезпечу╓ перегляд каталог╕в"
+
+#: kernel/qurloperator.cpp:387
+msgid ""
+"The protocol `%1' is not supported\n"
+"or `%2' doesn't support making directories"
+msgstr ""
+"Протокол `%1' не п╕дтриму╓ться\n"
+"або `%2' не забезпечу╓ утворення каталог╕в"
+
+#: kernel/qurloperator.cpp:432
+msgid ""
+"The protocol `%1' is not supported\n"
+"or `%2' doesn't support removing files or directories"
+msgstr ""
+"Протокол `%1' не п╕дтриму╓ться\n"
+"або `%2' не забезпечу╓ видалення файл╕в або каталог╕в"
+
+#: kernel/qurloperator.cpp:478
+msgid ""
+"The protocol `%1' is not supported\n"
+"or `%2' doesn't support renaming files or directories"
+msgstr ""
+"Протокол `%1' не п╕дтриму╓ться\n"
+"або `%2' не забезпечу╓ пере╕менування файл╕в та каталог╕в"
+
+#: kernel/qurloperator.cpp:589
+msgid ""
+"The protocol `%1' is not supported\n"
+"or `%2' doesn't support copying or moving files or directories"
+msgstr ""
+"Протокол `%1' не п╕дтриму╓ться\n"
+"або `%2' не забезпечу╓ коп╕ювання або пересування файл╕в та каталог╕в"
+
+#: kernel/qurloperator.cpp:728
+msgid ""
+"The protocol `%1' is not supported\n"
+"or `%2' doesn't support get"
+msgstr ""
+"Протокол `%1' не п╕дтриму╓ться\n"
+"або `%2' не забезпечу╓ операц╕ю отримання (get)"
+
+#: kernel/qurloperator.cpp:797
+msgid ""
+"The protocol `%1' is not supported\n"
+"or `%2' doesn't support put."
+msgstr ""
+"Протокол `%1' не п╕дтриму╓ться\n"
+"або `%2' не забезпечу╓ операц╕ю в╕дсилання (put)"
+
+#: kernel/qurloperator.cpp:867 kernel/qurloperator.cpp:868
+msgid "(unknown)"
+msgstr "(нев╕дома)"
+
+#: widgets/qaction.cpp:1164 widgets/qaction.cpp:1270 widgets/qaction.cpp:1286
+#: widgets/qaction.cpp:1307 widgets/qaction.cpp:1314 widgets/qaction.cpp:1353
+#: widgets/qaction.cpp:1360
+msgid "Misc"
+msgstr "╤нше"
+
+#: widgets/qheader.cpp:1025
+#, c-format
+msgid "Col %1"
+msgstr "Сто %1"
+
+#: widgets/qheader.cpp:1027
+#, c-format
+msgid "Row %1"
+msgstr "Ряд %1"
+
+#: widgets/qlineedit.cpp:229 widgets/qmultilineedit.cpp:383
+msgid "Undo"
+msgstr "В╕дкат"
+
+#: widgets/qlineedit.cpp:230 widgets/qmultilineedit.cpp:384
+msgid "Redo"
+msgstr "Повторити"
+
+#: widgets/qlineedit.cpp:232 widgets/qmultilineedit.cpp:386
+msgid "Cut"
+msgstr "Вир╕зати"
+
+#: widgets/qlineedit.cpp:233 widgets/qmultilineedit.cpp:387
+msgid "Copy"
+msgstr "Скоп╕ювати"
+
+#: widgets/qlineedit.cpp:234 widgets/qmultilineedit.cpp:388
+msgid "Paste"
+msgstr "Вставити"
+
+#: widgets/qlineedit.cpp:235 widgets/qmultilineedit.cpp:389
+msgid "Clear"
+msgstr "Очистити"
+
+#: widgets/qlineedit.cpp:237 widgets/qmultilineedit.cpp:391
+msgid "Select All"
+msgstr "Вибрати все"
+
+#: widgets/qmainwindow.cpp:753 widgets/qmainwindow.cpp:2480
+msgid "&Left"
+msgstr "З&л╕ва"
+
+#: widgets/qmainwindow.cpp:756 widgets/qmainwindow.cpp:2482
+msgid "&Right"
+msgstr "З&права"
+
+#: widgets/qmainwindow.cpp:759 widgets/qmainwindow.cpp:2484
+msgid "&Top"
+msgstr "З&верху"
+
+#: widgets/qmainwindow.cpp:762 widgets/qmainwindow.cpp:2486
+msgid "&Bottom"
+msgstr "З&низу"
+
+#: widgets/qmainwindow.cpp:766
+msgid "R&estore"
+msgstr "&Розгорнути"
+
+#: widgets/qmainwindow.cpp:2489
+msgid "&Hide"
+msgstr "С&ховати"
+
+#: widgets/qmainwindow.cpp:2920
+msgid "Line Up Toolbars (compact)"
+msgstr "Вир╕вняти полоски ╕нструмент╕в (комактний)"
+
+#: widgets/qmainwindow.cpp:2921
+msgid "Line Up Toolbars (normal)"
+msgstr "Вир╕вняти полоски ╕нструмент╕в (звичайний)"
+
+#: widgets/qworkspace.cpp:453
+msgid "&Restore"
+msgstr "&Розгорнути"
+
+#: widgets/qworkspace.cpp:454
+msgid "&Move"
+msgstr "&Пересунути"
+
+#: widgets/qworkspace.cpp:456
+msgid "Mi&nimize"
+msgstr "&Згорнути"
+
+#: widgets/qworkspace.cpp:457
+msgid "Ma&ximize"
+msgstr "&Максим╕зувати"

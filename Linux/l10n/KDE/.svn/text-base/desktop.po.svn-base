@@ -1,0 +1,4201 @@
+# Ukrainian translation for desktop.po KDE
+# First author: Andy Rysin <arysin@yahoo.com>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"POT-Creation-Date: Tue Apr 11 01:21:20 MET DST 2000\n"
+"PO-Revision-Date: 2000-05-06 15:49+09:00\n"
+"Last-Translator: Dmytro Koval'ov <kov@tokyo.email.ne.jp>\n"
+"Language-Team: Ukrainian <linux@linux.org.ua>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=koi8-u\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: kde-i18n/af/messages/entry.desktop:1
+msgid "Name=Afrikkans"
+msgstr "Name=Африканська"
+
+#: kde-i18n/bg/messages/entry.desktop:1
+msgid "Name=Bulgarian"
+msgstr "Name=Болгалська"
+
+#: kde-i18n/br/messages/entry.desktop:1
+msgid "Name=Breton"
+msgstr "Name=Бретонська"
+
+#: kde-i18n/ca/messages/entry.desktop:1
+msgid "Name=Catalan"
+msgstr "Name=Каталонська"
+
+#: kde-i18n/cs/messages/entry.desktop:1
+msgid "Name=Czech"
+msgstr "Name=Чеська"
+
+#: kde-i18n/da/messages/entry.desktop:1
+msgid "Name=Danish"
+msgstr "Name=Датська"
+
+#: kde-i18n/de/messages/entry.desktop:1
+msgid "Name=German"
+msgstr "Name=Н╕мецька"
+
+#: kde-i18n/el/messages/entry.desktop:1
+msgid "Name=Greek"
+msgstr "Name=Грецька"
+
+#: kde-i18n/en_GB/messages/entry.desktop:1
+msgid "Name=English - UK"
+msgstr "Name=Англ╕йська - Великобритан╕я"
+
+#: kde-i18n/eo/messages/entry.desktop:1
+msgid "Name=Esperanto"
+msgstr "Name=Есперанто"
+
+#: kde-i18n/es/messages/entry.desktop:1
+msgid "Name=Spanish"
+msgstr "Name=╤спанська"
+
+#: kde-i18n/et/messages/entry.desktop:1
+msgid "Name=Estonian"
+msgstr "Name=Естонська"
+
+#: kde-i18n/eu/messages/entry.desktop:1
+msgid "Name=Basque"
+msgstr "Name=Бакська"
+
+#: kde-i18n/fi/messages/entry.desktop:1
+msgid "Name=Finnish"
+msgstr "Name=Ф╕нська"
+
+#: kde-i18n/fr/messages/entry.desktop:1
+msgid "Name=French"
+msgstr "Name=Французська"
+
+#: kde-i18n/ga/messages/entry.desktop:1
+msgid "Name=Irish"
+msgstr "Name=╤рландська"
+
+#: kde-i18n/he/messages/entry.desktop:1
+msgid "Name=Hebrew"
+msgstr "Name=╤вр╕т"
+
+#: kde-i18n/hr/messages/entry.desktop:1
+msgid "Name=Croatian"
+msgstr "Name=Хорватська"
+
+#: kde-i18n/hu/messages/entry.desktop:1
+msgid "Name=Hungarian"
+msgstr "Name=Угорська"
+
+#: kde-i18n/is/messages/entry.desktop:1
+msgid "Name=Icelandic"
+msgstr "Name=╤сландська"
+
+#: kde-i18n/it/messages/entry.desktop:1
+msgid "Name=Italian"
+msgstr "Name=╤тал╕йська"
+
+#: kde-i18n/ja/messages/entry.desktop:1
+msgid "Name=Japanese"
+msgstr "Name=Японська"
+
+#: kde-i18n/ko/messages/entry.desktop:1
+msgid "Name=Korean"
+msgstr "Name=Корейська"
+
+#: kde-i18n/mi/messages/entry.desktop:1
+msgid "Name=Maori"
+msgstr "Name=Маор╕"
+
+#: kde-i18n/mk/messages/entry.desktop:1
+msgid "Name=Macedonian"
+msgstr "Name=Македонська"
+
+#: kde-i18n/nl/messages/entry.desktop:1
+msgid "Name=Dutch"
+msgstr "Name=Голанська"
+
+#: kde-i18n/no/messages/entry.desktop:1
+msgid "Name=Norwegian (Bokmц╔l)"
+msgstr "Name=Норвезька (Bokmц╔l)"
+
+#: kde-i18n/no_NY/messages/entry.desktop:1
+msgid "Name=Norwegian (Nynorsk)"
+msgstr "Name=Норвезька (Nynorsk)"
+
+#: kde-i18n/pl/messages/entry.desktop:1
+msgid "Name=Polish"
+msgstr "Name=Польська"
+
+#: kde-i18n/pt/messages/entry.desktop:1
+msgid "Name=Portuguese"
+msgstr "Name=Португальська"
+
+#: kde-i18n/pt_BR/messages/entry.desktop:1
+msgid "Name=Brazil portuguese"
+msgstr "Name=Бразильська португальська"
+
+#: kde-i18n/ro/messages/entry.desktop:1
+msgid "Name=Romanian"
+msgstr "Name=Румунська"
+
+#: kde-i18n/ru/messages/entry.desktop:1
+msgid "Name=Russian"
+msgstr "Name=Рос╕йська"
+
+#: kde-i18n/sk/messages/entry.desktop:1
+msgid "Name=Slovak"
+msgstr "Name=Словацька"
+
+#: kde-i18n/sl/messages/entry.desktop:1
+msgid "Name=Slovenian"
+msgstr "Name=Словенська"
+
+#: kde-i18n/sr/messages/entry.desktop:1
+msgid "Name=Serbian"
+msgstr "Name=Сербська"
+
+#: kde-i18n/sv/messages/entry.desktop:1
+msgid "Name=Swedish"
+msgstr "Name=Шведська"
+
+#: kde-i18n/ta/messages/entry.desktop:1
+msgid "Name=Tamil"
+msgstr "Name=Там╕льська"
+
+#: kde-i18n/th/messages/entry.desktop:1
+msgid "Name=Thai"
+msgstr "Name=Тайська"
+
+#: kde-i18n/tr/messages/entry.desktop:1
+msgid "Name=Turkish"
+msgstr "Name=Турецька"
+
+#: kde-i18n/wa/messages/entry.desktop:1
+msgid "Name=Walloon"
+msgstr "Name=Валонська"
+
+#: kde-i18n/zh_CN.GB2312/messages/entry.desktop:1
+msgid "Name=Simplified Chinese"
+msgstr "Name=Спрощена к╕тайська"
+
+#: kde-i18n/zh_TW.Big5/messages/entry.desktop:1
+msgid "Name=Chinese"
+msgstr "Name=К╕тайська"
+
+#: kdeadmin/kcron/kcron.desktop:1
+msgid "Name=Task Scheduler"
+msgstr "Name=Планування виконання задач"
+
+#: kdeadmin/kcron/kcron.desktop:2
+msgid "Comment=Schedule programs to run in the background"
+msgstr "Comment=Плану╓ програми для виконання у фоновому режим╕"
+
+#: kdeadmin/kdat/kdat.desktop:1
+msgid "Name=Tape Backup Tool"
+msgstr "Name=Зас╕б арх╕вування на стр╕чку"
+
+#: kdeadmin/kdat/kdat.desktop:2
+msgid "Comment=A tar based archiver"
+msgstr "Comment=Арх╕ватор, що базу╓ться на tar"
+
+#: kdeadmin/kpackage/kpackage.desktop:1
+msgid "Name=Package Manager"
+msgstr "Name=Менеджер пакет╕в"
+
+#: kdeadmin/kpackage/kpackage.desktop:2
+msgid "Comment=kpackage RPM and DEB manager"
+msgstr "Comment=Менеджер пакет╕в RPM та DEB"
+
+#: kdeadmin/kpackage/mimetypes/x-debian-package.kdelnk:2
+msgid "Comment=Debian Package"
+msgstr "Comment=Пакет Debian "
+
+#: kdeadmin/kpackage/mimetypes/x-rpm.kdelnk:2
+msgid "Comment=RPM Package"
+msgstr "Comment=Пакет RPM"
+
+#: kdeadmin/ksysctrl/ksysctrl/ksysctrl.desktop:1
+msgid "Name=KDE System Control"
+msgstr "Name=Системн╕ настройки KDE"
+
+#: kdeadmin/ksysctrl/ksysctrl/ksysctrl.desktop:2
+msgid "Comment=Windows-like hardware configuration tool"
+msgstr "Comment=Windows-под╕бний засоб настройки апаратного забезпечення"
+
+#: kdeadmin/ksysv/ksysv.desktop:1
+msgid "Name=SysV Init Editor"
+msgstr "Name=Радактор SysV Init"
+
+#: kdeadmin/ksysv/ksysv.desktop:2
+msgid "Comment=An Editor for System V Init schemes"
+msgstr "Comment=Редактор для конф╕гурац╕╖ System V Init"
+
+#: kdeadmin/kuser/kuser.desktop:1
+msgid "Name=User Manager"
+msgstr "Name=Менеджер користувач╕в"
+
+#: kdeadmin/kuser/kuser.desktop:2
+msgid "Comment=Full Featured User Manager"
+msgstr "Comment=Повнофункц╕ональний менеджер користувач╕в"
+
+#: kdeadmin/kwuftpd/kwuftpd.desktop:1
+msgid "Name=FTPD Editor"
+msgstr "Name=Редактор FTPD"
+
+#: kdeadmin/kwuftpd/kwuftpd.desktop:2
+msgid "Comment=KDE front-end to wu-ftpd config files"
+msgstr "Comment=KDE-оболонка для конф╕гурац╕╖ wu-ftpd"
+
+#: kdebase/applnk/.directory:1
+msgid "Name=Default"
+msgstr "Name=Типовий"
+
+#: kdebase/applnk/Applications/.directory:1
+msgid "Name=Applications"
+msgstr "Name=Програми"
+
+#: kdebase/applnk/Control/.directory:1
+msgid "Name=System Control"
+msgstr "Name=Настройки системи"
+
+#: kdebase/applnk/Control/SysInfo.desktop:1
+msgid "Name=System Information"
+msgstr "Name=╤нформац╕я про систему"
+
+#: kdebase/applnk/Control/System.desktop:1
+msgid "Name=System Settings"
+msgstr "Name=Установки системи"
+
+#: kdebase/applnk/Control/User.desktop:1
+msgid "Name=User Preferences"
+msgstr "Name=Настройки користувача"
+
+#: kdebase/applnk/Games/.directory:1
+msgid "Name=Games"
+msgstr "Name=╤гри"
+
+#: kdebase/applnk/Graphics/.directory:1
+msgid "Name=Graphics"
+msgstr "Name=Граф╕ка"
+
+#: kdebase/applnk/Help.desktop:1
+msgid "Name=Help Center"
+msgstr "Name=Центр дов╕док"
+
+#: kdebase/applnk/Help.desktop:2
+msgid "Comment=Comprehensive on-line help"
+msgstr "Comment=Дотепна он-лайн дов╕дка"
+
+#: kdebase/applnk/Home.desktop:1
+msgid "Name=Home Directory"
+msgstr "Name=Домашн╕й каталог"
+
+#: kdebase/applnk/Home.desktop:2
+msgid "Comment=This folder contains all your personal files"
+msgstr "Comment=Цей каталог м╕стить вс╕ ваш╕ персональн╕ файли"
+
+#: kdebase/applnk/Internet/.directory:1
+msgid "Name=Internet"
+msgstr "Name=╤нтернет"
+
+#: kdebase/applnk/Multimedia/.directory:1
+msgid "Name=Multimedia"
+msgstr "Name=Мульт╕медиа"
+
+#: kdebase/applnk/ScreenSavers/.directory:1
+msgid "Name=Screen Savers"
+msgstr "Name=Збер╕гач екрану"
+
+#: kdebase/applnk/ScreenSavers/.directory:2
+msgid "Comment=Screen saver demos"
+msgstr "Comment=Демонстрац╕я збер╕гачу екрану"
+
+#: kdebase/applnk/ScreenSavers/KAttration.desktop:1
+msgid "Name=Attraction"
+msgstr "Name=Притягнення"
+
+#: kdebase/applnk/ScreenSavers/KAttration.desktop:1
+msgid "Name=Setup..."
+msgstr "Name=Настро╖ти..."
+
+#: kdebase/applnk/ScreenSavers/KAttration.desktop:1
+msgid "Name=Display in specified window"
+msgstr "Name=В╕добразити у вказаному в╕кн╕"
+
+#: kdebase/applnk/ScreenSavers/KAttration.desktop:1
+msgid "Name=Display in root window"
+msgstr "Name=В╕добразити на тл╕ екрану"
+
+#: kdebase/applnk/ScreenSavers/KBanner.desktop:1
+msgid "Name=Banner"
+msgstr "Name=Банер"
+
+#: kdebase/applnk/ScreenSavers/KBat.desktop:1
+msgid "Name=Bat"
+msgstr "Name=Литюча миша"
+
+#: kdebase/applnk/ScreenSavers/KBlankscreen.desktop:1
+msgid "Name=Blank Screen"
+msgstr "Name=Пустий екран"
+
+#: kdebase/applnk/ScreenSavers/KBlob.desktop:1
+msgid "Name=Blob"
+msgstr "Name=Клякса"
+
+#: kdebase/applnk/ScreenSavers/KBouboule.desktop:1
+msgid "Name=Bouboule"
+msgstr "Name=Bouboule"
+
+#: kdebase/applnk/ScreenSavers/KBsod.desktop:1
+msgid "Name=Blue Screen of Death"
+msgstr "Name=Син╕й екран мертвих"
+
+#: kdebase/applnk/ScreenSavers/KFlame.desktop:1
+msgid "Name=Flame"
+msgstr "Name=Полум'я"
+
+#: kdebase/applnk/ScreenSavers/KForest.desktop:1
+msgid "Name=Forest"
+msgstr "Name=Л╕с"
+
+#: kdebase/applnk/ScreenSavers/KHop.desktop:1
+msgid "Name=Hop"
+msgstr ""
+
+#: kdebase/applnk/ScreenSavers/KLaser.desktop:1
+msgid "Name=Laser"
+msgstr "Name=Лазер"
+
+#: kdebase/applnk/ScreenSavers/KLines.desktop:1
+msgid "Name=Lines"
+msgstr "Name=Л╕н╕╖"
+
+#: kdebase/applnk/ScreenSavers/KLissie.desktop:1
+msgid "Name=Lissie"
+msgstr "Name=Л╕ссажу"
+
+#: kdebase/applnk/ScreenSavers/KMatrix.desktop:1
+msgid "Name=The Matrix"
+msgstr "Name=Матриця"
+
+#: kdebase/applnk/ScreenSavers/KMorph3D.desktop:1
+msgid "Name=Morph3D (GL)"
+msgstr "Name=Трим╕рн╕ перетворення (GL)"
+
+#: kdebase/applnk/ScreenSavers/KPipes.desktop:1
+msgid "Name=Pipes (GL)"
+msgstr "Name=Труби (GL)"
+
+#: kdebase/applnk/ScreenSavers/KPolygon.desktop:1
+msgid "Name=Polygons"
+msgstr "Name=Багатокутники"
+
+#: kdebase/applnk/ScreenSavers/KPyro.desktop:1
+msgid "Name=Pyro"
+msgstr "Name=П╕ро"
+
+#: kdebase/applnk/ScreenSavers/KRandom.desktop:1
+msgid "Name=Random"
+msgstr "Name=Випадковий"
+
+#: kdebase/applnk/ScreenSavers/KRock.desktop:1
+msgid "Name=Rock"
+msgstr "Name=Уламки"
+
+#: kdebase/applnk/ScreenSavers/KScience.desktop:1
+msgid "Name=Science"
+msgstr "Name=Науковий"
+
+#: kdebase/applnk/ScreenSavers/KSlidescreen.desktop:1
+msgid "Name=Slide Screen"
+msgstr "Name=Зсув екрану"
+
+#: kdebase/applnk/ScreenSavers/KSlideshow.desktop:1
+msgid "Name=Slide Show"
+msgstr "Name=Слайди"
+
+#: kdebase/applnk/ScreenSavers/KSlip.desktop:1
+msgid "Name=Slip"
+msgstr "Name=Скольз╕ння"
+
+#: kdebase/applnk/ScreenSavers/KSpace.desktop:1
+msgid "Name=Space (GL)"
+msgstr "Name=Всесв╕т (GL)"
+
+#: kdebase/applnk/ScreenSavers/KSwarm.desktop:1
+msgid "Name=Swarm"
+msgstr "Name=Р╕й"
+
+#: kdebase/applnk/Settings/.directory:1
+msgid "Name=Preferences"
+msgstr "Name=Настройки"
+
+#: kdebase/applnk/Settings/Applications/kcmkonq.desktop:1
+msgid "Name=File Manager"
+msgstr "Name=Менеджер файл╕в"
+
+#: kdebase/applnk/Settings/Applications/kcmkonq.desktop:2
+msgid "Comment=You can configure the look and feel of the Konqueror here"
+msgstr "Comment=Тут Ви можете настро╖ти вигляд та повед╕нку Konqueror"
+
+msgid ""
+"Keywords=konqueror,filemanager,kfm,removing,trash,colours,colors,files,icons"
+msgstr ""
+"Keywords=konqueror,менеджер файл╕в,kfm,видалення,см╕тник,кольори,файли,"
+"п╕ктограми"
+
+#: kdebase/applnk/Settings/Applications/kdm.desktop:1
+msgid "Name=Login Manager"
+msgstr "Name=Менеджер ре╓страц╕╖"
+
+#: kdebase/applnk/Settings/Applications/kdm.desktop:2
+msgid "Comment=All KDM settings"
+msgstr "Comment=Вс╕ настройки KDM"
+
+#: kdebase/applnk/Settings/Applications/kdm.desktop:4
+msgid "Keywords=kdm,display manager,xdm,users,login"
+msgstr "Keywords=kdm,менеджер д╕спле╖в,xdm,користувач╕,ре╓страц╕я"
+
+#: kdebase/applnk/Settings/Applications/khelpcenter.desktop:
+msgid "Name=KDE Helpcenter"
+msgstr "Name=Центр дов╕док KDE"
+
+#: kdebase/applnk/Settings/Applications/khelpcenter.desktop:2
+msgid "Comment=You can configure the look and feel of the KDE Helpcenter here"
+msgstr "Comment=Тут Ви можете настро╖ти вигляд та повед╕нку Konqueror"
+
+#: kdebase/applnk/Settings/Applications/khelpcenter.desktop:4
+msgid "Keywords=help,helpcenter,khc"
+msgstr "Keywords=дов╕дка,центр дов╕док,khc"
+
+#: kdebase/applnk/Settings/Applications/konqhtml.desktop:1
+msgid "Name=Konqueror Browser"
+msgstr "Name=Переглядач Konqueror"
+
+msgid ""
+"Comment=Configure the look and feel of the Internet Browser called Konqueror"
+msgstr ""
+"Comment=Настро╖ти вигляд та повед╕нку ╤нтернет переглядача Konqueror"
+
+msgid ""
+"Keywords=konqueror,kfm,browser,html,web,www,fonts,colours,colors,java,javascr"
+"ipt"
+msgstr ""
+"Keywords=konqueror,kfm,переглядач,html,web,www,шрифти,кольори,java,javascript"
+
+#: kdebase/applnk/Settings/Applications/konsole.desktop:1
+msgid "Name=Console"
+msgstr "Name=Консоль"
+
+#: kdebase/applnk/Settings/Applications/konsole.desktop:2
+msgid "Comment=All Konsole Settings"
+msgstr "Comment=Вс╕ настройки консол╕"
+
+#: kdebase/applnk/Settings/Applications/konsole.desktop:4
+msgid "Keywords=konsole,console,terminal"
+msgstr "Keywords=konsole,консоль,терм╕нал"
+
+#: kdebase/applnk/Settings/Applications/panel.desktop:1
+msgid "Name=Panel"
+msgstr "Name=Панель"
+
+#: kdebase/applnk/Settings/Applications/panel.desktop:2
+msgid "Comment=You can configure the appearance of the panel here"
+msgstr "Comment=Тут Ви можете настро╖ти вигляд панел╕"
+
+#: kdebase/applnk/Settings/Applications/panel.desktop:4
+msgid "Keywords=kicker,panel,kpanel,taskbar,startbar,launchbar"
+msgstr ""
+"Keywords=kicker,панель,панель настройок,kpanel,смужка задач,панель запуску"
+
+#: kdebase/applnk/Settings/Desktop/.directory:1
+msgid "Name=Desktop"
+msgstr "Name=Робоч╕й ст╕л"
+
+#: kdebase/applnk/Settings/Desktop/advanced.desktop:1
+msgid "Name=Advanced"
+msgstr "Name=Розширене"
+
+#: kdebase/applnk/Settings/Desktop/advanced.desktop:2
+msgid "Comment=Advanced display settings"
+msgstr "Comment=Розширен╕ настройки д╕сплею"
+
+#: kdebase/applnk/Settings/Desktop/advanced.desktop:4
+msgid "Keywords=background,cache,transparency"
+msgstr "Keywords=тло,кеш,прозор╕сть"
+
+#: kdebase/applnk/Settings/Desktop/background.desktop:1
+msgid "Name=Background"
+msgstr "Name=Тло"
+
+#: kdebase/applnk/Settings/Desktop/background.desktop:2
+msgid "Comment=Background settings"
+msgstr "Comment=Настройк╕ тла"
+
+#: kdebase/applnk/Settings/Desktop/background.desktop:4
+msgid "Keywords=background,desktops,color,colour,image"
+msgstr "Keywords=тло,робочий ст╕л,desktop,кольор,зображення"
+
+#: kdebase/applnk/Settings/Desktop/borders.desktop:1
+msgid "Name=Borders"
+msgstr "Name=Рамки"
+
+#: kdebase/applnk/Settings/Desktop/borders.desktop:2
+msgid "Comment=Desktop Border Options"
+msgstr "Comment=Параметри рамки робочого столу"
+
+#: kdebase/applnk/Settings/Desktop/borders.desktop:4
+msgid "Keywords=borders,warp,desktops"
+msgstr "Keywords=границ╕,обвол╕кати,робочий ст╕л,desktop"
+
+#: kdebase/applnk/Settings/Desktop/colors.desktop:1
+msgid "Name=Colors"
+msgstr "Name=Кольори"
+
+#: kdebase/applnk/Settings/Desktop/colors.desktop:2
+msgid "Comment=Color settings"
+msgstr "Comment=Настройки кольор╕в"
+
+#: kdebase/applnk/Settings/Desktop/colors.desktop:4
+msgid "Keywords=colors,colours,scheme,contrast"
+msgstr "Keywords=кольори,схема,котраст"
+
+#: kdebase/applnk/Settings/Desktop/desktop.desktop:2
+msgid "Comment=You can customize the desktop here"
+msgstr "Comment=Тут Ви можете настро╖ти ваш робоч╕й ст╕л"
+
+msgid ""
+"Keywords=icons,desktop,colors,colors,font,font"
+"size,files,filenames,menu,popupmenu,k-menu,startmenu,windowlist,windows,deskt"
+"ops"
+msgstr ""
+"Keywords=п╕ктограми,робочий ст╕л,desktop,кольори,шрифт"
+"розм╕р,файли,╕мена файл╕в,меню,вспливаюче меню,k-menu,меню запуску,список в╕кон,"
+"в╕кна,робоч╕ столи"
+
+#: kdebase/applnk/Settings/Desktop/energy.desktop:1
+msgid "Name=Energy"
+msgstr "Name=Живлення"
+
+#: kdebase/applnk/Settings/Desktop/energy.desktop:2
+msgid "Comment=General energy settings"
+msgstr "Comment=Загальн╕ настройки живлення"
+
+#: kdebase/applnk/Settings/Desktop/energy.desktop:4
+msgid "Keywords=energy,saver,apm,acpi,timeout,blanking"
+msgstr "Keywords=живлення,збер╕гач,apm,acpi,таймаут,timeout,гас╕ння"
+
+#: kdebase/applnk/Settings/Desktop/fonts.desktop:1
+msgid "Name=Fonts"
+msgstr "Name=Шрифти"
+
+#: kdebase/applnk/Settings/Desktop/fonts.desktop:2
+msgid "Comment=Font settings"
+msgstr "Comment=Настройки шрифт╕в"
+
+#: kdebase/applnk/Settings/Desktop/fonts.desktop:4
+msgid "Keywords=fonts,font,font size,style,charset,panel,kicker,control panel"
+msgstr "Keywords=шрифти,шрифт,розм╕р шрифту,стиль,наб╕р символ╕в,панель,"
+"kicker,conrol panel,панель настройок"
+
+#: kdebase/applnk/Settings/Desktop/icons.desktop:1
+msgid "Name=Icons"
+msgstr "Name=П╕ктограми"
+
+#: kdebase/applnk/Settings/Desktop/icons.desktop:2
+msgid "Comment=Customize KDE Icons"
+msgstr "Comment=Настро╖ти п╕ктограми KDE"
+
+#: kdebase/applnk/Settings/Desktop/icons.desktop:4
+msgid "Keywords=icons,effects,size,hicolor,locolor"
+msgstr "Keywords=п╕ктограми,icons,ефекти,розм╕р,кольори"
+
+#: kdebase/applnk/Settings/Desktop/language.desktop:1
+msgid "Name=Language"
+msgstr "Name=Мова"
+
+#: kdebase/applnk/Settings/Desktop/language.desktop:2
+msgid "Comment=Language settings"
+msgstr "Comment=Настройки мови"
+
+#: kdebase/applnk/Settings/Desktop/language.desktop:4
+msgid "Keywords=language,translation,numbers,currency,time,date,formats"
+msgstr "Keywords=мова,переклад,номери,валюта,час,дата,формати"
+
+#: kdebase/applnk/Settings/Desktop/screensaver.desktop:1
+msgid "Name=Screensaver"
+msgstr "Name=Збер╕гач екрану"
+
+#: kdebase/applnk/Settings/Desktop/screensaver.desktop:2
+msgid "Comment=Screensaver settings"
+msgstr "Comment=Настройки збер╕гачу екрану"
+
+#: kdebase/applnk/Settings/Desktop/screensaver.desktop:4
+msgid "Keywords=screensavers"
+msgstr "Keywords=збер╕гач╕ екрану"
+
+#: kdebase/applnk/Settings/Desktop/style.desktop:1
+msgid "Name=Style"
+msgstr "Name=Стиль"
+
+#: kdebase/applnk/Settings/Desktop/style.desktop:2
+msgid "Comment=General style settings"
+msgstr "Comment=Загальн╕ настройки стилю"
+
+#: kdebase/applnk/Settings/Desktop/style.desktop:4
+msgid "Keywords=style,stykes,theme,themes,look"
+msgstr "Keywords=стиль,дизайн,тем,теми,вигляд,schema"
+
+#: kdebase/applnk/Settings/Information/.directory:1
+msgid "Name=Information"
+msgstr "Name=╤нформац╕я"
+
+#: kdebase/applnk/Settings/Information/devices.desktop:1
+msgid "Name=Devices"
+msgstr "Name=Пристро╖"
+
+#: kdebase/applnk/Settings/Information/devices.desktop:2
+msgid "Comment=Attached devices information"
+msgstr "Comment=╤нформац╕я щодо доданих пристро╖в"
+
+#: kdebase/applnk/Settings/Information/devices.desktop:4
+msgid "Keywords=dev,Devices,System Information,Information"
+msgstr "Keywords=пристро╖,╕нформац╕я,dev,devices,system-information,information"
+
+#: kdebase/applnk/Settings/Information/dma.desktop:1
+msgid "Name=DMA-Channels"
+msgstr "Name=DMA-канали"
+
+#: kdebase/applnk/Settings/Information/dma.desktop:2
+msgid "Comment=DMA information"
+msgstr "Comment=╤нформац╕я щодо DMA"
+
+#: kdebase/applnk/Settings/Information/dma.desktop:4
+msgid "Keywords=dma,DMA-Channels,System Information"
+msgstr "Keywords=dma,канал DMA,╕нформац╕я,system-information,information"
+
+#: kdebase/applnk/Settings/Information/interrupts.desktop:1
+msgid "Name=Interrupts"
+msgstr "Name=Переривання"
+
+#: kdebase/applnk/Settings/Information/interrupts.desktop:2
+msgid "Comment=Interrupt information"
+msgstr "Comment=╤нформац╕я щодо перериваннь"
+
+#: kdebase/applnk/Settings/Information/interrupts.desktop:4
+msgid "Keywords=Interrupts,IRQ,System Information"
+msgstr "Keywords=переривання,interrupts,irq,system-information"
+
+#: kdebase/applnk/Settings/Information/ioports.desktop:1
+msgid "Name=IO-Ports"
+msgstr "Name=Порти вводу/виводу"
+
+#: kdebase/applnk/Settings/Information/ioports.desktop:2
+msgid "Comment=IO-port information"
+msgstr "Comment=╤нформац╕я щодо порт╕в вводу/виводу"
+
+msgid ""
+"Keywords=IO,I/O,IO-Ports,I/O-Ports,Ports,IO-Range,I/O-Range,System "
+"Information"
+msgstr ""
+"Keywords=порти вводу/виводу,io,i/o,io-ports,i/p-ports,ports,"
+"system information"
+
+#: kdebase/applnk/Settings/Information/memory.desktop:1
+msgid "Name=Memory"
+msgstr "Name=Пам'ять"
+
+#: kdebase/applnk/Settings/Information/memory.desktop:2
+msgid "Comment=Memory information"
+msgstr "Comment=╤нформац╕я щодо пам'ят╕"
+
+msgid ""
+"Keywords=Memory,RAM,Virtual memory,Physical memory,Shared memory,Swap,System "
+"Information"
+msgstr ""
+"Keywords=пам'ять,RAM,в╕ртуальна пам'ять,ф╕зична пам'ять,розпод╕льна "
+"пам'ять,своп╕нг,swap,╕нформац╕я,система"
+
+#: kdebase/applnk/Settings/Information/partitions.desktop:1
+msgid "Name=Partitions"
+msgstr "Name=Розд╕ли диску"
+
+#: kdebase/applnk/Settings/Information/partitions.desktop:2
+msgid "Comment=Partition information"
+msgstr "Comment=╤нформац╕я щодо розд╕л╕в диску"
+
+#: kdebase/applnk/Settings/Information/partitions.desktop:4
+msgid "Keywords=Partitions,Harddrive,HD,System Information"
+msgstr "Keywords=розд╕ли диску,жорсткий диск,HD,системна ╕нформац╕я"
+
+#: kdebase/applnk/Settings/Information/pci.desktop:1
+msgid "Name=PCI"
+msgstr "Name=Шина PCI"
+
+#: kdebase/applnk/Settings/Information/pci.desktop:2
+msgid "Comment=PCI information"
+msgstr "Comment=╤нформац╕я щодо шини PCI"
+
+#: kdebase/applnk/Settings/Information/pci.desktop:4
+msgid "Keywords=PCI,PCI-Devices,PCI-Bus,System Information"
+msgstr "Keywords=PCI,пристро╖ PCI,шина PCI,системна ╕нформац╕я"
+
+#: kdebase/applnk/Settings/Information/processor.desktop:1
+msgid "Name=Processor"
+msgstr "Name=Процесор"
+
+#: kdebase/applnk/Settings/Information/processor.desktop:2
+msgid "Comment=Processor information"
+msgstr "Comment=╤нформац╕я щодо процесора"
+
+#: kdebase/applnk/Settings/Information/processor.desktop:4
+msgid "Keywords=Processor,CPU,FPU,MHz,System Information"
+msgstr "Keywords=процесор,CPU,FPU,МГц,системна ╕нформац╕я"
+
+#: kdebase/applnk/Settings/Information/scsi.desktop:1
+msgid "Name=SCSI"
+msgstr "Name=SCSI"
+
+#: kdebase/applnk/Settings/Information/scsi.desktop:2
+msgid "Comment=SCSI information"
+msgstr "Comment=╤нформац╕я щодо SCSI"
+
+#: kdebase/applnk/Settings/Information/scsi.desktop:4
+msgid "Keywords=SCSI,SCSI-Bus,System Information"
+msgstr "Keywords=SCSI,шина SCSI,системна ╕нформац╕я"
+
+#: kdebase/applnk/Settings/Information/smbstatus.desktop:1
+msgid "Name=Samba Status"
+msgstr "Name=Стан Samba"
+
+#: kdebase/applnk/Settings/Information/smbstatus.desktop:2
+msgid "Comment=Samba status monitor"
+msgstr "Comment=Мон╕тор стану Samba"
+
+#: kdebase/applnk/Settings/Information/smbstatus.desktop:4
+msgid "Keywords=SMB,SAMBA,Windows network,LAN,System Information"
+msgstr "Keywords=smb,samba,мережа Windows,lan,ЛОМ,системна ╕нформац╕я"
+
+#: kdebase/applnk/Settings/Information/sound.desktop:1
+msgid "Name=Sound"
+msgstr "Name=Звукова карта"
+
+#: kdebase/applnk/Settings/Information/sound.desktop:2
+msgid "Comment=Sound information"
+msgstr "Comment=╤нформац╕я щодо звуково╖ карти"
+
+#: kdebase/applnk/Settings/Information/sound.desktop:4
+msgid "Keywords=Sound,Audio,Soundcard,Midi,OSS,System Information"
+msgstr "Keywords=звук,ауд╕о,sound,audio,звукова карта,midi,oss,системна ╕нформац╕я"
+
+#: kdebase/applnk/Settings/Information/xserver.desktop:1
+msgid "Name=X-Server"
+msgstr "Name=X-Server"
+
+#: kdebase/applnk/Settings/Information/xserver.desktop:2
+msgid "Comment=X-Server information"
+msgstr "Comment=╤нформац╕я щодо X-Server"
+
+#: kdebase/applnk/Settings/Information/xserver.desktop:4
+msgid "Keywords=X,X-Server,XServer,XFree86,Display,System Information"
+msgstr "Keywords=x,x11,x-server,xserver,xfree86,display,системна ╕нформац╕я"
+
+#: kdebase/applnk/Settings/Input_Devices/.directory:1
+msgid "Name=Input Devices"
+msgstr "Name=Пристро╖ вводу"
+
+#: kdebase/applnk/Settings/Input_Devices/keyboard.desktop:1
+msgid "Name=Keyboard"
+msgstr "Name=Клав╕атура"
+
+#: kdebase/applnk/Settings/Input_Devices/keyboard.desktop:2
+msgid "Comment=Keyboard settings"
+msgstr "Comment=Настройки клав╕атури"
+
+#: kdebase/applnk/Settings/Input_Devices/keyboard.desktop:4
+msgid "Keywords=Keyboard,Keyboard repeat,Click volume,Input Devices"
+msgstr "Keywords=клав╕атура,повтор клав╕ш,гучн╕сть клацань,вх╕дн╕ пристро╖"
+
+#: kdebase/applnk/Settings/Input_Devices/kikbd.desktop:1
+msgid "Name=Keyboard Layout"
+msgstr "Name=Розкладка клав╕атури"
+
+#: kdebase/applnk/Settings/Input_Devices/kikbd.desktop:2
+msgid "Comment=International keyboard layout"
+msgstr "Comment=М╕жнародна розкладка клав╕атури"
+
+#: kdebase/applnk/Settings/Input_Devices/kikbd.desktop:4
+msgid "Keywords=Keyboard,Keyboard layout,Input Devices"
+msgstr "Keywords=клав╕атура,розкладка клав╕атури,вх╕дн╕ пристро╖"
+
+#: kdebase/applnk/Settings/Input_Devices/mouse.desktop:1
+msgid "Name=Mouse"
+msgstr "Name=Миша"
+
+#: kdebase/applnk/Settings/Input_Devices/mouse.desktop:2
+msgid "Comment=Mouse settings"
+msgstr "Comment=Настройки миши"
+
+msgid ""
+"Keywords=Mouse,Mouse acceleration,Mouse threshold,Mouse "
+"buttons,Selection,Cursor Shape,Input Devices"
+msgstr ""
+"Keywords=Миша,Mouse,прискорення миши,пор╕г миши,кнопки "
+"миши,виб╕р,форма курсору,вх╕дн╕ пристро╖"
+
+#: kdebase/applnk/Settings/Keys/.directory:1
+msgid "Name=Key Bindings"
+msgstr "Name=Прив'язка клав╕ш"
+
+#: kdebase/applnk/Settings/Keys/global.desktop:1
+msgid "Name=Global Keys"
+msgstr "Name=Глобальн╕ клав╕ши"
+
+#: kdebase/applnk/Settings/Keys/global.desktop:2
+msgid "Comment=Configuration of global keybindings"
+msgstr "Comment=Настройка глобальних прив'язок клав╕ш"
+
+#: kdebase/applnk/Settings/Keys/global.desktop:4
+msgid "Keywords=Keys,Global key bindings,Key sheme,Key bindings"
+msgstr "Keywords=клав╕ши,глобальн╕ прив'язки клав╕ш,схема клав╕ш,прив'язка клав╕ш"
+
+#: kdebase/applnk/Settings/Keys/standard.desktop:1
+msgid "Name=Standard Keys"
+msgstr "Name=Стандартн╕ клавиши"
+
+#: kdebase/applnk/Settings/Keys/standard.desktop:2
+msgid "Comment=Configuration of standard keys"
+msgstr "Comment=Настройка стандартних клав╕ш"
+
+#: kdebase/applnk/Settings/Keys/standard.desktop:4
+msgid "Keywords=Keys,Standard key bindings,Key bindings"
+msgstr "Keywords=клав╕ши,стандартн╕ клав╕ши,прив'язка клав╕ш"
+
+#: kdebase/applnk/Settings/Network/.directory:1
+msgid "Name=Network"
+msgstr "Name=Мережа"
+
+#: kdebase/applnk/Settings/Network/cookies.desktop:1
+msgid "Name=Cookies"
+msgstr ""
+
+#: kdebase/applnk/Settings/Network/cookies.desktop:2
+msgid "Comment=You can configure your Cookie configuration here"
+msgstr ""
+
+#: kdebase/applnk/Settings/Network/cookies.desktop:4
+msgid "Keywords=Cookies,Browsing,Internet,WWW,Network"
+msgstr ""
+
+#: kdebase/applnk/Settings/Network/ebrowsing.desktop:1
+msgid "Name=Enhanced Browsing"
+msgstr "Name=Перегляд з розширеними можливостями"
+
+#: kdebase/applnk/Settings/Network/ebrowsing.desktop:2
+msgid "Comment=You can configure Enhanced Browsing here"
+msgstr "Comment=Тут ви можете настро╖ти перегляд з розширеними можливостями"
+
+msgid ""
+"Keywords=Enhanced Browsing,Browsing,WWW,Internet,Internet Keywords,Internet "
+"Filters,Network"
+msgstr ""
+"Keywords=розширений перегляд,пергляд,Browsing,WWW,╤нтернет,Internet,"
+"ключов╕ слова ╤нтернет,ф╕льтри,мережа"
+
+#: kdebase/applnk/Settings/Network/proxy.desktop:1
+msgid "Name=Proxies"
+msgstr "Name=Прокс╕-сервери"
+
+#: kdebase/applnk/Settings/Network/proxy.desktop:2
+msgid "Comment=You can configure your proxy server configuration here"
+msgstr "Comment=Тут Ви можете настро╖ти Ваш проскс╕-сервер"
+
+#: kdebase/applnk/Settings/Network/proxy.desktop:4
+msgid "Keywords=Proxy,Proxy server,WWW,Internet,Browsing,HTTP,FTP,Network"
+msgstr "Keywords=прокс╕,прокс╕-сервер,www,╤нтернет,перегдядати,http,ftp,мережа"
+
+#: kdebase/applnk/Settings/Network/smb.desktop:1
+msgid "Name=SMB"
+msgstr "Name=SMB"
+
+#: kdebase/applnk/Settings/Network/smb.desktop:2
+msgid "Comment=You can configure your SMB configuration here"
+msgstr "Comment=Тут Ви можете настро╖ти Ваш SMB-сервер"
+
+#: kdebase/applnk/Settings/Network/smb.desktop:4
+msgid "Keywords=SMB,SAMBA,SMB client,Windows network,LAN,Network"
+msgstr "Keywords=smb,samba,кл╕╓нт smb,мережа windows,ЛОМ,LAN,мережа"
+
+#: kdebase/applnk/Settings/Network/useragent.desktop:1
+msgid "Name=User Agent"
+msgstr "Name=Агент користувача"
+
+msgid ""
+"Comment=You can control what your Browser's \"User Agent\" is reported as "
+"here"
+msgstr ""
+"Comment=Ви можете настро╖ти як зв╕ту╓ Агент користувача для Переглядача"
+
+#: kdebase/applnk/Settings/Network/useragent.desktop:4
+msgid "Keywords=User Agent,Browser,Internet,WWW,Network"
+msgstr "Keywords=агент користувача,переглядач,програма ╤нтернет,browser,"
+"internet,www,мережа"
+
+#: kdebase/applnk/Settings/Sound/arts.desktop:1
+msgid "Name=Soundserver"
+msgstr "Name=Сервер звуку"
+
+#: kdebase/applnk/Settings/Sound/arts.desktop:2
+msgid "Comment=Soundserver Configuration"
+msgstr "Comment=Конф╕гурац╕я сервер╕в звуку"
+
+#: kdebase/applnk/Settings/Sound/arts.desktop:4
+msgid "Keywords=aRts,Soundserver,artsd,Audio,Sound"
+msgstr "Keywords=aRts,soundserver,сервер звуку,artsd,ауд╕о,звук,audio,sound"
+
+#: kdebase/applnk/Settings/Sound/knotify.desktop:1
+msgid "Name=System Notifications"
+msgstr "Name=Системн╕ пов╕домлення"
+
+#: kdebase/applnk/Settings/Sound/knotify.desktop:2
+msgid "Comment=System Notification Configuration"
+msgstr "Comment=Конф╕гурац╕я системних пов╕домлень"
+
+#: kdebase/applnk/Settings/Sound/knotify.desktop:4
+msgid "Keywords=System sounds,Audio,Sound,Notify,Alerts,Notification"
+msgstr "Keywords=системн╕ звуки,ауд╕о,audio,звук,sound,пов╕домлення,попередження"
+
+#: kdebase/applnk/Settings/Sound/syssound.desktop:1
+msgid "Name=System Sounds"
+msgstr "Name=Системн╕ звуки"
+
+#: kdebase/applnk/Settings/Sound/syssound.desktop:2
+msgid "Comment=System Sound Configuration"
+msgstr "Comment=Настройка системних звук╕в"
+
+#: kdebase/applnk/Settings/Sound/syssound.desktop:4
+msgid "Keywords=System sounds,Audio,Sound"
+msgstr "Keywords=системн╕ звуки,ауд╕о,звук,audio,sound"
+
+#: kdebase/applnk/Settings/System/.directory:1
+msgid "Name=System"
+msgstr "Name=Система"
+
+#: kdebase/applnk/Settings/System/clock.desktop:1
+msgid "Name=Date & Time"
+msgstr "Name=Дата ╕ час"
+
+#: kdebase/applnk/Settings/System/clock.desktop:2
+msgid "Comment=Date and time settings"
+msgstr "Comment=Настройки дати ╕ часу"
+
+#: kdebase/applnk/Settings/System/clock.desktop:4
+msgid "Keywords=date,time"
+msgstr "Keywords=дата,час"
+
+#: kdebase/applnk/Settings/System/email.desktop:1
+msgid "Name=E-mail"
+msgstr "Name=Електронна пошта"
+
+#: kdebase/applnk/Settings/System/email.desktop:2
+msgid "Comment=Configure your identity, e-mail addresses, mail servers, etc."
+msgstr "Comment=Настройте Ваше ╕м'я, адресу електронно╖ пошти, поштов╕ сервери ╕ т.╕."
+
+msgid ""
+"Keywords=EMail,Mail,E-Mail,Address,Email server,IMAP,POP3,Local "
+"mailbox,mailbox"
+msgstr ""
+"Keywords=email,електронна пошта,e-mail,адреса,сервер електронно╖ пошти,"
+"email-server,imap,pop3,локальний,поштова скринька,mailbox"
+
+#: kdebase/applnk/Settings/System/filetypes.desktop:1
+msgid "Name=File Associations"
+msgstr "Name=Асоц╕ац╕╖ файл╕в"
+
+#: kdebase/applnk/Settings/System/filetypes.desktop:2
+msgid "Comment=File Association Configuration"
+msgstr "Comment=Настройка асоц╕ац╕╖ файл╕в"
+
+#: kdebase/applnk/Settings/System/filetypes.desktop:4
+msgid "Keywords=Filetypes,File Assosciations,Mime Types,File Patterns,Files"
+msgstr ""
+"Keywords=типи файл╕в,ассоц╕ац╕╖ файл╕в,типи MIME,MIME,шаблони файл╕в,файли"
+
+#: kdebase/applnk/Settings/System/odbc.desktop:1
+msgid "Name=ODBC"
+msgstr "Name=ODBC"
+
+#: kdebase/applnk/Settings/System/odbc.desktop:2
+msgid "Comment=ODBC database interface configuration"
+msgstr "Comment=Настройка ╕нтерфейс╕в ODBC"
+
+#: kdebase/applnk/Settings/System/odbc.desktop:4
+msgid "Keywords=ODBC,Database"
+msgstr "Keywords=ODBC,база даних"
+
+#: kdebase/applnk/Settings/System/passwords.desktop:1
+msgid "Name=Passwords"
+msgstr "Name=Парол╕"
+
+#: kdebase/applnk/Settings/System/passwords.desktop:2
+msgid "Comment=Password settings"
+msgstr "Comment=Настройк╕ парол╕в"
+
+#: kdebase/applnk/Settings/System/passwords.desktop:4
+msgid "Keywords=Passwords,kdesu"
+msgstr "Keywords=Парол╕,kdesu"
+
+#: kdebase/applnk/Settings/Windows/.directory:1
+msgid "Name=Window Behavior"
+msgstr "Name=Повед╕нка в╕кон"
+
+#: kdebase/applnk/Settings/Windows/actions.desktop:1
+msgid "Name=Actions"
+msgstr "Name=Д╕╖"
+
+#: kdebase/applnk/Settings/Windows/actions.desktop:2
+msgid "Comment=Configure window manager actions"
+msgstr "Comment=Настро╖ти повед╕нку менеджера в╕кон"
+
+#: kdebase/applnk/Settings/Windows/advanced.desktop:2
+msgid "Comment=Advanced window properties"
+msgstr "Comment=Розширен╕ властивост╕ в╕кон"
+
+#: kdebase/applnk/Settings/Windows/buttons.desktop:1
+msgid "Name=Buttons"
+msgstr "Name=Кнопки"
+
+#: kdebase/applnk/Settings/Windows/buttons.desktop:2
+msgid "Comment=Arrangement of window buttons"
+msgstr "Comment=Розташування кнопок на в╕кнах"
+
+#: kdebase/applnk/Settings/Windows/mouse.desktop:2
+msgid "Comment=Configure mouse bindings"
+msgstr "Comment=Настройка миши"
+
+#: kdebase/applnk/Settings/Windows/titlebar.desktop:1
+msgid "Name=Titlebar"
+msgstr "Name=Титульна смужка"
+
+#: kdebase/applnk/Settings/Windows/titlebar.desktop:2
+msgid "Comment=Titlebar appearance"
+msgstr "Comment=Вигляд титульно╖ смужки"
+
+#: kdebase/applnk/System/Arrange.desktop:1
+msgid "Name=Cleanup Icons"
+msgstr "Name=Очистити п╕ктограми"
+
+#: kdebase/applnk/System/Arrange.desktop:2
+msgid "Comment=Neatly arrange desktop icons"
+msgstr "Comment=Розташувати п╕ктограми робочого столу"
+
+#: kdebase/applnk/System/Kfontmanager.desktop:1
+msgid "Name=Font Manager"
+msgstr "Name=Менджер шрифт╕в"
+
+#: kdebase/applnk/System/Kfontmanager.desktop:2
+msgid "Comment=Choose which fonts are available to KDE"
+msgstr "Comment=Вибер╕ть шрифти дозволен╕ для KDE"
+
+#: kdebase/applnk/System/kappfinder.desktop:1
+msgid "Name=Appfinder"
+msgstr "Name=Пошук програм"
+
+#: kdebase/applnk/System/kappfinder.desktop:2
+msgid "Comment=Find and integrate 3rd party (non-KDE) applications"
+msgstr "Comment=Знайти та ╕нтегрувати програми 3╖ сторони (не-KDE)"
+
+#: kdebase/applnk/System/konquerorsu.desktop:1
+msgid "Name=File Manager (Super User Mode)"
+msgstr "Name=Менеджер файл╕в (режим адм╕н╕стратора)"
+
+#: kdebase/applnk/System/konquerorsu.desktop:2
+msgid "Comment=File manager with root privileges"
+msgstr "Comment=Менеджер файл╕в з пр╕велег╕ями адм╕стратора"
+
+#: kdebase/applnk/System/konsole.desktop:1
+msgid "Name=Terminal"
+msgstr "Name=Терм╕нал"
+
+#: kdebase/applnk/System/konsole.desktop:2
+msgid "Comment=Terminal emulator window"
+msgstr "Comment=Емуляц╕я терм╕налу"
+
+#: kdebase/applnk/System/konsolesu.desktop:1
+msgid "Name=Terminal (Super User Mode)"
+msgstr "Name=Терм╕нал (режим адм╕н╕стратора)"
+
+#: kdebase/applnk/System/konsolesu.desktop:2
+msgid "Comment=Terminal window with root privileges"
+msgstr "Comment=В╕кно терм╕налу з пр╕велег╕ями адм╕стратора"
+
+#: kdebase/applnk/Trash.desktop:1
+msgid "Name=Trashcan"
+msgstr "Name=См╕тник"
+
+#: kdebase/applnk/Trash.desktop:2
+msgid "Comment=This folder contains files to be deleted"
+msgstr "Comment=Цей каталог м╕стить файли, що будуть витерт╕"
+
+#: kdebase/applnk/Utilities/.directory:1
+msgid "Name=Utilities"
+msgstr "Name=Утил╕ти"
+
+#: kdebase/applnk/Utilities/.directory:2
+msgid "Comment=Utilities"
+msgstr "Comment=Утил╕ти"
+
+#: kdebase/applnk/Utilities/kinfobrowser.desktop:1
+msgid "Name=Info Browser"
+msgstr "Name=╤нфо-переглядач"
+
+#: kdebase/applnk/Utilities/kinfobrowser.desktop:2
+msgid "Comment=Browse GNU \"info\" formatted files"
+msgstr "Comment=Переглянути GNU \"info\" файли"
+
+#: kdebase/debian/debian.desktop:1
+msgid "Name=Debian Applications"
+msgstr "Name=Програми Debian"
+
+#: kdebase/kappfinder/apps/.directory:1
+msgid "Name=Non-KDE Apps"
+msgstr "Name=Програми не з KDE"
+
+#: kdebase/kappfinder/apps/Development/.directory:1
+msgid "Name=Development"
+msgstr "Name=Розробка"
+
+#: kdebase/kappfinder/apps/Development/ddd.desktop:1
+msgid "Name=DDD"
+msgstr "Name=DDD (В╕дладчик)"
+
+#: kdebase/kappfinder/apps/Development/ddd.desktop:2
+msgid "Comment=Data Display Debugger"
+msgstr "Comment=В╕дладчик \"Data Display Debugger\""
+
+#: kdebase/kappfinder/apps/Development/dlgedit.desktop:1
+msgid "Name=DlgEdit"
+msgstr "Name=DlgEdit"
+
+#: kdebase/kappfinder/apps/Development/dlgedit.desktop:2
+msgid "Comment=Qt Dialog Editor"
+msgstr "Comment=Редактор д╕алог╕в для Qt"
+
+#: kdebase/kappfinder/apps/Editors/.directory:1
+msgid "Name=Editors"
+msgstr "Name=Редактори"
+
+#: kdebase/kappfinder/apps/Editors/emacs.desktop:1
+msgid "Name=Emacs"
+msgstr "Name=Emacs"
+
+#: kdebase/kappfinder/apps/Editors/emacs.desktop:2
+msgid "Comment=Emacs"
+msgstr "Comment=Emacs"
+
+#: kdebase/kappfinder/apps/Editors/gvim.desktop:1
+msgid "Name=Vi IMproved"
+msgstr "Name=Vi IMproved"
+
+#: kdebase/kappfinder/apps/Editors/gvim.desktop:2
+msgid "Comment=Powerful vi editor"
+msgstr "Comment=Потужний редактор vi"
+
+#: kdebase/kappfinder/apps/Editors/lemacs.desktop:1
+msgid "Name=LEmacs"
+msgstr "Name=LEmacs"
+
+#: kdebase/kappfinder/apps/Editors/lemacs.desktop:2
+msgid "Comment=Lucid Emacs"
+msgstr "Comment=Lucid Emacs"
+
+#: kdebase/kappfinder/apps/Editors/nedit.desktop:1
+msgid "Name=Nedit"
+msgstr "Name=Nedit"
+
+#: kdebase/kappfinder/apps/Editors/nedit.desktop:2
+msgid "Comment=Nedit"
+msgstr "Comment=Nedit"
+
+#: kdebase/kappfinder/apps/Editors/xedit.desktop:1
+msgid "Name=X Editor"
+msgstr "Name=X Editor"
+
+#: kdebase/kappfinder/apps/Editors/xedit.desktop:2
+msgid "Comment=X Editor"
+msgstr "Comment=X Editor"
+
+#: kdebase/kappfinder/apps/Editors/xemacs.desktop:1
+msgid "Name=X Emacs"
+msgstr "Name=X Emacs"
+
+#: kdebase/kappfinder/apps/Editors/xemacs.desktop:2
+msgid "Comment=X Emacs"
+msgstr "Comment=X Emacs"
+
+#: kdebase/kappfinder/apps/Graphics/acroread.desktop:1
+msgid "Name=Acrobat Reader"
+msgstr "Name=Acrobat Reader"
+
+#: kdebase/kappfinder/apps/Graphics/acroread.desktop:2
+msgid "Comment=PDF document viewer"
+msgstr "Comment=Переглядач документ╕в PDF"
+
+#: kdebase/kappfinder/apps/Graphics/gimp.desktop:1
+msgid "Name=Gimp"
+msgstr "Name=GIMP"
+
+#: kdebase/kappfinder/apps/Graphics/gimp.desktop:2
+msgid "Comment=The GNU Image Manipulation Program"
+msgstr "Comment=GNU-програма для редагування зображень"
+
+#: kdebase/kappfinder/apps/Graphics/xfig.desktop:1
+msgid "Name=Xfig"
+msgstr "Name=Xfig"
+
+#: kdebase/kappfinder/apps/Graphics/xfig.desktop:2
+msgid "Comment=Xfig drawing application"
+msgstr "Comment=Програма для утворення зображень Xfig"
+
+#: kdebase/kappfinder/apps/Graphics/xpaint.desktop:1
+msgid "Name=X Paint"
+msgstr "Name=X Paint"
+
+#: kdebase/kappfinder/apps/Graphics/xpaint.desktop:2
+msgid "Comment=Xpaint painting application"
+msgstr "Comment=Програма для утворення зображень Xpaint"
+
+#: kdebase/kappfinder/apps/Graphics/xv.desktop:1
+msgid "Name=XV"
+msgstr "Name=XV"
+
+#: kdebase/kappfinder/apps/Graphics/xv.desktop:2
+msgid "Comment=Advanced Picture Viewer"
+msgstr "Comment=Потужний переглядач зображень"
+
+#: kdebase/kappfinder/apps/Internet/arena.desktop:1
+msgid "Name=Arena"
+msgstr "Name=Arena"
+
+#: kdebase/kappfinder/apps/Internet/arena.desktop:2
+msgid "Comment=Arena WWW Browser"
+msgstr "Comment=Arena переглядач WWW"
+
+#: kdebase/kappfinder/apps/Internet/coolmail.desktop:1
+msgid "Name=Coolmail"
+msgstr "Name=Coolmail"
+
+#: kdebase/kappfinder/apps/Internet/coolmail.desktop:2
+msgid "Comment=Coolmail"
+msgstr "Comment=Coolmail"
+
+#: kdebase/kappfinder/apps/Internet/netscape.desktop:1
+msgid "Name=Netscape"
+msgstr "Name=Netscape"
+
+#: kdebase/kappfinder/apps/Internet/netscape.desktop:2
+msgid "Comment=Netscape Navigator"
+msgstr "Comment=╤нтернет переглядач Netscape Navigator"
+
+#: kdebase/kappfinder/apps/Internet/pine.desktop:1
+msgid "Name=Pine"
+msgstr "Name=Pine"
+
+#: kdebase/kappfinder/apps/Internet/pine.desktop:2
+msgid "Comment=PINE is not ELM"
+msgstr "Comment=Програма електронно╖ пошти PINE"
+
+#: kdebase/kappfinder/apps/Internet/xbiff.desktop:1
+msgid "Name=X Biff"
+msgstr "Name=X-Biff"
+
+#: kdebase/kappfinder/apps/Internet/xbiff.desktop:2
+msgid "Comment=Mail notification"
+msgstr "Comment=Спов╕щення про нову пошту"
+
+#: kdebase/kappfinder/apps/Internet/xfmail.desktop:1
+msgid "Name=XFMail"
+msgstr "Name=XFMail"
+
+#: kdebase/kappfinder/apps/Internet/xfmail.desktop:2
+msgid "Comment=XFMail Mailer"
+msgstr "Comment=Програма електронно╖ пошти XFMail"
+
+#: kdebase/kappfinder/apps/Internet/xftp.desktop:1
+msgid "Name=X FTP"
+msgstr "Name=X-FTP"
+
+#: kdebase/kappfinder/apps/Internet/xftp.desktop:2
+msgid "Comment=Graphical FTP Client"
+msgstr "Comment=Граф╕чний FTP-кл╕╓нт"
+
+#: kdebase/kappfinder/apps/Multimedia/xmms.desktop:1
+msgid "Name=XMMS"
+msgstr "Name=XMMS"
+
+#: kdebase/kappfinder/apps/Multimedia/xmms.desktop:2
+msgid "Comment=X Multimedia System"
+msgstr "Comment=Мультимед╕а система для X"
+
+#: kdebase/kappfinder/apps/Office/.directory:1
+msgid "Name=Office"
+msgstr "Name=Оф╕с"
+
+#: kdebase/kappfinder/apps/Office/Applix.desktop:1
+msgid "Name=Applix"
+msgstr "Name=Applix"
+
+#: kdebase/kappfinder/apps/Office/Applix.desktop:2
+msgid "Comment=ApplixWare Office Suite"
+msgstr "Comment=Оф╕сний пакет програм ApplixWare"
+
+#: kdebase/kappfinder/apps/Office/XAcc.desktop:1
+msgid "Name=xacc"
+msgstr "Name=xacc"
+
+#: kdebase/kappfinder/apps/Office/XAcc.desktop:2
+msgid "Comment=Quicken Clone"
+msgstr "Comment=Вар╕ант Quicken"
+
+#: kdebase/kappfinder/apps/Office/XsLite.desktop:1
+msgid "Name=XsLite"
+msgstr "Name=XsLite"
+
+#: kdebase/kappfinder/apps/Office/XsLite.desktop:2
+msgid "Comment=Spread Sheet"
+msgstr "Comment=Електронна таблиця"
+
+#: kdebase/kappfinder/apps/Office/plan.desktop:1
+msgid "Name=Plan"
+msgstr "Name=Plan"
+
+#: kdebase/kappfinder/apps/Office/plan.desktop:2
+msgid "Comment=Calendar Manager"
+msgstr "Comment=Менеджер календаря"
+
+#: kdebase/kappfinder/apps/ScreenSavers/.directory:1
+msgid "Name=ScreenSavers"
+msgstr "Name=Збер╕гач╕ екрану"
+
+#: kdebase/kappfinder/apps/ScreenSavers/Ant.desktop:1
+msgid "Name=Ant"
+msgstr "Name=Т╕тка"
+
+#: kdebase/kappfinder/apps/ScreenSavers/Atlantis.desktop:1
+msgid "Name=Atlantis (GL)"
+msgstr "Name=Atlantis (GL)"
+
+#: kdebase/kappfinder/apps/ScreenSavers/Braid.desktop:1
+msgid "Name=Braid"
+msgstr ""
+
+#: kdebase/kappfinder/apps/ScreenSavers/Bubble3d.desktop:1
+msgid "Name=Bubble 3D (GL)"
+msgstr "Name=Blasen 3D (GL)"
+
+#: kdebase/kappfinder/apps/ScreenSavers/Bubbles.desktop:1
+msgid "Name=Bubbles"
+msgstr "Name=Бульбашки"
+
+#: kdebase/kappfinder/apps/ScreenSavers/Cage.desktop:1
+msgid "Name=Cage (GL)"
+msgstr "Name=Кл╕тка (GL)"
+
+#: kdebase/kappfinder/apps/ScreenSavers/Compass.desktop:1
+msgid "Name=Compass"
+msgstr "Name=Компас"
+
+#: kdebase/kappfinder/apps/ScreenSavers/Coral.desktop:1
+msgid "Name=Coral"
+msgstr "Name=Корал"
+
+#: kdebase/kappfinder/apps/ScreenSavers/Crystal.desktop:1
+msgid "Name=Crystal"
+msgstr "Name=Кристал"
+
+#: kdebase/kappfinder/apps/ScreenSavers/Cynosure.desktop:1
+msgid "Name=Cynosure"
+msgstr "Name=Пров╕дна з╕рка"
+
+#: kdebase/kappfinder/apps/ScreenSavers/Drift.desktop:1
+msgid "Name=Drift"
+msgstr "Name=Дрейф"
+
+#: kdebase/kappfinder/apps/ScreenSavers/Fadeplot.desktop:1
+msgid "Name=Fade Plot"
+msgstr "Name=Зибуч╕ п╕ски"
+
+#: kdebase/kappfinder/apps/ScreenSavers/Flag.desktop:1
+msgid "Name=Flag"
+msgstr "Name=Прапор"
+
+#: kdebase/kappfinder/apps/ScreenSavers/Flow.desktop:1
+msgid "Name=Flow"
+msgstr "Name=Пот╕к"
+
+#: kdebase/kappfinder/apps/ScreenSavers/GLPlanet.desktop:1
+msgid "Name=GL Planet (GL)"
+msgstr "Name=Планета (GL)"
+
+#: kdebase/kappfinder/apps/ScreenSavers/Galaxy.desktop:1
+msgid "Name=Galaxy"
+msgstr "Name=Галактика"
+
+#: kdebase/kappfinder/apps/ScreenSavers/Gears.desktop:1
+msgid "Name=Gears (GL)"
+msgstr "Name=Пристро╖ (GL)"
+
+#: kdebase/kappfinder/apps/ScreenSavers/Goop.desktop:1
+msgid "Name=Goop"
+msgstr ""
+
+#: kdebase/kappfinder/apps/ScreenSavers/Grav.desktop:1
+msgid "Name=Gravity"
+msgstr "Name=Притягнення"
+
+#: kdebase/kappfinder/apps/ScreenSavers/Hopalong.desktop:1
+msgid "Name=Hopalong"
+msgstr ""
+
+#: kdebase/kappfinder/apps/ScreenSavers/Hypercube.desktop:1
+msgid "Name=Hypercube"
+msgstr "Name=Г╕перкуб"
+
+#: kdebase/kappfinder/apps/ScreenSavers/Ifs.desktop:1
+msgid "Name=Iterated-function-system Images"
+msgstr ""
+
+#: kdebase/kappfinder/apps/ScreenSavers/Imsmap.desktop:1
+msgid "Name=Fractal Maps"
+msgstr "Name=Фрактали"
+
+#: kdebase/kappfinder/apps/ScreenSavers/Interference.desktop:1
+msgid "Name=Interference"
+msgstr "Name=╤нтерференц╕я"
+
+#: kdebase/kappfinder/apps/ScreenSavers/Julia.desktop:1
+msgid "Name=Julia"
+msgstr "Name=Юл╕я"
+
+#: kdebase/kappfinder/apps/ScreenSavers/Kaleidescope.desktop:1
+msgid "Name=Kaleidescope"
+msgstr "Name=Калейдоскоп"
+
+#: kdebase/kappfinder/apps/ScreenSavers/Kumppa.desktop:1
+msgid "Name=Kumppa"
+msgstr "Name=Кумппа"
+
+#: kdebase/kappfinder/apps/ScreenSavers/LMorph.desktop:1
+msgid "Name=Morphing Lines"
+msgstr "Name=Аморфн╕ л╕н╕╖"
+
+#: kdebase/kappfinder/apps/ScreenSavers/Lament.desktop:1
+msgid "Name=Lament (GL)"
+msgstr "Name=Ламент (GL)"
+
+#: kdebase/kappfinder/apps/ScreenSavers/Lightning.desktop:1
+msgid "Name=Lightning"
+msgstr "Name=Блискавка"
+
+#: kdebase/kappfinder/apps/ScreenSavers/Moenius.desktop:1
+msgid "Name=Moebius (GL)"
+msgstr "Name=Мьоб╕ус (GL)"
+
+#: kdebase/kappfinder/apps/ScreenSavers/Penrose.desktop:1
+msgid "Name=Penrose"
+msgstr "Name=Пенроуз"
+
+#: kdebase/kappfinder/apps/ScreenSavers/Phosphor.desktop:1
+msgid "Name=Phosphor"
+msgstr "Name=Фосфор"
+
+#: kdebase/kappfinder/apps/ScreenSavers/Pulsar.desktop:1
+msgid "Name=Pulsar (GL)"
+msgstr "Name=Пульсар (GL)"
+
+#: kdebase/kappfinder/apps/ScreenSavers/Rubik.desktop:1
+msgid "Name=Rubik Cube (GL)"
+msgstr "Name=Куб╕к Руб╕ка (GL)"
+
+#: kdebase/kappfinder/apps/ScreenSavers/Sonar.desktop:1
+msgid "Name=Sonar"
+msgstr "Name=Ехолот"
+
+#: kdebase/kappfinder/apps/ScreenSavers/Sproingies.desktop:1
+msgid "Name=Sproingies (GL)"
+msgstr ""
+
+#: kdebase/kappfinder/apps/ScreenSavers/Stairs.desktop:1
+msgid "Name=Stairs (GL)"
+msgstr "Name=Сходинки (GL)"
+
+#: kdebase/kappfinder/apps/ScreenSavers/Starfish.desktop:1
+msgid "Name=Starfish"
+msgstr "Name=Морська з╕рка"
+
+#: kdebase/kappfinder/apps/ScreenSavers/Strange.desktop:1
+msgid "Name=Strange"
+msgstr "Name=Дивина"
+
+#: kdebase/kappfinder/apps/ScreenSavers/Superquadrics.desktop:1
+msgid "Name=Superquadrics (GL)"
+msgstr "Name=Суперквадрат (GL)"
+
+#: kdebase/kappfinder/apps/ScreenSavers/Swirl.desktop:1
+msgid "Name=Swirl"
+msgstr "Name=Журчання"
+
+#: kdebase/kappfinder/apps/ScreenSavers/T3d.desktop:1
+msgid "Name=Time 3D"
+msgstr "Name=Трим╕рний час"
+
+#: kdebase/kappfinder/apps/ScreenSavers/Triangle.desktop:1
+msgid "Name=Triangle"
+msgstr "Name=Трикутник"
+
+#: kdebase/kappfinder/apps/ScreenSavers/Vines.desktop:1
+msgid "Name=Vines"
+msgstr "Name=Л╕ани"
+
+#: kdebase/kappfinder/apps/ScreenSavers/Worm.desktop:1
+msgid "Name=Worm"
+msgstr "Name=Черв'як"
+
+#: kdebase/kappfinder/apps/ScreenSavers/XFlame.desktop:1
+msgid "Name=XFlame"
+msgstr "Name=XFlame"
+
+#: kdebase/kappfinder/apps/ScreenSavers/XJack.desktop:1
+msgid "Name=XJack"
+msgstr "Name=XJack"
+
+#: kdebase/kappfinder/apps/ScreenSavers/XPipes.desktop:1
+msgid "Name=Pipes - another (GL)"
+msgstr "Name=╤нш╕ труби (GL)"
+
+#: kdebase/kappfinder/apps/System/sam.desktop:1
+msgid "Name=SAM System-Administration"
+msgstr "Name=Менеджер системи SAM"
+
+#: kdebase/kappfinder/apps/System/sam.desktop:2
+msgid "Comment=System Administration Manager for HP-UX"
+msgstr "Comment=Менеджер системи HP-UX"
+
+#: kdebase/kappfinder/apps/System/xosview.desktop:1
+msgid "Name=X osview"
+msgstr "Name=X osview"
+
+#: kdebase/kappfinder/apps/System/xosview.desktop:2
+msgid "Comment=System Monitor"
+msgstr "Comment=Мон╕тор системи"
+
+#: kdebase/kappfinder/apps/Toys/.directory:1
+msgid "Name=Toys"
+msgstr "Name=╤грашки"
+
+#: kdebase/kappfinder/apps/Toys/xeyes.desktop:1
+msgid "Name=X Eyes"
+msgstr "Name=Оч╕ X"
+
+#: kdebase/kappfinder/apps/Toys/xeyes.desktop:2
+msgid "Comment=X Eyes"
+msgstr "Comment=Оч╕ X"
+
+#: kdebase/kappfinder/apps/Toys/xpinguin.desktop:1
+msgid "Name=Tux"
+msgstr "Name=Tux"
+
+#: kdebase/kappfinder/apps/Toys/xpinguin.desktop:2
+msgid "Comment=Tux, the Linux mascot"
+msgstr "Comment=Tux, логотип Linux"
+
+#: kdebase/kappfinder/apps/Utilities/jar.desktop:1
+msgid "Name=Java Archiver"
+msgstr "Name=Арх╕ватор Java"
+
+#: kdebase/kappfinder/apps/Utilities/jar.desktop:2
+msgid "Comment=Runs java archives files"
+msgstr "Comment=Запуска╓ файли Java-арх╕в╕в"
+
+#: kdebase/kappfinder/apps/Utilities/passwd.desktop:1
+msgid "Name=Password"
+msgstr "Name=Пароль"
+
+#: kdebase/kappfinder/apps/Utilities/passwd.desktop:2
+msgid "Comment=Changes your password"
+msgstr "Comment=Зм╕ню╓ Ваш пароль"
+
+#: kdebase/kappfinder/apps/Utilities/xcalc.desktop:1
+msgid "Name=X Calc"
+msgstr "Name=X Calc"
+
+#: kdebase/kappfinder/apps/Utilities/xcalc.desktop:2
+msgid "Comment=Simple Calculator"
+msgstr "Comment=Простий калькулятор"
+
+#: kdebase/kappfinder/apps/Utilities/xclipboard.desktop:1
+msgid "Name=X Clipboard"
+msgstr "Name=Буфер обм╕ну X"
+
+#: kdebase/kappfinder/apps/Utilities/xclipboard.desktop:2
+msgid "Comment=View contents of X clipboard"
+msgstr "Comment=Переглянути зм╕ст буфер обм╕ну X"
+
+#: kdebase/kappfinder/apps/Utilities/xclock.desktop:1
+msgid "Name=X Clock"
+msgstr "Name=X Clock"
+
+#: kdebase/kappfinder/apps/Utilities/xclock.desktop:2
+msgid "Comment=The X clock"
+msgstr "Comment=Годинник для X"
+
+#: kdebase/kappfinder/apps/Utilities/xconsole.desktop:1
+msgid "Name=X Console"
+msgstr "Name=X Console"
+
+#: kdebase/kappfinder/apps/Utilities/xconsole.desktop:2
+msgid "Comment=View console messages"
+msgstr "Comment=Переглянути пов╕домлення консол╕"
+
+#: kdebase/kappfinder/apps/Utilities/xload.desktop:1
+msgid "Name=X Load"
+msgstr "Name=X Load"
+
+#: kdebase/kappfinder/apps/Utilities/xload.desktop:2
+msgid "Comment=Monitors system load"
+msgstr "Comment=Стежить за завантаженням системи"
+
+#: kdebase/kappfinder/apps/Utilities/xterm.desktop:1
+msgid "Name=X Terminal"
+msgstr "Name=X Terminal"
+
+#: kdebase/kappfinder/apps/Utilities/xterm.desktop:2
+msgid "Comment=X Terminal"
+msgstr "Comment=X-Терм╕нал"
+
+#: kdebase/kappfinder/apps/WordProcessing/.directory:1
+msgid "Name=Word Processing"
+msgstr "Name=Текстовий процесор"
+
+#: kdebase/kappfinder/apps/WordProcessing/WordPerfect.desktop:1
+msgid "Name=WordPerfect"
+msgstr "Name=WordPerfect"
+
+#: kdebase/kappfinder/apps/WordProcessing/WordPerfect.desktop:2
+msgid "Comment=WordPerfect Word Processor"
+msgstr "Comment=Текстовий процесор WordPerfect"
+
+#: kdebase/kappfinder/apps/WordProcessing/acroread.desktop:2
+msgid "Comment=Reader for Acrobat documents"
+msgstr "Comment=Читач файл╕в Acrobat-PDF"
+
+#: kdebase/kappfinder/apps/WordProcessing/ghostview.desktop:1
+msgid "Name=GhostView"
+msgstr "Name=GhostView"
+
+#: kdebase/kappfinder/apps/WordProcessing/ghostview.desktop:2
+msgid "Comment=Postscript Viewer"
+msgstr "Comment=Переглядач PostScript"
+
+#: kdebase/kappfinder/apps/WordProcessing/gv.desktop:1
+msgid "Name=GV"
+msgstr "Name=GV"
+
+#: kdebase/kappfinder/apps/WordProcessing/lyx.desktop:1
+msgid "Name=Lyx"
+msgstr "Name=Lyx"
+
+#: kdebase/kappfinder/apps/WordProcessing/lyx.desktop:2
+msgid "Comment=The lyx text processor"
+msgstr "Comment=Текстовий процесор LyX"
+
+#: kdebase/kappfinder/apps/WordProcessing/xdvi.desktop:1
+msgid "Name=X DVI"
+msgstr "Name=X DVI"
+
+#: kdebase/kappfinder/apps/WordProcessing/xdvi.desktop:2
+msgid "Comment=DVI Viewer"
+msgstr "Comment=Переглядач DVI"
+
+#: kdebase/kappfinder/apps/WordProcessing/xpdf.desktop:1
+msgid "Name=X PDF"
+msgstr "Name=X PDF"
+
+#: kdebase/kappfinder/apps/WordProcessing/xpdf.desktop:2
+msgid "Comment=PDF Viewer"
+msgstr "Comment=Переглядач PDF"
+
+#: kdebase/kcontrol/locale/default/entry.desktop:1
+msgid "Name=English US"
+msgstr "Name=Англ╕йська (США)"
+
+#: kdebase/kcontrol/themes/kthememgr.desktop:1
+msgid "Name=Theme Manager"
+msgstr "Name=Менеджер тем"
+
+#: kdebase/kcontrol/themes/kthememgr.desktop:2
+msgid "Comment=Manager for Desktop Themes"
+msgstr "Comment=Менеджер для тем робочого столу"
+
+#: kdebase/kdesktop/init/Templates/Device.desktop:1
+msgid "Name=File System Device"
+msgstr "Name=Пристр╕й файлово╖ системи"
+
+#: kdebase/kdesktop/init/Templates/FtpURL.desktop:1
+msgid "Name=FTP URL"
+msgstr "Name=FTP URL"
+
+#: kdebase/kdesktop/init/Templates/MimeType.desktop:1
+msgid "Name=Mime Type"
+msgstr "Name=Тип MIME"
+
+#: kdebase/kdesktop/init/Templates/Program.desktop:1
+msgid "Name=Application"
+msgstr "Name=Програма"
+
+#: kdebase/kdesktop/init/Templates/URL.desktop:1
+msgid "Name=Internet Address (URL)"
+msgstr "Name=Адреса в ╤нтернет (URL)"
+
+#: kdebase/kdesktop/init/Templates/WWWURL.desktop:1
+msgid "Name=World Wide Web URL"
+msgstr "Name=World Wide Web URL"
+
+#: kdebase/kdesktop/patterns/fish.desktop:2
+msgid "Comment=Fish Net"
+msgstr "Comment=Рибальська с╕тка"
+
+#: kdebase/kdesktop/patterns/flowers.desktop:2
+msgid "Comment=Flowers"
+msgstr "Comment=Кв╕ти"
+
+#: kdebase/kdesktop/patterns/night-rock.desktop:2
+msgid "Comment=Night Rock by Tigert"
+msgstr "Name=Н╕чн╕ скел╕ Тай╜ерта"
+
+#: kdebase/kdesktop/patterns/pavement.desktop:2
+msgid "Comment=Pavement"
+msgstr ""
+
+#: kdebase/kdesktop/patterns/rattan.desktop:2
+msgid "Comment=Rattan"
+msgstr ""
+
+#: kdebase/kdesktop/patterns/stonewall2.desktop:2
+msgid "Comment=Stonewall 2 by Tigert"
+msgstr "Name=Кам'яна ст╕на 2 Тай╜ерта"
+
+#: kdebase/kdesktop/patterns/triangles.desktop:2
+msgid "Comment=Triangles"
+msgstr "Comment=Трикутники"
+
+#: kdebase/kdesktop/programs/xearth.desktop:2
+msgid "Comment=XEarth by Kirk Johnson"
+msgstr "Comment=XEarth К╕рка Джонсона"
+
+#: kdebase/kdesktop/programs/xglobe.desktop:2
+msgid "Comment=XGlobe by Thorsten Scheuermann"
+msgstr "Comment=XGlobe Торстена Шо╓рмана"
+
+#: kdebase/kdewizard/data/kdedevel.desktop:1
+msgid "Name=developer.kde.org"
+msgstr "Name=developer.kde.org"
+
+#: kdebase/kdewizard/data/kdeftp.desktop:1
+msgid "Name=ftp.kde.org"
+msgstr "Name=ftp.kde.org"
+
+#: kdebase/kdewizard/data/kdewww.desktop:1
+msgid "Name=www.kde.org"
+msgstr "Name=www.kde.org"
+
+#: kdebase/kdewizard/data/printer.desktop:1
+msgid "Name=Printer"
+msgstr "Name=Принтер"
+
+#: kdebase/kdewizard/kdewizard.desktop:1
+msgid "Name=KDE Configuration Wizard"
+msgstr "Name=Майстер конф╕гурац╕╖ KDE"
+
+#: kdebase/kdewizard/kdewizard.desktop:2
+msgid "Comment="
+msgstr "Comment="
+
+#: kdebase/khelpcenter/khelpcenter.desktop:2
+msgid "Comment=The KDE Help Center"
+msgstr "Comment=Центр дов╕док KDE"
+
+#: kdebase/khelpcenter/plugins/Tutorials/.directory:1
+msgid "Name=Tutorials"
+msgstr "Name=П╕дручники"
+
+#: kdebase/khelpcenter/plugins/Tutorials/.directory:2
+msgid "Comment=Tutorial and introduction documents."
+msgstr "Comment=П╕дручники та ознайомч╕ документи"
+
+#: kdebase/khelpcenter/plugins/Tutorials/quickstart.kdelnk:1
+msgid "Name=Quickstart Guide"
+msgstr "Name=Вказ╕вки для швидкого старту"
+
+#: kdebase/khelpcenter/plugins/Tutorials/quickstart.kdelnk:2
+msgid "Comment=KDE quickstart guid."
+msgstr "Comment=Вказ╕вки для швидкого старту."
+
+#: kdebase/kicker/applets/kpager/kpagerapplet.desktop:1
+msgid "Name=Desktop Pager"
+msgstr "Name=Перемикач робочих стол╕в"
+
+#: kdebase/kicker/applets/kpager/kpagerapplet.desktop:2
+msgid "Comment=Manage your windows"
+msgstr "Comment=Настройте Ваш╕ в╕кна"
+
+#: kdebase/kicker/browserapplnk/Home.desktop:1
+msgid "Name=Home"
+msgstr "Name=Д╕м"
+
+#: kdebase/kicker/browserapplnk/Home.desktop:2
+msgid "Comment=Personal Files"
+msgstr "Comment=Особист╕ файли"
+
+#: kdebase/kicker/browserapplnk/KDE.desktop:1
+msgid "Name=KDE"
+msgstr "Name=KDE"
+
+#: kdebase/kicker/browserapplnk/KDE.desktop:2
+msgid "Comment=KDE Installation Folder"
+msgstr "Comment=Тека ╕нсталяц╕╖ KDE"
+
+#: kdebase/kicker/browserapplnk/Root.desktop:1
+msgid "Name=Root"
+msgstr "Name=Кор╕нь"
+
+#: kdebase/kicker/browserapplnk/Root.desktop:2
+msgid "Comment=Root Folder"
+msgstr "Comment=Корнева тека"
+
+#: kdebase/kicker/internalplugin/date/kdateapplet.desktop:1
+msgid "Name=Kicker Date Applet"
+msgstr "Name=Kicker: м╕н╕програма ман╕пулювання датою"
+
+#: kdebase/kicker/internalplugin/kasbar/kasbarapplet.desktop:1
+msgid "Name=Kasbar Applet"
+msgstr ""
+
+#: kdebase/kicker/internalplugin/koolclock/koolclockapplet.desktop:1
+msgid "Name=KoolClock Applet"
+msgstr ""
+
+#: kdebase/kicker/internalplugin/minipager/kminipagerapplet.desktop:1
+msgid "Name=Kicker Pager Applet"
+msgstr ""
+
+#: kdebase/kicker/internalplugin/taskbar/ktaskbarapplet.desktop:1
+msgid "Name=Kicker Taskbar Applet"
+msgstr ""
+
+#: kdebase/kicker/personal.desktop:1
+msgid "Name=Personal"
+msgstr "Name=Особистий"
+
+#: kdebase/kikbd/i18nkeyb.desktop:1
+msgid "Name=International Keyboard"
+msgstr "Name=М╕жнародна клав╕атура"
+
+#: kdebase/kikbd/i18nkeyb.desktop:2
+msgid "Comment=International Keyboard"
+msgstr "Comment=М╕жнародна клав╕атура"
+
+#: kdebase/kikbd/maps/af.kimap:3
+msgid "Language=Afrikaans (on a US keyboard)"
+msgstr "Language=Африканська (на клав╕атур╕ США)"
+
+#: kdebase/kikbd/maps/ar.kimap:1
+msgid "Name=Arabic"
+msgstr "Name=Арабська"
+
+#: kdebase/kikbd/maps/be.kimap:3
+msgid "Language=Belgian(Dutch)"
+msgstr "Language=Бельг╕йська (Голландська)"
+
+#: kdebase/kikbd/maps/bg-bds.kimap:2
+msgid "Comment=Phonetic layout. Has English characters as alternate symbols."
+msgstr "Comment=Фонетичний розклад. Англ╕йськ╕ символи як альтернативн╕."
+
+#: kdebase/kikbd/maps/bg-bds.kimap:3
+msgid "Language=Bulgarian"
+msgstr "Language=Болгарська"
+
+#: kdebase/kikbd/maps/cf.kimap:1
+msgid "Name=Canadian French"
+msgstr "Name=Канадська французька"
+
+#: kdebase/kikbd/maps/csp.kimap:2
+msgid "Comment=Programmers Keyboard"
+msgstr "Comment=Програмерська клав╕атура"
+
+#: kdebase/kikbd/maps/csy.kimap:2
+msgid "Comment=Typewriter Keyboard (QWERTY)"
+msgstr "Comment=Клав╕атура дукарсько╖ машинки (QWERTY)"
+
+#: kdebase/kikbd/maps/csz.kimap:2
+msgid "Comment=Typewriter Keyboard (QWERTZ)"
+msgstr "Comment=Клав╕атура дукарсько╖ машинки (QWERTZ)"
+
+#: kdebase/kikbd/maps/de.kimap:2
+msgid "Comment=German Keyboard (Germany)"
+msgstr "Comment=Н╕мецька Клав╕атура (Н╕меччина)"
+
+#: kdebase/kikbd/maps/de_ch.kimap:1
+msgid "Name=German (Switzerland)"
+msgstr "Name=Н╕мецька (Швейцар╕я)"
+
+#: kdebase/kikbd/maps/de_ch.kimap:2
+msgid "Comment=German Keyboard (Switzerland)"
+msgstr "Comment=Н╕мецька клав╕атура (Швейцар╕я)"
+
+#: kdebase/kikbd/maps/dk.kimap:2
+msgid "Comment=Normal layout"
+msgstr "Comment=Нормальний розклад"
+
+#: kdebase/kikbd/maps/dv.kimap:1
+msgid "Name=English/Dvorak"
+msgstr "Name=Англ╕йська/Dvorak-розклад"
+
+#: kdebase/kikbd/maps/dva.kimap:1
+msgid "Name=English-Dvorak with accents"
+msgstr "Name=Англ╕йська/Dvorak-розклад з акцентами"
+
+msgid ""
+"Comment=Hellenic Keyboard (Latin-1 keysyms corresponding to ISO8859-7 "
+"indexes)"
+msgstr "Comment=Гальська клав╕атура (Клав╕атура типу Latin-1 яка в╕дпов╕да╓ ╕ндексам ISO8859-7)"
+
+#: kdebase/kikbd/maps/el7.kimap:2
+msgid "Comment=Hellenic Keyboard (standard ISO8859-7 keysyms)"
+msgstr "Comment=Гальська клав╕атура (стандартн╕ ISO8859-7 коди)"
+
+#: kdebase/kikbd/maps/en.kimap:1
+msgid "Name=English"
+msgstr "Name=Англ╕йська"
+
+#: kdebase/kikbd/maps/et-nodeadkeys.kimap:2
+msgid "Comment=Estonian layout without dead keys"
+msgstr "Comment=Естонський розклад без умляут╕в"
+
+#: kdebase/kikbd/maps/et-nodeadkeys.kimap:3
+msgid "Language=Estonian"
+msgstr "Language=Естонська"
+
+#: kdebase/kikbd/maps/et.kimap:2
+msgid "Comment=Estonian layout"
+msgstr "Comment=Естонський розклад"
+
+#: kdebase/kikbd/maps/fr_ch.kimap:1
+msgid "Name=French (Switzerland)"
+msgstr "Name=Французька (Швейцар╕я)"
+
+#: kdebase/kikbd/maps/fr_ch.kimap:2
+msgid "Comment=French Keyboard (Switzerland)"
+msgstr "Comment=Французький розклад (Швейцар╕я)"
+
+#: kdebase/kikbd/maps/hr.kimap:2
+msgid "Comment=Croatian keyboard layout"
+msgstr "Comment=Хорватський розклад клав╕атури"
+
+#: kdebase/kikbd/maps/hu-101.kimap:2
+msgid "Comment=Hungarian keyboard layout for keyboards with 101 keys."
+msgstr "Comment=Угорський розклад для клав╕атур з 101 клав╕шею."
+
+msgid ""
+"Comment=Hungarian _ALT_ keyboard layout. Basically the original UK layout "
+"plus hungarian accented characters via the ALT key."
+msgstr ""
+"Comment=Угорський _ALT_ розклад клав╕атури. Базу╓ться на розкладу UK "
+"плюс угорськ╕ акцентован╕ символи через клав╕шу ALT."
+
+#: kdebase/kikbd/maps/hu-alt.kimap:3
+msgid "Language=Hungarian"
+msgstr "Language=Угорська"
+
+msgid ""
+"Comment=Hungarian QWERTY keyboard layout. It's recomended the use of the "
+"Caps Lock emulation."
+msgstr ""
+"Comment=Угорський розклад клав╕атури QWERTY. Бажано використовувати "
+"емуляц╕ю Caps Lock."
+
+#: kdebase/kikbd/maps/it.kimap:2
+msgid "Comment=Italian Keyboard (Italy)"
+msgstr "Comment=╤тал╕йська клав╕атура (╤тал╕я)"
+
+#: kdebase/kikbd/maps/la.kimap:1
+msgid "Name=Spanish-Latin American"
+msgstr "Name=╤спанська (Латинська америка)"
+
+#: kdebase/kikbd/maps/lt.kimap:1
+msgid "Name=Lithuanian"
+msgstr "Name=Л╕товська"
+
+#: kdebase/kikbd/maps/lt_w.kimap:3
+msgid "Language=Lithuanian"
+msgstr "Language=Л╕товська"
+
+#: kdebase/kikbd/maps/no.kimap:1
+msgid "Name=Norwegian"
+msgstr "Name=Норвезька"
+
+#: kdebase/kikbd/maps/obsolete/el.kimap:3
+msgid "Language=Greek"
+msgstr "Language=Грецька"
+
+#: kdebase/kikbd/maps/pl.kimap:2
+msgid "Comment=Polish 'programmers' Keyboard"
+msgstr "Comment=Польська 'програмерська' клав╕атура"
+
+#: kdebase/kikbd/maps/plnew.kimap:2
+msgid "Comment=New \"programmer's\" keyboard"
+msgstr "Comment=Нова програмерська клав╕атура"
+
+#: kdebase/kikbd/maps/pt-acc.kimap:1
+msgid "Name=Portugues Acentos Minusculas"
+msgstr "Name=Португальска \"Acentos Minusculas\""
+
+#: kdebase/kikbd/maps/pt.kimap:1
+msgid "Name=Portugues"
+msgstr "Name=Португальска"
+
+msgid ""
+"Comment=Romanian keyboard layout \t(diacriticele sunt mapate pe "
+"ALTGR+[q,a,s,t,i] )"
+msgstr ""
+"Comment=Румунський розклад клав╕атури \t(diacriticele sunt mapate pe "
+"ALTGR+[q,a,s,t,i] )"
+
+msgid ""
+"Comment=The normal romanian keyboard layout. It's recomended the use of the "
+"Caps Lock emulation."
+msgstr ""
+"Comment=Стандартна румунська клав╕атура.  Бажано використовувати "
+"емуляц╕ю Caps Lock."
+
+#: kdebase/kikbd/maps/ru.kimap:2
+msgid "Comment=Has latin characters as alternate symbols."
+msgstr "Comment=Ма╓ латинськ╕ символи як альтернативн╕."
+
+#: kdebase/kikbd/maps/rum.kimap:2
+msgid "Comment=Microsoft layout. Has English characters as alternate symbols."
+msgstr "Comment=Розкладка Microsoft. Ма╓ англ╕йськ╕ символи як альтернативн╕."
+
+#: kdebase/kikbd/maps/ruw.kimap:2
+msgid "Comment=Has English characters as alternate symbols."
+msgstr "Comment=Ма╓ англ╕йськ╕ символи як альтернативн╕."
+
+#: kdebase/kikbd/maps/sl.kimap:2
+msgid "Comment=Slovenian keyboard"
+msgstr "Comment=Словенська клав╕атура"
+
+#: kdebase/kikbd/maps/sr.kimap:2
+msgid "Comment=Serbian keyboard layout (cyrillic)"
+msgstr "Comment=Сербський розклад клав╕атури (кириллиця)"
+
+#: kdebase/kikbd/maps/sr.kimap:3
+msgid "Language=Serbian"
+msgstr "Language=Сербська"
+
+#: kdebase/kikbd/maps/sr_YU.kimap:2
+msgid "Comment=Serbian (latin) keyboard layout"
+msgstr "Comment=Серьський (латинський) розклад клав╕атури"
+
+#: kdebase/kikbd/maps/ta.kimap:2
+msgid "Comment=This is a Tamil language keymap. Last update March 11, 2000."
+msgstr "Comment=Це там╕льський розклад клав╕ш. Останн╓ поновлювання 11 Березня 2000 р."
+
+#: kdebase/kikbd/maps/ta.kimap:3
+msgid "Language=Tamil"
+msgstr "Language=Там╕льська"
+
+#: kdebase/kikbd/maps/th.kimap:2
+msgid "Comment=This is a Thai language keymap. Last update March 14, 1999."
+msgstr "Comment=Це тайський розклад клав╕ш. Останн╓ поновлювання 14 Березня 1999 р."
+
+#: kdebase/kikbd/maps/trf.kimap:2
+msgid "Comment=Turkish F Keyboard (Turkey)"
+msgstr "Comment=Турецька F-клав╕атура (Туреччина)"
+
+#: kdebase/kikbd/maps/trf.kimap:3
+msgid "Language=Turkish"
+msgstr "Language=Турецька"
+
+#: kdebase/kikbd/maps/trq.kimap:2
+msgid "Comment=Turkish Q Keyboard (Turkey)"
+msgstr "Comment=Турецька Q-клав╕атура (Туреччина)"
+
+#: kdebase/kikbd/maps/ua.kimap:1
+msgid "Name=Ukrainian"
+msgstr "Name=Укра╖нська"
+
+#: kdebase/kikbd/maps/weu.kimap:1
+msgid "Name=European (west) on a US keyboard."
+msgstr "Name=Зах╕дно╓вропейська на клав╕атур╕ США."
+
+#: kdebase/konqueror/dirtree/.directory:1
+msgid "Name=FTP Servers"
+msgstr "Name=FTP-Сервери"
+
+#: kdebase/konqueror/dirtree/dirtree_profile.desktop:1
+msgid "Name=A Directory Tree and an Icon View"
+msgstr "Name=Вигляд структури каталог╕в з п╕ктограммами"
+
+#: kdebase/konqueror/dirtree/kde_ftp.desktop:1
+msgid "Name=KDE's FTP Server"
+msgstr "Name=FTP-сервер KDE"
+
+#: kdebase/konqueror/dirtree/konq_dirtree.desktop:2
+msgid "Comment=Directory Tree"
+msgstr "Comment=Структура каталог╕в"
+
+#: kdebase/konqueror/iconview/konq_iconview.desktop:2
+msgid "Comment=Icon View"
+msgstr "Comment=Вигляд п╕ктограммами"
+
+#: kdebase/konqueror/konq_metaview.desktop:2
+msgid "Comment=Meta View"
+msgstr "Comment=Мета-вигляд"
+
+#: kdebase/konqueror/konq_plugin.desktop:1
+msgid "Name=Konqueror Plugin"
+msgstr "Name=Модуль Konqueror"
+
+#: kdebase/konqueror/konqueror.desktop:2
+msgid "Comment=KDE File Manager & Web Browser"
+msgstr "Comment=KDE менеджер файл╕в та Web-переглядач"
+
+#: kdebase/konqueror/listview/konq_detailedlistview.desktop:2
+msgid "Comment=Detailed List View"
+msgstr "Comment=Детальний вигляд списком"
+
+#: kdebase/konqueror/listview/konq_textview.desktop:2
+msgid "Comment=Text View"
+msgstr "Comment=Текстовий вигляд"
+
+#: kdebase/konqueror/listview/konq_treeview.desktop:2
+msgid "Comment=Tree View"
+msgstr "Comment=Вигляд структури каталог╕в"
+
+#: kdebase/konsole/other/linux.desktop:1
+msgid "Name=Linux"
+msgstr "Name=Л╕нукс"
+
+#: kdebase/konsole/other/linux.desktop:2
+msgid "Comment=Linux Console"
+msgstr "Comment=Консоль Linux"
+
+#: kdebase/konsole/other/mc.desktop:1
+msgid "Name=MC"
+msgstr "Name=MC"
+
+#: kdebase/konsole/other/mc.desktop:2
+msgid "Comment=Midnight Commander"
+msgstr "Comment=Midnight Commander"
+
+#: kdebase/konsole/other/shell.desktop:1
+msgid "Name=Shell"
+msgstr "Name=Shell"
+
+#: kdebase/konsole/other/shell.desktop:2
+msgid "Comment=Shell"
+msgstr "Comment=Командна стр╕чка"
+
+#: kdebase/konsole/other/su.desktop:1
+msgid "Name=Administrator"
+msgstr "Name=Системний адм╕н╕стратор"
+
+#: kdebase/konsole/other/su.desktop:2
+msgid "Comment=Root Console"
+msgstr "Comment=Консоль системного адм╕н╕стратора"
+
+#: kdebase/konsole/src/x-konsole.desktop:2
+msgid "Comment=File to open a shell"
+msgstr "Comment=Файл, для в╕дкривання програмно╖ оболонки"
+
+#: kdebase/kwin/clients/b2/b2.desktop:1
+msgid "Name=B II"
+msgstr "Name=B II"
+
+#: kdebase/kwin/clients/kstep/kstep.desktop:1
+msgid "Name=KStep"
+msgstr "Name=KStep"
+
+#: kdebase/kwin/clients/kwmtheme/kwmtheme.desktop:1
+msgid "Name=KWM Theme"
+msgstr "Name=Тема KWM"
+
+#: kdebase/kwin/clients/laptop/laptop.desktop:1
+msgid "Name=Laptop"
+msgstr "Name=Моб╕льний компутер (лептоп)"
+
+#: kdebase/kwin/clients/riscos/riscos.desktop:1
+msgid "Name=RISC OS"
+msgstr "Name=RISC ОС"
+
+#: kdebase/l10n/at/entry.desktop:1
+msgid "Name=Austria"
+msgstr "Name=Австр╕я"
+
+#: kdebase/l10n/au/entry.desktop:1
+msgid "Name=Australia"
+msgstr "Name=Австрал╕я"
+
+#: kdebase/l10n/be/entry.desktop:1
+msgid "Name=Belgium"
+msgstr "Name=Бельг╕я"
+
+#: kdebase/l10n/bg/entry.desktop:1
+msgid "Name=Bulgaria"
+msgstr "Name=Болгар╕я"
+
+#: kdebase/l10n/br/entry.desktop:1
+msgid "Name=Brazil"
+msgstr "Name=Браз╕л╕я"
+
+#: kdebase/l10n/ch/entry.desktop:1
+msgid "Name=Switzerland"
+msgstr "Name=Швейцар╕я"
+
+#: kdebase/l10n/cs/entry.desktop:1
+msgid "Name=Czechia"
+msgstr "Name=Чех╕я"
+
+#: kdebase/l10n/de/entry.desktop:1
+msgid "Name=Germany"
+msgstr "Name=Н╕меччина"
+
+#: kdebase/l10n/dk/entry.desktop:1
+msgid "Name=Denmark"
+msgstr "Name=Дан╕я"
+
+#: kdebase/l10n/ee/entry.desktop:1
+msgid "Name=Estonia"
+msgstr "Name=Естон╕я"
+
+#: kdebase/l10n/eo/entry.desktop:1
+msgid "Name=Esperantoland"
+msgstr "Name=Есперанто"
+
+#: kdebase/l10n/es/entry.desktop:1
+msgid "Name=Spain"
+msgstr "Name=╤спан╕я"
+
+#: kdebase/l10n/fi/entry.desktop:1
+msgid "Name=Finland"
+msgstr "Name=Ф╕нлянд╕я"
+
+#: kdebase/l10n/fr/entry.desktop:1
+msgid "Name=France"
+msgstr "Name=Франц╕я"
+
+#: kdebase/l10n/gb/entry.desktop:1
+msgid "Name=United Kingdom"
+msgstr "Name=Великобритан╕я"
+
+#: kdebase/l10n/hu/entry.desktop:1
+msgid "Name=Hungary"
+msgstr "Name=Угорщина"
+
+#: kdebase/l10n/ie/entry.desktop:1
+msgid "Name=Ireland"
+msgstr "Name=╤рланд╕я"
+
+#: kdebase/l10n/il/entry.desktop:1
+msgid "Name=Israel"
+msgstr "Name=╤зра╕ль"
+
+#: kdebase/l10n/it/entry.desktop:1
+msgid "Name=Italy"
+msgstr "Name=╤тал╕я"
+
+#: kdebase/l10n/jp/entry.desktop:1
+msgid "Name=Japan"
+msgstr "Name=Япон╕я"
+
+#: kdebase/l10n/ko/entry.desktop:1
+msgid "Name=Korea"
+msgstr "Name=Корея"
+
+#: kdebase/l10n/nl/entry.desktop:1
+msgid "Name=Netherlands"
+msgstr "Name=Голланд╕я"
+
+#: kdebase/l10n/no/entry.desktop:1
+msgid "Name=Norway"
+msgstr "Name=Норвег╕я"
+
+#: kdebase/l10n/nz/entry.desktop:1
+msgid "Name=New Zealand"
+msgstr "Name=Нова зеланд╕я"
+
+#: kdebase/l10n/pl/entry.desktop:1
+msgid "Name=Poland"
+msgstr "Name=Польща"
+
+#: kdebase/l10n/pt/entry.desktop:1
+msgid "Name=Portugal"
+msgstr "Name=Португал╕я"
+
+#: kdebase/l10n/ro/entry.desktop:1
+msgid "Name=Romania"
+msgstr "Name=Румун╕я"
+
+#: kdebase/l10n/ru/entry.desktop:1
+msgid "Name=Russia"
+msgstr "Name=Рос╕я"
+
+#: kdebase/l10n/se/entry.desktop:1
+msgid "Name=Sweden"
+msgstr "Name=Швец╕я"
+
+#: kdebase/l10n/si/entry.desktop:1
+msgid "Name=Slovenia"
+msgstr "Name=Словен╕я"
+
+#: kdebase/l10n/tw/entry.desktop:1
+msgid "Name=Taiwan"
+msgstr "Name=Тайвань"
+
+#: kdebase/l10n/us/entry.desktop:1
+msgid "Name=United States of America"
+msgstr "Name=США"
+
+#: kdegames/kabalone/kabalone.desktop:1
+msgid "Name=Abalone"
+msgstr ""
+
+#: kdegames/kabalone/kabalone.desktop:2
+msgid "Comment=Play Abalone against computer"
+msgstr ""
+
+#: kdegames/kasteroids/kasteroids.desktop:1
+msgid "Name=Asteroids"
+msgstr "Name=Астеро╖ди"
+
+#: kdegames/kasteroids/kasteroids.desktop:2
+msgid "Comment=A little arcade game"
+msgstr ""
+
+#: kdegames/katomic/katomic.desktop:1
+msgid "Name=Atomic Entertainment"
+msgstr ""
+
+#: kdegames/katomic/katomic.desktop:2
+msgid "Comment=Build molecules in fewer moves possible"
+msgstr "Comment=Збудуйте молекули за найменшу к╕льк╕сть ход╕в"
+
+#: kdegames/kblackbox/kblackbox.desktop:1
+msgid "Name=BlackBox"
+msgstr "Name=Чорна коробка"
+
+#: kdegames/kblackbox/kblackbox.desktop:2
+msgid "Comment=A little logical game"
+msgstr "Comment=Маленька лог╕чна гра"
+
+#: kdegames/kjumpingcube/kjumpingcube.desktop:1
+msgid "Name=KJumpingCube"
+msgstr "Name=Стрибаюч╕й куб"
+
+#: kdegames/kjumpingcube/kjumpingcube.desktop:2
+msgid "Comment=Tactical Game"
+msgstr "Comment=Тактична гра"
+
+#: kdegames/kmahjongg/kmahjongg.desktop:1
+msgid "Name=Mahjongg"
+msgstr "Name=Махжонг"
+
+#: kdegames/kmahjongg/kmahjongg.desktop:2
+msgid "Comment=Smart mahjongg game"
+msgstr "Comment=Ц╕кава гра махжонг"
+
+#: kdegames/kmines/data/kmines.desktop:1
+msgid "Name=Minesweeper"
+msgstr "Name=Сапер"
+
+#: kdegames/kmines/data/kmines.desktop:2
+msgid "Comment=KDE replacement for xbombs"
+msgstr "Comment=KDE-верс╕я \"xbombs\""
+
+#: kdegames/konquest/konquest.desktop:1
+msgid "Name=Konquest"
+msgstr ""
+
+#: kdegames/konquest/konquest.desktop:2
+msgid "Comment=A game of galactic conquest"
+msgstr "Comment=Гра галактичного завоювання"
+
+#: kdegames/kpat/kpat.desktop:1
+msgid "Name=Patience"
+msgstr "Name=Терп╕ння"
+
+#: kdegames/kpat/kpat.desktop:2
+msgid "Comment=Several nice card games"
+msgstr "Comment=К╕лька ц╕кавих карточних ╕гор"
+
+#: kdegames/kpoker/kpoker.desktop:1
+msgid "Name=Poker"
+msgstr "Name=Покер"
+
+#: kdegames/kpoker/kpoker.desktop:2
+msgid "Comment=A simple video poker clone"
+msgstr "Comment=Простий вар╕ант в╕део-покеру"
+
+#: kdegames/kreversi/kreversi.desktop:1
+msgid "Name=Reversi"
+msgstr "Name=Реверс╕"
+
+#: kdegames/kreversi/kreversi.desktop:2
+msgid "Comment=Play Reversi against the computer"
+msgstr "Comment=З╕грайте у реверс╕ проти комп'ютера"
+
+#: kdegames/ksame/ksame.desktop:1
+msgid "Name=SameGame"
+msgstr "Name=Така соб╕ гра"
+
+#: kdegames/ksame/ksame.desktop:2
+msgid "Comment=A little board game"
+msgstr "Comment=Маленька гра на дошц╕"
+
+#: kdegames/kshisen/kshisen.desktop:1
+msgid "Name=Shisen-Sho"
+msgstr "Name=Ш╕сон-Шо"
+
+#: kdegames/kshisen/kshisen.desktop:2
+msgid "Comment=Shisen-Sho, a game similar to Mahjongg"
+msgstr "Comment=Ш╕сон-Шо схожа на Махжонг"
+
+#: kdegames/ksirtet/data/kfouleggs.desktop:1
+msgid "Name=Foul Eggs"
+msgstr ""
+
+#: kdegames/ksirtet/data/kfouleggs.desktop:2
+msgid "Comment=A game also known as Puyo Puyo"
+msgstr "Comment=Гра ще в╕дома як \"Пуйо Пуйо\""
+
+#: kdegames/ksirtet/data/ksirtet.desktop:1
+msgid "Name=Sirtet"
+msgstr "Name=З╕ртет"
+
+#: kdegames/ksirtet/data/ksirtet.desktop:2
+msgid "Comment=One more Tetris clone"
+msgstr "Comment=Ще один вар╕ант тетр╕су"
+
+#: kdegames/ksmiletris/ksmiletris.desktop:1
+msgid "Name=Smiletris"
+msgstr "Name=См╕летр╕с"
+
+#: kdegames/ksmiletris/ksmiletris.desktop:2
+msgid "Comment=Another Tetris-like game"
+msgstr "Comment=Ще один вар╕ант тетр╕су"
+
+#: kdegames/ksnake/ksnake.desktop:1
+msgid "Name=Snake Race"
+msgstr "Name=Зм╕╖н╕ перегони"
+
+#: kdegames/ksnake/ksnake.desktop:2
+msgid "Comment=Eat all items before the computer"
+msgstr "Comment=З'╖жте все скор╕ш н╕ж коп'ютер"
+
+#: kdegames/ksokoban/data/ksokoban.desktop:1
+msgid "Name=Sokoban"
+msgstr "Name=Сокобан"
+
+#: kdegames/ksokoban/data/ksokoban.desktop:2
+msgid "Comment=The japanese warehouse keeper game"
+msgstr "Comment=Японська гра в охоронця сховища"
+
+#: kdegames/kspaceduel/kspaceduel.desktop:1
+msgid "Name=SpaceDuel"
+msgstr "Name=Косм╕чна дуель"
+
+#: kdegames/kspaceduel/kspaceduel.desktop:2
+msgid "Comment=A two player arcade game"
+msgstr "Comment=Аркад для двох гравц╕в"
+
+#: kdegames/ktron/ktron.desktop:1
+msgid "Name=Tron"
+msgstr "Name=Трон"
+
+#: kdegames/ktron/ktron.desktop:2
+msgid "Comment=A race in the hyperspace"
+msgstr "Comment=Перегони у всесв╕т╕"
+
+#: kdegames/ktuberling/ktuberling.desktop:1
+msgid "Name=Potato Guy"
+msgstr "Name=Картопляний хлопець"
+
+#: kdegames/ktuberling/ktuberling.desktop:2
+msgid "Comment=A Potato Editor"
+msgstr "Comment=Редактор для весело╖ картопл╕"
+
+#: kdegames/ktuberling/mimetypes/x-tuberling.kdelnk:2
+msgid "Comment=Funny Potato"
+msgstr "Comment=Весела картопля"
+
+#: kdegraphics/katalog/katalog.desktop:1
+msgid "Name=Katalog"
+msgstr "Name=Каталог"
+
+#: kdegraphics/katalog/katalog.desktop:2
+msgid "Comment=Image Catalog"
+msgstr "Comment=Каталог образ╕в"
+
+#: kdegraphics/kdvi/kdvi.desktop:1
+msgid "Name=DVI Viewer"
+msgstr "Name=Переглядач DVI"
+
+#: kdegraphics/kdvi/kdvi.desktop:2
+msgid "Comment=TeX DVI File Viewer"
+msgstr "Comment=Переглядач файл╕в TeX-DVI"
+
+#: kdegraphics/kfax/fax-g3.desktop:2
+msgid "Comment=CCITT g3 fax"
+msgstr "Comment=Факс CCITT G3"
+
+#: kdegraphics/kfax/kfax.desktop:1
+msgid "Name=Fax Viewer"
+msgstr "Name=Переглядач Факс╕в"
+
+#: kdegraphics/kfax/kfax.desktop:2
+msgid "Comment=A Fax Viewer"
+msgstr "Comment=Переглядач Факс╕в"
+
+#: kdegraphics/kfract/kfract.desktop:1
+msgid "Name=Fractals Generator"
+msgstr "Name=Генератор фрактал╕в"
+
+#: kdegraphics/kfract/kfract.desktop:2
+msgid "Comment=Generator for fractals"
+msgstr "Comment=Генератор фрактал╕в"
+
+#: kdegraphics/kghostview/kghostview.desktop:1
+msgid "Name=PS/PDF Viewer"
+msgstr "Name=Переглядач PS/PDF"
+
+#: kdegraphics/kghostview/kghostview.desktop:2
+msgid "Comment=PostScript/PDF document viewer"
+msgstr "Comment=Переглядач документ╕в PostScript/PDF"
+
+#: kdegraphics/kiconedit/kiconedit.desktop:1
+msgid "Name=Icon Editor"
+msgstr "Name=Редактор п╕ктограм"
+
+#: kdegraphics/kiconedit/kiconedit.desktop:2
+msgid "Comment=An icon editor for creating KDE icons"
+msgstr "Comment=Редактор для створення п╕кторграм KDE"
+
+#: kdegraphics/kpaint/kpaint.desktop:1
+msgid "Name=Paint"
+msgstr "Name=Граф╕чний редактор Paint"
+
+#: kdegraphics/kpaint/kpaint.desktop:2
+msgid "Comment=A Simple Paint Program"
+msgstr "Comment=Простенька програма для малювання"
+
+#: kdegraphics/kpixmap2bitmap/kpixmap2bitmap.desktop:1
+msgid "Name=KDE Pixmap2Bitmap"
+msgstr "Name=KDE Pixmap2Bitmap"
+
+#: kdegraphics/kpixmap2bitmap/kpixmap2bitmap.desktop:2
+msgid "Comment=Separates color images into several mono bitmaps"
+msgstr "Comment=Розд╕ля╓ кольоров╕ образи у дек╕лька чорно-б╕лих"
+
+#: kdegraphics/ksnapshot/ksnapshot.desktop:1
+msgid "Name=Screen Capture"
+msgstr "Name=Захоплювач екрану"
+
+#: kdegraphics/ksnapshot/ksnapshot.desktop:2
+msgid "Comment=An applet for taking snapshots of the desktop"
+msgstr "Comment=Аплет для зн╕мк╕в робочого столу"
+
+#: kdegraphics/kview/kview.desktop:1
+msgid "Name=Image Viewer"
+msgstr "Name=Переглядач образ╕в"
+
+#: kdegraphics/kview/kview.desktop:2
+msgid "Comment=KDE Image Viewer"
+msgstr "Comment=Переглядач образ╕в KDE"
+
+#: kdegraphics/pixie/pixie.desktop:1
+msgid "Name=Pixie Image Viewer"
+msgstr "Name=Переглядач образ╕в Pixie"
+
+#: kdegraphics/pixie/pixie.desktop:2
+msgid "Comment=Pixie Image Viewer/Editor"
+msgstr "Comment=Переглядач та редактор образ╕в Pixie"
+
+#: kdegraphics/pixie/plugins/kde/kdeeffects.desktop:1
+msgid "Name=ImageForge KDE effects"
+msgstr "Name=Еффекти ImageForge (KDE)"
+
+#: kdegraphics/pixie/plugins/magick/magick.desktop:1
+msgid "Name=ImageForge ImageMagick effects"
+msgstr "Name=Еффекти ImageForge (ImageMagick)"
+
+#: kdelibs/khtml/khtml.desktop:2
+msgid "Comment=Embeddable HTML viewing component"
+msgstr "Comment=Встро╓ний копмонент-переглядач HTML"
+
+#: kdelibs/kio/http/http_cache_cleaner.desktop:2
+msgid "Comment=Cleans up old entries from the HTTP cache"
+msgstr "Comment=Вичища╓ страр╕ елементи з кешу HTTP"
+
+#: kdelibs/kio/kio_uiserver.desktop:2
+msgid "Comment=KDE's Progress Info UI server"
+msgstr "Comment=Сервер граф╕чного ╕нтерфейсу ╕нформац╕╖ про розвиток KDE"
+
+#: kdelibs/kparts/kpart.desktop:2
+msgid "Comment=KDE Component"
+msgstr "Comment=Компонент KDE"
+
+#: kdelibs/kstyles/themes/b2.themerc:1
+msgid "Name=B2/KDE"
+msgstr "Name=B2/KDE"
+
+#: kdelibs/kstyles/themes/b2.themerc:2
+msgid "Comment=B2/KDE unthemed style"
+msgstr "Comment=B2/KDE (стиль без теми)"
+
+#: kdelibs/kstyles/themes/b3.themerc:1
+msgid "Name=B3/KDE"
+msgstr "Name=B3/KDE"
+
+#: kdelibs/kstyles/themes/b3.themerc:2
+msgid "Comment=B3/Modification of B2"
+msgstr "Comment=B3 - модиф╕кац╕я B2"
+
+#: kdelibs/kstyles/themes/beos.themerc:1
+msgid "Name=Beos"
+msgstr "Name=Beos"
+
+#: kdelibs/kstyles/themes/beos.themerc:2
+msgid "Comment=Unthemed Beos-like style"
+msgstr "Comment=Стиль BeOS (без теми)"
+
+#: kdelibs/kstyles/themes/coldions.themerc:1
+msgid "Name=Cold Ions"
+msgstr "Name=Холодн╕ ╕они"
+
+#: kdelibs/kstyles/themes/coldions.themerc:2
+msgid "Comment=Cold Ions unthemed style"
+msgstr "Comment=Стиль \"холодн╕ ╕они\" без теми"
+
+#: kdelibs/kstyles/themes/highcolor.themerc:1
+msgid "Name=HighColor B2"
+msgstr "Name=B2 (64K кольор╕в)"
+
+#: kdelibs/kstyles/themes/highcolor.themerc:2
+msgid "Comment=B2/KDE highcolor style"
+msgstr "Comment=Стиль B2/KDE (64K кольор╕в)"
+
+#: kdelibs/kstyles/themes/kstep.themerc:1
+msgid "Name=KDE Step"
+msgstr "Name=KDE Step"
+
+#: kdelibs/kstyles/themes/kstep.themerc:2
+msgid "Comment=Unthemed Next-like style"
+msgstr "Comment=Стиль NeXT (без теми)"
+
+#: kdelibs/kstyles/themes/marble.themerc:1
+msgid "Name=Marble"
+msgstr "Name=Мармур"
+
+#: kdelibs/kstyles/themes/marble.themerc:2
+msgid "Comment=Light marble themed style"
+msgstr "Comment=Стиль св╕тлого мармуру"
+
+#: kdelibs/kstyles/themes/pillbox.themerc:1
+msgid "Name=Pillbox"
+msgstr ""
+
+#: kdelibs/kstyles/themes/pillbox.themerc:2
+msgid "Comment=Pillbox unthemed style."
+msgstr ""
+
+#: kdelibs/kstyles/themes/qtcde.themerc:1
+msgid "Name=Qt CDE"
+msgstr "Name=Qt CDE"
+
+#: kdelibs/kstyles/themes/qtcde.themerc:2
+msgid "Comment=Built-in unthemed CDE style"
+msgstr "Comment=Встро╓ний стиль CDE без теми"
+
+#: kdelibs/kstyles/themes/qtmotif.themerc:1
+msgid "Name=Qt Motif"
+msgstr "Name=Qt Motif"
+
+#: kdelibs/kstyles/themes/qtmotif.themerc:2
+msgid "Comment=Built-in unthemed Motif style"
+msgstr "Comment=Вбудований стиль Motif без теми"
+
+#: kdelibs/kstyles/themes/qtplatinum.themerc:1
+msgid "Name=Qt Platinum"
+msgstr "Name=Qt Platin"
+
+#: kdelibs/kstyles/themes/qtplatinum.themerc:2
+msgid "Comment=Built-in unthemed Platinum style"
+msgstr "Comment=Вбудований стиль Platin без теми"
+
+#: kdelibs/kstyles/themes/qtwindows.themerc:1
+msgid "Name=Qt Windows"
+msgstr "Name=Qt Windows"
+
+#: kdelibs/kstyles/themes/qtwindows.themerc:2
+msgid "Comment=Built-in unthemed Windows 9x style"
+msgstr "Comment=Вбудований стиль Windows 9x Platin без теми"
+
+#: kdelibs/kstyles/themes/system.themerc:2
+msgid "Comment=System themed style"
+msgstr "Comment=Системний стиль"
+
+#: kdelibs/kstyles/themes/systemalt.themerc:1
+msgid "Name=System-Series"
+msgstr "Name=Родина системних стилей"
+
+#: kdelibs/kstyles/themes/systemalt.themerc:2
+msgid "Comment=System Style 001"
+msgstr "Comment=Системний стиль 001"
+
+#: kdelibs/kstyles/themes/systemtest.themerc:1
+msgid "Name=Testing"
+msgstr "Name=Тест"
+
+#: kdelibs/kstyles/themes/systemtest.themerc:2
+msgid "Comment=Unstable development style"
+msgstr "Comment=Незавершений стиль"
+
+#: kdelibs/kwrite/kwrite_part.desktop:2
+msgid "Comment=A powerful text editor component"
+msgstr "Comment=Потужний компонент текстового редактору"
+
+#: kdelibs/mimetypes/application/gzip.desktop:2
+msgid "Comment=Gzip file"
+msgstr "Comment=Файл GZip"
+
+#: kdelibs/mimetypes/application/msexcel.desktop:2
+msgid "Comment=Microsoft Excel spreadsheet"
+msgstr "Comment=Таблиця MS Excel"
+
+#: kdelibs/mimetypes/application/mspowerpoint.desktop:2
+msgid "Comment=Microsoft PowerPoint document"
+msgstr "Comment=Документ MS PowerPoint"
+
+#: kdelibs/mimetypes/application/msword.desktop:2
+msgid "Comment=Microsoft Word document"
+msgstr "Comment=Документ MS Word"
+
+#: kdelibs/mimetypes/application/octet-stream.desktop:2
+msgid "Comment=Unknown"
+msgstr "Comment=Нев╕домий"
+
+#: kdelibs/mimetypes/application/pdf.desktop:2
+msgid "Comment=Pdf Document"
+msgstr "Comment=Документ PDF"
+
+#: kdelibs/mimetypes/application/postscript.desktop:2
+msgid "Comment=PostScript Document"
+msgstr "Comment=Документ PostScript"
+
+#: kdelibs/mimetypes/application/smil.desktop:2
+msgid "Comment=Synchronized Multimedia Integration Language"
+msgstr "Comment=Мова для синхронного сп╕лкування мультимед╕а"
+
+#: kdelibs/mimetypes/application/wordperfect.desktop:2
+msgid "Comment=WordPerfect document"
+msgstr "Comment=Документ WordPerfect"
+
+#: kdelibs/mimetypes/application/x-ar.desktop:2
+msgid "Comment=Ar Archives"
+msgstr "Comment=Арх╕ви AR"
+
+#: kdelibs/mimetypes/application/x-awk.desktop:2
+msgid "Comment=AWK script"
+msgstr "Comment=Скрипт AWK"
+
+#: kdelibs/mimetypes/application/x-bzip.desktop:2
+msgid "Comment=Bzip file"
+msgstr "Comment=Файл Bzip"
+
+#: kdelibs/mimetypes/application/x-bzip2.desktop:2
+msgid "Comment=Bzip2 file"
+msgstr "Comment=Файл Bzip"
+
+#: kdelibs/mimetypes/application/x-compress.desktop:2
+msgid "Comment=UNIX compressed file"
+msgstr "Comment=Стистнутий файл UNIX"
+
+#: kdelibs/mimetypes/application/x-core.desktop:2
+msgid "Comment=Program crash data"
+msgstr "Comment=Дан╕ щодо авар╕йного завершення програми"
+
+#: kdelibs/mimetypes/application/x-cpio.desktop:2
+msgid "Comment=CPIO archive"
+msgstr "Comment=Арх╕в CPIO"
+
+#: kdelibs/mimetypes/application/x-desktop.desktop:2
+msgid "Comment=Desktop config file"
+msgstr "Comment=Файл конф╕гурац╕╖ робочого столу"
+
+#: kdelibs/mimetypes/application/x-dvi.desktop:2
+msgid "Comment=TeX Device Independent file"
+msgstr "Comment=Файл TeX-DVI"
+
+#: kdelibs/mimetypes/application/x-executable.desktop:2
+msgid "Comment=Executable"
+msgstr "Comment=Програма"
+
+#: kdelibs/mimetypes/application/x-font.desktop:2
+msgid "Comment=Fonts"
+msgstr "Comment=Шрифти"
+
+#: kdelibs/mimetypes/application/x-jar.desktop:2
+msgid "Comment=Java Archive"
+msgstr "Comment=Арх╕в Java"
+
+#: kdelibs/mimetypes/application/x-java.desktop:2
+msgid "Comment=Java Class"
+msgstr "Comment=Клас Java"
+
+#: kdelibs/mimetypes/application/x-lha.desktop:2
+msgid "Comment=Lha Archives"
+msgstr "Comment=Арх╕в LHA"
+
+#: kdelibs/mimetypes/application/x-lzop.desktop:2
+msgid "Comment=Lzopped File"
+msgstr "Comment=Файл Lzopp"
+
+#: kdelibs/mimetypes/application/x-object.desktop:2
+msgid "Comment=Object Code"
+msgstr "Comment=Об'╓ктний код"
+
+#: kdelibs/mimetypes/application/x-perl.desktop:2
+msgid "Comment=PERL program"
+msgstr "Comment=Програма Perl"
+
+#: kdelibs/mimetypes/application/x-python-bytecode.desktop:2
+msgid "Comment=Python bytecode"
+msgstr "Comment=Байткод Python"
+
+#: kdelibs/mimetypes/application/x-python.desktop:2
+msgid "Comment=Python program"
+msgstr "Comment=Програма Python"
+
+#: kdelibs/mimetypes/application/x-rar.desktop:2
+msgid "Comment=Rar archive"
+msgstr "Comment=Арх╕в Rar"
+
+#: kdelibs/mimetypes/application/x-rpm.desktop:2
+msgid "Comment=RPM package file"
+msgstr "Comment=Пакет RPM"
+
+#: kdelibs/mimetypes/application/x-sharedlib.desktop:2
+msgid "Comment=Shared library"
+msgstr ""
+
+#: kdelibs/mimetypes/application/x-shellscript.desktop:2
+msgid "Comment=shell script"
+msgstr "Comment=Скрипт Shell"
+
+#: kdelibs/mimetypes/application/x-tar.desktop:2
+msgid "Comment=Tar archive"
+msgstr "Comment=Арх╕в Tar"
+
+#: kdelibs/mimetypes/application/x-tbz.desktop:2
+msgid "Comment=Bzipped Tar Archives"
+msgstr "Comment=Арх╕в Tar, стиснутий bzip"
+
+#: kdelibs/mimetypes/application/x-tex-gf.desktop:2
+msgid "Comment=Generic Font files"
+msgstr "Comment=Загальн╕ файли шрифт╕в"
+
+#: kdelibs/mimetypes/application/x-tex-pk.desktop:2
+msgid "Comment=Packed Font file"
+msgstr "Comment=Упакований файл шрифту"
+
+#: kdelibs/mimetypes/application/x-tgz.desktop:2
+msgid "Comment=Gzipped Tar Archive"
+msgstr "Comment=Арх╕в tar стиснутий gzip"
+
+#: kdelibs/mimetypes/application/x-trash.desktop:2
+msgid "Comment=Backup file"
+msgstr "Comment=Файл резервно╖ коп╕╖"
+
+#: kdelibs/mimetypes/application/x-troff-man.desktop:2
+msgid "Comment=Troff document with manpage macros"
+msgstr "Comment=Документ Troff з макросом стор╕нки дов╕дки"
+
+#: kdelibs/mimetypes/application/x-troff.desktop:2
+msgid "Comment=Troff document"
+msgstr "Comment=Документ Troff"
+
+#: kdelibs/mimetypes/application/x-tzo.desktop:2
+msgid "Comment=Lzopped Tar Archive"
+msgstr "Comment=Арх╕в tar стистнутий lzop"
+
+#: kdelibs/mimetypes/application/x-zip.desktop:2
+msgid "Comment=Zip archive"
+msgstr "Comment=Арх╕в Zip"
+
+#: kdelibs/mimetypes/application/x-zoo.desktop:2
+msgid "Comment=Zoo archive"
+msgstr "Comment=Арх╕в Zoo"
+
+#: kdelibs/mimetypes/audio/basic.desktop:2
+msgid "Comment=ULAW (Sun) audio"
+msgstr "Comment=Ауд╕о-дан╕ ULAW (Sun)"
+
+#: kdelibs/mimetypes/audio/vnd.rn-realaudio.desktop:2
+msgid "Comment=RealAudio broadcast"
+msgstr "Comment=Трансляц╕я RealAudio"
+
+#: kdelibs/mimetypes/audio/x-adpcm.desktop:2
+msgid "Comment=PCM audio"
+msgstr "Comment=PCM-ауд╕о"
+
+#: kdelibs/mimetypes/audio/x-aiff.desktop:2
+msgid "Comment=AIFF/Amiga audio"
+msgstr "Comment=AIFF/Amiga-ауд╕о"
+
+#: kdelibs/mimetypes/audio/x-midi.desktop:2
+msgid "Comment=MIDI audio"
+msgstr "Comment=MIDI-ауд╕о"
+
+#: kdelibs/mimetypes/audio/x-mod.desktop:2
+msgid "Comment=Amiga soundtracker audio"
+msgstr "Comment=Amiga Soundtracker-ауд╕о"
+
+#: kdelibs/mimetypes/audio/x-mp3.desktop:2
+msgid "Comment=MPEG layer 3 audio"
+msgstr "Comment=MPEG Layer-3-ауд╕о"
+
+#: kdelibs/mimetypes/audio/x-mpegurl.desktop:2
+msgid "Comment=Streaming MPEG layer 3 audio"
+msgstr "Comment=MPEG Layer-3-ауд╕о"
+
+#: kdelibs/mimetypes/audio/x-scpls.desktop:2
+msgid "Comment=MP3 ShoutCast Playlist"
+msgstr "Comment=MP3-ShoutCast список"
+
+#: kdelibs/mimetypes/audio/x-wav.desktop:2
+msgid "Comment=WAV audio"
+msgstr "Comment=WAV-ауд╕о"
+
+#: kdelibs/mimetypes/image/cgm.desktop:2
+msgid "Comment=Computer Graphics Metafile"
+msgstr "Comment=Метафайл \"Computer Graphics\""
+
+#: kdelibs/mimetypes/image/gif.desktop:2
+msgid "Comment=GIF image"
+msgstr "Comment=GIF-образ"
+
+#: kdelibs/mimetypes/image/jpeg.desktop:2
+msgid "Comment=JPEG image"
+msgstr "Comment=JPEG-образ"
+
+#: kdelibs/mimetypes/image/png.desktop:2
+msgid "Comment=PNG image"
+msgstr "Comment=PNG-образ"
+
+#: kdelibs/mimetypes/image/tiff.desktop:2
+msgid "Comment=TIFF Image"
+msgstr "Comment=TIFF-образ"
+
+#: kdelibs/mimetypes/image/x-bmp.desktop:2
+msgid "Comment=Windows BMP image"
+msgstr "Comment=Windows BMP-образ"
+
+#: kdelibs/mimetypes/image/x-eps.desktop:2
+msgid "Comment=Encapsulated PostScript image"
+msgstr "Comment=Документ вбудованого PostScript"
+
+#: kdelibs/mimetypes/image/x-photo-cd.desktop:2
+msgid "Comment=PhotoCD image"
+msgstr "Comment=Photo-CD-образ"
+
+#: kdelibs/mimetypes/image/x-xbm.desktop:2
+msgid "Comment=X BitMap image"
+msgstr "Comment=Образ X Bitmaps"
+
+#: kdelibs/mimetypes/image/x-xpm.desktop:2
+msgid "Comment=X PixMap image"
+msgstr "Comment=Образ X-Bitmaps"
+
+#: kdelibs/mimetypes/inode/block.desktop:2
+msgid "Comment=Block Device"
+msgstr "Comment=Блочний пристр╕й"
+
+#: kdelibs/mimetypes/inode/chardevice.desktop:2
+msgid "Comment=Character Device"
+msgstr "Comment=Символьний пристр╕й"
+
+#: kdelibs/mimetypes/inode/directory-locked.desktop:2
+msgid "Comment=Locked Directory"
+msgstr "Comment=Закритий каталог"
+
+#: kdelibs/mimetypes/inode/directory.desktop:2
+msgid "Comment=Directory"
+msgstr "Comment=Каталог"
+
+#: kdelibs/mimetypes/inode/fifo.desktop:2
+msgid "Comment=Pipe"
+msgstr "Comment=Канал (Pipe)"
+
+#: kdelibs/mimetypes/inode/socket.desktop:2
+msgid "Comment=Socket"
+msgstr "Comment=Сокет"
+
+#: kdelibs/mimetypes/message/news.desktop:2
+msgid "Comment=Usenet news message"
+msgstr "Comment=Пов╕домлення новин Usenet"
+
+#: kdelibs/mimetypes/message/rfc822.desktop:2
+msgid "Comment=E-Mail message"
+msgstr "Comment=Пов╕домлення Email"
+
+#: kdelibs/mimetypes/text/css.desktop:2
+msgid "Comment=Context Style Sheet"
+msgstr "Comment=Таблиця контекстного стилю (CSS)"
+
+#: kdelibs/mimetypes/text/english.desktop:2
+msgid "Comment=English Text"
+msgstr "Comment=Англ╕йський Тескт"
+
+#: kdelibs/mimetypes/text/html.desktop:2
+msgid "Comment=HTML Page"
+msgstr "Comment=Стор╕нка HTML"
+
+#: kdelibs/mimetypes/text/plain.desktop:2
+msgid "Comment=Plain Text"
+msgstr "Comment=Текст"
+
+#: kdelibs/mimetypes/text/rtf.desktop:2
+msgid "Comment=Rich Text Format"
+msgstr "Comment=Rich Text Format"
+
+#: kdelibs/mimetypes/text/sgml.desktop:2
+msgid "Comment=SGML"
+msgstr "Comment=SGML"
+
+#: kdelibs/mimetypes/text/x-c++hdr.desktop:2
+msgid "Comment=C++ headers"
+msgstr "Comment=Заголовки C++"
+
+#: kdelibs/mimetypes/text/x-c++src.desktop:2
+msgid "Comment=C++ sources"
+msgstr "Comment=Вих╕дний файл C++"
+
+#: kdelibs/mimetypes/text/x-chdr.desktop:2
+msgid "Comment=C headers"
+msgstr "Comment=Заголовки C"
+
+#: kdelibs/mimetypes/text/x-csrc.desktop:2
+msgid "Comment=C sources"
+msgstr "Comment=Вих╕дний файл C"
+
+#: kdelibs/mimetypes/text/x-java.desktop:2
+msgid "Comment=Java sources"
+msgstr "Comment=Вих╕дний файл Java"
+
+#: kdelibs/mimetypes/text/x-makefile.desktop:2
+msgid "Comment=Makefile"
+msgstr "Comment=Makefile"
+
+#: kdelibs/mimetypes/text/x-moc.desktop:2
+msgid "Comment=Qt Meta Object File"
+msgstr "Comment=Файл з мета об'╓ктами Qt"
+
+#: kdelibs/mimetypes/text/x-objcsrc.desktop:2
+msgid "Comment=Objective-C sources"
+msgstr "Comment=Вих╕дний файл Objective-C"
+
+#: kdelibs/mimetypes/text/x-pascal.desktop:2
+msgid "Comment=Pascal sources"
+msgstr "Comment=Вих╕дний файл Pascal"
+
+#: kdelibs/mimetypes/text/x-tcl.desktop:2
+msgid "Comment=Tcl file"
+msgstr "Comment=Файл Tcl"
+
+#: kdelibs/mimetypes/text/x-tex.desktop:2
+msgid "Comment=TeX file"
+msgstr "Comment=Документ TeX"
+
+#: kdelibs/mimetypes/text/x-vcard.desktop:2
+msgid "Comment=Electronic Business Card"
+msgstr "Comment=Електронна в╕зитна картка"
+
+#: kdelibs/mimetypes/text/xml.desktop:2
+msgid "Comment=eXtended Markup Language document"
+msgstr "Comment=Документ XML"
+
+#: kdelibs/mimetypes/video/mpeg.desktop:2
+msgid "Comment=MPEG Video"
+msgstr "Comment=MPEG-В╕део"
+
+#: kdelibs/mimetypes/video/quicktime.desktop:2
+msgid "Comment=Quicktime Video"
+msgstr "Comment=Quicktime-В╕део"
+
+#: kdelibs/mimetypes/video/x-flic.desktop:2
+msgid "Comment=Autodesk's FLIC files"
+msgstr "Comment=Файли FLIC (Autodesk)"
+
+#: kdelibs/mimetypes/video/x-msvideo.desktop:2
+msgid "Comment=Microsoft AVI Video"
+msgstr "Comment=AVI-в╕део (Microsoft)"
+
+#: kdelibs/pics/hicolor/index.desktop:1
+msgid "Name=KDE-HiColor"
+msgstr "Name=KDE (64К кольор╕в)"
+
+#: kdelibs/pics/locolor/index.desktop:1
+msgid "Name=KDE-LoColor"
+msgstr "Name=KDE: обмежен╕ кольори"
+
+#: kdemultimedia/aktion/aktion.desktop:1
+msgid "Name=aKtion!"
+msgstr "Name=aKtion!"
+
+#: kdemultimedia/aktion/aktion.desktop:2
+msgid "Comment=Video Player"
+msgstr "Comment=Програвач в╕део-файл╕в"
+
+#: kdemultimedia/arts/tools/artscontrol.desktop:1
+msgid "Name=aRts control"
+msgstr "Name=Настройка aRts"
+
+#: kdemultimedia/arts/tools/artscontrol.desktop:2
+msgid "Comment=Soundserver control tool"
+msgstr "Comment=Зас╕б настройки серверу звуку"
+
+#: kdemultimedia/kautorun/kautorun.desktop:1
+msgid "Name=CD AutoRun"
+msgstr "Name=Автозапуск з CD"
+
+#: kdemultimedia/kmid/kmid.desktop:1
+msgid "Name=Midi/Karaoke Player"
+msgstr "Name=Програвач файл╕в Midi/Karaoke"
+
+#: kdemultimedia/kmid/kmid.desktop:2
+msgid "Comment=A midi / karaoke file player"
+msgstr "Comment=Програвач файл╕в Midi/Karaoke"
+
+#: kdemultimedia/kmid/x-karaoke.desktop:2
+msgid "Comment=Karaoke file"
+msgstr "Comment=Файл Karaoke"
+
+#: kdemultimedia/kmidi/TIMIDITY/timidity.desktop:1
+msgid "Name=TiMidity synth"
+msgstr ""
+
+#: kdemultimedia/kmidi/TIMIDITY/timidity.desktop:2
+msgid "Comment=A Midi Player"
+msgstr "Comment=Програвач Midi"
+
+#: kdemultimedia/kmidi/kmidi.desktop:1
+msgid "Name=Midi synth"
+msgstr "Name=Синтезатор MIDI"
+
+#: kdemultimedia/kmix/kmix.desktop:1
+msgid "Name=Sound Mixer Panel"
+msgstr "Name=Панель м╕кшеру"
+
+#: kdemultimedia/kmix/kmix.desktop:2
+msgid "Comment=Controls the volume of the Sound channels"
+msgstr "Comment=Керу╓ гучн╕стю канал╕в звуку"
+
+#: kdemultimedia/kscd/kscd.desktop:1
+msgid "Name=CD Player"
+msgstr "Name=Програвач CD"
+
+#: kdemultimedia/kscd/kscd.desktop:2
+msgid "Comment=A CD Player"
+msgstr "Comment=Програвач копмакт диск╕в"
+
+#: kdemultimedia/kscd/xmcd.desktop:2
+msgid "Comment=CD Database File"
+msgstr "Comment=Файл бази даних CD"
+
+#: kdenetwork/caitoo/caitoo.desktop:1
+msgid "Name=Caitoo Internet Downloader"
+msgstr ""
+
+#: kdenetwork/caitoo/caitoo.desktop:2
+msgid "Comment=Internet download manager"
+msgstr ""
+
+#: kdenetwork/columbo/colfind/colfind.desktop:1
+msgid "Name=Search files"
+msgstr "Name=Пошук файл╕в"
+
+#: kdenetwork/columbo/colfind/colfind.desktop:2
+msgid "Comment=Search Files"
+msgstr "Comment=Пошук файл╕в"
+
+#: kdenetwork/columbo/colftp/colftp.desktop:1
+msgid "Name=Search FTP"
+msgstr "Name=Пошук по FTP"
+
+#: kdenetwork/columbo/colftp/colftp.desktop:2
+msgid "Comment=Search FTP"
+msgstr "Comment=Пошук по FTP"
+
+#: kdenetwork/columbo/colnews/colnews.desktop:1
+msgid "Name=Search News"
+msgstr "Name=Пошук в новинах (news)"
+
+#: kdenetwork/columbo/colnews/colnews.desktop:2
+msgid "Comment=Search news"
+msgstr "Comment=Пошук в новинах (news)"
+
+#: kdenetwork/columbo/colweb/colweb.desktop:1
+msgid "Name=Search on the Web"
+msgstr "Name=Web-пошук"
+
+#: kdenetwork/columbo/colweb/colweb.desktop:2
+msgid "Comment=Search the Web"
+msgstr "Comment=Пошук на Web"
+
+#: kdenetwork/columbo/colwhois/colwhois.desktop:1
+msgid "Name=Search NIC database"
+msgstr "Name=Пошук у баз╕ даних NIC"
+
+#: kdenetwork/columbo/colwhois/colwhois.desktop:2
+msgid "Comment=Search NIC Database"
+msgstr "Comment=Пошук у баз╕ даних NIC"
+
+#: kdenetwork/karchie/karchie.desktop:1
+msgid "Name=Archie client"
+msgstr "Name=Кл╕╓нт Archie"
+
+#: kdenetwork/karchie/karchie.desktop:2
+msgid "Comment=Find and access files on ftp-servers"
+msgstr "Comment=Знайти та перев╕рити файли на FTP-серверах"
+
+#: kdenetwork/kbiff/kbiff.desktop:1
+msgid "Name=Email Notifier (biff)"
+msgstr "Name=Спов╕щувач електронно╖ пошти (biff)"
+
+#: kdenetwork/kbiff/kbiff.desktop:2
+msgid "Comment=Mail notification utility"
+msgstr "Comment=Ут╕л╕та спов╕щування про надходження пошти"
+
+#: kdenetwork/kfinger/kfinger.desktop:1
+msgid "Name=User information"
+msgstr "Name=╤нформац╕я щодо користувач╕в"
+
+#: kdenetwork/kfinger/kfinger.desktop:2
+msgid "Comment=User information lookup tool"
+msgstr "Comment=Ут╕л╕та перегляду ╕нформац╕╖ про користувач╕в"
+
+#: kdenetwork/kmail/KMail.desktop:1
+msgid "Name=KMail"
+msgstr "Name=KMail"
+
+#: kdenetwork/kmail/KMail.desktop:2
+msgid "Comment=Mail Client"
+msgstr "Comment=Кл╕╓нт електронно╖ пошти"
+
+#: kdenetwork/knu/knu.desktop:1
+msgid "Name=Network utilities"
+msgstr "Name=Мережев╕ ут╕л╕ти"
+
+#: kdenetwork/knu/knu.desktop:2
+msgid "Comment=ping, traceroute and host resolution"
+msgstr "Comment=ping, traceroute та host resolution"
+
+#: kdenetwork/korn/KOrn.desktop:1
+msgid "Name=Mail monitor"
+msgstr "Name=KOrn: мон╕тор електронно╖ пошти"
+
+#: kdenetwork/korn/KOrn.desktop:2
+msgid "Comment=Multi-folder new mail monitor"
+msgstr "Comment=Структурований мон╕тор електронно╖ пошти"
+
+#: kdenetwork/kppp/Kppp.desktop:1
+msgid "Name=Internet Dialer"
+msgstr "Name=Дозвон в ╤нтернет"
+
+#: kdenetwork/kppp/Kppp.desktop:2
+msgid "Comment=Internet dial-up tool"
+msgstr "Comment=Зас╕б дозвону в ╤нтернет"
+
+#: kdenetwork/kppp/logview/kppplogview.desktop:1
+msgid "Name=KPPP - Logview"
+msgstr "Name=Переглядач журналу Kppp"
+
+#: kdenetwork/kppp/logview/kppplogview.desktop:2
+msgid "Comment=Show Internet Dialer Logfiles"
+msgstr "Comment=Перегляд журнал╕в дозвону в ╤нтренет"
+
+#: kdenetwork/krn/Krn.desktop:1
+msgid "Name=News client"
+msgstr "Name=Кл╕╓нт новин KRn"
+
+#: kdenetwork/krn/Krn.desktop:2
+msgid "Comment=Newsreader"
+msgstr "Comment=Програма для перегляду новин Usenet"
+
+#: kdenetwork/ksirc/ksirc.desktop:1
+msgid "Name=Chat Client (ksirc)"
+msgstr "Name=Чат-програма KSirc"
+
+#: kdenetwork/ksirc/ksirc.desktop:2
+msgid "Comment=IRC client"
+msgstr "Comment=Кл╕╓нт IRC"
+
+#: kdenetwork/ktalkd/kcmktalkd/kcmktalkd.desktop:1
+msgid "Name=Talk configuration"
+msgstr "Name=Конф╕гурац╕я Talk"
+
+#: kdenetwork/ktalkd/kcmktalkd/kcmktalkd.desktop:2
+msgid "Comment=Talk daemon configuration"
+msgstr "Comment=Конф╕гурац╕я демону Talk"
+
+#: kdenonbeta/gofai-wmt/config/gofai.desktop:1
+msgid "Name=GOFAI"
+msgstr "Name=GOFAI"
+
+#: kdenonbeta/gofai-wmt/config/gofai.desktop:2
+msgid "Comment=Configuration for GOFAI-WMT Data View"
+msgstr "Comment=Конф╕гурац╕я переглядача даних GOFAI-WMT"
+
+#: kdenonbeta/gofai-wmt/src/gofai.desktop:1
+msgid "Name=Good Old AI"
+msgstr "Name=Старий добрий Ш╤"
+
+#: kdenonbeta/gofai-wmt/src/gofai.desktop:2
+msgid "Comment=Good Old Fashioned Artificial Intelligence With A Modern Twist"
+msgstr "Comment=Старий добрий штучний ╕нтелект з сучасними додатками"
+
+#: kdenonbeta/gofai-wmt/src/x-gofai.desktop:2
+msgid "Comment=Gofai graph file"
+msgstr "Comment=Граф╕чний файл Gofai"
+
+#: kdenonbeta/kbackpage/kbackpage/kbackpage.kdelnk:1
+msgid "Name=KBackPage"
+msgstr "Name=KBackPage"
+
+#: kdenonbeta/kcmbind/bind.desktop:1
+msgid "Name=Bind Configuration"
+msgstr "Name=Конф╕гурац╕я Bind"
+
+#: kdenonbeta/kcmbind/bind.desktop:2
+msgid "Comment=Bind Configuration Tool"
+msgstr "Comment=Зас╕б конф╕гурац╕╖ Bind"
+
+#: kdenonbeta/kcmdhcpd/dhcpd.desktop:1
+msgid "Name=Dhcp Manager"
+msgstr "Name=Менеджер DHCP"
+
+#: kdenonbeta/kcmdhcpd/dhcpd.desktop:2
+msgid "Comment=Dhcp Manager"
+msgstr "Comment=Менеджер DHCP"
+
+#: kdenonbeta/kexpress/kexpress.kdelnk:1
+msgid "Name=KExpress"
+msgstr "Name=KExpress"
+
+#: kdenonbeta/kexpress/kexpress.kdelnk:2
+msgid "Comment=Newsreader KExpress"
+msgstr "Comment=Переглядач новин Usenet"
+
+#: kdenonbeta/kglchess/kglchess.kdelnk:1
+msgid "Name=OpenGL Chess"
+msgstr "Name=Шахи OpenGL"
+
+#: kdenonbeta/kglchess/kglchess.kdelnk:2
+msgid "Comment=OpenGL Chess"
+msgstr "Comment=Шахи OpenGL"
+
+#: kdenonbeta/kgnuplot/kgrapher.kdelnk:1
+msgid "Name=Plotter"
+msgstr "Name=Плоттер"
+
+#: kdenonbeta/kgnuplot/kgrapher.kdelnk:2
+msgid "Comment=Tool for ploting, a port of GNU Plot"
+msgstr "Comment=Зас╕б для малювання граф╕к╕в, вар╕ант GNU-Plot"
+
+#: kdenonbeta/kmail2/KMail.kdelnk:1
+msgid "Name=Mail client"
+msgstr "Name=Кл╕╓нт електронно╖ пошти"
+
+#: kdenonbeta/kmessage/kmessage.kdelnk:1
+msgid "Name=KMessage"
+msgstr "Name=KMessage"
+
+#: kdenonbeta/kmessage/kmessage.kdelnk:2
+msgid "Comment=Display a Text Message in a Popup Window"
+msgstr "Comment=В╕дображу╓ текстове пов╕домлення у вспливаючему в╕кн╕"
+
+#: kdenonbeta/knetmon/knetmon/knetmon.kdelnk:1
+msgid "Name=knetmon"
+msgstr "Name=KNetmon"
+
+#: kdenonbeta/knetmon/knetmon/knetmon.kdelnk:2
+msgid "Comment=A network tool"
+msgstr "Comment=Мережева ут╕л╕та"
+
+#: kdenonbeta/konv/konv/konv.desktop:1
+msgid "Name=Konv"
+msgstr "Name=Konv"
+
+#: kdenonbeta/konv/konv/konv.desktop:2
+msgid "Comment=A KDE Unit Converter"
+msgstr "Comment=Перекладач одиниць для KDE"
+
+#: kdenonbeta/ksciplot/ksciplot/ksciplot.desktop:1
+msgid "Name=KSciPlot"
+msgstr "Name=KSciPlot"
+
+#: kdenonbeta/ksciplot/ksciplot/ksciplot.desktop:2
+msgid "Comment=function plotter"
+msgstr "Comment=Побудова граф╕к╕в функц╕й"
+
+#: kdenonbeta/ksciplot/ksciplot/x-ksciplot.desktop:2
+msgid "Comment=KSciPlot"
+msgstr "Comment=KSciPlot"
+
+#: kdenonbeta/ksensor/ksensor.desktop:1
+msgid "Name=Hardware Status Monitor"
+msgstr "Name=Мон╕тор апаратного забезпечення"
+
+#: kdenonbeta/ksensor/ksensor.desktop:2
+msgid "Comment=Hardware Status Monitor"
+msgstr "Comment=Мон╕тор стану апаратного забезпечення"
+
+#: kdenonbeta/kticker/kticker.desktop:1
+msgid "Name=Ticker"
+msgstr ""
+
+#: kdenonbeta/kticker/kticker.desktop:2
+msgid "Comment=A Ticker program"
+msgstr ""
+
+#: kdenonbeta/lnk/WebTree.kdelnk:1
+msgid "Name=WebTree"
+msgstr "Name=WebTree"
+
+#: kdenonbeta/lnk/WebTree.kdelnk:2
+msgid "Comment=Web link analizer & mirroring tool"
+msgstr "Comment=Анал╕затор та зас╕б в╕ддзеркалювання web-посилань"
+
+#: kdenonbeta/lnk/kclock.kdelnk:1
+msgid "Name=Clock"
+msgstr "Name=Годинник"
+
+#: kdenonbeta/lnk/kclock.kdelnk:2
+msgid "Comment=A clock with some more"
+msgstr "Comment=Годинник ╕ не т╕льк╕"
+
+#: kdenonbeta/lnk/kcmprinter.kdelnk:1
+msgid "Name=Printer Control Panel"
+msgstr "Name=Панель настройки принтеру"
+
+#: kdenonbeta/lnk/kcmprinter.kdelnk:2
+msgid "Comment=A tool for setting up printers"
+msgstr "Comment=Зас╕б настройки принтер╕в"
+
+#: kdenonbeta/lnk/kdayplan.kdelnk:1
+msgid "Name=Day Plan"
+msgstr "Name=Розклад на день"
+
+#: kdenonbeta/lnk/kdayplan.kdelnk:2
+msgid "Comment=A complete calendar and scheduling program"
+msgstr "Comment=Повнофункц╕ональний календар"
+
+#: kdenonbeta/lnk/kdbg.kdelnk:1
+msgid "Name=Debugger"
+msgstr "Name=В╕дладчик"
+
+#: kdenonbeta/lnk/kdbg.kdelnk:2
+msgid "Comment=Debug programs"
+msgstr "Comment=Програми для в╕длагодження програм"
+
+#: kdenonbeta/lnk/kfortune.kdelnk:1
+msgid "Name=KFortune"
+msgstr "Name=KFortune"
+
+#: kdenonbeta/lnk/kfortune.kdelnk:2
+msgid "Comment=A simple fortune program for Kde"
+msgstr "Comment=Простенька програма \"fortune\" для KDE"
+
+#: kdenonbeta/lnk/kisdn.kdelnk:1
+msgid "Name=kISDN"
+msgstr "Name=kISDN"
+
+#: kdenonbeta/lnk/kisdn.kdelnk:2
+msgid "Comment=ISDN configuration, dialup and monitor"
+msgstr "Comment=Конф╕гурац╕я ISDN, дозвон та мон╕торинг"
+
+#: kdenonbeta/lnk/kjoy.kdelnk:1
+msgid "Name=Joystick"
+msgstr "Name=Джойтст╕к"
+
+#: kdenonbeta/lnk/kjoy.kdelnk:2
+msgid "Comment=Joystick settings"
+msgstr "Comment=Настройки джойст╕ка"
+
+#: kdenonbeta/lnk/kless.kdelnk:1
+msgid "Name=KLess"
+msgstr "Name=KLess"
+
+#: kdenonbeta/lnk/kless.kdelnk:2
+msgid "Comment=A simple Text Viewer"
+msgstr "Comment=Простий переглядач текст╕в"
+
+#: kdenonbeta/lnk/kmaster.kdelnk:1
+msgid "Name=KMastermind"
+msgstr "Name=KMastermind"
+
+#: kdenonbeta/lnk/kmaster.kdelnk:2
+msgid "Comment=The game mastermind, designed for Kde"
+msgstr "Comment=Гра \"Майстер\" думки для KDE"
+
+#: kdenonbeta/lnk/kpackage.kdelnk:1
+msgid "Name=kpackage"
+msgstr "Name=kpackage"
+
+#: kdenonbeta/lnk/kpilot.kdelnk:1
+msgid "Name=KPilot"
+msgstr "Name=KPilot"
+
+#: kdenonbeta/lnk/kpilot.kdelnk:2
+msgid "Comment=Palm Pilot Suite"
+msgstr "Comment=Наб╕р програм для Palm-Pilot"
+
+#: kdenonbeta/lnk/kray.kdelnk:1
+msgid "Name=KRay"
+msgstr "Name=KRay"
+
+#: kdenonbeta/lnk/kray.kdelnk:2
+msgid "Comment=A simple Ray Tracer"
+msgstr "Comment=Прострий трасировщик пром╕н╕в"
+
+#: kdenonbeta/lnk/krubik.kdelnk:1
+msgid "Name=Rubik's Kube"
+msgstr "Name=Куб╕к Руб╕ка"
+
+#: kdenonbeta/lnk/krubik.kdelnk:2
+msgid "Comment=A 3D model of the Rubik's Cube"
+msgstr "Comment=Трим╕рна модель Куб╕ка Руб╕ка"
+
+#: kdenonbeta/lnk/ksamba.kdelnk:1
+msgid "Name=Samba Setup Tool"
+msgstr "Name=Настройка Samba"
+
+#: kdenonbeta/lnk/ksamba.kdelnk:2
+msgid "Comment=Samba Setuptool"
+msgstr "Comment=Настройка Samba"
+
+#: kdenonbeta/lnk/kscan.kdelnk:1
+msgid "Name=Scanning Program"
+msgstr "Name=Програма для сканування"
+
+#: kdenonbeta/lnk/kscan.kdelnk:2
+msgid "Comment=A SANE-based scanning application"
+msgstr "Comment=Програма для сканування на основ╕ SANE"
+
+#: kdenonbeta/lnk/ksciplot.kdelnk:1
+msgid "Name=function plotter"
+msgstr "Name=Зображувач граф╕к╕в функц╕й"
+
+#: kdenonbeta/lnk/ksciplot.kdelnk:2
+msgid "Comment=A mathematical function plotter."
+msgstr "Comment=Зображувач граф╕к╕в математичних функц╕й."
+
+#: kdenonbeta/lnk/ktelnet.kdelnk:1
+msgid "Name=Remote Login"
+msgstr "Name=KTelnet"
+
+#: kdenonbeta/lnk/ktelnet.kdelnk:2
+msgid "Comment=Remote Login Manager"
+msgstr "Comment=Менеджер в╕ддалено╖ ре╓страц╕╖ (Telnet)"
+
+#: kdenonbeta/lnk/ktranslator.kdelnk:1
+msgid "Name=KTranslator"
+msgstr "Name=KTranslator"
+
+#: kdenonbeta/lnk/ktranslator.kdelnk:2
+msgid "Comment=A powerful utility for kde translator"
+msgstr "Comment=Потужний перекладач"
+
+#: kdenonbeta/lnk/kvidtune.kdelnk:1
+msgid "Name=Video Setup"
+msgstr "Name=Настройка граф╕чний режим╕в"
+
+#: kdenonbeta/lnk/kvidtune.kdelnk:2
+msgid "Comment=KDE X-Server Video Setup Tool"
+msgstr "Comment=KDE-X-Server: настройка граф╕чний режим╕в"
+
+#: kdenonbeta/pws/pws.kdelnk:1
+msgid "Name=PWS"
+msgstr "Name=PWS"
+
+#: kdenonbeta/webmaker/webmaker/webmaker.kdelnk:1
+msgid "Name=WebMaker"
+msgstr "Name=WebMaker"
+
+#: kdenonbeta/webmaker/webmaker/webmaker.kdelnk:2
+msgid "Comment=KDE HTML Editor"
+msgstr "Comment=KDE-редактор HTML"
+
+#: kdesdk/kappgen/kappgen/kappgen.kdelnk:1
+msgid "Name=KAppGen"
+msgstr "Name=KAppGen"
+
+#: kdesdk/kapptemplate/variable/app.desktop:1
+msgid "Name=${APP_NAME}"
+msgstr "Name=${APP_NAME}"
+
+#: kdesdk/kapptemplate/variable/app.desktop:2
+msgid "Comment=A KDE Application"
+msgstr "Comment=Програма KDE"
+
+#: kdesdk/kbabel/kbabel/kbabel.desktop:1
+msgid "Name=KBabel"
+msgstr "Name=KBabel"
+
+#: kdesdk/kbabel/kbabel/kbabel.desktop:2
+msgid "Comment=A PO-file Editor"
+msgstr "Comment=Редактор PO-файл╕в"
+
+#: kdesdk/kexample/kless/kless.desktop:1
+msgid "Name=Text Viewer"
+msgstr "Name=Переглядач текст╕в"
+
+#: kdesdk/kexample/kless/kless.desktop:2
+msgid "Comment=A simple KDE demo application for programmers"
+msgstr "Comment=Демо програма KDE для програм╕ст╕в"
+
+#: kdetoys/amor/amor.kdelnk:1
+msgid "Name=AMOR"
+msgstr "Name=AMOR"
+
+#: kdetoys/amor/amor.kdelnk:2
+msgid "Comment=Amusing Misuse Of Resources"
+msgstr "Comment=Чудне використрання ресурс╕в"
+
+#: kdetoys/kmoon/kmoon.desktop:1
+msgid "Name=MoonPhase"
+msgstr "Name=Фази м╕сяця"
+
+#: kdetoys/kmoon/kmoon.desktop:2
+msgid "Comment=Moon Phase Indicator"
+msgstr "Comment=мон╕тор фаз м╕сяця"
+
+#: kdetoys/kteatime/kteatime.desktop:1
+msgid "Name=The Tea Cooker"
+msgstr ""
+
+#: kdetoys/kworldwatch/kdeworld.desktop:2
+msgid "Comment=KDE WorldWatch by Matthias Hoelzer-Kluepfel"
+msgstr ""
+
+#: kdetoys/kworldwatch/kworldwatch.desktop:1
+msgid "Name=World Watch"
+msgstr "Name=Час у р╕зних кра╖нах св╕ту"
+
+#: kdetoys/kworldwatch/kworldwatch.desktop:2
+msgid "Comment=A clock with worldmap"
+msgstr "Comment=Годинник з мапою св╕ту"
+
+#: kdetoys/mouse/kodo.desktop:1
+msgid "Name=Mouspedometa"
+msgstr ""
+
+#: kdetoys/mouse/kodo.desktop:2
+msgid "Comment=Measure your Desktop Mileage!"
+msgstr ""
+
+#: kdeutils/ark/ark.desktop:1
+msgid "Name=Archiver"
+msgstr "Name=Арх╕ватор"
+
+#: kdeutils/ark/ark.desktop:2
+msgid "Comment=Archive Handling Tool"
+msgstr "Comment=Зас╕б роботи з арх╕вами"
+
+#: kdeutils/iconpackager/Iconpackager.desktop:1
+msgid "Name=Icon Packager"
+msgstr "Name=Упаковщик п╕ктограм"
+
+#: kdeutils/iconpackager/Iconpackager.desktop:2
+msgid "Comment=Icon packager"
+msgstr "Comment=Упаковщик п╕ктограм"
+
+#: kdeutils/kab/kab.desktop:1
+msgid "Name=Address Book"
+msgstr "Name=Адресна книга"
+
+#: kdeutils/kab/kab.desktop:2
+msgid "Comment=Address book"
+msgstr "Comment=Адресна книга"
+
+#: kdeutils/karm/support/karm.desktop:1
+msgid "Name=Personal Time Tracker"
+msgstr ""
+
+#: kdeutils/karm/support/karm.desktop:2
+msgid "Comment=Personal Time Tracker"
+msgstr ""
+
+#: kdeutils/kcalc/kcalc.desktop:1
+msgid "Name=Calculator"
+msgstr "Name=Калькулятор"
+
+#: kdeutils/kcalc/kcalc.desktop:2
+msgid "Comment=A Scientific Calculator"
+msgstr "Comment=Калькулятор для науковц╕в"
+
+#: kdeutils/kcharselect/KCharSelect.desktop:1
+msgid "Name=Character Selector"
+msgstr "Name=Таблиця символ╕в"
+
+#: kdeutils/kcharselect/KCharSelect.desktop:2
+msgid "Comment=Character Selector"
+msgstr "Comment=Таблиця символ╕в"
+
+#: kdeutils/kdepasswd/kdepasswd.desktop:1
+msgid "Name=Change Password"
+msgstr "Name=Зм╕нити пароль"
+
+#: kdeutils/kdepasswd/kdepasswd.desktop:2
+msgid "Comment=Change your password"
+msgstr "Comment=Зм╕нити Ваш пароль"
+
+#: kdeutils/kdf/kcmdf.desktop:1
+msgid "Name=Block Devices"
+msgstr "Name=Блочний пристр╕й"
+
+#: kdeutils/kdf/kcmdf.desktop:2
+msgid "Comment=Shows the disk usage of the mounted devices"
+msgstr "Comment=Показу╓ степ╕нь використання змонтованих пристро╖в"
+
+#: kdeutils/kdf/kdf.desktop:1
+msgid "Name=Disk Free"
+msgstr "Name=В╕льне м╕сце"
+
+#: kdeutils/kdf/kwikdisk.desktop:1
+msgid "Name=KwikDisk"
+msgstr "Name=KwikDisk"
+
+#: kdeutils/kdf/kwikdisk.desktop:2
+msgid "Comment=Docks and allows easy mounts/umounts from the panel"
+msgstr "Comment=Ф╕ксу╓ та дозволя╓ легко монтування/розмонтовування з панел╕"
+
+#: kdeutils/kedit/KEdit.desktop:1
+msgid "Name=Text Editor"
+msgstr "Name=KEdit: Текстовий редактор"
+
+#: kdeutils/kedit/KEdit.desktop:2
+msgid "Comment=A simple Text Editor"
+msgstr "Comment=Простий текстовий редактор"
+
+#: kdeutils/kfind/Kfind.desktop:1
+msgid "Name=Find Files"
+msgstr "Name=Пошук файл╕в"
+
+#: kdeutils/kfind/Kfind.desktop:2
+msgid "Comment=Find Utility"
+msgstr "Comment=Зас╕б для пошуку файл╕в"
+
+#: kdeutils/kfloppy/KFloppy.desktop:1
+msgid "Name=Floppy Formatter"
+msgstr "Name=Розформатувати дискету"
+
+#: kdeutils/kfloppy/KFloppy.desktop:2
+msgid "Comment=Floppy Formatter"
+msgstr "Comment=Розформатувати дискету"
+
+#: kdeutils/khexedit/khexedit.desktop:1
+msgid "Name=Binary Editor"
+msgstr "Name=Дво╖чний редактор"
+
+#: kdeutils/khexedit/khexedit.desktop:2
+msgid "Comment=Versatile binary editor"
+msgstr "Comment=Гнучкий редактор дво╖чний файл╕в"
+
+#: kdeutils/kjots/Kjots.desktop:1
+msgid "Name=KJots"
+msgstr "Name=KJots"
+
+#: kdeutils/kjots/Kjots.desktop:2
+msgid "Comment=Note taker"
+msgstr ""
+
+#: kdeutils/klaptopdaemon/applnk/battery.desktop:1
+msgid "Name=Battery Monitor"
+msgstr "Name=Мон╕тор живлення"
+
+#: kdeutils/klaptopdaemon/applnk/battery.desktop:2
+msgid "Comment=Battery Monitor"
+msgstr "Comment=Мон╕тор живлення"
+
+#: kdeutils/klaptopdaemon/applnk/bwarning.desktop:1
+msgid "Name=Low Battery Warning"
+msgstr "Name=Попередження про батаре╖"
+
+#: kdeutils/klaptopdaemon/applnk/bwarning.desktop:2
+msgid "Comment=Low Battery Warning"
+msgstr "Comment=Попередження про батаре╖"
+
+#: kdeutils/klaptopdaemon/applnk/cwarning.desktop:1
+msgid "Name=Low Battery Critical"
+msgstr ""
+
+#: kdeutils/klaptopdaemon/applnk/cwarning.desktop:2
+msgid "Comment=Low Battery Critical"
+msgstr ""
+
+#: kdeutils/klaptopdaemon/applnk/pcmcia.desktop:1
+msgid "Name=PCMCIA"
+msgstr "Name=PCMCIA"
+
+#: kdeutils/klaptopdaemon/applnk/pcmcia.desktop:2
+msgid "Comment=PCMCIA status"
+msgstr "Comment=Стан PCMCIA"
+
+#: kdeutils/klaptopdaemon/applnk/power.desktop:1
+msgid "Name=Power Control"
+msgstr "Name=Настройки живлення"
+
+#: kdeutils/klaptopdaemon/applnk/power.desktop:2
+msgid "Comment=Power Control"
+msgstr "Comment=Настройки живлення"
+
+#: kdeutils/klipper/klipper.desktop:1
+msgid "Name=Cut & Paste History (klipper)"
+msgstr "Name=╤строр╕я буферу обм╕ну (klipper)"
+
+#: kdeutils/kljettool/KLJetTool.desktop:1
+msgid "Name=HP LaserJet Control Panel"
+msgstr "Name=Панель конф╕гурац╕╖ HP LaserJet"
+
+#: kdeutils/kljettool/KLJetTool.desktop:2
+msgid "Comment=KLJetTool: so you can configure your LaserJet from your desk"
+msgstr "Comment=KLJetTool: конф╕гурац╕я LaserJet"
+
+#: kdeutils/klpq/KLpq.desktop:1
+msgid "Name=Printer Queue"
+msgstr "Name=KLpq - черга друку"
+
+#: kdeutils/klpq/KLpq.desktop:2
+msgid "Comment=Displays Printer Queue"
+msgstr "Comment=В╕добража╓ чергу друку"
+
+#: kdeutils/knotes/knotes.desktop:1
+msgid "Name=Popup Notes"
+msgstr "Name=Нотатки"
+
+#: kdeutils/knotes/knotes.desktop:2
+msgid "Comment=You can write small notes with this"
+msgstr "Comment=Тут Ви можете робити невеличк╕ нотатки"
+
+#: kdeutils/kpm/kpm.desktop:1
+msgid "Name=Process management"
+msgstr ""
+
+#: kdeutils/kpm/kpm.desktop:2
+msgid "Comment=Process management tool"
+msgstr ""
+
+#: kdeutils/ktimemon/ktimemon.desktop:1
+msgid "Name=System Monitor"
+msgstr "Name=Системний мон╕тор"
+
+#: kdeutils/ktimemon/ktimemon.desktop:2
+msgid "Comment=A system monitor for KDE"
+msgstr "Comment=Системний мон╕тор для KDE"
+
+#: kdeutils/ktop/gui/ktop.desktop:1
+msgid "Name=Task Manager and System Monitor"
+msgstr ""
+
+#: kdeutils/ktop/gui/ktop.desktop:2
+msgid "Comment=Task Manager and System Monitor"
+msgstr ""
+
+#: kdeutils/ktop/ktop.desktop:1
+msgid "Name=Task Manager"
+msgstr ""
+
+#: kdeutils/ktop/ktop.desktop:2
+msgid "Comment=Task Manager and Performance Monitor"
+msgstr ""
+
+#: kdeutils/ktreebrowser/ktb.desktop:1
+msgid "Name=Tree Browser"
+msgstr "Name=Структурний переглядач"
+
+#: kdeutils/ktreebrowser/ktb.desktop:2
+msgid "Comment=Tree Browser"
+msgstr "Comment=Структурний переглядач"
+
+#: kdeutils/kwrite/kwrite.desktop:1
+msgid "Name=Advanced Editor"
+msgstr "Name=KWrite: багатофункц╕ональний редактор"
+
+#: kdeutils/kwrite/kwrite.desktop:2
+msgid "Comment=A powerful text editor"
+msgstr "Comment=Потужний текстовий редактор"
+
+#: klyx/src/klyx.kdelnk:1
+msgid "Name=KLyx"
+msgstr "Name=KLyX"
+
+#: klyx/src/klyx.kdelnk:2
+msgid "Comment=The klyx text processor"
+msgstr "Comment=Текстовий процесор KLyX"
+
+#: koffice/example/example.desktop:1
+msgid "Name=Example"
+msgstr "Name=Приклад"
+
+#: koffice/example/example.desktop:2
+msgid "Comment=Torben's Canossa Example"
+msgstr "Comment=Приклад Torbens Canossal"
+
+#: koffice/example/x-example.desktop:2
+msgid "Comment=Canossa Example"
+msgstr "Comment=Приклад Canossa"
+
+#: koffice/filters/kspread/csv/kspread_csv_export.desktop:2
+msgid "Comment=KSpread CSV Export Filter"
+msgstr "Comment=Ф╕льтр ексорту CSV KSpread"
+
+#: koffice/filters/kspread/csv/kspread_csv_export_dia.desktop:2
+msgid "Comment=CSV Filter Dialog"
+msgstr "Comment=Д╕алог ф╕льтру CSV"
+
+#: koffice/filters/kspread/csv/kspread_csv_import.desktop:2
+msgid "Comment=CSV Filter for KSpread"
+msgstr "Comment=CSV-Ф╕льтр для KSpread"
+
+#: koffice/filters/kspread/csv/x-csv.desktop:2
+msgid "Comment=Text file with comma separated values"
+msgstr "Comment=Текстовий файл, значення розд╕лен╕ комами"
+
+#: koffice/filters/kword/ascii/kword_ascii_export.desktop:2
+msgid "Comment=Reggie's KWord Ascii Filter"
+msgstr "Comment=ASCII-ф╕льтр Reggie для KWord"
+
+#: koffice/filters/kword/html/kword_html_export.desktop:2
+msgid "Comment=Reggie's KWord HTML Filter"
+msgstr "Comment=HTML-ф╕льтр Reggie для KWord"
+
+#: koffice/filters/olefilters/excel97/ole_excel97_import.desktop:2
+msgid "Comment=KSpread Excel 97 Filter"
+msgstr "Comment=Ф╕льтр KSpread для MS Excel 97"
+
+#: koffice/filters/olefilters/excel97/x-excel97.desktop:2
+msgid "Comment=MS Excel 97 File"
+msgstr "Comment=Файл MS Excel 97"
+
+#: koffice/filters/olefilters/powerpoint97/ole_powerpoint97_import.desktop:2
+msgid "Comment=KPresenter PowerPoint 97 Filter"
+msgstr "Comment=Ф╕льтр KPresenter для MS PowerPoint 97"
+
+#: koffice/filters/olefilters/powerpoint97/x-powerpoint97.desktop:2
+msgid "Comment=MS PowerPoint 97 File"
+msgstr "Comment=Файл MS PowerPoint 97"
+
+#: koffice/filters/olefilters/winword97/ole_winword97_import.desktop:2
+msgid "Comment=KWord WinWord 97 Filter"
+msgstr "Comment=Ф╕льтр KWord для MS WinWord 97"
+
+#: koffice/filters/olefilters/winword97/x-winword97.desktop:2
+msgid "Comment=MS WinWord 97 Document"
+msgstr "Comment=Документ MS WinWord 97"
+
+#: koffice/katabase/kformeditor/kformeditor.desktop:1
+msgid "Name=KformEditor"
+msgstr "Name=KFormEditor"
+
+#: koffice/katabase/kformeditor/kformeditor.desktop:2
+msgid "Comment=Katabase form/report editor"
+msgstr "Comment=Редактор форм/зв╕т╕в Katabase"
+
+#: koffice/katabase/kformviewer/kformviewer.desktop:1
+msgid "Name=KformViewer"
+msgstr "Name=KFormViewer"
+
+#: koffice/katabase/kformviewer/kformviewer.desktop:2
+msgid "Comment=Image processing application"
+msgstr "Comment=Програма обробки зображень"
+
+#: koffice/katabase/ktables/ktables.desktop:1
+msgid "Name=Ktables"
+msgstr "Name=Ktables"
+
+#: koffice/kchart/kchart.desktop:1
+msgid "Name=KChart"
+msgstr "Name=KChart"
+
+#: koffice/kchart/x-kchart.desktop:2
+msgid "Comment=KChart"
+msgstr "Comment=KChart"
+
+#: koffice/kformula/kformula.desktop:1
+msgid "Name=KFormula"
+msgstr "Name=KFormula"
+
+#: koffice/kformula/kformula.desktop:2
+msgid "Comment=Andrea's Formula Editor"
+msgstr "Comment=Редактор формул Андреа"
+
+#: koffice/kformula/notsoold/kformula_part.kdelnk:2
+msgid "Comment=The Formula Editor"
+msgstr "Comment=Редактор формул"
+
+#: koffice/kformula/x-kformula.desktop:2
+msgid "Comment=KFormula"
+msgstr "Comment=KFormula"
+
+#: koffice/kgraph/kgraph.desktop:1
+msgid "Name=KGraph"
+msgstr "Name=KGraph"
+
+#: koffice/kgraph/kgraph.desktop:2
+msgid "Comment=KGraph - Graphs for Engineers"
+msgstr "Comment=Kgraph - граф╕ка для ╕неженер╕в"
+
+#: koffice/killustrator/koffice/killustrator.desktop:1
+msgid "Name=KIllustrator"
+msgstr "Name=KIllustrator"
+
+#: koffice/killustrator/koffice/killustrator.desktop:2
+msgid "Comment=KDE Drawing Tool"
+msgstr "Comment=Ут╕л╕та KDE для малювання"
+
+#: koffice/killustrator/koffice/x-killustrator.desktop:2
+msgid "Comment=KIllustrator"
+msgstr "Comment=KIllustrator"
+
+#: koffice/killustrator/standalone/killustrator.kdelnk:1
+msgid "Name=KIllustrator (vector drawing program)"
+msgstr "Name=KIllustrator (програма векторно╖ граф╕ки)"
+
+#: koffice/killustrator/standalone/x-killustrator.kdelnk:2
+msgid "Comment=KIllustrator file"
+msgstr "Comment=Файл KIllustrator"
+
+#: koffice/kimage/kimage.desktop:1
+msgid "Name=KImage"
+msgstr "Name=KImage"
+
+#: koffice/kimage/kimage.desktop:2
+msgid "Comment=Torben's Image Viewer"
+msgstr "Comment=Переглядач зображень Торбена"
+
+#: koffice/kimage/x-kimage.desktop:2
+msgid "Comment=KImage"
+msgstr "Comment=KImage"
+
+#: koffice/kimageshop/kimageshop.desktop:1
+msgid "Name=KImageShop"
+msgstr "Name=KImageShop"
+
+#: koffice/kimageshop/kimageshop.desktop:2
+msgid "Comment=KOffice image manipulation application."
+msgstr "Comment=Програма редагування зображень KOffice"
+
+#: koffice/kimageshop/x-kimageshop.desktop:2
+msgid "Comment=KImageShop"
+msgstr "Comment=KImageShop"
+
+#: koffice/kpresenter/kpresenter.desktop:1
+msgid "Name=KPresenter"
+msgstr "Name=KPresenter"
+
+#: koffice/kpresenter/kpresenter.desktop:2
+msgid "Comment=Reggie's Presentation Software"
+msgstr "Comment=Програма для презентац╕й Reggie"
+
+#: koffice/kpresenter/x-kpresenter.desktop:2
+msgid "Comment=KPresenter"
+msgstr "Comment=KPresenter"
+
+#: koffice/kspread/kspread.desktop:1
+msgid "Name=KSpread"
+msgstr "Name=KSpread"
+
+#: koffice/kspread/kspread.desktop:2
+msgid "Comment=Torben's Spread Sheet"
+msgstr "Comment=Електронна таблиця Торбена"
+
+#: koffice/kspread/plugins/calculator/kspreadcalc.desktop:2
+msgid "Comment=Calculator plugin for KSpread"
+msgstr "Comment=Калькулятор - додаток до KSpread"
+
+#: koffice/kspread/x-kspread.desktop:2
+msgid "Comment=KSpread"
+msgstr "Comment=Програма створення електронних таблиць KSpread"
+
+#: koffice/kword/filters/ascii/kword_ascii_export.desktop:1
+msgid "Name=KWordAsciiExportFilter"
+msgstr "Name=KWord експорт-ф╕льтер ASCII"
+
+#: koffice/kword/filters/ascii/kword_ascii_import.desktop:1
+msgid "Name=KWordAsciiImportFilter"
+msgstr "Name=KWord ╕мпорт-ф╕льтер ASCII"
+
+#: koffice/kword/kword.desktop:1
+msgid "Name=KWord"
+msgstr "Name=KWord"
+
+#: koffice/kword/kword.desktop:2
+msgid "Comment=Word Processor with many features"
+msgstr "Comment=Багатофункц╕ональний тесктовий процесор"
+
+#: koffice/kword/x-kword.desktop:2
+msgid "Comment=KWord"
+msgstr "Comment=KWord"
+
+#: koffice/servicetypes/kofficepart.desktop:2
+msgid "Comment=KOffice Component"
+msgstr "Comment=Компонента KOffice"
+
+#: koffice/servicetypes/kofilter.desktop:2
+msgid "Comment=KOffice Filter"
+msgstr "Comment=Ф╕льтер KOffice"
+
+#: koffice/servicetypes/kofilterdialog.desktop:2
+msgid "Comment=KOffice Filter Dialog"
+msgstr "Comment=Д╕алог ф╕льтру KOffice"
+
+#: koffice/servicetypes/koplugin.desktop:2
+msgid "Comment=KOffice Plugin"
+msgstr "Comment=Додаток KOffice"
+
+#: koffice/servicetypes/kotool.desktop:2
+msgid "Comment=KOffice Tool"
+msgstr "Comment=Ут╕л╕та KOffice"
+
+#: koffice/tools/spell/kspelltool.desktop:2
+msgid "Comment=Torben's Spell Tool"
+msgstr "Comment=Ут╕л╕та перев╕рки правопису Торбена"
+
+#: koffice/tools/spell/spell_tool.desktop:1
+msgid "Name=SpellTool"
+msgstr "Name=Перев╕рка правопису"
+
+#: korganizer/src/korganizer.desktop:1
+msgid "Name=Organizer"
+msgstr "Name=KOrganizer"
+
+#: korganizer/src/korganizer.desktop:2
+msgid "Comment=A Calendar and Scheduling Program"
+msgstr "Comment=Календар та програма щоденника/розкладу"
+
+#: korganizer/src/x-vcalendar.desktop:2
+msgid "Comment=vCalendar Calendar/Event"
+msgstr "Comment=vCalendar календар/под╕╖"

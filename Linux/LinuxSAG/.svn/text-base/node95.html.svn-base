@@ -1,0 +1,115 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<!--Converted with LaTeX2HTML 98.1 release (February 19th, 1998)
+originally by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>/etc/passwd та ╕нш╕ корисн╕ файли</TITLE>
+<META NAME="description" CONTENT="/etc/passwd та ╕нш╕ корисн╕ файли">
+<META NAME="keywords" CONTENT="linux,ukrainian,guide,sag">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<LINK REL="STYLESHEET" HREF="sag.css">
+<LINK REL="next" HREF="node96.html">
+<LINK REL="previous" HREF="node94.html">
+<LINK REL="up" HREF="node94.html">
+<LINK REL="next" HREF="node96.html">
+</HEAD>
+<BODY BGCOLOR=#FFFFFF>
+<!--Navigation Panel-->
+<A NAME="tex2html1671"
+ HREF="node96.html">
+<IMG WIDTH="37" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="next"
+ SRC="next_motif.gif"></A> 
+<A NAME="tex2html1667"
+ HREF="node94.html">
+<IMG WIDTH="26" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="up"
+ SRC="up_motif.gif"></A> 
+<A NAME="tex2html1661"
+ HREF="node94.html">
+<IMG WIDTH="63" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="previous"
+ SRC="previous_motif.gif"></A> 
+<A NAME="tex2html1669"
+ HREF="node7.html">
+<IMG WIDTH="65" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="contents"
+ SRC="contents_motif.gif"></A> 
+<A NAME="tex2html1670"
+ HREF="node120.html">
+<IMG WIDTH="43" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="index"
+ SRC="index_motif.gif"></A> 
+<BR>
+<B> Дал╕:</B> <A NAME="tex2html1672"
+ HREF="node96.html">Виб╕р числового ID користувача</A>
+<B> Вгору:</B> <A NAME="tex2html1668"
+ HREF="node94.html">Створення користувача</A>
+<B> Назад:</B> <A NAME="tex2html1662"
+ HREF="node94.html">Створення користувача</A>
+<BR>
+<BR>
+<!--End of Navigation Panel-->
+
+<H2><A NAME="SECTION001121000000000000000">&#160;</A><A NAME="6542">&#160;</A>
+<BR>
+<TT>/etc/passwd</TT> та ╕нш╕ корисн╕ файли
+</H2><FONT SIZE="+1"></FONT>
+<P>
+<FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1">Основною базою даних з ╕нформац╕╓ю про користувач╕в в Юн╕кс╕ ╓
+	текстовий файл <TT>/etc/passwd</TT><A NAME="6544">&#160;</A> (який називають файлом
+	<B>парол╕в</B><A NAME="tex2html167"
+ HREF="footnode.html#foot6546"><SUP>157</SUP></A>), в якому перел╕чен╕
+	вс╕ д╕йсн╕ користувач╕ системи ╕ та ╕нформац╕я, що в╕дноситься до
+	них. ╤нформац╕я про кожного користувача записана на одному
+	рядку в файл╕, ╕ поля в такому рядку розд╕лен╕
+	двокрапками. Кожен рядок ма╓ с╕м таких пол╕в:
+		</FONT></FONT></FONT><DL COMPACT>
+<DT>1.
+<DD>╤м'я користувача.
+<DT>2.
+<DD>Зашифрований пароль.
+		<DT>3.
+<DD>ID користувача в числовому вигляд╕.
+		<DT>4.
+<DD>ID групи користувача в числовому вигляд╕.
+		<DT>5.
+<DD>Повне ╕м'я користувача та ╕нша ╕нформац╕я про користувача.
+		<DT>6.
+<DD>Домашня директор╕я.
+		<DT>7.
+<DD>Командна оболонка (програма, яка викону╓ться при	вход╕ в систему).
+		</DL><FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1">
+	З б╕льшимим подробицями формат файлу описаний в <EM>passwd</EM><A NAME="6552">&#160;</A>(5).
+</FONT></FONT></FONT>
+<P>
+<FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1">Будь-який користувач системи може прочитати файл
+	парол╕в. Отже, можна побачити повне ╕м'я користувача з цього
+	файлу. Це означа╓ також, що пароль (друге поле цього файлу)
+	також доступний будь-якому користувачев╕. Парол╕ збер╕гаються
+	в закодованому вигляд╕, тож, теоретично, н╕би-то проблеми
+	нема╓. Але слабкою стороною систем крипто╜раф╕╖ ╓ те, що ╖х
+	можна зламати, особливо якщо пароль погано вибраний.
+	Наприклад, якщо пароль короткий або паролем вибране якесь
+	слово ╕з словника. Тож, тримати пароль в файл╕ парол╕в не
+	рекоменду╓ться.
+	
+	Багато Л╕накс╕в мають <B>т╕ньов╕ парол╕</B>. Це -
+	альтернативний спос╕б збер╕гання парол╕в: закодований пароль
+	збер╕га╓ться в окремому файл╕ <TT>/etc/shadow</TT><A NAME="6555">&#160;</A>, ╕ цей файл
+	доступний для читання т╕льки <TT>root</TT>'у. Файл
+	<TT>/etc/passwd</TT><A NAME="6557">&#160;</A> в цьому випадку м╕стить т╕льки спец╕альн╕
+	показники на парол╕ в файл╕ <TT>/etc/shadow</TT><A NAME="6559">&#160;</A> зам╕сть самих
+	парол╕в. Таким чином т╕льки т╕ програми, як╕ мають setuid
+	можуть перев╕рити файл т╕ньових парол╕в, а вс╕ ╕нш╕ програми
+	можуть прочитати вс╕ поля файлу <TT>/etc/passwd</TT><A NAME="6561">&#160;</A>, але не мають
+	доступу до файлу <TT>/etc/shadow</TT><A NAME="6563">&#160;</A><A NAME="tex2html168"
+ HREF="footnode.html#foot6513"><SUP>158</SUP></A>
+	
+</FONT></FONT></FONT>
+<BR><HR>
+<ADDRESS>
+<I>Dmytro Kovalev</I>
+<BR><I>1999-06-10</I>
+</ADDRESS>
+</BODY>
+</HTML>

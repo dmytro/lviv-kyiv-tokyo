@@ -1,0 +1,151 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<!--Converted with LaTeX2HTML 98.1 release (February 19th, 1998)
+originally by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Коренева файлова система</TITLE>
+<META NAME="description" CONTENT="Коренева файлова система">
+<META NAME="keywords" CONTENT="linux,ukrainian,guide,sag">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<LINK REL="STYLESHEET" HREF="sag.css">
+<LINK REL="next" HREF="node31.html">
+<LINK REL="previous" HREF="node27.html">
+<LINK REL="up" HREF="node26.html">
+<LINK REL="next" HREF="node29.html">
+</HEAD>
+<BODY BGCOLOR=#FFFFFF>
+<!--Navigation Panel-->
+<A NAME="tex2html799"
+ HREF="node29.html">
+<IMG WIDTH="37" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="next"
+ SRC="next_motif.gif"></A> 
+<A NAME="tex2html795"
+ HREF="node26.html">
+<IMG WIDTH="26" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="up"
+ SRC="up_motif.gif"></A> 
+<A NAME="tex2html789"
+ HREF="node27.html">
+<IMG WIDTH="63" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="previous"
+ SRC="previous_motif.gif"></A> 
+<A NAME="tex2html797"
+ HREF="node7.html">
+<IMG WIDTH="65" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="contents"
+ SRC="contents_motif.gif"></A> 
+<A NAME="tex2html798"
+ HREF="node120.html">
+<IMG WIDTH="43" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="index"
+ SRC="index_motif.gif"></A> 
+<BR>
+<B> Дал╕:</B> <A NAME="tex2html800"
+ HREF="node29.html">Директор╕я /etc</A>
+<B> Вгору:</B> <A NAME="tex2html796"
+ HREF="node26.html">Дерево директор╕й</A>
+<B> Назад:</B> <A NAME="tex2html790"
+ HREF="node27.html">Основи</A>
+<BR>
+<BR>
+<!--End of Navigation Panel-->
+
+<H1><A NAME="SECTION00520000000000000000">
+Коренева файлова система</A>
+</H1>
+<P>
+<FONT SIZE="+1"><FONT SIZE="+1">Взагал╕ кажучи кореневу файлову систему краще мати
+	невеличкою. Вона ма╓ м╕стити дуже критичн╕ файли, ╕ мала
+	файлова система, яка зм╕ню╓ться часто, ма╓ б╕льше шанс╕в на
+	виживання. Пошкодження коренево╖ файлово╖ системи у б╕льшост╕
+	випадк╕в означа╓, що система неможливо загрузити без
+	застосування спец╕альних заход╕в (як, наприклад, використання
+	гнучких диск╕в для загрузки). Отож, нею краще не ризикувати.
+</FONT></FONT>
+<P>
+<FONT SIZE="+1"><FONT SIZE="+1">Коренева директор╕я загалом не ма╓ н╕яких файл╕в, х╕ба що кр╕м
+	ядра системи, яке за традиц╕╓ю носить назву
+	<TT>/vmlinuz</TT><A NAME="1583">&#160;</A>. ╤нш╕ файли, що м╕сяться в коренев╕й директор╕╖:
+</FONT></FONT>
+<P>
+<DL>
+<DT><STRONG><TT>/bin</TT><A NAME="1585">&#160;</A></STRONG>
+<DD>Команди необх╕дн╕ для загрузки системи, ╕ як╕
+можливо будуть використовуватися звичайними
+		користувачами п╕сля загрузки.
+	<DT><STRONG><TT>/sbin</TT><A NAME="1587">&#160;</A></STRONG>
+<DD><P>
+Команди под╕бн╕ до тих, що ╓ в <TT>/bin</TT><A NAME="1589">&#160;</A>, але команди
+		з <TT>/sbin</TT><A NAME="1591">&#160;</A> не призначен╕ для звичайних користувач╕в
+		системи. Хоча, можливо, вони можуть користуватися цими
+		командами, якщо це потр╕бно ╕ дозволено.
+
+<P>
+<DT><STRONG><TT>/etc</TT><A NAME="1593">&#160;</A></STRONG>
+<DD>Файли конф╕╜урац╕╖ специф╕чн╕ для ц╕╓╖ машини.
+	<DT><STRONG><TT>/root</TT><A NAME="1595">&#160;</A></STRONG>
+<DD>Домашня директор╕я користувача <TT>root</TT>.
+	<DT><STRONG><TT>/lib</TT><A NAME="1597">&#160;</A></STRONG>
+<DD>Б╕бл╕отеки сп╕льного використання, необх╕дн╕ для
+		програм в коренев╕й файлов╕й систем╕. 
+	<DT><STRONG><TT>/lib/modules</TT><A NAME="1599">&#160;</A></STRONG>
+<DD>Модул╕ ядра, що п╕дгружаються, особливо т╕ з них, як╕
+		потр╕бн╕ для загрузки системи при в╕дновленн╕ в╕д
+		пошкоджень (як, наприклад, драйвери пристро╖в мереж╕
+		та файлових систем).
+	<DT><STRONG><TT>/dev</TT><A NAME="1601">&#160;</A></STRONG>
+<DD>Файли спец╕альних пристро╖в.
+
+<P>
+<DT><STRONG><TT>/tmp</TT><A NAME="1603">&#160;</A></STRONG>
+<DD>М╕сце для запису тимчасових файл╕в. Програми,
+		як╕ використовуються п╕сля загрузки, повинн╕
+		користуватися директор╕╓ю <TT>/var/tmp</TT><A NAME="1605">&#160;</A>, а не
+		<TT>/tmp</TT><A NAME="1607">&#160;</A> через те, що <TT>/var/tmp</TT><A NAME="1609">&#160;</A> скор╕ше всього
+		знаходиться на б╕льшому диску. 
+
+<P>
+<DT><STRONG><TT>/boot</TT><A NAME="1611">&#160;</A></STRONG>
+<DD>Файли, що використовуються системним
+		загрузчиком, таким, як наприклад, LILO. Файли ядра
+		системи часто знаходяться в ц╕й директор╕╖ зам╕сть
+		коренево╖. Коли к╕льк╕сть скомп╕льваних ядер зроста╓,
+		ця директор╕я може зб╕льшуватися досить швидко, ╕ це
+		може послужити причиною вид╕лення ╖╖ у власну файлову
+		систему. ╤ншою причиною щоб мати директор╕ю на сво╓му
+		власному розд╕л╕, може бути та, що таким чином можна
+		забезпечити, що ядро буде завжди знаходитися в межах
+		1024&nbsp; цили╕ндр╕в на IDE диску.
+
+<P>
+<DT><STRONG><TT>/mnt</TT><A NAME="1613">&#160;</A></STRONG>
+<DD>Точка для тимчасового монтування директор╕й
+		системним адм╕н╕стратором. ╤нш╕ програми не повинн╕
+		використовувати ╖╖ для автоматичного
+		монтування. <TT>mnt</TT><A NAME="1615">&#160;</A> може бути розд╕леною на
+		п╕ддиректор╕╖ (наприклад, <TT>/mnt/dosa</TT><A NAME="1617">&#160;</A> може бути
+		точкою монтування гнучких диск╕в з файловою системою
+		MS-DOS, а точка <TT>/mnt/exta</TT><A NAME="1619">&#160;</A> може використовуватися
+		для монтування того ж гнучкого диску т╕льки з файловою
+		системою ext2 на ньому).
+	<DT><STRONG><TT>/proc</TT><A NAME="1621">&#160;</A>, <TT>/usr</TT><A NAME="1623">&#160;</A>, <TT>/var</TT><A NAME="1625">&#160;</A>, <TT>/home</TT><A NAME="1627">&#160;</A></STRONG>
+<DD>Точки монтування ╕нших файлових систем.
+	</DL>
+<P>
+<BR><HR>
+<!--Table of Child-Links-->
+<A NAME="CHILD_LINKS">&#160;</A>
+<UL>
+<LI><A NAME="tex2html801"
+ HREF="node29.html">Директор╕я <TT>/etc</TT></A>
+<LI><A NAME="tex2html802"
+ HREF="node30.html">Директор╕я  <TT>/dev</TT></A>
+</UL>
+<!--End of Table of Child-Links-->
+<BR><HR>
+<ADDRESS>
+<I>Dmytro Kovalev</I>
+<BR><I>1999-06-10</I>
+</ADDRESS>
+</BODY>
+</HTML>

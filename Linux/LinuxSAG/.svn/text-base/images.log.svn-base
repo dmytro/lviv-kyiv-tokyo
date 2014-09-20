@@ -1,0 +1,440 @@
+This is TeX, Version 3.14159 (Web2C 7.2) (format=latex 1998.10.11)  10 JUN 1999 22:51
+**./images.tex
+(./images.tex
+LaTeX2e <1998/06/01>
+Babel <v3.6j> and hyphenation patterns for american, french, german, italian, n
+ohyphenation, loaded.
+
+(/usr/share/texmf/tex/latex/base/article.cls
+Document Class: article 1998/05/05 v1.3y Standard LaTeX document class
+(/usr/share/texmf/tex/latex/base/size10.clo
+File: size10.clo 1998/05/05 v1.3y Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+) (/home/dmytro/MyDocuments/Development/UkrLinux/sag-0.6-ua-v1.0.1/linuxdoc.sty
+Linux Documentation Style `linuxdoc', version 0.40 <7 Oct 93>
+) (/usr/share/texmf/tex/latex/graphics/graphics.sty
+Package: graphics 1998/05/27 v1.0h Standard LaTeX Graphics (DPC,SPQR)
+(/usr/share/texmf/tex/latex/graphics/trig.sty
+Package: trig 1994/10/16 v1.08 sin cos tan (DPC)
+) (/usr/share/texmf/tex/latex/config/graphics.cfg)
+Package graphics Info: Driver file: dvips.def on input line 85.
+(/usr/share/texmf/tex/latex/graphics/dvips.def
+File: dvips.def 1998/05/03 v3.0f Driver-dependant file (DPC,SPQR)
+)) (/usr/share/texmf/tex/latex/base/makeidx.sty
+Package: makeidx 1995/04/19 v1.0j Standard LaTeX package
+) (/usr/share/texmf/tex/latex/base/showidx.sty
+Package: showidx 1995/04/19 v1.0j Standard LaTeX package
+\indexbox=\insert233
+)
+\@indexfile=\write3
+\openout3 = `images.idx'.
+
+Writing index file images.idx 
+
+! LaTeX Error: \begin{document} ended by \end{raggedleft}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.19  {\end{raggedleft}
+                       \vspace{2em}}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.19  {\end{raggedleft}
+                       \vspace{2em}}
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Extra \endgroup.
+<recently read> \endgroup 
+                          
+l.19  {\end{raggedleft}
+                       \vspace{2em}}
+Things are pretty mixed up, but I think the worst is over.
+
+! Too many }'s.
+l.19  {\end{raggedleft}\vspace{2em}}
+                                    
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+(/usr/share/texmf/tex/latex/graphics/color.sty
+Package: color 1998/05/27 v1.0g Standard LaTeX Color (DPC)
+(/usr/share/texmf/tex/latex/config/color.cfg)
+Package color Info: Driver file: dvips.def on input line 130.
+(/usr/share/texmf/tex/latex/graphics/dvipsnam.def
+File: dvipsnam.def 1998/05/03 v3.0f Driver-dependant file (DPC,SPQR)
+))
+\sizebox=\box26
+\lthtmlwrite=\write4
+(images.aux)
+\openout1 = `images.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+latex2htmlLength hsize=349.0pt
+latex2htmlLength vsize=645.16pt
+latex2htmlLength hoffset=0.0pt
+latex2htmlLength voffset=0.0pt
+latex2htmlLength topmargin=0.0pt
+latex2htmlLength topskip=0.00003pt
+latex2htmlLength headheight=0.0pt
+latex2htmlLength headsep=0.0pt
+latex2htmlLength parskip=5.16663pt plus 1.0pt
+latex2htmlLength oddsidemargin=36.135pt
+latex2htmlLength evensidemargin=36.135pt
+File: linux-logo.ps Graphic file (type eps)
+<linux-logo.ps>
+l2hSize :tex2html_wrap117:109.40875pt::0.0pt::349.0pt.
+[1
+
+
+]
+
+! LaTeX Error: No counter 'chapter' defined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.112 \stepcounter{chapter}
+                           
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: No counter 'chapter' defined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.119 \stepcounter{chapter}
+                           
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: No counter 'chapter' defined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.121 \stepcounter{chapter}
+                           
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+File: overview/overview-kernel.ps Graphic file (type eps)
+<overview/overview-kernel.ps>
+Overfull \hbox (47.48125pt too wide) in paragraph at lines 126--127
+[][] 
+ []
+
+l2hSize :tex2html_wrap1121:345.29pt::0.0pt::349.0pt.
+[2
+
+
+]
+
+! LaTeX Error: No counter 'chapter' defined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.142 \stepcounter{chapter}
+                           
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+File: walkabout/fstree.ps Graphic file (type eps)
+<walkabout/fstree.ps>
+l2hSize :tex2html_wrap2165:140.525pt::0.0pt::349.0pt.
+[3
+
+
+]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 152.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 152.
+l2hSize :tex2html_wrap_inline1254:6.45831pt::0.0pt::5.00002pt.
+ht8.25838pt: dp2.5pt [4
+
+
+]
+
+! LaTeX Error: No counter 'chapter' defined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.162 \stepcounter{chapter}
+                           
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+File: disks/hd-schematic.ps Graphic file (type eps)
+<disks/hd-schematic.ps>
+l2hSize :tex2html_wrap4011:257.96375pt::0.0pt::349.0pt.
+[5
+
+
+]
+File: disks/hd-layout.ps Graphic file (type eps)
+<disks/hd-layout.ps>
+l2hSize :tex2html_wrap4155:174.6525pt::0.0pt::349.0pt.
+[6
+
+
+]
+l2hSize :tex2html_wrap_inline3925:6.95831pt::6.95831pt::7.7778pt.
+ht8.75838pt: dp10.45837pt [7
+
+
+]
+File: disks/hd-mount-separate.ps Graphic file (type eps)
+<disks/hd-mount-separate.ps>
+Overfull \hbox (79.60124pt too wide) in paragraph at lines 201--202
+[][] 
+ []
+
+l2hSize :tex2html_wrap4357:64.23999pt::0.0pt::349.0pt.
+[8
+
+
+]
+File: disks/hd-mount-mounted.ps Graphic file (type eps)
+<disks/hd-mount-mounted.ps>
+l2hSize :tex2html_wrap4363:118.44249pt::0.0pt::349.0pt.
+[9
+
+
+]
+
+! LaTeX Error: Environment tex2html_preform undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.221 \begin{tex2html_preform}
+                              \begin{verbatim}dumpe2fs 0.5b, 11-Mar-95 for E...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: \begin{center} on input line 219 ended by \end{tex2html_preform}
+.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.249 ...5-360\end{verbatim}\end{tex2html_preform}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+l2hSize :figure2786:367.36981pt::0.0pt::349.0pt.
+[10
+
+
+]
+
+! LaTeX Error: No counter 'chapter' defined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.262 \stepcounter{chapter}
+                           
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+l2hSize :tex2html_wrap_inline4900:8.0pt::8.0pt::157.77774pt.
+ht9.80006pt: dp11.50006pt [11
+
+
+]
+
+! LaTeX Error: No counter 'chapter' defined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.276 \stepcounter{chapter}
+                           
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: No counter 'chapter' defined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.283 \stepcounter{chapter}
+                           
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: No counter 'chapter' defined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.289 \stepcounter{chapter}
+                           
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+File: logins/logins-via-terminals.ps Graphic file (type eps)
+<logins/logins-via-terminals.ps>
+l2hSize :tex2html_wrap6341:463.7325pt::0.0pt::349.0pt.
+[12
+
+
+]
+
+! LaTeX Error: No counter 'chapter' defined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.302 \stepcounter{chapter}
+                           
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: No counter 'chapter' defined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.312 \stepcounter{chapter}
+                           
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+File: backups/backup-timeline.ps Graphic file (type eps)
+<backups/backup-timeline.ps>
+Overfull \hbox (25.39874pt too wide) in paragraph at lines 322--323
+[][] 
+ []
+
+l2hSize :tex2html_wrap7170:61.22874pt::0.0pt::349.0pt.
+[13
+
+
+]
+l2hSize :figure6891:202.31967pt::0.0pt::349.0pt.
+[14
+
+
+]
+
+! LaTeX Error: No counter 'chapter' defined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.355 \stepcounter{chapter}
+                           
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: No counter 'chapter' defined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.361 \stepcounter{chapter}
+                           
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: No counter 'chapter' defined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.362 \stepcounter{chapter}
+                           
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+(images.aux) ) 
+Here is how much of TeX's memory you used:
+ 717 strings out of 10906
+ 8705 string characters out of 71921
+ 56568 words of memory out of 263001
+ 3675 multiletter control sequences out of 10000+0
+ 4106 words of font info for 16 fonts, out of 200000 for 1000
+ 15 hyphenation exceptions out of 1000
+ 23i,9n,19p,184b,438s stack positions out of 300i,100n,500p,30000b,4000s
+
+Output written on images.dvi (14 pages, 5200 bytes).

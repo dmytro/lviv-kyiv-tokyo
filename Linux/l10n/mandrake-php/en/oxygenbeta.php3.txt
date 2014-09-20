@@ -1,0 +1,119 @@
+<? include("begin1.php3"); ?>
+Download Linux-Mandrake 7.0-beta
+<? include("begin2.php3"); ?>
+Download Linux-Mandrake 7.0-beta
+<? include("begin3.php3"); ?>
+
+<p align=justify><br>
+<b>What is new in Linux-Mandrake 7.0-BETA (Oxygen) ?</b>
+<ul>
+<li>New perl/gtk based graphical installer Drakx, including many
+languages support and DiskDrake partitioner (lets one change the size
+of Ext2, FAT... disk partitions).<br>
+<center><a href="../images/screen-drakx.png"><img src="../images/screen-drakxs.jpg" width=300 height=227 border=0 alt="DrakX screenshot"></a></center>
+<br>
+<li>Use of supermount (integrated in kernel 2.2.14) in order to
+suppress the need of mount and umount for most removable medias
+(cdrom, floppy, zip): Mandrake easier to use than ever!
+<li>Several security levels that let you use your Linux box like a jail
+(extremely high security, restricted use), or like a very common
+proprietary OSes (very poor security, no constraint in use). Default is
+medium security level like in most standard Linux distributions.
+<li>Improved desktop integration with new tools like DrakConf and
+rpmdrake that let the user manage its Linux-Mandrake box like a charm.
+<center><img src="../images/icorpm.png" width=48 height=48 border=0 alt="RPM icon">&nbsp;&nbsp;&nbsp;<img src="../images/icodoc.png" width=48 height=48 border=0 alt="docs icon">&nbsp;&nbsp;&nbsp;<img src="../images/icodrake.png" width=48 height=48 border=0 alt="DrakeConf icon"></center>
+<li>New hardware configuration tools like lothar and XFdrake.
+</ul>
+<p align=justify>
+<b>How to download Mandrake 7.0-BETA (Oxygen)?</b><br>
+&nbsp;&nbsp;<font color=red><b>WARNING!</b></font> Oxygen is a <b>beta</b> version, it means that it still is an <b>experimental</b> distribution, it's not for daily use! The purpose is to debug it, so it's sure that some things are broken in it: use it carefully!<br>
+Please check the list of FTP mirror down on this page, and choose one that is near your location.
+
+
+<p align=justify>
+<b>How to contribute to the debugging?</b>
+<br> <FORM METHOD="POST" ACTION="http://www.linux-mandrake.com/cgi-bin/listel.pl">
+First, you have to subscribe to the Cooker list by sending a mail to <a href="mailto:sympa@linux-mandrake.com">sympa@linux-mandrake.com</a> with "SUB cooker" in the body of your message.<br> 
+You can also put your email adress in the opposite field:
+<input type="Hidden" name="langue" value="en">
+<input type="Hidden" name="public" value="co">
+<input type="Hidden" name="bot" value="sympa">
+<INPUT  TYPE="text" NAME="email" SIZE=25 MAXLENGTH=50>
+<INPUT type="Hidden" name="action" value="subscribe">
+<br><!--<INPUT TYPE="submit" VALUE="Submit">-->
+<br>When you find a bug, first check that it wasn't already described and fixed on the previous messages, then sent a mail to the cooker list, <a href="mailto:cooker@linux-mandrake.com">cooker@linux-mandrake.com</a> <!--please send an e-mail to <a href="mailto:bug@linux-mandrake.com">bug@linux-mandrake.com</a>,-->with a good description of the bug, and if possible a solution ;)
+
+Provide the package number (rpm -qi package).
+</FORM>
+<p align=justify>
+<b>What should I look first?</b><br>
+Here are several new features that have been introduced in this new release: 
+<ul>
+<li><b>drakX</b> (installation procedure)        
+<li><b>etherconfig, soundconfig</b> (lothar hardware configurator)
+<li><b>draksec</b> (security levels configurator)
+<li><b>XFdrake</b> (video card configurator)
+<li><b>rpmdrake</b> (rpm packages management)
+<li><b>DrakConf</b> (system configuration tool)
+<li><b>Lothar</B> (hardware configuration tool)
+<li><b>supermount</B> (automatic mount for all removable devices)
+<li>new <b>RAID</b> configuration
+</ul>
+<p align=justify>
+<B>Mirrors of our FTP server for Oxygen:</b>
+<P>
+
+<p>
+An ISO9660 image of Mandrake 7.0-BETA is available on: <a href="ftp://ftp.linux.tucows.com/pub/distributions/Mandrake/Mandrakebeta">ftp://ftp.linux.tucows.com/pub/distributions/Mandrake/Mandrakebeta</a>
+<p>
+<B>We are looking for new mirrors</B>. If you could setup a mirror
+please use our  <a
+href="ftp://sunsite.uio.no/pub/unix/Linux/Mandrake-devel/">primary
+mirror</a> or <a
+href="ftp://ftp.sunet.se/pub/Linux/distributions/mandrake-devel/">this one</a>, and read <a href="ftp://ftp.sunet.se/README.rsync">this</a> for  a quick introduction to rsync.  Don't forget to send a <a href="mailto:mirrors@linux-mandrake.com">mail</a> to the coordinator of mirrors .<!-- If you want more information to set up a new mirror, please read <a href="oxygenbeta.php3#howto">this</a>.-->
+<P>
+<? include("mirrors-oxygen.html"); ?>
+
+<!--<p align=justify> 
+<a name="howto"><B>How to setup a new mirror</B>
+<br>
+Please use a mirroring tool like <a href="ftp://ftp.pvv.ntnu.no/pub/unix/network/fmirror/">fmirror</a> (<a href="fmirror.tgz">libc6 for cooker</a>) or wget (wget -rm ftp://ftp.......com/pub/cooker) or Rsync. Once you have finished the mirroring stage, please launch again the mirroring tool in order for checking if everything has been mirrored and if it has not changed during the mirror.<p>
+<br>
+<b>New:</b> you can also use a program called "mirror". Get it from <a href="ftp://sunsite.org.uk/packages/mirror/mirror.tar.gz">ftp://sunsite.org.uk/packages/mirror/mirror.tar.gz</a> - If you already have a local copy of the mirror, to set your local timestamps equal to the remote timestamps, run it like this:<p>
+
+<blockquote>
+    #!/bin/sh<br>
+    mirror -d -T > ./cooker.mirror<br>
+</blockquote>
+And you won't have to get all the files again just because of timestamp differences.
+
+<p>-->
+<b>How to create a iso image ?</b>
+
+<PRE>
+    #mirror from ftp the oxygen/ directory preserving permissions and symlinks
+    cd /mnt/disk
+    lftp -c 'open ftp.somewhere.org; cd some/dir/oxygen; mirror'
+
+    # Do a little prep to get the boot images to the start of the disk
+    mkdir -p /tmp/r
+    mv /mnt/disk/images /tmp/r
+
+
+    mkisofs -R \
+            -o /output/dir/oxygen.iso \
+            -b images/gi_cdrom.img \
+            -c images/.catalog \
+            /tmp/r \
+            /mnt/disk
+
+</PRE>
+Or snag the pre-made iso from one of the mirror beyond.
+<ul>
+<li><a href="ftp://mirror.aarnet.edu.au/pub/linux/mandrake-devel/iso/">ftp://mirror.aarnet.edu.au/pub/linux/mandrake-devel/iso/</a> (Australia)
+<li><a href="ftp://mdk.tmtc.edu.tw/pub/cooker/">ftp://mdk.tmtc.edu.tw/pub/cooker/</a> (Taiwan)
+<li><a href="ftp://ftp.linuxberg.com/pub/distributions/Mandrake/Mandrakebeta/">ftp://ftp.linuxberg.com/pub/distributions/Mandrake/Mandrakebeta/ (Canada)
+<li><a href="ftp.linux.tucows.com/pub/distributions/Mandrake/Mandrakebeta/">ftp.linux.tucows.com/pub/distributions/Mandrake/Mandrakebeta/</a> (Canada)
+<li><a href="ftp://ftp.kando.hu/pub/CDROM-Images/mandrake/">ftp://ftp.kando.hu/pub/CDROM-Images/mandrake/</a> (Hungary)
+</ul>
+<? include("end1.php3"); ?>

@@ -1,0 +1,13 @@
+<? include("begin.php3"); ?>
+<META NAME="Description" content="Linux-Mandrake is a graphical Linux system which provides ease of use and solidity for both home and office. It is freely available in many languages, all over the world.">  
+<META NAME="KeyWords" content="Linux, operating system, pc, software, desktop, rpm, download, open source, free, corporate, education, phone support, tux, linux-mandrake, O/S, power, complete, new, stable, packages, newbie, public, professional, computers, buy, resell, wholesale, retail, cooker, best, product, year, 1999, Mandrake, lemarois, french, duval, bastok, COMDEX, linux expo, linux world, kde, gnome, powerpack, goldpack, 2000, red hat, staroffice, kernel, release, distribution...">
+<META NAME="REVISIT-AFTER" CONTENT="10 days">
+<? include("title.php3"); ?>
+Linux-Mandrake Home
+<? include("body.php3"); ?>
+<? include("mdktitle.php3"); ?>
+<? include("leftcol.php3"); ?>
+<? include("middle.php3"); ?>
+<? include("linux-news.php3"); ?>
+<? include("rightcol.php3"); ?>
+<? include("end.php3"); ?>

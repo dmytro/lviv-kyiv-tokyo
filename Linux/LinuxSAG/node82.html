@@ -1,0 +1,151 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<!--Converted with LaTeX2HTML 98.1 release (February 19th, 1998)
+originally by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Р╕вн╕ роботи</TITLE>
+<META NAME="description" CONTENT="Р╕вн╕ роботи">
+<META NAME="keywords" CONTENT="linux,ukrainian,guide,sag">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<LINK REL="STYLESHEET" HREF="sag.css">
+<LINK REL="next" HREF="node83.html">
+<LINK REL="previous" HREF="node81.html">
+<LINK REL="up" HREF="node79.html">
+<LINK REL="next" HREF="node83.html">
+</HEAD>
+<BODY BGCOLOR=#FFFFFF>
+<!--Navigation Panel-->
+<A NAME="tex2html1500"
+ HREF="node83.html">
+<IMG WIDTH="37" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="next"
+ SRC="next_motif.gif"></A> 
+<A NAME="tex2html1496"
+ HREF="node79.html">
+<IMG WIDTH="26" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="up"
+ SRC="up_motif.gif"></A> 
+<A NAME="tex2html1490"
+ HREF="node81.html">
+<IMG WIDTH="63" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="previous"
+ SRC="previous_motif.gif"></A> 
+<A NAME="tex2html1498"
+ HREF="node7.html">
+<IMG WIDTH="65" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="contents"
+ SRC="contents_motif.gif"></A> 
+<A NAME="tex2html1499"
+ HREF="node120.html">
+<IMG WIDTH="43" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="index"
+ SRC="index_motif.gif"></A> 
+<BR>
+<B> Дал╕:</B> <A NAME="tex2html1501"
+ HREF="node83.html">Спец╕альн╕ конф╕╜урац╕╖ в /etc/inittab</A>
+<B> Вгору:</B> <A NAME="tex2html1497"
+ HREF="node79.html">init</A>
+<B> Назад:</B> <A NAME="tex2html1491"
+ HREF="node81.html">Настройка init для старту</A>
+<BR>
+<BR>
+<!--End of Navigation Panel-->
+
+<H1><A NAME="SECTION00930000000000000000">
+Р╕вн╕ роботи</A>
+</H1><FONT SIZE="+1"></FONT>
+<P>
+<FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1"><B>Робочим р╕внем</B> називають стан, в якому перебува╓
+	<TT>init</TT><A NAME="5890">&#160;</A> та система в ц╕лому, ╕ який визнача╓, як╕ саме
+	системн╕ серв╕си знаходяться в робот╕. Робоч╕ р╕вн╕
+	визначаються номерами, див. таблицю&nbsp;<A HREF="#ref:run-levels"><IMG  ALIGN="BOTTOM" BORDER="1" ALT="[*]"
+ SRC="cross_ref_motif.gif"></A>. Ще
+	дос╕ не прийшли до згоди, щодо того, як саме нумерувати робоч╕
+	р╕вн╕ в╕д 2 до 5. Деяк╕ системн╕ адм╕н╕стратори використовують
+	робоч╕ р╕вн╕ для того, щоб визначити, як╕ п╕дсистеми працюють.
+	Тобто: чи працю╓ X, мережа ╕ т.д. ╤нш╕ стартують чи зупиняють
+	п╕дсистеми одну по одн╕й без зм╕ни робочих р╕вн╕в.  ╥м
+	зда╓ться, що робоч╕ р╕вн╕ - це вже занадто для ╖хньо╖
+	системи. Вам треба визначатися з цим самост╕йно. Або, може,
+	нав╕ть краще залишити все так, як воно вже ╓ в т╕й верс╕╖
+	Л╕накса, що Ви ма╓те.
+</FONT></FONT></FONT>
+<P>
+<FONT SIZE="+1"></FONT>
+<BR>
+<DIV ALIGN="CENTER"><A NAME="5671">&#160;</A>
+<TABLE>
+<CAPTION><STRONG>Таблиця:</STRONG>
+Run level numbers</CAPTION>
+<TR><TD>
+
+		<A NAME="tab:run-levels">&#160;</A>		<DIV ALIGN="CENTER">
+<TABLE CELLPADDING=3 BORDER="1">
+<TR><TD ALIGN="LEFT">0</TD>
+<TD ALIGN="LEFT">Halt the system.</TD>
+</TR>
+<TR><TD ALIGN="LEFT">1</TD>
+<TD ALIGN="LEFT">Single-user mode (for special administration).</TD>
+</TR>
+<TR><TD ALIGN="LEFT">2-5</TD>
+<TD ALIGN="LEFT">Normal operation (user defined).</TD>
+</TR>
+<TR><TD ALIGN="LEFT">6</TD>
+<TD ALIGN="LEFT">Reboot.</TD>
+</TR>
+</TABLE></DIV></TD></TR>
+</TABLE>
+</DIV>
+<BR><FONT SIZE="+1"></FONT>
+<P>
+<FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1">Робоч╕ р╕вн╕ конф╕╜уруються в <TT>/etc/inittab</TT><A NAME="5892">&#160;</A>	такими рядками:
+</FONT></FONT></FONT><BLOCKQUOTE><FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1">
+<TT>
+l2:2:wait:/etc/init.d/rc 2
+</TT></FONT></FONT></FONT></BLOCKQUOTE><FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1">
+	
+	Перше поле тут - це дов╕льна етикетка. Друге показу╓, що цей
+	рядок в╕дноситься до другого робочого р╕вня. Трет╓ поле
+	вказу╓, що <TT>init</TT><A NAME="5894">&#160;</A> повинен дочекатися, поки зак╕нчиться
+	виконання команди, дано╖ в четвертому пол╕. В даному випадку
+	команда <TT>/etc/init.d/rc</TT><A NAME="5896">&#160;</A> викону╓ скрипт, який викону╓ вс╕
+	команди (запуска╓ необх╕дн╕ демони та системи), як╕ необх╕дно
+	виконати для робочого р╕вня 2.
+	
+	Команда в четвертому пол╕ ╕ викону╓ всю ту роботу, яка
+	необх╕дна для встановлення робочого р╕вня. Вона встановлю╓
+	серв╕си, як╕ ще не працюють, та зупиня╓ серв╕си, як╕ не
+	повинн╕ працювати на даному робочому р╕вн╕. Що це за команда,
+	та як конф╕╜уруються р╕зн╕ робоч╕ р╕вн╕, залежить в╕д того,
+	яку саме систему Ви ма╓те.
+	
+	При старт╕ <TT>init</TT><A NAME="5898">&#160;</A> шука╓ в <TT>/etc/inittab</TT><A NAME="5900">&#160;</A> рядок, який
+	вказу╓ основний робочий р╕вень<A NAME="tex2html152"
+ HREF="footnode.html#foot5901"><SUP>143</SUP></A>: 
+</FONT></FONT></FONT><BLOCKQUOTE><FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1">
+<TT>
+id:2:initdefault:
+</TT></FONT></FONT></FONT></BLOCKQUOTE><FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1">
+	Можна вказати, що <TT>init</TT><A NAME="5907">&#160;</A> повинен загрузити систему не в
+	основний робочий р╕вень, а в якийсь ╕нший. Це робиться за
+	допомогою надання командного параметра для ядра, такого як
+	<TT>single</TT> або <TT>emergency</TT>.<A NAME="tex2html153"
+ HREF="footnode.html#foot5741"><SUP>144</SUP></A> Це да╓ змогу
+	вв╕йти в однокористувацький режим (робочий р╕вень 1), який
+	описано в розд╕л╕&nbsp;<A HREF="node84.html#sec:single-user-mode"><IMG  ALIGN="BOTTOM" BORDER="1" ALT="[*]"
+ SRC="cross_ref_motif.gif"></A>.
+	
+	П╕д час роботи системи робочий р╕вень можна зм╕нити за
+	допомогою команди <TT>telinit</TT><A NAME="5909">&#160;</A>. При зм╕н╕ робочого р╕вня,
+	<TT>init</TT><A NAME="5911">&#160;</A> викону╓ в╕дпов╕дн╕ команди ╕з файлу
+	<TT>/etc/inittab</TT><A NAME="5913">&#160;</A>.
+	
+</FONT></FONT></FONT>
+<P>
+<FONT SIZE="+1"></FONT>
+<BR><HR>
+<ADDRESS>
+<I>Dmytro Kovalev</I>
+<BR><I>1999-06-10</I>
+</ADDRESS>
+</BODY>
+</HTML>

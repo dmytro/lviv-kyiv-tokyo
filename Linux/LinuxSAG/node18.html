@@ -1,0 +1,96 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<!--Converted with LaTeX2HTML 98.1 release (February 19th, 1998)
+originally by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Пер╕одичне виконання команд: cron та at</TITLE>
+<META NAME="description" CONTENT="Пер╕одичне виконання команд: cron та at">
+<META NAME="keywords" CONTENT="linux,ukrainian,guide,sag">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<LINK REL="STYLESHEET" HREF="sag.css">
+<LINK REL="next" HREF="node19.html">
+<LINK REL="previous" HREF="node17.html">
+<LINK REL="up" HREF="node14.html">
+<LINK REL="next" HREF="node19.html">
+</HEAD>
+<BODY BGCOLOR=#FFFFFF>
+<!--Navigation Panel-->
+<A NAME="tex2html676"
+ HREF="node19.html">
+<IMG WIDTH="37" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="next"
+ SRC="next_motif.gif"></A> 
+<A NAME="tex2html672"
+ HREF="node14.html">
+<IMG WIDTH="26" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="up"
+ SRC="up_motif.gif"></A> 
+<A NAME="tex2html666"
+ HREF="node17.html">
+<IMG WIDTH="63" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="previous"
+ SRC="previous_motif.gif"></A> 
+<A NAME="tex2html674"
+ HREF="node7.html">
+<IMG WIDTH="65" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="contents"
+ SRC="contents_motif.gif"></A> 
+<A NAME="tex2html675"
+ HREF="node120.html">
+<IMG WIDTH="43" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="index"
+ SRC="index_motif.gif"></A> 
+<BR>
+<B> Дал╕:</B> <A NAME="tex2html677"
+ HREF="node19.html">Граф╕чний ╕нтерфейс</A>
+<B> Вгору:</B> <A NAME="tex2html673"
+ HREF="node14.html">Основн╕ послуги в систем╕</A>
+<B> Назад:</B> <A NAME="tex2html667"
+ HREF="node17.html">Syslog</A>
+<BR>
+<BR>
+<!--End of Navigation Panel-->
+
+<H2><A NAME="SECTION00434000000000000000">&#160;</A><A NAME="916">&#160;</A><A NAME="918">&#160;</A>
+<BR>
+Пер╕одичне виконання команд: <TT>cron</TT> та <TT>at</TT>
+</H2>
+<P>
+<FONT SIZE="+1"><FONT SIZE="+1">Як користувач╕, так ╕ системн╕ адм╕н╕стратори часто мають
+	необх╕дн╕сть виконувати певн╕ команди пер╕одично. Наприклад,
+	системному адм╕н╕стратору може знадобитись пер╕одично старати
+	файли в директор╕ях, що служать для тимчасового збер╕гання
+	файл╕в (<TT>/tmp</TT><A NAME="920">&#160;</A> та <TT>/var/tmp</TT><A NAME="922">&#160;</A>) в╕д старих файл╕в, щоб
+	утримувати в╕д забивання диски (не вс╕ програми прибирають
+	п╕сля себе так, як потр╕бно).
+</FONT></FONT>
+<P>
+<FONT SIZE="+1"><FONT SIZE="+1"><A NAME="815">&#160;</A>
+<A NAME="727">&#160;</A>
+<A NAME="728">&#160;</A>
+</FONT></FONT>
+<P>
+<FONT SIZE="+1"><FONT SIZE="+1">Для цього призначений серв╕с <TT>cron</TT><A NAME="924">&#160;</A>. Кожен користувач ма╓
+	власний <TT>crontab</TT><A NAME="926">&#160;</A>, де в╕н перечисля╓ т╕ команди, як╕ в╕н
+	хоче виконати та час коли, ц╕ команди мають
+	виконуватися. Демон <TT>cron</TT><A NAME="928">&#160;</A> запуска╓ команди тод╕, коли
+	потр╕бно. 
+</FONT></FONT>
+<P>
+<FONT SIZE="+1"><FONT SIZE="+1"><A NAME="816">&#160;</A>
+</FONT></FONT>
+<P>
+<FONT SIZE="+1"><FONT SIZE="+1">Серв╕с <TT>at</TT><A NAME="930">&#160;</A> под╕бний до <TT>cron</TT><A NAME="932">&#160;</A>, але в╕н викону╓
+	команду т╕льки один раз: команда викону╓ться в заданий час,
+	але не повторю╓ться.
+</FONT></FONT>
+<P>
+<FONT SIZE="+1"><FONT SIZE="+1"><A NAME="817">&#160;</A>
+</FONT></FONT>
+<P>
+<BR><HR>
+<ADDRESS>
+<I>Dmytro Kovalev</I>
+<BR><I>1999-06-10</I>
+</ADDRESS>
+</BODY>
+</HTML>

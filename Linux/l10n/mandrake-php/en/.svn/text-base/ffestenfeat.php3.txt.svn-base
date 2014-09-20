@@ -1,0 +1,104 @@
+<? include("begin1.php3"); ?>
+Linux Mandrake 5.3 (Festen) general features
+<? include("begin2.php3"); ?>
+Linux Mandrake 5.3 (Festen) general features
+<? include("begin3.php3"); ?>
+
+<img src="../images/littleping.gif" align=right>&nbsp;<i>Linux Mandrake</i> is based upon <b>Linux</b> the full 32 bits multitasking OS. It actually runs on all Intel and compatible architectures (486, Pentium, Pentium Pro, Pentium MMX, Pentium II and all clones). <i>Linux Mandrake</i> combines the power of Unix-based systems with the flexibiliy of a very powerful graphical Desktop-manager: KDE.<p align="justify">
+It comes with the famous Apache Web Server, the Gnu Manipulation Image Program Gimp 1.0, Netscape Communicator(4.5) and <b>many other</b> excellent softwares.
+<i>Linux Mandrake</i> is free to get, free to use (please have a look at <a href=flicensing.php3>Licensing informations</a>), free to redistribute...<p>
+The <i>Linux Mandrake</i> version numbers follow RedHat ones. When a new RedHat distribution comes, a new Linux Mandrake distribution comes too!<p> Linux -Mandrake 5.x is <b>100% compatible</b> with RedHat 5.x! (note: 5.3 is an exception: Mandrake 5.3 is compatible with RH 5.2 since RH 5.3 is not out and will probably never be)<p>
+Furthermore, our distribution is constantly updated with the new patches, and the new Linux Kernels.
+
+    <hr>
+
+<table border=0 width="100%" cellpadding=12> 
+<tr>
+<td valign=top colspan=2>
+<font size="+1">
+<center>What's new with Mandrake 5.3?</center></font><p>
+</font>
+First, you get an <b>international installation procedure</b> (including <b>en</b> (default), <b>cs</b>, <b>fi</b>, <b>no</b>, <b>tr</b>, <b>ro</b>, <b>sr</b>, <b>sk</b>, <b>de</b>, <b>da</b>, <b>se</b>, <b>it</b>, <b>fr</b>). <p>
+<u>Mandrake 5.3 add-ons</u>:
+<blockquote>
+<li> kpackage 1.1 (.rpm/.deb packages manager)
+<li> x11amp 0.65 (mp3 player)
+<li> kvirc 0.8 (full featured graphical irc client)
+<li> licq 0.44 (ICQ client)
+<li> aktion 0.2 (mpeg/avi/mov player)
+<li> ksnapshot 0.2 (screenshots program)
+<li> ktelnet 0.61 (K version of telnet)
+<li> ktop 0.9 (graphical system-ressources vizualizer)
+<li> kpilot 3.0 (Pilot synchronization utilitie)
+<li> spacesounds (pre-integrated sound-theme for KDE)
+<li> GPL flash2/3 plugin (pre-integrated to Netscape)
+<li> krubik 1.04 (nice Rubik's cube game)
+<li> kfortune 1.11 (get a new fortune each time you start KDE!)
+<li> xkobo 1.9 (a nice spacewar game)
+<li> wine 1990110 (windows 16/32 applications emulator)
+     
+</blockquote>
+<p>
+<u>Mandrake-SOHO (Small Office Home Office) extensions</u>:<p>
+<blockquote>
+<li> klyx 0.9 (WYSIWYG front-end to LaTeX)
+<li> maxwell 0.5 (wordprocessor, nice to import word6.0 and RTF files)
+<li> ksiag 3.0.6 (spreadsheet for Linux)
+<li> sane 1.0 (scanning plugin for Gimp)
+<li> korganizer 0.9 (full personal organizer)
+<li> ksendfax 0.3 (fax utilitie)
+<li> kvoice 0.3 (voice modem utilitie)
+<li> kisdn (isdn utility)
+</blockquote>
+<p>
+<u>X-Server extensions</u>(must be set manually):<p>
+<blockquote>
+<li> XBF server 1.0 (for i740-based boards)
+</blockquote>
+<p>
+<u>Locale (must be set manually) extensions</u>:<p>
+<blockquote>
+<li> Italian manpages
+<li> Spanish manpages
+<li> German manpages
+<li> French manpages
+<li> Xtel 3.2 (French Minitel terminal)
+</blockquote>
+<p>
+<hr>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<b>Core System details:</b><p>
+<img src="../images/tux.gif"> Linux Kernel version: 2.0.36 (final) + 2.2.1<br>
+ld.so version: 1.9.5<br>
+glibc version: 2.0.7<br>
+egcs version: 1.0.3a<br>
+gcc version: 2.7.2.3<br>
+<p>
+</td>
+<td valign="top">
+<b>Base Applications details:</b><p>
+ RedHat Linux version: 5.2<br>
+<img src="../images/kde.gif"> KDE version: 1.1 (ehanced)<br> 
+<img src="../images/xfree86.gif"> XFree86: 3.3.3.1<br>
+<img src="../images/gimp.gif"> Gimp version: 1.0.1<br>
+<img src="../images/apache.gif"> Apache version: 1.3.3<br>
+<img src="../images/netscape.gif"> Netscape Communicator version: 4.08 + 4.5<br>
+<img src="../images/emacs.gif"> emacs version: 20.3 + XEmacs 20.4<br>
+</td></tr>
+</table>
+</center>
+<p>
+Note: all RH 5.2 RPM packages are included! (<b>packages updated january 1999</b>)<br>
+Note2: the content of FTP servers is not always up-to-date with current version of Mandrake.
+<p>
+    <hr>
+<font size=1>
+<!-- Created: Thu Feb 11 13:52:55 CET 1999 -->
+<!-- hhmts start -->
+Last modified: Sat Apr 10 15:13:56 CEST 1999
+<!-- hhmts end -->
+
+<? include("end1.php3"); ?>

@@ -1,0 +1,89 @@
+<? include("begin1.php3"); ?>
+Announce: Linux-Mandrake 7.0 PowerPack available
+<? include("begin2.php3"); ?>
+Announce: Linux-Mandrake 7.0 PowerPack available
+<? include("begin3.php3"); ?>
+<table border=0 width=90%>
+  <tr>
+ 
+ <td bgcolor=white height="176" colspan=2>
+<font face=helvetica, arial"><b>MandrakeSoft announces the immediate availability of Linux-Mandrake
+7.0 PowerPack in the USA.</b>
+<p align=justify>
+Altadena, California - February 28, 2000 - The new graphically-enhanced 
+Linux-Mandrake 7.0 PowerPack edition is available at local retailers
+and through mail-order in the US. The 7.0 PowerPack contains over 2000
+applications, new manuals and 100 days of email support at the price of $55 US.
+<p align=justify>
+With their goal of introducing Linux to as many new users as possible,
+a company-wide effort has been focused on ease-of-use issues resulting
+in the development of many new graphical tools, utilities and
+"wizards".
+<p align=justify>
+Linux-Mandrake 7.0 now includes all the graphical tools that users
+expect for a simplified system installation such as a new graphical
+installer with FAT partitions resizer, new desktop enhancements and supported 50
+languages. Additionally, Mandrake 7.0 introduces several new concepts
+and features that will make it the system of choice for servers, such
+as several pre-configured « Security Levels » and a customized system
+kernel called « kernel secure »  for servers that
+require extra security.
+<p align=justify>
+The Linux-Mandrake 7.0 PowerPack still offers greater value. The
+PowerPack contains a total of 6 CD-ROMS. Disk 1 is our bootable
+installation disk, Disk 2 contains complete source files of the
+installation applications, Disk 3 contains Extra applications, Disk 4
+provides source files of the Extras CD, Disks 5 & 6 contain 38
+commercial applications including the popular and MS Office compatible
+office suite StarOffice 5.1a, IBM DB2, IBM Lotus Notes server, IBM
+ViaVoice, Loki Myth II, Acrobat Reader... The 7.0 PowerPack also
+includes a newly written installation guide and user's manual.
+Completing the package is 100 days of technical support by email.
+<p align=justify>
+A complete description of Linux-Mandrake 7.0 PowerPack edition is
+available on: <br><a href="http://www.linux-mandrake.com/en/airpack.php3">http://www.linux-mandrake.com/en/airpack.php3</a>
+<p align=justify>
+An exhaustive listing and description of third party software shipped
+with the PowerPack 7.0 is available on:
+<br><a href="http://www.linux-mandrake.com/en/aircomm.php3">http://www.linux-mandrake.com/en/aircomm.php3</a>
+<p align=justify>
+
+<u>About Linux-Mandrake:</u>
+<p align=justify>
+Linux-Mandrake is the flagship product of MandrakeSoft Inc. Mandrake
+is one of most complete and easy to use Linux operating systems
+available for both servers and workstations. Mandrake continues to be
+fully compatible with Red Hat Linux. MandrakeSoft keeps its
+technological edge by actively participating in the rapid development
+of Linux;  improving existing functionalities and contributing new
+ones. Linux-Mandrake specializes in customizing Linux for the
+workstation and simplifying the use of Linux for both beginners and
+advanced users.
+<p align=justify>
+Linux-Mandrake was awarded "Best Linux Product of the Year" and "Best
+Linux-Distribution/Server" at LinuxWorld Expo' 99. 
+
+<p align=justify>
+<u>About MandrakeSoft and The Open Development Model force:</u>
+<p align=justify>
+Born of the Internet, with offices in both USA and France,
+MandrakeSoft attributes the development of its Linux distribution to
+the contributions of thousands of developers throughout the world
+linked by the Internet. This world-wide effort is constantly adopted
+and improved by MandrakeSoft's own technical teams to provide one of
+the most complete and simple graphical Linux operating system
+available.
+<p align=justify>
+The company has signed a strategic partnership agreement with the US
+publisher MacMillan, and a distribution agreement with Kasper. In the
+months of July and August 1999, the Linux-Mandrake/MacMillan Edition
+achieved #1 retail sales in the US by claiming over 50% of all Linux
+OS purchases.
+</p></font>
+
+</td>
+</tr>
+</table>
+
+<p>
+<? include("end1.php3"); ?>

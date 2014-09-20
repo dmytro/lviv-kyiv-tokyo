@@ -1,0 +1,14 @@
+<? include("begin1.php3"); ?>
+Анотац╕я вс╕х файл╕в в RPMS Contribs
+<? include("begin2.php3"); ?>
+Анотац╕я вс╕х файл╕в в RPMS Contribs
+<? include("begin3.php3"); ?>
+</font><pre>
+<? include("../en/air-indexsum.txt"); ?>
+</pre>
+ <hr><font size=1>
+<!-- Created: Thu Oct 15 05:47:05 EDT 1998 -->
+<!-- hhmts start -->
+Зм╕ни внесен╕: Tue Apr  4 18:15:03 JST 2000
+<!-- hhmts end -->
+<? include("end1.php3"); ?>

@@ -1,0 +1,179 @@
+<? include("begin1.php3"); ?>
+Linux-Mandrake - Frequently Asked Questions
+<? include("begin2.php3"); ?>
+Linux-Mandrake - Frequently Asked Questions
+<? include("begin3.php3"); ?>
+
+<font size=+1><u>Mandrake 6.0 FAQ</u></font><p>
+
+<b>Notes:</b><br>
+<blockquote>
+<li> You should consider having a look at our <a href="/en/fupdates.php3">updates</a> pages which solve several little bugs and security problems.</b>
+<li> Upgrades from Red Hat 5.2 will work but many packages will be missing. Upgrades from Mandrake 5.3 will work but some packages will be missing, and there will be a few problems with KDE wich moved from /opt/kde to /usr. We recommand doing a new install for Mandrake 6.0.
+</blockquote>
+<p>
+<b>- After upgrading, I get a [Failed] message when loading keyboard and/or my keyboard in console mode is in english.</b><p>
+<blockquote>
+Just edit the file /etc/sysconfig/keyboard and replace :<br>
+<tt>&nbsp;KEYTABLE=xxx.map</tt><br>by:<br>
+<tt>&nbsp;KEYTABLE=xxx.kmap</tt>
+</blockquote>
+<p>
+<b>- After upgrading, I can't start X !</b><p>
+<blockquote>
+Run Xconfigurator.
+</blockquote>
+<br>
+
+<p>
+<b>- After upgrading, every time I start KDE, I get an error message like "Audio/x-mp3 does not exist as MIME type"</b><p>
+<blockquote>
+As root, in KFM, go to the Edit menu and open "Global MIME type". Go to the Audio section. Right click and choose new/MIME type. Call it "x-mp3.kdelnk". In the properties section, put "*.mp3;" as extension. MIME type is audio/x-mp3. click OK. Just do the same for all problems with MIME type.
+</blockquote>
+
+<p>
+<b>- I can't have the good pics when I run a KDE program and/or I have the message "KToolBarButton: pixmap is empty, perhaps some missing file"</b>
+<blockquote>
+ KDE is now in /usr whereas it was in /opt/kde. So you have to link the two pics/ folders.
+Use ln -s /usr/share/apps/kppp/pics/ /opt/kde/share/apps/kppp/pics to make a symbolic link from /opt/... to /usr/...
+</blockquote>
+
+<p>
+<b>- After having upgraded, I can't see the True-type fonts working...</b>
+<blockquote>
+Re-run Xconfigurator or add:<br>
+<tt>FontPath   "unix/:-1"</tt> to your /etc/X11/XF86Config file.        
+</blockquote>
+
+<p>
+<b>- At boot-time, it freezes just after the "Rebuilding RPM database" stage</b>
+<blockquote>
+It appends when you upgrade from a system with not any user has been previously created in /home or if you don't have created an unprivileged user at installation time. Do as follow:<p>
+<li> type control-c (press simultaneously the "control" and the "c" keys) - the boot process will continue
+<li> log as root
+<li> remove the /var/local/TMP_1st file by typing: rm -f&nbsp;&nbsp;/var/lock/TMP_1ST
+<p>
+The problem should not occur anymore.
+</blockquote>
+
+
+<hr>
+
+<b>- may I have both Windows and Linux-Mandrake installed on the same machine?</b><p>
+<blockquote>
+YES! You just have to change your windows partition size (can be done automatically at installation time). After Linux installation, you will just have to choose on which operating system you want to run at boot time... You may also access to your windows drives from Linux! 
+</blockquote>
+  
+
+<b>- there are duplicated items in the K menu after having upgraded from Mandrake 5.2 to 5.3!!??</b><p>
+<blockquote>
+When updating a rpm package, some files are kept under the ".rpmsave" extension. So the .kdelnk files (which describe the menu entries) are duplicated. In order to fix the problem, please run:<p>
+
+<tt>&nbsp;&nbsp;        rm -f `find /opt/kde/share/applnk -name *.kdelnk.rpmsave -print`</tt>
+<p>
+and restart the window manager (K->panel->restart). It should work. 
+</blockquote>
+
+<!--<b>- When I try to upgrade to kernel 2.2.x, I get the message "undefined symbol: __bzero"... What's wrong?</b><p>
+<blockquote>
+	  There are a few problems with the new 2.2.1 kernel installation when using mod utilities. We will post a complete solution for clean install on <a href="../kernel2.2/">the Mandrake website</a> as soon as possible.
+</blockquote>-->
+
+<b>- is my Foo video card supported by Linux-Mandrake?</b><p>
+<blockquote>
+Please read the section <a href="fhard.php3">``supported hardware''</a>
+</blockquote>
+
+<b>- is there a Linux Mandrake for SunSPARC?</b><p>
+<blockquote>
+Not yet.
+</blockquote>
+
+<b>- is there a version for Digital Alpha ?</b><p>
+<blockquote>
+Not yet.
+</blockquote>
+
+<b>- my NE2000 ethernet card is not recognized at installation - what should I do ?</b><p>
+<blockquote>
+There's a bug in the last installation disks (in Mandrake 5.1 (Venice) ). It's not dramatic since you can reboot on your new system and run ``netcfg'' (as user root) which allow you to configure your ethernet card and install your network.<p>
+<b>UPDATE :</b>The bug has been fixed. You need to use the new Linux-Mandrake installation disk image on :<p>
+<blockquote>
+<a href="ftp://ftp.linux-mandrake.com/pub/updates/5.1/images/boot.img">ftp://ftp.linux-mandrake.com/pub/updates/5.1/images/boot.img</a>
+</blockquote>
+
+
+</blockquote>
+
+<b>- can I update Mandrake with RedHat updates ?
+</b><p>
+<blockquote>
+Yes when it's not a Mandrake-specifical package. For example, you must not upgrade initscript and kdebase. 
+</blockquote>
+
+<b>- how to burn a Mandrake CD under Windows ?</b><p>
+<blockquote>
+You must set the all files permissions to "executable" (`-r' option for mkisofs). Note that there are only two required trees : RedHat/ and images/ (for an aotobootable CD).
+</blockquote>
+
+<b>- how to remove LILO (LInux LOader from my dos partition) ?</b><p>
+<blockquote>
+Boot on a DOS floppy. Type fdisk /mbr.
+</blockquote>
+<b>- LILO doesn't install correctly... I don't know what to do!</b><p>
+<blockquote>
+It can be a disk-geometry problem. Reboot on your linux system with the lilo bootdisk and insert the word `linear' in your /etc/lilo.conf<p>
+For example, if your linux disk is /dev/hda you should have something like:<p>
+<tt>
+(...)<br>
+boot=/dev/hda<br>
+linear<br>
+(...)
+</tt>
+<p>
+Then, reinstall lilo : /sbin/lilo<p>
+(thanx to Franck Danard for this solution)
+</blockquote>
+
+
+<b>- I can't use my CD-ROM (iso9660 not supported) or my soundcard etc./missing modules.
+</b><p>
+<blockquote>
+Sometimes, the linux-kernel modules are not identified. Please do as a follow:
+<p>
+<tt>
+cd /lib/modules<br>
+ln -s 2.0.35-2 2.0.35<br>
+/sbin/depmod -a
+</tt>
+</blockquote>
+<p>
+
+
+<b>- How to set the 16bpp mode as default the default color-depth (65535 colors) in X-Window?</b><p>
+<blockquote>
+Insert this line in your XF86Config file:<p>
+&nbsp;&nbsp;<tt>DefaultColorDepth 16</tt>
+</blockquote>
+
+
+
+<hr>
+<b>Misc</b>
+<p>
+<b>- How to install StarOffice on Mandrake?</b><p>
+<blockquote>
+Please have a look at <a href="http://www.waldherr.org/soffice/" target="_parent">http://www.waldherr.org/soffice/</a>
+</blockquote>
+<p>
+<b>- How to make a Mandrake CD from downloaded files?</b><p>
+<blockquote>
+Please have a look at <a href="http://www.rodsbooks.com/rhjol/" target="_parent">DO-IT-YOURSELF RED HAT INSTALLATION</a> which works for Mandrake.
+</blockquote>
+<hr>
+<font size=1>
+<!-- Created: Tue Sep 29 07:31:16 EDT 1998 -->
+<!-- hhmts start -->
+Last modified: Fri Mar  3 17:35:05 CET 2000
+<!-- hhmts end -->
+<? include("end1.php3"); ?>

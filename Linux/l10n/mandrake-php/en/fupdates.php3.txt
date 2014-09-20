@@ -1,0 +1,30 @@
+<? include("begin1.php3"); ?>
+Linux-Mandrake Updates
+<? include("begin2.php3"); ?>
+Linux-Mandrake Updates
+<? include("begin3.php3"); ?>
+
+An update utility is installed on your KDE desktop. All you have to do is launch this MandrakeUpdate programm to make updates through a graphical mode. The programme lets you choose your ftp server within a list of server mirrors. Then it fetches each update you have to make and lets you choose those you really want to make.   
+<P>All the updated packages are in the <tt>updates/</tt> directory on our <a href="http://www.linux-mandrake.com/en/ftp.php3">FTP server mirrors</a>.<p>
+For example, if you are looking for an updated RPM package for Mandrake 6.1, check: <tt>updates/6.1/RPMS/</tt><p>
+Note: we give the md5 sum for each package. It lets you check the integrity of the downloaded package by running the md5sum command on the package ("md5sum package.rpm").
+
+<hr>
+
+<b>MANDRAKE 7.0 UPDATES</b>
+<p>
+<? include("../en/maj70.html"); ?>
+
+<hr>
+
+<b>MANDRAKE 6.1 UPDATES</b>
+<p>
+<? include("maj61.html"); ?>
+
+<b>MANDRAKE 6.0 UPDATES</b>
+<p>
+<? include("maj60.html"); ?>
+
+<hr>
+
+<? include("end1.php3"); ?>

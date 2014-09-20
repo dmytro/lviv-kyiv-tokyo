@@ -1,0 +1,58 @@
+<? include("begin1.php3"); ?>
+Linux Mandrake 6.0 (Venus)
+<? include("begin2.php3"); ?>
+Linux Mandrake 6.0 (Venus)
+<? include("begin3.php3"); ?>
+<center>
+<br>
+<img src="../images/venus2.jpg" align=right alt="little venus"><br><br><br>
+<img src="../images/slogan.jpg" width=305 height=25 alt="Haven't you ever dreamt of...">
+<p><br>
+<li>a real Window-manager choice just after installation?<p>
+<a href="../images/kdm.jpg"><img src="../images/kdm-s.jpg" border=0 width=300 height=177 alt="multi-window managers choice at startup"></a>
+<p><br>
+<li>many themes available under KDE?<p>
+<a href="../images/kdeth.jpg"><img src="../images/kdeth-s.jpg" border=0 width=200 height=211 alt="many themes under KDE"></a>
+<p><br>
+<li>Scalable fonts (Truetype(tm)) available for all applications (including perfect printing), working at boot time?<p>
+<a href="../images/tt.jpg"><img src="../images/tt-s.jpg" border=0 width=200 height=175 alt="scalable True-Type fonts available under X and for printing"></a>
+<p><br>
+<li>Easy CD-ROM, diskettes... mounting, easy print, just by clinking on preconfigured icons, or droping document icons onto the printer icon?<p>
+<a href="../images/cd.jpg"><img src="../images/cd-s.jpg" border=0 width=150 height=72 alt="easy cd mounting and printing"></a>
+<p><br>
+<img src="../images/slogan.jpg" width=305 height=25 alt="Haven't you ever dreamt of...">
+<p><br><br>
+</center>
+<blockquote>
+<li> a linux distribution with Office extensions (Killustrator, Maxwell, Check Book Balancer...) and many nice applications?
+<li> a faster linux-distribution entirely optimized for your Pentium or compatible processor?
+<li> a linux-distribution with faster IDE hard-drives I/Os? 
+<li> a linux-distribution 99.99% compatible with Red Hat<sup><font size=-1>TM</font></sup> Linux 6.0?
+<li> a linux-distribution easy-to-install, which asks you to create a non-privileged user when installing?
+<p>
+</blockquote>
+<center>
+<p><br><br>
+<img src="../images/slogan.jpg" width=305 height=25 alt="Haven't you ever dreamt of...">
+<p><br>
+<table border=0>
+<tr>
+<td valign=top>
+<img src=../images/venus.jpg width=40 height=44 border=0 alt="venus">
+</td>
+<td valign=bottom>
+<img src=../images/lxmdk6.0.jpg width=263 height=115 border=0 alt="mandrake 6.0">
+</td></tr>
+</table>
+<p><br>
+<a href="venusannounce.php3"><b>...click here to discover all Linux-Mandrake 6.0 new features...</b></a>
+<p><br><br>
+
+
+</center>    
+<hr><font size=1>
+<!-- Created: Wed May 26 19:09:58 CEST 1999 -->
+<!-- hhmts start -->
+Last modified: Thu May 27 13:18:24 CEST 1999
+<!-- hhmts end -->
+<? include("end1.php3"); ?>

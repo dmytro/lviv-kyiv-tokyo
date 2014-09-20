@@ -1,0 +1,21 @@
+<? include("begin1.php3"); ?>
+Linux-Mandrake Devel Mailing-lists
+<? include("begin2.php3"); ?>
+Linux-Mandrake Devel Mailing-lists
+<? include("begin3.php3"); ?>
+
+<p align=justify>
+You can discuss about Mandrake developement on one of many Linux-Mandrake Project.
+
+<blockquote>
+To subscribe, send an e-mail to <a href="mailto:sympa@linuxmandrake.com"><b>majordomo@linuxmandrake.com</b></a> and put in the <b>body</b> of message <b>subscribe "name of the list"</b> without the quotes.<p>
+When you have subscribed, you can send your requests to: <i>name of the list</i>@linux-mandrake.com.
+</blockquote>
+
+    <hr>
+<font size=1>
+<!-- Created: Tue Mar 23 00:06:01 CET 1999 -->
+<!-- hhmts start -->
+Last modified: Tue Sep  7 18:13:03 CEST 1999
+<!-- hhmts end -->
+<? include("end1.php3"); ?>

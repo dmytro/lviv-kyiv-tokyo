@@ -1,0 +1,92 @@
+<? include("begin1.php3"); ?>
+Linux Mandrake PowerPack Edition
+<? include("begin2.php3"); ?>
+Linux Mandrake PowerPack Edition
+<? include("begin3.php3"); ?>
+<p><br>
+<center><img src="../images/pp.jpg" width=150 height=212></a></center>
+<p>
+<b>The Linux-Mandrake 6.0 Power Pack Edition includes:<p></b>
+<blockquote>
+<li> a Quick <b>Install-Guide</b>
+<li> a complete <b>User-Guide</b>
+<li> <b>100 Days</b> Installation Support by email 
+<li> <b>CD1:</b> Linux-Mandrake 6.0 (Venus) installation CD - please read <a href="venusfeat.php3">the features here</a>.
+<li> <b>CD2:</b> sources of CD1
+<li> <b>CD3:</b> more than <b><a href="lslR-cd3.txt">1800 various applications</a></b> in RPM format
+<li> <b>CD4:</b> sources of CD3
+<li> <b>CD5:</b> <b>34</b> <b>commercial</b> and demo applications:
+<p>
+<table border=0>
+<tr>
+<td>
+<img src="../images/stadiv.jpg" align="center" alt="StarDivision"> <img src="../images/corel.gif" align="center" alt="Corel"> <img src="../images/lotus.jpg"  align="center" alt="Lotus"> <img src="../images/inprise.jpg"  align="center" alt="Inprise"> <img src="../images/adobe.jpg"  align="center" alt="Adobe">
+<br>
+<img src="../images/blender.jpg"  align="center" alt="Blender"> <img src="../images/cmeister.jpg"  align="center" alt="C Meister"> <img src="../images/dharma.jpg"  align="center" alt="dharma"> <img src="../images/vividata.jpg"  align="center" alt="vividata"> <img src="../images/parasoft.jpg"  align="center" alt="parasoft">
+</td>
+</tr>
+<tr>
+<td>
+<p>
+<blockquote>
+<li> <a href="http://www.stardivision.com" target="_parent">Stardivision - StarOffice 5.1</a> Complete Office suite for Linux. 
+<li> <a href="http://linux.corel.com" target="_parent">Corel - Wordperfect 8.0</a> Wordprocessor for Linux. <font color=blue size=-1>[Download Edition]</font>
+<li> <a href="http://notes.net/linux" target="_parent">IBM Lotus eSuite DevPack 1.5</a> Dynamic Office Java-based components.
+<li> <a href="http://www.interbase.com/" target="_parent">Inprise Interbase</a>  Relational database management software.
+<li> <a href="http://www.adobe.com/prodindex/acrobat/" target="_parent">Adobe Acrobat Reader 4.0beta</a> PDF viewer.
+<li> <a href="http://www.blender.nl" target="_parent">Blender</a> Animation Studio.
+<li> <a href="http://gttserv.lth.rwth-aachen.de/~sp/tt/chemapp/calight/calight.htm">ChemApp</a> Chemical oriented programmer's library.
+<li> <a href="http://www.cmeister.com/English/default.htm" target="_parent">C Meister</a> Platform and compiler independent IDE.
+<li> <a href="http://www.cco.caltech.edu/~jafl/jcc/" target="_parent">Code Crusader</a> Code development environment. 
+<li> <a href="http://www.products.dharma.com/odbcsdk/" target="_parent">Dharma ODBC SDK</a> ODBC toolkit. 
+<li> <a href="http://www.multimania.com/dogweb/" target="_parent">JavaORB</a>  CORBA 2.2 implementation developped in Java
+<li> <a href="http://www.vividata.com/ocrshop.html" target="_parent">OCR Shop</a> Optical Character Recognition Software. <font color=blue size=-1>[limited version or demo]</font>
+<li> <a href="http://www.parasoft.com/products/wizard/cplus/" target="_parent">Code Wizard for C++</a> C++ code standardizer.
+<li> <a href="http://www.parasoft.com/products/insure/index.htm" target="_parent">Insure++</a> C/C++ runtime error detection tool.<font color=blue size=-1>[limited version or demo]</font> 
+<li> <a href="http://www.products.dharma.com/odbcsdk/" target="_parent">UConvert</a> POSC Universal Units Converter.
+<li> <a href="http://software.infoseek.com/products/ultraseek/ultratop.htm" target="_parent">Infoseek UltraSeek server</a> WWW Search Engine. <font color=blue size=-1>[limited version or demo]</font>
+<li> <a href="http://www.comp.lancs.ac.uk/computing/users/andy/ac3d.html" target="_parent">Ac3D</a> 3D object/scene modeller.
+<li> <a href="http://www.avp.ch" target="_parent">avp</a> AntiViral Toolkit. 
+<li> <a href="http://www.casemaker.com/products/dbmaker.htm" target="_parent">DB maker</a> Advanced RDBMS with multimedia support.
+<li> <a href="http://www.ayukov.com/nftp/index.html" target="_parent">nftp</a> Interactive FTP client.
+<li> <a href="http://www.newweb.iisc.co.uk/wingz/" target="_parent">Wingz</a> Graphical Spreadsheet for Linux.
+<li> <a href="http://www.slickedit.com/">Visual SlickEdit</a> Advanced Editor. <font color=blue size=-1>[limited version or demo]</font> 
+<li> <a href="http://www.ardi.com" target="_parent">Executor</a> Macintosh emulator. <font color=blue size=-1>[limited version or demo]</font> 
+<li> <a href="http://www.millenniumX.com" target="_parent">MillenniumX</a> Kisdn Pro (ISDN utility) <font color=blue size=-1>[limited version or demo]</font>
+<li> <a href="http://www.netbeans.com" target="_parent">NetBeans</a> Visual programming environment. 
+<li> <a href="http://www.regulus.safe.ca" target="_parent">Regulus</a> Real-Time accounting software for ISPs. 
+<li> <a href="http://www.takefive.com" target="_parent">Sniff</a> Source Code Engineering tool. <font color=blue size=-1>[limited version or demo]</font>
+<li> <a href="http://www.teamwave.com" target="_parent">Teamwave - Workplace</a> Groupware. <font color=blue size=-1>[limited version or demo]</font>
+<li> <a href="http://www.varicad.com" target="_parent">VariCAD</a> 3D/2D Mechanical Engineering CAD System. <font color=blue size=-1>[limited version or demo]</font> 
+<li> <a href="http://www.softwarebuero.de" target="_parent">Wipeout</a> Integrated Software Development Environment.
+<li> <a href="http://www.hopkinsfbi.com">Hopkins FBI</a> Interactive fiction game. <font color=blue size=-1>[limited version or demo]</font>
+<li> <a href="http://www.idsoftware.com/quake2/index.html">Id Software Quake II</a> Well-known action game. <font color=blue size=-1>[limited version or demo]</font>
+<li> <a href="http://www.aegistech.com/bfris-b.html">BFRIS</a> Zero-gravity fighter combat <font color=blue size=-1>[limited version or demo]</font>
+<li> <a href="http://www.blackdown.org/">Blackdown JDK 1.1</a> Blackdown Java Development Kit
+</blockquote>
+</td>
+</tr>
+<tr>
+<td align=center>
+<img src="../images/ac3d.jpg"  align="center" alt="ac3d"> <img src="../images/infoseek.jpg"  align="center" alt="infoseek"> <img src="../images/chemapp.jpg"  align="center" alt="Chemapp"> <img src="../images/netbeans.jpg"  align="center" alt="Netbeans"> <img src="../images/teamwave.jpg"  align="center" alt="Teamwave"> <img src="../images/varicad.jpg"  align="center" alt="VariCAD"><br>
+<img src="../images/wipeout.jpg" align="center"  alt="Wipeout"> <img src="../images/hopkinsfbi.jpg" align="center"  alt="HopkinsFBI"> <img src="../images/quake.jpg" align="center"  alt="Quake II"> <img src="../images/bfris.jpg" align="center"  alt="BFRIS"> <img src="../images/wingz.jpg"  align="center" alt="wingz">
+</td>
+</tr>
+</table>
+</center>
+<p>
+- <b>DETAILLED INFORMATIONS</b> about all those commercial applications are <a href="commapps.php3">available here</a>...<p>
+- <b>AVAILABILITY:</b> the PowerPack is available<p> 
+- <b>ORDERS:</b><p>
+<blockquote>
+<li> <b>first</b> check our <a href="../en/fsinglecd.php3">distributors lists here</a></b>
+<li> <b>you don't find any reseller</b> that provides the PowerPack in your area, <a href="register-customer.php3">please fill this form</a>.
+<li> <b>you are a reseller</b> and want to order some PowerPacks, <a href="register-reseller.php3">please fill this form</a>.
+</blockquote>
+<hr><font size=1>
+<!-- Created: Thu Jun  3 23:10:47 CEST 1999 -->
+<!-- hhmts start -->
+Last modified: Mon Jun 28 23:43:43 CEST 1999
+<!-- hhmts end -->
+<? include("end1.php3"); ?>
+

@@ -1,0 +1,14 @@
+<? include("begin1.php3"); ?>
+Linux Mandrake CDs and Pre-configured computers Purchase in AMERICA
+<? include("begin2.php3"); ?>
+Компакт диски Мандрейк Л╕накса та комп'ютери з встановленою системою в Америц╕
+<? include("begin3.php3"); ?>
+
+<? include("america.html"); ?>
+
+ <hr><font size=1>
+<!-- Created: Thu Oct 15 05:47:05 EDT 1998 -->
+<!-- hhmts start -->
+Зм╕ни внесен╕: Tue Apr  4 19:03:05 JST 2000
+<!-- hhmts end -->
+<? include("end1.php3"); ?>

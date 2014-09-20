@@ -1,0 +1,33 @@
+<table width=100% cellspacing=1 cellpadding=1 border=0>
+<tr>
+<td bgcolor="#ffcc00" width=1%>&nbsp;</td><td bgcolor="#666699" width=99%>
+<font color=white face="helvetica">
+<b>International</b>
+</font>
+</td>
+</tr>
+<tr>
+<td bgcolor="#eeeeee" colspan=2> 
+<font size=-1 face="helvetica">
+This site is also available in:<p>
+&nbsp;<a href="/en/"><img src=../images/englishflag.png width="30" height="16" alt="English flag" border=0 width="30" height="10"> English</a><br>
+&nbsp;<a href="/de/"><img src=../images/deflag.png width="30" height="16" alt="German flag" border=0 width="30" height="10"> German</a><br>
+&nbsp;<a href="/es/"><img src=../images/spainflag.png width="30" height="16" alt="Spanish flag" border=0 width="30" height="10"> Spanish</a><br>
+&nbsp;<a href="/ch/"><img src=../images/chineseflag.png width="30" height="16" alt="Chinese flag" border=0 width="30" height="10"> Chinese</a><br>
+&nbsp;<a href="/pt/"><img src=../images/ptflag.png width="30" height="16" alt="Portugese flag" border=0 width="30" height="10"> Portuguese</a><br>
+&nbsp;<a href="/fr/"><img src=../images/frenchflag.png width="30" height="16"alt="French flag" border=0 width="30" height="10"> French</a><br>
+&nbsp;<a href="/ru/"><img src=../images/russianflag.png width="30" height="16" alt="Russian flag" border=0 width="30" height="10"> Russian</a><br>
+&nbsp;<a href="/it/"><img src=../images/italianflag.png width="30" height="16" alt="Italian flag" border=0 width="30" height="10"> Italian</a><br>
+&nbsp;<a href="/se/"><img src=../images/swedenflag.png width="30" height="16" alt="Sweden flag" border=0 width="30" height="10"> Swedish</a><br>
+<!--
+ <a href="/pl/"><img src=../images/plflag.gif width="30" height="16" alt="Polish flag" border=0 width="30" height="10"> Polish</a>
+ <a href="/uk/"><img src=../images/uaflag.gif width="30" height="16" alt="Ukrainian flag" border=0 width="30" height="10"> Ukrainian</a>
+ <a href="/dk/"><img src=../images/dkflag.gif width="30" height="16" alt="Danish flag" border=0 width="30" height="10"> Danish</a>
+ <a href="/za/"><img src=../images/zaflag.gif width="30" height="16" alt="South African flag" border=0 width="30" height="10"> Afrikaans</a>
+-->
+<p>
+Want to help for translations ? <a href="mailto:weblocal@linux-mandrake.com">write us</a>!
+</font>
+</td>
+</tr>
+</table>

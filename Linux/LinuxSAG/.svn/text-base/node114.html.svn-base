@@ -1,0 +1,100 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<!--Converted with LaTeX2HTML 98.1 release (February 19th, 1998)
+originally by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Програмний та апаратний годинник</TITLE>
+<META NAME="description" CONTENT="Програмний та апаратний годинник">
+<META NAME="keywords" CONTENT="linux,ukrainian,guide,sag">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<LINK REL="STYLESHEET" HREF="sag.css">
+<LINK REL="next" HREF="node115.html">
+<LINK REL="previous" HREF="node113.html">
+<LINK REL="up" HREF="node112.html">
+<LINK REL="next" HREF="node115.html">
+</HEAD>
+<BODY BGCOLOR=#FFFFFF>
+<!--Navigation Panel-->
+<A NAME="tex2html1906"
+ HREF="node115.html">
+<IMG WIDTH="37" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="next"
+ SRC="next_motif.gif"></A> 
+<A NAME="tex2html1902"
+ HREF="node112.html">
+<IMG WIDTH="26" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="up"
+ SRC="up_motif.gif"></A> 
+<A NAME="tex2html1896"
+ HREF="node113.html">
+<IMG WIDTH="63" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="previous"
+ SRC="previous_motif.gif"></A> 
+<A NAME="tex2html1904"
+ HREF="node7.html">
+<IMG WIDTH="65" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="contents"
+ SRC="contents_motif.gif"></A> 
+<A NAME="tex2html1905"
+ HREF="node120.html">
+<IMG WIDTH="43" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="index"
+ SRC="index_motif.gif"></A> 
+<BR>
+<B> Дал╕:</B> <A NAME="tex2html1907"
+ HREF="node115.html">В╕дображення та установка часу</A>
+<B> Вгору:</B> <A NAME="tex2html1903"
+ HREF="node112.html">П╕дримка в╕рного часу в</A>
+<B> Назад:</B> <A NAME="tex2html1897"
+ HREF="node113.html">Часов╕ пояси</A>
+<BR>
+<BR>
+<!--End of Navigation Panel-->
+
+<H1><A NAME="SECTION001320000000000000000">
+Програмний та апаратний годинник</A>
+</H1><FONT SIZE="+1"><FONT SIZE="+1"></FONT></FONT>
+<P>
+<FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1">Персональний комп'ютер ма╓ годинник, який працю╓ в╕д
+	батарейки. Дякуючи батарейц╕ годинник в комп'ютер╕ може
+	працювати нав╕ть тод╕, коли комп'ютер вимкнений з
+	мереж╕. В╕рний час в апаратному годиннику можна встановити з
+	в╕кна установки в BIOS'╕, або з будь-яко╖ операц╕йно╖ систми,
+	що працю╓ не комп'ютер╕. 
+</FONT></FONT></FONT></FONT>
+<P>
+<FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1">Ядро Л╕накса веде в╕дл╕к часу незалежно в╕д апаратного
+	годинника. П╕д час загрузки системи, Л╕накс встановлю╓ св╕й
+	годинник на той же час, що показу╓ апаратний годинник. П╕сля
+	цього два годинники працюють незалежно один в╕д одного. Л╕накс
+	ма╓ свого власного годинника, бо зв╕ряти час з апаратним дуже
+	пов╕льно ╕ складно. 
+	
+	Годинник в ядр╕ системи завжди показу╓ час в ун╕версальносу
+	час╕. Таким чином ядру не треба знати н╕чого про часов╕ пояси
+	- простота орган╕зац╕╖ приводить до б╕льш високо╖ над╕йност╕
+	╕ да╓ прост╕ший механ╕зм для поновлення ╕нформац╕╖ про часов╕
+	пояси. Кожен процес самост╕йно займа╓ться перетворенням
+	поясових час╕в (використовуючи т╕ засоби, як╕ надаються
+	пакетом часових пояс╕в).
+</FONT></FONT></FONT></FONT>
+<P>
+<FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1">Апаратний годинник може бути встановленим як на м╕сцевий час,
+	так ╕ на ун╕версальний. Взагал╕, краще мати годинник
+	встановленим на ун╕версальний час, бо в цьому випадку Вам не
+	потр╕бно переводити Ваш годинник у комп'ютер╕, коли час у
+	Вашому пояс╕ переводиться на л╕тн╕й (ун╕версальний час не ма╓
+	л╕тнього часу). На жаль, деяк╕ операц╕йн╕ системи (включаючи
+	MS-DOS, Windows, OS/2) завжди вважають, що апаратний час
+	встановлено у м╕сцевий час зони. Л╕накс може працювати з обома
+	установками, але тод╕ треба не забувати переставляти годинник,
+	коли л╕тн╕й час вводиться чи в╕дм╕ня╓ться (╕накше апаратний
+	годинник не буде показувати м╕сцевий час).
+	
+</FONT></FONT></FONT></FONT>
+<BR><HR>
+<ADDRESS>
+<I>Dmytro Kovalev</I>
+<BR><I>1999-06-10</I>
+</ADDRESS>
+</BODY>
+</HTML>

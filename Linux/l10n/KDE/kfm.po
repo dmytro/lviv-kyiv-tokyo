@@ -1,0 +1,820 @@
+# kfm Ukrainian translation
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# Dmytro Koval'ov <kov@tokyo.email.ne.jp>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: kfm VERSION\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI +ZONE\n"
+"PO-Revision-Date: 2000-04-25 07:05+09:00\n"
+"Last-Translator: Dmytro Koval'ov <kov@tokyo.email.ne.jp>\n"
+"Language-Team: Ukrainian <linux@linux.org.ua>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=koi8-u\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid " ERROR: Could not write to %s"
+msgstr "ПОМИЛКА: не можу писати в %s"
+
+msgid " ERROR: No group %s"
+msgstr "ПОМИЛКА: Нема╓ групи %s"
+
+msgid " ERROR: No user %s"
+msgstr "ПОМИЛКА: Нема╓ користувача %s"
+
+msgid " does not exist\n"
+msgstr "не ╕сну╓\n"
+
+msgid "%s (Link)"
+msgstr "%s (Посилання)"
+
+msgid "&Add Bookmark"
+msgstr "&Додати закладку"
+
+msgid "&Application"
+msgstr "&Програма"
+
+msgid "&Binding"
+msgstr "При&в'язка"
+
+msgid "&Bookmarks"
+msgstr "&Закладки"
+
+msgid "&Cache"
+msgstr "&Кеш"
+
+msgid "&Dir"
+msgstr "&Тека"
+
+msgid "&Edit Bookmarks..."
+msgstr "&Редагувати закладки"
+
+msgid "&Find"
+msgstr "&Шукати"
+
+msgid "&General"
+msgstr "&Загальне"
+
+msgid "&HTML View"
+msgstr "&HTML перегляд"
+
+msgid "&Icon View"
+msgstr "У вигляд╕ &п╕ктограм"
+
+msgid "&Long View"
+msgstr "&Повний перегляд"
+
+msgid "&Move to Trash"
+msgstr "&Перенести в см╕тник"
+
+msgid "&Open Location..."
+msgstr "&В╕дкрити м╕сцеположення..."
+
+msgid "&Permissions"
+msgstr "&Дозволи"
+
+msgid "&Reload Document"
+msgstr "Пере&читати документ"
+
+msgid "&Select"
+msgstr "&Вибрати"
+
+msgid "&Text View"
+msgstr "&Текстовий перегляд"
+
+msgid "&View Frame Source"
+msgstr "Пере&глянути вих╕дн╕ тексти рамки"
+
+msgid "(Default)"
+msgstr "(Стандартн╕)"
+
+msgid "(None)"
+msgstr "(н╕чого)"
+
+msgid "Access permissions"
+msgstr "Дозволи на доступ"
+
+msgid "Add To Bookmarks"
+msgstr "Додати до закладок"
+
+msgid "Add to Bookmarks"
+msgstr "Додати до закладок"
+
+msgid "Always look in cache"
+msgstr "Завжди шукати в кеш╕"
+
+msgid "Apply global"
+msgstr "Застосувати до всього"
+
+msgid "Binary Pattern (netscape;Netscape;)"
+msgstr "Дв╕йковий шаблон (netscape;Netscape;)"
+
+msgid "Can not paste into multiple directories"
+msgstr "Не можу вставити в к╕лька тек"
+
+msgid "Can only make links on local file system"
+msgstr "Можу робити посилання т╕льки на локальн╕й файлов╕й систем╕"
+
+msgid "Can only start executables on local disks\n"
+msgstr "Можу виконувати програми т╕льки на локальних дисках\n"
+
+msgid ""
+"Can work with *.kdelnk files only\n"
+"on local hard disk"
+msgstr ""
+"Можу працювати з файлами *.kdelnk\n"
+"т╕льки на локальних жорстких дисках"
+
+msgid ""
+"Cannot execute request.\n"
+"New root grid dimensions would move some icons\n"
+"off the desktop."
+msgstr ""
+"Не можу виконати запит.\n"
+"Нов╕ розм╕ри с╕тки для основного в╕кна можуть посунути \n"
+"деяк╕ з п╕ктограм поза меж╕ робочого стола."
+
+msgid "Cd"
+msgstr "Cd"
+
+msgid ""
+"Change\n"
+"Into"
+msgstr ""
+"Вх╕д\n"
+" В"
+
+msgid "Clear Cache"
+msgstr "Почистити кеш"
+
+msgid "Comment"
+msgstr "Коментар"
+
+msgid "Contacting host "
+msgstr "Зв'язуюсь з хостом"
+
+msgid "Could not access"
+msgstr "Не можу д╕статися"
+
+msgid ""
+"Could not access\n"
+"%s"
+msgstr ""
+"Не можу д╕статися\n"
+"%s"
+
+msgid "Could not access Trash Bin"
+msgstr "Не можу д╕статися до См╕тника"
+
+msgid ""
+"Could not access directory\n"
+"%s"
+msgstr ""
+"Не можу д╕статися до теки\n"
+"%s"
+
+msgid ""
+"Could not change permissions\n"
+"Perhaps access denied."
+msgstr ""
+"Не можу зм╕нити дозволи.\n"
+"Можливо доступ заборонений."
+
+msgid ""
+"Could not connect to\n"
+"%s"
+msgstr ""
+"Не можу з'╓днатися з\n"
+"%s"
+
+msgid ""
+"Could not create Socket for\n"
+"%s"
+msgstr ""
+"Не можу створити сокет для\n"
+"%s"
+
+msgid "Could not create ~/.kde/share/apps/kfm/magic"
+msgstr "Не можу створити ~/.kde/share/apps/kfm/magic"
+
+msgid ""
+"Could not delete\n"
+"%s\n"
+"URL does not exist or permission denied"
+msgstr ""
+"Не можу стерти\n"
+"%s\n"
+"URL не знайдений або заборонений доступ"
+
+msgid ""
+"Could not delete directory\n"
+"%s"
+msgstr ""
+"Не можу стерти теку\n"
+"%s"
+
+msgid "Could not execute program\n"
+msgstr "Не можу виконати програму\n"
+
+msgid "Could not find binding"
+msgstr "Не можу знайти прив'язку"
+
+msgid "Could not find mime type\n"
+msgstr "Не можу знайти тип MIME\n"
+
+msgid ""
+"Could not list directory contents\n"
+"%s"
+msgstr ""
+"Не можу прочитати зм╕ст теки\n"
+"%s"
+
+msgid "Could not load icon\n"
+msgstr "Не можу прочитати п╕ктограму\n"
+
+msgid ""
+"Could not login for\n"
+"%s\n"
+"Perhaps wrong password"
+msgstr ""
+"Не можу заре╓струватися як\n"
+"%s\n"
+"Можливо нев╕рний пароль."
+
+msgid ""
+"Could not make directory\n"
+"%s"
+msgstr ""
+"Не можу створити теку\n"
+"%s"
+
+msgid ""
+"Could not make symlink to\n"
+"%s"
+msgstr ""
+"Не можу створити символ╕чне посилання на\n"
+"%s"
+
+msgid ""
+"Could not mount\n"
+"Error log:\n"
+"\n"
+"%s"
+msgstr ""
+"Не можу змонтувати\n"
+"Помилки:\n"
+"\n"
+"%s"
+
+msgid ""
+"Could not move directory\n"
+"%s\n"
+"to %s\n"
+"Perhaps access denied"
+msgstr ""
+"Не можу перем╕стити теку\n"
+"%s\n"
+"в %s\n"
+"Можливо заборонений доступ"
+
+msgid ""
+"Could not overwrite\n"
+"%s"
+msgstr ""
+"Не можу переписати\n"
+"%s"
+
+msgid ""
+"Could not read\n"
+"%s\n"
+"File does not exist or access denied"
+msgstr ""
+"Не можу прочитати\n"
+"%s\n"
+"Або файл не ╕сну╓, або доступ заборонений"
+
+msgid ""
+"Could not save properties\n"
+"Perhaps permissions denied"
+msgstr ""
+"Не можу записати властивост╕\n"
+"Можливо заборонений доступ"
+
+msgid ""
+"Could not unmount\n"
+"Error log:\n"
+"\n"
+"%s"
+msgstr ""
+"Не можу розмонтувати\n"
+"Помилки:\n"
+"\n"
+"%s"
+
+msgid ""
+"Could not write\n"
+"%s\n"
+"Perhaps access denied"
+msgstr ""
+"Не можу записати\n"
+"%s\n"
+"Можливо доступ заборонений"
+
+msgid "Could not write to\n"
+msgstr "Не можу записати в\n"
+
+msgid "Creating directory:\n"
+msgstr "Створюю теку:\n"
+
+msgid "De&vice"
+msgstr "&Пристр╕й"
+
+msgid "Default Application"
+msgstr "Стандартна програма"
+
+msgid "Desktop"
+msgstr "Робочий ст╕л"
+
+msgid "Device ( /dev/fd0 )"
+msgstr "Пристр╕й ( /dev/fd0 )"
+
+msgid ""
+"Do you really want to delete the selected file(s)?\n"
+"\n"
+"There is no way to restore them."
+msgstr ""
+"Ви справд╕ хочете стерти вид╕лен╕ файли?\n"
+"\n"
+"В╕дновити ╖х неможливо."
+
+msgid ""
+"Do you really want to quit?\n"
+"Important desktop functionality will be lost"
+msgstr ""
+"Ви д╕йсно хочете вийти? Важлива \n"
+"фунц╕ональн╕сть робочого столу буде втрачена"
+
+msgid "Do you really want to rearrange your icons ?"
+msgstr "Ви д╕йсно хочете переорган╕зувати п╕ктограми?"
+
+msgid "Document: Done"
+msgstr "Документ: Зак╕нчено"
+
+msgid "Dont know what to do."
+msgstr "Не знаю що робити"
+
+msgid "E&xecute"
+msgstr "&Виконати"
+
+msgid "ERROR"
+msgstr "ПОМИЛКА"
+
+msgid "ERROR: Can not accept drop"
+msgstr "ПОМИЛКА: Не можу покласти"
+
+msgid "ERROR: Can not change to multiple directories"
+msgstr "ПОМИЛКА: Не можу перейти в к╕лька тек"
+
+msgid "ERROR: Can not open properties for multiple files"
+msgstr "ПОМИЛКА: Не можу в╕дкрити властивост╕ к╕лькох файл╕в"
+
+msgid "ERROR: Could not access directory '%s'"
+msgstr "ПОМИЛКА: Не маю доступу до теки '%s'"
+
+msgid "ERROR: Could not read desktop directory '%s'"
+msgstr "ПОМИЛКА: Не можу прочитати прочитати теку робочого столу '%s'"
+
+msgid "ERROR: Drop over malformed URL"
+msgstr "ПОМИЛКА: Покладено на URL з синтаксичними помилками"
+
+msgid "ERROR: Malformed URL"
+msgstr "ПОМИЛКА: Нев╕рний синтаксис URL"
+
+msgid "ERROR: No Terminal Setting"
+msgstr "ПОМИЛКА: Нема╓ установок терм╕налу"
+
+msgid "ERROR: Template does not exist '%s'"
+msgstr "ПОМИЛКА: Шаблон не ╕сну╓ '%s'"
+
+msgid "ERROR: You dropped a URL over itself"
+msgstr "ПОМИЛКА: Ви поклали URL сам на себе"
+
+msgid "ERROR: You dropped a directory over one of its children"
+msgstr "ПОМИЛКА: Ви поклали теку на одного з ╖╖ нащадк╕в"
+
+msgid "Empty Trash Bin"
+msgstr "Спорожнити см╕тник"
+
+msgid "Exec"
+msgstr "Виконання"
+
+msgid "Execute"
+msgstr "Виконати"
+
+msgid "File %i/%i"
+msgstr "Файл %i/%i"
+
+msgid ""
+"File %s\n"
+"does not exist"
+msgstr ""
+"Файл %s\n"
+"не ╕сну╓"
+
+msgid "Filesystems ( iso9660,msdos,minix,default )"
+msgstr "Файлов╕ системи (iso9660,msdos,minix,стандартна )"
+
+msgid "Folder"
+msgstr "Тека"
+
+msgid "Full Name"
+msgstr "Повне ╕м'я"
+
+msgid "Global Applications"
+msgstr "Загальн╕ програми"
+
+msgid "Global Mime Types"
+msgstr "Загальн╕ типи MIME"
+
+msgid "Group"
+msgstr "Група"
+
+msgid "Home"
+msgstr "Дом╕вка"
+
+msgid "INTERNAL ERROR: You must at least specify the device for mounting"
+msgstr "ВНУТР╤ШНЯ ПОМИЛКА: Ви ма╓те хоча б вказати пристр╕й для монтування"
+
+msgid "Internal Error: desktopDir is malformed"
+msgstr "Внутр╕шня помилка: з╕псована директор╕я desktopDir"
+
+msgid "Is a Directory"
+msgstr "Тека"
+
+msgid "Is the Trash Bin"
+msgstr "См╕тник"
+
+msgid "KFM"
+msgstr "KFM"
+
+msgid "KFM Confirm"
+msgstr "П╕дтвердження KFM"
+
+msgid "KFM Error"
+msgstr "Помилка KFM"
+
+msgid "KFM Information"
+msgstr "╤нформац╕я про KFM"
+
+msgid "KFM Installation Error"
+msgstr "Помилка установки KFM"
+
+msgid "KFM Question"
+msgstr "Запитання KFM"
+
+msgid "KFM Security Alert"
+msgstr "Попередження Безпеки KFM"
+
+msgid "KFM Warning"
+msgstr "Попередження KFM"
+
+msgid "Last Access"
+msgstr "Останн╕й доступ"
+
+msgid "Last Modified"
+msgstr "Зм╕ни внесен╕"
+
+msgid "Link"
+msgstr "Посилання"
+
+msgid "Making directory"
+msgstr "Створення теки"
+
+msgid "Malformed URL\n"
+msgstr "Помилка в синтаксис╕ URL\n"
+
+msgid ""
+"Malformed URL\n"
+"%s"
+msgstr ""
+"Помилка в синтаксис╕ URL\n"
+"%s"
+
+msgid "Mime Type"
+msgstr "Тип MIME"
+
+msgid "Mount"
+msgstr "Монтувати"
+
+msgid "Mount Point ( /floppy )"
+msgstr "Точка монтування ( /floppy )"
+
+msgid "Mounted Icon"
+msgstr "Змонтована п╕ктограма"
+
+msgid "Mounting %s ..."
+msgstr "Монтую %s ..."
+
+msgid "Move"
+msgstr "Перенести"
+
+msgid "Move to Trash"
+msgstr "Викинути в см╕тник"
+
+msgid "My Home"
+msgstr "Домашня директор╕я"
+
+msgid "Name ( in your language )"
+msgstr "Назва (Вашою мовою)"
+
+msgid "Never look in cache"
+msgstr "Н╕коли не дивитися в кеш"
+
+msgid "New "
+msgstr "Новий"
+
+msgid "New View"
+msgstr "Новий перегляд"
+
+msgid "No mime types installed!"
+msgstr "Нема╓ встановлених тип╕в MIME!"
+
+msgid "No mount point in *.kdelnk file"
+msgstr "Нема╓ точки монтування в файл╕ *.kdelnk"
+
+msgid "Open &Terminal"
+msgstr "В╕дкрити &Терм╕нал"
+
+msgid "Open Location:"
+msgstr "В╕дкрити м╕сцеположення:"
+
+msgid "Open With:"
+msgstr "В╕дкрити з:"
+
+msgid "Open with"
+msgstr "В╕дкрити з"
+
+msgid "Or rename to"
+msgstr "Або зм╕нити назву на"
+
+msgid "Others"
+msgstr "╤нш╕"
+
+msgid "Overwrite"
+msgstr "Зам╕стити"
+
+msgid "Overwrite All"
+msgstr "Переписати все"
+
+msgid "Owner"
+msgstr "Власник"
+
+msgid "Ownership"
+msgstr "Права власност╕"
+
+msgid "Password"
+msgstr "Пароль"
+
+msgid "Pattern ( example: *.html;*.HTML; )"
+msgstr "Маска (наприклад: *.html;*.HTML; )"
+
+msgid "Points to"
+msgstr "Вказу╓ на"
+
+msgid "Read"
+msgstr "Читання"
+
+msgid "Readonly"
+msgstr "Т╕льки читання"
+
+msgid "Rel&oad Tree"
+msgstr "Пере&читати структуру"
+
+msgid "Rename"
+msgstr "Пере╕менувати"
+
+msgid "Retrieving listing of %s"
+msgstr "Читаю список %s"
+
+msgid "Root"
+msgstr "Root"
+
+msgid "Run in terminal"
+msgstr "Виконувати в терм╕нал╕"
+
+msgid "Sa&ve Settings"
+msgstr "За&писати установки"
+
+msgid "Segmentation fault in io subprocess"
+msgstr "Segmentation fault в п╕дпроцес╕ вводу-виводу"
+
+msgid "Select files:"
+msgstr "Вибер╕ть файли:"
+
+msgid "Set GID"
+msgstr "Встановлений GID (sgid)"
+
+msgid "Set UID"
+msgstr "Встановлений UID (suid)"
+
+msgid ""
+"Show\n"
+"Entries"
+msgstr ""
+"Показувати\n"
+"складов╕"
+
+msgid "Show &Location bar"
+msgstr "Показувати стр╕чку &положення"
+
+msgid "Show &Menubar"
+msgstr "Показувати стр╕чку &Меню"
+
+msgid "Show &Statusbar"
+msgstr "Показувати стр╕чку &Статусу"
+
+msgid "Show &Toolbar"
+msgstr "Показати стр╕чку &╤нструмент╕в"
+
+msgid "Show Cache"
+msgstr "Показати кеш"
+
+msgid "Show Tr&ee"
+msgstr "Показати структуру"
+
+msgid "Size: %i"
+msgstr "Розм╕р: %i"
+
+msgid "Skip"
+msgstr "Пропустити"
+
+msgid ""
+"Someone tried to authorize himself\n"
+"using a wrong password"
+msgstr ""
+"Хтось пробував вв╕йти в систему\n"
+"з нев╕рним паролем."
+
+msgid "Special"
+msgstr "Спец╕альн╕"
+
+msgid "Sticky"
+msgstr "Липкий"
+
+msgid "Symbolic Link"
+msgstr "Символьне посилання"
+
+msgid ""
+"Syntax Error:\n"
+"kfmexec command [URLs ....]\n"
+msgstr ""
+"Синтаксична помилка:\n"
+"kfmexec команда [URL'и ....]\n"
+
+msgid "Terminal Options"
+msgstr "Параметри терм╕налу"
+
+msgid "The \"Link=....\" entry is empty"
+msgstr "Пункт \"Link=....\" пустий"
+
+msgid ""
+"The URL\n"
+"%s\n"
+"is malformed"
+msgstr ""
+"В синтаксис╕ URL\n"
+"%s\n"
+"- помилка"
+
+msgid ""
+"The URL %s\n"
+"is malformed"
+msgstr ""
+"\"В синтаксис╕ URL %s\n"
+"- помилка"
+
+msgid "The config file has no \"Type=...\" line"
+msgstr "Файл конф╕╜урац╕╖ не ма╓ рядка \"Type=...\""
+
+msgid "The directory "
+msgstr "Тека"
+
+msgid ""
+"The file\n"
+"%s\n"
+"has been modified.\n"
+"Do you want to save it?"
+msgstr ""
+"До файлу \n"
+"%s\n"
+"були внесен╕ зм╕ни.\n"
+"Чи хочете Ви його записати?"
+
+msgid "The file does not contain a URL"
+msgstr "Файл не м╕стить URL"
+
+msgid ""
+"The file ~/.kde/share/apps/kfm/magic is corrupted\n"
+"Authorization failed"
+msgstr ""
+"Файл ~/.kde/share/apps/kfm/magic - з╕псований\n"
+"Ре╓страц╕я невдалася"
+
+msgid "The mime type config file "
+msgstr "Конф╕╜урац╕йний файл тип╕в MIME"
+
+msgid ""
+"The requested action\n"
+"%s\n"
+"is not implemented yet."
+msgstr ""
+"Ця д╕я \n"
+"%s\n"
+"ще не вт╕лена."
+
+msgid ""
+"This file does not contain an\n"
+"Exec=....\n"
+"entry. Edit the Properties\n"
+"to solve the problem"
+msgstr ""
+"Цей файл не м╕стить рядка\n"
+"\"Exec=...\". В╕дредагуйте\n"
+"Властивост╕, щоб виправити\n"
+"помилку."
+
+msgid ""
+"This is a document!\n"
+"Not an application"
+msgstr ""
+"Це документ,\n"
+"а не програма!"
+
+msgid ""
+"This page is untrusted\n"
+"but it contains a link to your local file system."
+msgstr ""
+"Це - неперев╕рена стор╕нка, \n"
+"але посилання з не╖ вказу╓ на Вашу локальну файлову систему."
+
+msgid "Trying to open"
+msgstr "Пробую в╕дкрити"
+
+msgid "U&RL"
+msgstr "U&RL"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Unmount"
+msgstr "Розмонтувати"
+
+msgid "Unmounted Icon"
+msgstr "Розмонтована п╕ктограма"
+
+msgid "Unmounting %s ..."
+msgstr "Розмонтовую %s ..."
+
+msgid "User"
+msgstr "Користувач"
+
+msgid "View Docu&ment Source"
+msgstr "Переглянуту &вих╕дний текст документу"
+
+msgid "Working ..."
+msgstr "Працюю ..."
+
+msgid "Write"
+msgstr "Запис"
+
+msgid ""
+"Write\n"
+"Entries"
+msgstr ""
+"Записувати\n"
+"складов╕"
+
+msgid "You did not change the name!\n"
+msgstr "Ви не зм╕нили назву!\n"
+
+msgid ""
+"You dont have the file ~/.kde/share/apps/kfm/magic\n"
+"Authorization failed"
+msgstr ""
+"У Вас нема╓ файлу ~/.kde/share/apps/kfm/magic\n"
+"Авторизац╕я невдала"
+
+msgid "You try to overwrite"
+msgstr "Ви намага╓тесь переписати"
+
+msgid "already exists. Overwrite with"
+msgstr "вже ╕сну╓. Переписати за допомогою"
+
+msgid "bytes"
+msgstr "байт"
+
+msgid "in "
+msgstr "в "
+
+msgid "to %s"
+msgstr "до %s"

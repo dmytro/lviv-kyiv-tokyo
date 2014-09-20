@@ -1,0 +1,228 @@
+<html><head><title>
+Linux-Mandrake Mac Millan Pack REGISTRATION FORM</title></head>
+<body bgcolor="#FFFFFF" text="#000000" link="red" vlink="red" alink="#666699">
+<table width=100% border=0 cellpadding=0 cellspacing=0 bgcolor=white>
+  <tr> 
+<td width=100%><img src="/images/titrelogo.png" width="369" height="90" alt="Mandrake Logo">
+    </td>
+    <td width=100% valign="top" align="left"> 
+    </td>
+    <td align=left width=100% valign="bottom"> 
+    <table bgcolor=white width=100%>
+        <tr><td>&nbsp;
+        </td></tr></table>
+    </td>
+  </tr>
+  <tr> 
+<td colspan=3 align=left> 
+
+<? include("menubar.php3"); ?>
+
+</td>
+</table>
+<table border=0 width=100%>
+<tr><td width=14% valign=top>
+
+<? include("menu.php3"); ?>
+
+</td>
+<td valign=top align=center>
+<table border=0 width=90%>
+<tr>
+<td bgcolor ="#666699"> 
+<font color=white face="helvetica">
+<b>РЕ╢СТРАЦ╤ЙНА ФОРМА для Мандрейк Л╕накс Mac Millan Pack</b>
+</font>
+</td>
+</tr>
+<tr>
+<td bgcolor=white> 
+<font face="helvetica">
+<SCRIPT LANGUAGE="JavaScript"><!-- Hide script
+
+function new_Array(len) {
+  var a = new Object();
+  a.size = len;
+  for (var i = 1; i < new_Array.arguments.length; i++) a[i] = new_Array.arguments[i];
+  return a;
+}
+
+function isNumber(s) {
+  for (var i = 0; i < s.length; i++)
+    if (s.charAt(i) < "0" || s.charAt(i) > "9") { return false; }
+  return true;
+}
+
+function error(element, message) {
+  alert(message);
+
+  element.focus();
+  element.select();
+
+  return false;
+}
+
+function get_select(element) {
+  return element.options[element.selectedIndex].value;
+}
+
+function verify() {
+  var MANDATORY_PARAM = new_Array(8, 'email', 'lastname', 'firstname', 'phone', 'country', 'address', 'postcode', 'city');
+  var INT_PARAM = new_Array(2, 'processor_speed', 'graphic_mem');
+  var messages = new Object();
+  messages["email"] = 'email';
+  messages["lastname"] = 'last name';
+  messages["firstname"] = 'first name';
+  messages["phone"] = 'Phone';
+  messages["country"] = 'Country';
+  messages["address"] = 'Address';
+  messages["postcode"] = 'Zip';
+  messages["city"] = 'City';
+  messages["processor_speed"] = 'processor speed';
+  messages["graphic_mem"] = 'memory size';
+  messages["scsi_model"] = 'if so, which made and model ?';
+  var form = document.form;
+  var i;
+  
+  if (get_select(form["scsi_card"]) == "yes") MANDATORY_PARAM[++MANDATORY_PARAM.size] = "scsi_model";
+
+  for(i = 1; i <= MANDATORY_PARAM.size; i++) {
+    var element = form[MANDATORY_PARAM[i]];
+    if (element.value == "") return error(element, "The field ``" + messages[MANDATORY_PARAM[i]] + "'' is mandatory");
+  }
+  for(i = 1; i <= INT_PARAM.size; i++) {
+    var element = form[INT_PARAM[i]];
+    if (!isNumber(element.value)) return error(element, "The field ``" + messages[INT_PARAM[i]] + "'' must be a number!");
+  }
+  return true;
+}
+
+// End script hiding --></SCRIPT>
+<FORM METHOD="POST" ACTION="/cgi-bin/enreg_millan.pm" ENCTYPE="application/x-www-form-urlencoded" ONSUBMIT="return verify();" NAME="form">
+<BR><P><table width="100%" bgcolor="#ffffff">
+<tr>
+<td valign="top"><img src="../images/macmillan-s.png" width="64" height="80" alt="Mac Millan logo" align="left">
+
+  <font face="helvetica, arial"><b>Увага:</b> ця форма - для
+  ре╓страц╕╖ пакету в╕д  <b>Mac Millan</b>
+  
+, якщо Ваш комплект ╕нший, перев╕рте, будь-ласка,  <a
+href="enreg.php3">тут</a>.<br><br>
+
+  Щоб зробити легшим для нас в╕дпов╕дати на Ваш╕ можлив╕ майбутн╕
+  запитання, заповн╕ть будь-ласка форму, що йде дал╕. П╕сля того, як
+  вс╕ поля заповнен╕, натисн╕ть кнопку [Register] внизу стор╕нки для
+  зак╕нчення ре╓страц╕╖.
+  
+  <br><br>Натисн╕ть на  [Register] внизу документа, щоб в╕д╕слати
+  форму. </font>
+</td><td><img src="../images/macforlinux.png" width="174" height="150" alt="Mac Millan for Linux">
+</td>
+</tr></table></P>
+<P><CENTER><TABLE BGCOLOR="#395DA7" WIDTH="500" CELLSPACING="0"
+  BORDER="0" CELLPADDING="1"><TR><TD COLSPAN="3"><FONT
+    COLOR="white"><B>Який саме  Mac Millan Pack Ви бажа╓те заре╓струвати?</B></FONT></TD> <TD WIDTH="33%"><SELECT NAME="pack">
+      
+<OPTION  VALUE="whatpack">Вибер╕ть св╕й
+<OPTION  VALUE="complete">Повний
+<OPTION  VALUE="deluxe">DeLuxe
+</SELECT>
+</TD></TR>
+<TR><TD WIDTH="11%"><FONT COLOR="white"><B>╤м'я</B></FONT></TD> <TD WIDTH="39%"><INPUT TYPE="text" NAME="firstname"  SIZE=20></TD> <TD WIDTH="17%"><FONT COLOR="white"><B>Пр╕звище</B></FONT></TD> <TD WIDTH="33%"><INPUT TYPE="text" NAME="lastname"  SIZE=20></TD></TR>
+<TR><TD WIDTH="11%"><FONT COLOR="white"><B>Адреса</B></FONT></TD> <TD COLSPAN="3"><INPUT TYPE="text" NAME="address"  SIZE=55></TD></TR>
+<TR><TD WIDTH="11%"><FONT COLOR="white"><B>Поштовий ╕ндекс</B></FONT></TD> <TD WIDTH="39%"><INPUT TYPE="text" NAME="postcode"  SIZE=20 MAXLENGTH=7></TD> <TD WIDTH="17%"><FONT COLOR="white"><B>М╕сто</B></FONT></TD> <TD WIDTH="33%"><INPUT TYPE="text" NAME="city"  SIZE=20></TD></TR>
+<TR><TD WIDTH="11%"><FONT COLOR="white"><B>Штат</B></FONT></TD> <TD WIDTH="39%"><INPUT TYPE="text" NAME="state"  SIZE=20></TD> <TD WIDTH="11%"><FONT COLOR="white"><B>Кра╖на</B></FONT></TD> <TD WIDTH="39%"><INPUT TYPE="text" NAME="country"  SIZE=20></TD></TR>
+<TR><TD WIDTH="11%"><FONT COLOR="white"><B>Email</B></FONT></TD> <TD WIDTH="39%"><INPUT TYPE="text" NAME="email"  SIZE=20></TD> <TD WIDTH="17%"><FONT COLOR="white"><B>Телефон</B></FONT></TD> <TD WIDTH="33%"><INPUT TYPE="text" NAME="phone"  SIZE=20></TD></TR>
+<TR><TD WIDTH="11%"><FONT COLOR="white"><B>Робота</B></FONT></TD> <TD WIDTH="39%"><INPUT TYPE="text" NAME="job"  SIZE=20></TD> <TD WIDTH="17%"><FONT COLOR="white"><B>Орган╕зац╕я</B></FONT></TD> <TD WIDTH="33%"><INPUT TYPE="text" NAME="company"  SIZE=20></TD></TR>
+<TR><TD COLSPAN="3"><FONT COLOR="white"><B>Де Ви отримали св╕й PowerPack?</B></FONT></TD> <TD WIDTH="33%"><SELECT NAME="where">
+<OPTION  VALUE="dep_store">Department store
+<OPTION  VALUE="compu_shop">Computer shop
+<OPTION  VALUE="bookshop">Bookshop
+<OPTION  VALUE="online">Online
+<OPTION  VALUE="vpc">By mail order
+<OPTION  VALUE="gift">It was a gift
+</SELECT>
+</TD></TR>
+<TR><TD COLSPAN="3"><FONT COLOR="white"><B>Яке з'╓днання з ╤нтернетом
+  Ви ма╓те?</B></FONT></TD> <TD WIDTH="33%"><SELECT NAME="connection">
+<OPTION  VALUE="RTC">Modem connection
+<OPTION  VALUE="ADSL">ADSL
+<OPTION  VALUE="cable_network">Cable
+<OPTION  VALUE="LS">T1
+</SELECT>
+</TD></TR></TABLE></CENTER> <P><CENTER><TABLE BGCOLOR="#C0C0C0"
+  WIDTH="500" CELLSPACING="0" BORDER="0"><TR><TD COLSPAN="4"><FONT
+    COLOR="black"><B>Конф╕╜урац╕я апаратури:</B></FONT></TD></TR>
+<TR><TD COLSPAN="4"><FONT COLOR="white">&nbsp;</FONT></TD></TR>
+<TR><TD WIDTH="17%"><FONT COLOR="white"><B>Процесор</B></FONT></TD> <TD WIDTH="35%"><SELECT NAME="processor">
+<OPTION  VALUE="Pentium">Intel Pentium
+<OPTION  VALUE="PentiumII">Intel Pentium II
+<OPTION  VALUE="PentiumIII">Intel Pentium III
+<OPTION  VALUE="Celeron">Intel Celeron
+<OPTION  VALUE="K6">AMD K6
+<OPTION  VALUE="K6-2">AMD K6-2
+<OPTION  VALUE="Athlon">AMD Athlon
+<OPTION  VALUE="Cyrix">Cyrix
+<OPTION  VALUE="other">Other
+</SELECT>
+</TD> <TD WIDTH="22%"><FONT COLOR="white"><B>Частота</B></FONT></TD> <TD WIDTH="26%"><INPUT TYPE="text" NAME="processor_speed" VALUE="300"> МГц</TD></TR>
+<TR><TD WIDTH="17%"><FONT COLOR="white"><B>Диск</B></FONT></TD> <TD WIDTH="35%"><SELECT NAME="harddrive">
+<OPTION  VALUE="ide">IDE
+<OPTION  VALUE="scsi">SCSI
+</SELECT>
+</TD> <TD WIDTH="17%"><FONT COLOR="white"><B>Пристр╕й компакт-диск╕в</B></FONT></TD> <TD WIDTH="35%"><SELECT NAME="cdrom">
+<OPTION  VALUE="ide">IDE
+<OPTION  VALUE="scsi">SCSI
+<OPTION  VALUE="proprietary">Proprietary
+</SELECT>
+</TD></TR>
+<TR><TD WIDTH="17%"><FONT COLOR="white"><B>Модель граф╕чно╖
+  плати</B></FONT></TD> <TD WIDTH="35%"><INPUT TYPE="text"
+  NAME="graphic" ></TD> <TD WIDTH="22%"><FONT COLOR="white"><B>Розм╕р
+  пам'ят╕</B></FONT></TD> <TD WIDTH="26%"><INPUT TYPE="text"
+  NAME="graphic_mem" ></TD></TR>
+  
+<TR><TD WIDTH="17%"><FONT COLOR="white"><B>Звукова
+  плата</B></FONT></TD> <TD WIDTH="35%"><INPUT TYPE="text"
+  NAME="sound" ></TD> <TD WIDTH="22%"><FONT COLOR="white"><B>Плата
+  локально╖ мереж╕</B></FONT></TD> <TD WIDTH="26%"><INPUT TYPE="text"
+  NAME="network" ></TD></TR>
+  
+<TR><TD COLSPAN="2"><FONT COLOR="white"><B>Чи ╓ у Вас плата  SCSI?
+  </B></FONT> <B><TABLE><TR><TD><INPUT TYPE="radio" NAME="scsi_card"
+      VALUE="Yes" CHECKED>Yes</TD><TD><INPUT TYPE="radio"
+	  NAME="scsi_card" VALUE="No">No</TD></TR></TABLE></B></TD>
+	  <TD WIDTH="22%"><FONT COLOR="white"><B>Якщо ╓, яка модель та
+	  виготовлювач?</B></FONT></TD> <TD WIDTH="26%"><INPUT TYPE="text"
+	  NAME="scsi_model" ></TD></TR></TABLE></CENTER></P> 
+ <P><CENTER><B>Зв╕дки Ви д╕зналися про Linux-Mandrake ?</B> <SELECT NAME="youknow">
+<OPTION  VALUE="friend">By a friend or relative
+<OPTION  VALUE="onthenet">On the net
+<OPTION  VALUE="press">In a newspaper or magazine
+<OPTION  VALUE="other">Other
+</SELECT>
+</CENTER> <INPUT TYPE="hidden" NAME="language" VALUE="en"> <CENTER><INPUT TYPE="submit" NAME=".submit" VALUE="Register"> <INPUT TYPE="reset"></CENTER></P>
+ <INPUT TYPE="hidden" NAME=".cgifields" VALUE="scsi_card"> </FORM> <CENTER><FONT SIZE="-1"> </FONT></CENTER></P>
+</font>
+</td>
+</tr>
+</table>
+<table width=91%>
+<tr><td bgcolor="#666699">
+<font color=white size=3>
+<a href="/en/main.php3"><img src="../images/magic.gif" border=0
+  width=33 height=30></a>... Повернутися до головно╖ стор╕нки...</td></tr></table>
+</td>
+</tr>
+</table>
+<font size=-6><p>
+<center>Linux ╓ заре╓строваною торг╕вельною маркою Л╕наса Торвальдса
+( Linus Torvalds).
+Mandrake та Linux-Mandrake - заре╓строван╕ торг╕вельн╕ марки компан╕й
+MandrakeSoft SA та MandrakeSoft Inc. Вс╕ ╕нш╕ торг╕вельн╕ марки та
+авторськ╕ права належать сво╖м законним власникам.<br>Авторськ╕ права
+на весь зм╕ст та
+вс╕ граф╕чн╕ зображення на цих стор╕нках належать
+<a href="http://www.mandrakesoft.com">MandrakeSoft SA та MandrakeSoft
+Inc.</a> 1998, 1999, 2000.</center> 
+</font></body></html>

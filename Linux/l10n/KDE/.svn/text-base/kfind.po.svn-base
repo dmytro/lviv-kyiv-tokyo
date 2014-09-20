@@ -1,0 +1,282 @@
+# Ukrainian translation of kfind
+# Copyright (C) 2000 Free Software Foundation, Inc.
+# Dmytro Koval'ov <kov@tokyo.email.ne.jp>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: kfind VERSION\n"
+"POT-Creation-Date: 1999-03-13 01:55+0100\n"
+"PO-Revision-Date: 2000-05-01 18:26+09:00\n"
+"Last-Translator: Dmytro Koval'ov <kov@tokyo.email.ne.jp>\n"
+"Language-Team: UKRAINIAN <linux@linux.org.ua>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=koi8-u\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid " Advanced "
+msgstr "Розширений"
+
+msgid " Date Modified "
+msgstr "Дата зм╕ни"
+
+msgid " Name& Location "
+msgstr "&Назва та м╕сце"
+
+msgid "%d file(s) found"
+msgstr "Знайдено %d файл╕в"
+
+msgid "&Add to archive"
+msgstr "Додати до &арх╕ву"
+
+msgid "&All files"
+msgstr "&Вс╕ файли"
+
+msgid "&Browse ..."
+msgstr "Пере&гляд ..."
+
+msgid "&Containing Text:"
+msgstr "Що &м╕стять текст:"
+
+msgid "&Invert Selection"
+msgstr "&Протилежний виб╕р"
+
+msgid "&Look in:"
+msgstr "&Шукати в:"
+
+msgid "&Named:"
+msgstr "П╕д &назвою:"
+
+msgid "&Open"
+msgstr "&В╕дкрити"
+
+msgid "&Preferences ..."
+msgstr "&Установки ... "
+
+msgid "&Properties"
+msgstr "&Властивост╕"
+
+msgid "&Save Search"
+msgstr "З&берегти пошук"
+
+msgid "&Select All"
+msgstr "Вибрати &все"
+
+msgid "&Size is:"
+msgstr "&Розм╕р:"
+
+msgid "&Start search"
+msgstr "По&чати пошук:"
+
+msgid "&between"
+msgstr "&м╕ж"
+
+msgid "&during the previous "
+msgstr "на &протяз╕ попередн╕х"
+
+msgid "(none)"
+msgstr "(н╕чого)"
+
+msgid "Add New"
+msgstr "Додати новий"
+
+msgid "Add to Archive:"
+msgstr "Додати до арх╕ву:"
+
+msgid "Add to archive"
+msgstr "Додати до арх╕ву"
+
+msgid "All Files and Folders"
+msgstr "Вс╕ файли та каталоги"
+
+msgid "Archivers"
+msgstr "Арх╕ватори"
+
+msgid "At Least"
+msgstr "Не менше"
+
+msgid "At Most"
+msgstr "Не б╕льше"
+
+msgid "Browse"
+msgstr "Переглянути"
+
+msgid "Cannot open or read directory."
+msgstr "Не можу в╕дкрити чи прочитати каталог"
+
+msgid "Couldn't recognize archive type!"
+msgstr "Не можу розп╕знати тип арх╕ву!"
+
+msgid "Create Archive:"
+msgstr "Створити арх╕в:"
+
+msgid "Delete File"
+msgstr "Видалити файл"
+
+msgid "Directories:"
+msgstr "Каталоги:"
+
+msgid ""
+"Do you really want to delete file:\n"
+"%s"
+msgstr ""
+"Ви д╕йсно хочете стерти файл:\n"
+"%"
+
+msgid "Error while creating child process!"
+msgstr "Помилка п╕д час створення доч╕рнього процесу!"
+
+msgid "Executable files"
+msgstr "Файли програм"
+
+msgid "File format:"
+msgstr "Формат файлу:"
+
+msgid "Find all files created or &modified:"
+msgstr "Знайти вс╕ файли створен╕ чи &зм╕нен╕"
+
+msgid "Folders"
+msgstr "Теки"
+
+msgid "Include &subfolders"
+msgstr "Включити &п╕дкаталоги"
+
+msgid ""
+"It isn't possible to delete\n"
+"selected directory"
+msgstr ""
+"Неможливо видалити\n"
+"вибраний каталог"
+
+msgid ""
+"It isn't possible to delete\n"
+"selected file"
+msgstr ""
+"Неможливо видалити\n"
+"вибраний файл"
+
+msgid "It wasn't possible to save results!"
+msgstr "Не зм╕г записати результати!"
+
+msgid "KB"
+msgstr "кб"
+
+msgid ""
+"KFind %s\n"
+"Frontend to find utility\n"
+"Miroslav FlМdr <flidr@kky.zcu.cz>\n"
+"\n"
+"Special thanks to Stephan Kulow\n"
+"<coolo@kde.org>"
+msgstr ""
+"KFind %s\n"
+"╤нтерфейс до програми find\n"
+"Miroslav FlМdr <flidr@kky.zcu.cz>\n"
+"\n"
+"Особлив╕ подяки Stephan Kulow\n"
+"<coolo@kde.org>"
+
+msgid "KFind Results File"
+msgstr "Файл результат╕в KFind"
+
+msgid "New Search"
+msgstr "Новий пошук"
+
+msgid "Of &type:"
+msgstr "&Типу:"
+
+msgid "Open Containing &Folder"
+msgstr "В╕дкрити &каталог, в який входить"
+
+msgid "Open Containing Folder"
+msgstr "В╕дкрити каталог, в який входить"
+
+msgid "Patterns:"
+msgstr "Маски:"
+
+msgid "Plain Text"
+msgstr "Звичайний текст"
+
+msgid "Preferences"
+msgstr "Установки"
+
+msgid "Results were saved to file\n"
+msgstr "Результати були збережен╕ в файл╕\n"
+
+msgid "S&top search"
+msgstr "&Зупинити пошук"
+
+msgid "SUID executable files"
+msgstr "Файли програм з встановленим SUID"
+
+msgid "Save Search Results"
+msgstr "Записати результати пошуку"
+
+msgid "Save results to file ~/.kfind-results.html"
+msgstr "Записати результати в файл  ~/.kfind-results.html"
+
+msgid "Save results to file:"
+msgstr "Записати результати в файл:"
+
+msgid "Saving"
+msgstr "Збереження"
+
+msgid "Special files (sockets, device files...)"
+msgstr "Спец╕альн╕ файли (сокети, файли спец╕альних пристро╖в ...)"
+
+msgid ""
+"Specified directory\n"
+"is not empty!"
+msgstr ""
+"Вказаний каталог\n"
+"не пустий!"
+
+msgid "Start Search"
+msgstr "Почати пошук"
+
+msgid "Stop Search"
+msgstr "Зупинити пошук"
+
+msgid "Symbolic links"
+msgstr "Символ╕чн╕ посилання"
+
+msgid "The date is not valid!!"
+msgstr "Нев╕рна дата!!"
+
+msgid "The day(s) value isn't valid!!"
+msgstr "Вказаний нев╕рний день!!"
+
+msgid "The month(s) value isn't valid!!"
+msgstr "Вказаний нев╕рний м╕сяць!!"
+
+msgid "The value in size isn't valid number!!"
+msgstr "Вказаний розм╕р не ╓ числом!!"
+
+msgid "Unse&lect All"
+msgstr "В╕дм╕нити &виб╕р всього"
+
+msgid ""
+"You have no permission\n"
+" to delete this directory"
+msgstr ""
+"Ви не ма╓те дозволу на \n"
+"стирання цього каталогу"
+
+msgid ""
+"You have no permission\n"
+" to delete this file"
+msgstr ""
+"Ви не ма╓те дозволу на\n"
+"стирання цього файлу"
+
+msgid "and"
+msgstr "та"
+
+msgid "day(s)"
+msgstr "дн╕в"
+
+msgid "during the previou&s "
+msgstr "на протяз╕ попередн╕&х"
+
+msgid "month(s)"
+msgstr "м╕сяц╕в"
+

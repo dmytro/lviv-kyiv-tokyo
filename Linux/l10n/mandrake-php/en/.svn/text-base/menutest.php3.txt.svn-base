@@ -1,0 +1,123 @@
+<table bgcolor="#99afcc">
+<tr><td>
+<table border=0 cellspacing=1 cellpadding=1>
+
+<tr>
+<td>
+<font size=+0 face="helvetica" color=white> 
+<b>NEWS</b>
+</td>
+</tr>
+
+<tr bgcolor=#99afcc>
+<td bgcolor=#eeeeee width=90%>
+<font face="helvetica" size=-1>- <a href="/en/fnews.php3">From Mandrake</a><br>
+- <a href="http://lwn.net">Linux Weekly News</a><br>
+- <a href="http://www.linuxtoday.com">Linux Today</a><br>
+- <a href="http://www.portalux.com/">Linux Center</a><br>
+- <a href="http://www.linux.com">Linux.com</a><br>
+- <a href="http://www.linuxnewbie.org">LinuxNewbie.org</a><br>
+</td>
+</tr>
+
+<tr>
+<td bgcolor="#99afcc" >
+<font size=+0 face="helvetica" color=white> 
+<b>FEATURES</b>
+</td>
+</tr>
+<tr>
+<td bgcolor=#eeeeee>
+<font face="helvetica" size=-1> 
+
+- <a href="/en/fpolicy.php3">the concept</a><br>
+- <a href="/en/airfeat.php3">features</a><br>
+- <a href="/en/fhard.php3">supp. hardware</a><br>
+- <a href="/en/fscreenshots.php3">screenshots</a><br>
+- <a href="/en/demos/">demos & tutorials</a><br>
+- <a href="/en/flicensing.php3">licensing</a>
+</td>
+</tr>
+
+<tr>
+<td bgcolor="#99afcc" >
+<font size=+0 face="helvetica" color=white> 
+<b>GET MANDRAKE!</b>
+</td>
+</tr>
+<tr>
+<td bgcolor=#eeeeee>
+<font face="helvetica" size=-1> 
+-  <a href="/en/ftp.php3">free download</a><br>
+-  <a href="/en/fsinglecd.php3">CDs</a><br>
+<!---  <a href="/en/fpowerpack.php3">full PowerPack</a><br>-->
+-  <a href="generalfeat.php3">full Packs</a><br>
+-  <a href="/en/fsinglecd.php3">preload. computers</a>
+</td>
+</tr>
+
+<tr>
+<td bgcolor="#99afcc" >
+<font size=+0 face="helvetica" color=white> 
+<b>SUPPORT</b>
+</td>
+</tr>
+<tr>
+<td bgcolor=#eeeeee>
+<font face="helvetica" size=-1> 
+-  <a href="/en/flists.php3">mailing lists</a><br>
+-  <a href="/en/ffreesup.php3">support</a><br>
+-  <a href="/en/enreg.php3">register</a><br>
+-  <a href="/en/security.php3">security</a><br>
+-  <a href="/en/fupdates.php3">updates</a><br>
+-  <a href="/bugs/">report a bug</a><br>
+-  <a href="/en/ffaq.php3">FAQ</a><br>
+-  <a href="/en/fdoc.php3">documentation</a><br>
+</td>
+</tr>
+
+
+<tr>
+<td bgcolor="#99afcc" >
+<font size=+0 face="helvetica" color=white> 
+<b>DEVELOPERS</b>
+</td>
+</tr>
+<tr>
+<td bgcolor=#eeeeee>
+<font face="helvetica" size=-1> 
+- <a href="/en/fdevlists.php3">lists</a><br>
+- <a href="/en/cookerdevel.php3">Cooker</a><br>
+- <a href="/en/frpmapps.php3">RPM apps</a><br>
+- <a href="http://www.linux-mandrake.com/lothar/">Lothar</a><br>
+- <a href="/en/drakx.php3">DrakX</a><br>
+- <a href="/diskdrake/">DiskDrake</a><br>
+- <a href="/en/l10n.php3">i18n</a><br>
+- <a href="/en/cvs.php3">CVS</a><br>
+- <a href="/en/lnx4win.php3">Lnx4Win</a>
+</td>
+</tr>
+
+<tr>
+<td bgcolor="#99afcc" >
+<font size=+0 face="helvetica" color=white> 
+<b>MISC</b>
+</td>
+</tr>
+<tr>
+<td bgcolor=#eeeeee>
+<font face="helvetica" size=-1> 
+- <a href="/en/fcrypto.php3">crypto stuff</a><br>
+- <a href="/en/y2000.php3">Y2K</a><br>
+- <a href="/en/fapps.php3">applications</a><br>
+- <a href="/en/poweredby.php3">link us!</a><br>
+- <a href="/en/email.php3">contacts</a><br>
+- <a href="http://www.mandrakesoft.com">who are we?</a><br>
+- <a href="/en/partners.php3">partners</a><br>
+- <a href="/en/aboutwebsite.php3">about this site</a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>

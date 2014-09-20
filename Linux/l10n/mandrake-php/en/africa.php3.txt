@@ -1,0 +1,15 @@
+<? include("begin1.php3"); ?>
+Linux Mandrake CDs and Pre-configured computers Purchase in AFRICA
+<? include("begin2.php3"); ?>
+Linux Mandrake CDs and Pre-configured computers Purchase in AFRICA
+<? include("begin3.php3"); ?>
+
+<? include("africa.html"); ?>
+
+ <hr><font size=1>
+<!-- Created: Thu Oct 15 05:47:05 EDT 1998 -->
+<!-- hhmts start -->
+Last modified: Sun Jun  6 23:44:24 CEST 1999
+<!-- hhmts end -->
+<? include("end1.php3"); ?>
+

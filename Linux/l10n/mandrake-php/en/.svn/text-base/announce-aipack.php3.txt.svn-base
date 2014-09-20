@@ -1,0 +1,176 @@
+<? include("begin1.php3"); ?>
+Announce: Linux-Mandrake 7.0 PowerPack available
+<? include("begin2.php3"); ?>
+Announce: Linux-Mandrake 7.0 PowerPack available
+<? include("begin3.php3"); ?>
+<br>&nbsp;
+<table border=0 width=90%>
+  <tr>
+ 
+ <td bgcolor=white height="176" colspan=2>
+<b>MandrakeSoft announces the immediate availability of Linux-Mandrake
+7.0 PowerPack in the USA.</b>
+<p align=justify>
+Altadena, California - February 28, 2000 - The new
+graphically-enhanced Linux-Mandrake 7.0 operating system PowerPack
+edition is available for sale in the USA. It contains more than 2000
+applications, new manuals and 100 days of support at the price of $55
+US.
+<p align=justify>
+With their goal of introducing Linux to as many new users as possible,
+a company-wide effort has been focused on ease-of-use issues resulting
+in the development of many new graphical tools, utilities and
+"wizards".
+<p align=justify>
+Linux-Mandrake 7.0 now includes all the graphical tools that users
+expect for a simplified system installation such as a new graphical
+installer with FAT partitions resizer, new desktop enhancements and 50
+languages available. In addition, Mandrake 7.0 provides new concepts
+and features that will make it the system of choice for servers, such
+as several pre-configured « Security Levels » and a customized system
+kernel called « kernel secure » which available for servers that need
+to be secured. 
+<p align=justify>
+The Linux-Mandrake 7.0 PowerPack still offers greater value. The
+PowerPack contains a total of 6 CD-ROMS. Disk 1 is our bootable
+installation disk, Disk 2 contains complete source files of the
+installation applications, Disk 3 contains Extra applications, Disk 4
+provides source files of the Extras CD, Disks 5 & 6 contain 38
+commercial applications including the popular and MS Office compatible
+office suite StarOffice 5.1a, IBM DB2, IBM Lotus Notes server, IBM
+ViaVoice, Loki Myth II, Acrobat Reader... The 7.0 PowerPack also
+includes a newly written installation guide and user's manual.
+Completing this package is 100 days of technical support by email.
+<p align=justify>
+A complete description of Linux-Mandrake 7.0 PowerPack edition is
+available on: <br><a href="http://www.linux-mandrake.com/en/airpack.php3">http://www.linux-mandrake.com/en/airpack.php3</a>
+<p align=justify>
+An exhaustive listing and description of third party software shipped
+with the PowerPack 7.0 is available on:
+<br><a href="http://www.linux-mandrake.com/en/aircomm.php3">http://www.linux-mandrake.com/en/aircomm.php3</a>
+
+
+About Linux-Mandrake:
+--------------------
+
+Linux-Mandrake is the flagship product of MandrakeSoft Inc. Mandrake
+is one of most complete and easy to use Linux operating systems
+available for both servers and workstations. Mandrake continues to be
+fully compatible with Red Hat Linux. MandrakeSoft keeps its
+technological edge by actively participating in the rapid development
+of Linux;  improving existing functionalities and contributing new
+ones. Linux-Mandrake specializes in customizing Linux for the
+workstation and simplifying the use of Linux for both beginners and
+advanced users.
+
+Linux-Mandrake was awarded "Best Linux Product of the Year" and "Best
+Linux-Distribution/Server" at LinuxWorld Expo' 99. 
+
+
+About MandrakeSoft and The Open Development Model force:
+-------------------------------------------------------
+
+Born of the Internet, with offices in both USA and France,
+MandrakeSoft attributes the development of its Linux distribution to
+the contributions of thousands of developers throughout the world
+linked by the Internet. This world-wide effort is constantly adopted
+and improved by MandrakeSoft's own technical teams to provide one of
+the most complete and simple graphical Linux operating system
+available.
+
+The company has signed a strategic partnership agreement with the US
+publisher MacMillan, and a distribution agreement with Kasper. In the
+months of July and August 1999, the Linux-Mandrake/MacMillan Edition
+achieved #1 retail sales in the US by claiming over 50% of all Linux
+OS purchases.
+
+Web: http://www.linux-mandrake.com
+<b>MandrakeSoft is pleased to announce the immediate availability of Linux-Mandrake 7.0 (Air).</b>
+<p align=justify>
+<img src="../images/astaris.png width=153 height=239 alt="a star is born" align=right>The new graphically-enhanced Linux-Mandrake 7.0 (Air) operating system has just been released and is now available as a free download from our website at www.linux-mandrake.com and from many mirrors across the Internet. The complete packaged edition, available for sale in February, contains more than 2000 applications, new manuals and 100 days of support at the price of $55 US.
+<p align=justify>
+Altadena, California - January 13, 2000 - MandrakeSoft continues to contribute to the widespread use of Linux as a powerful operating system for both high-end servers as well as personal workstations. With their goal of introducing Linux to as many new users as possible, a company-wide effort has been focused on ease-of-use issues resulting in the development of many new graphical tools, utilities and "wizards".
+<p align=justify>
+&laquo; This latest version of Linux-Mandrake is an important step in the evolution of MandrakeSoft and is the result of many months of research and innovations. For example, we are happy to offer the first Linux  distribution which integrates a hard-disk partitioning and resizing system into the installation process. Our new partitioning application DiskDrake removes a major obstacle in the installation of Linux when another operating system has previously been installed. &raquo;, said Jean-Loup Gailly - CTO MandrakeSoft.</div>
+
+<p align=justify>
+<u>Benefits for new Linux users:</u> 
+<br>Linux-Mandrake 7.0 now includes all the graphical tools that users expect for a simplified system installation. These tools include:
+</p>
+<blockquote><img src="../images/i-hat32.png" width=32 height=32 alt="Mandrake icon" align=left><b>DrakX</b> - our new open-source graphical installation procedure utility. DrakX provides several levels of automated installation for the various skill levels of users. DrakX also allows users to configure their Internet connection during the installation process with full support of ADSL and RNIS technologies. Additionally, nearly 50 different languages are available in DrakX!
+<br><br>
+<img src="../images/i-dd32.gif" width=32 height=32 alt="DD icon" align=left><b>DiskDrake</b> is our new hard-drive partitioning tool which is incorporated into DrakX. DiskDrake allows any user to easily  create, modify and re-size disk partitions using an entirely graphical interface. A completely automated option is also available for inexperienced users.
+<br><br>
+<img src="../images/tux.gif" width=28 height=33 alt="Tux" align=left><b>The very latest Linux Kernel (2.2.14)</b> which has been enhanced with the « Supermount » utility eliminates the clumsy mounting/unmounting process for removable devices such as CD-ROMs and floppy disks.
+<br><br>
+<img src="../images/xfree86.gif" width=42 height=21 alt="Xfree86" align=left><b>The very latest XFree86 (3.3.6)</b> supports many of the latest video cards such as: Matrox G400, S3 Trio 3D, SAVAGE 3D, Nvidia GeForce, ATI Rage 128, Ati Rage Mobility, SIS 540/630/300, Silican Motion Lynx etc. Check the supported hardware <a href="fhard70.php3">here</a>.
+<br><br>
+<img src="../images/i-drake32.gif" width=32 height=32 alt="DrakConf icon" align=left><b>DrakConf</b> is our new desktop configuration panel which enables users to easily configure and modify hardware devices such as video cards, keyboard, mouse (including USB keyboards and mice). DrakConf also includes the new Lothar utility which is a set of tools that offers auto-detecting and configuring of additional hardware devices such as sound cards, network cards, etc. 
+<br><br>
+<img src="../images/i-doc32.gif" width=32 height=32 alt="Mandrake doc icon" align=left><b>High level of internationalization</b> with 50 languages available.
+<br>
+<br>
+<br>
+<img src="../images/i-news32.gif" width=32 height=32 alt="Mandrake news icon" align=left><b>Many desktop enhancements</b> and customizations that greatly simplify a user's experience of learning Linux for the first time. Additional features such as immediate access to a Windows partition, if installed on the same machine, provide a much requested feature. Complete and easy to read documentation is available.
+<br>
+<br><br><img src="../images/i-hat32.png" width=32 height=32 alt="Mandrake icon" align=left>Several pre-configured « Security Levels » are now available at installation time to ensure that your Linux system suits your needs.
+<br><br><img src="../images/i-hat32.png" width=32 height=32 alt="Mandrake icon" align=left>A customized system kernel « kernel secure » is available for servers that need to be secured. 
+<br><br><img src="../images/i-hat32.png" width=32 height=32 alt="Mandrake icon" align=left>« RAID » disks support.
+<br><br><img src="../images/i-hat32.png" width=32 height=32 alt="Mandrake icon" align=left>« SMP » multi-processor support.
+<br>
+With Linux-Mandrake...
+<blockquote><blockquote>
+<img src="../images/i-hat32.png" width=32 height=32 alt="Mandrake icon" align=left>You have a choice of 9 different pre-configured graphical interfaces (including the popular KDE and Gnome environments).
+<br><br>
+<img src="../images/i-news32.gif" width=32 height=32 alt="Mandrake news icon" align=left>You benefit from Pentium-class (and higher) optimizations which result in performance gains of up to 30%!
+<br><br>
+<img src="../images/i-hat32.png" width=32 height=32 alt="Mandrake icon" align=left>You can install Linux directly on your Windows partition using « Lnx4Win ».
+<br><br>
+<img src="../images/i-update32.gif" width=32 height=32 alt="Mandrake Update icon" align=left>
+You benefit from the MandrakeUpdate tool which lets you update your system easily and automatically using the Internet. You'll find MandrakeUpdate a great help for staying current with the latest security releases.
+<br><br>
+<img src="../images/gimp.gif" width=30 height=22 alt="GIMP icon" align=left>You have an extensive choice of applications such as Gimp (Image processing), Sketch (Vector drawing), Netscape Communicator (Internet Browsing), Apache (Web Server) with many extensions such as PHP, LDAP server and client, MySQL and PostgreSQL (RDBMS)...
+<br><br>
+<img src="../images/i-rpm32.gif" width=32 height=32 alt="RPM icon" align=left>You can use all the applications packaged for Red Hat Linux as Mandrake continues to be compatible with Red Hat.
+<br>&nbsp;
+
+</blockquote> Discover and enjoy
+the first Linux distribution of Year 2000 in this <a href="http://www.linux-mandrake.com/en/demos/Presentation/">presentation</a>.</blockquote>
+</tr>
+<tr>
+<td>
+<div align="justify">
+The Linux-Mandrake 7.0 PowerPack offers ever greater value. The PowerPack contains a total of 6 CD-ROMS. Disk 1 is our bootable installation disk, Disk 2 contains complete source files of the installation applications, Disk 3 contains Extra applications, Disk 4 provides source files of the Extras CD, Disks 5 & 6 contain commercial applications including the popular and MS Office compatible office suite StarOffice 5.1a. The 7.0 PowerPack also includes a newly written installation guide and user's manual. Completing this package is 100 days of technical support by email.
+<br>&nbsp;
+</div>
+</td>
+<td width=85 align=right valign=top>
+<img src="../images/pwp7-s.png" alt="Linux 7.0 PowerPack" height=100 width=79>
+</td>
+</tr>
+<tr>
+<td colspan=2>
+<p align="justify">&nbsp;
+<u>About Linux-Mandrake:</u><br>
+Linux-Mandrake is the flagship product of MandrakeSoft Inc. Mandrake is one of most complete and easy to use Linux operating systems available for both servers and workstations. Mandrake continues to be fully compatible with Red Hat Linux. MandrakeSoft keeps its technological edge by actively participating in the rapid development of Linux;  improving existing functionalities and contributing new ones. Linux-Mandrake specializes in customizing Linux for the workstation and simplifying the use of Linux for both beginners and advanced users.
+<br>
+Linux-Mandrake was awarded "Best Linux Product of the Year" and "Best Linux Distribution/Server" at LinuxWorld Expo '99. 
+<p align=justify>
+<u>About MandrakeSoft and The Open Development Model force.</u><br>
+Born of the Internet, with offices in both USA and France, MandrakeSoft attributes the development of its Linux distribution to the contributions of thousands of developers throughout the world linked by the Internet. This world-wide effort is constantly adopted and improved by MandrakeSoft's own technical teams to provide one of the most complete and simple graphical Linux operating system available.
+<br>
+The company has signed a strategic partnership agreement with the US publisher MacMillan, and a distribution agreement with Kasper. In the months of July and August 1999, the Linux-Mandrake/MacMillan Edition achieved #1 retail sales in the US by claiming over 50% of all Linux OS purchases.
+<p align=justify>
+<u>To learn more about Mandrake 7.0</u><br>
+please see our <a href="/Demos/demo/index.php3">Demo and Tutorial Section</a> for demonstrations of the new
+graphical installer and some of the new features.<p>
+For details of the software contained in the PowerPack,
+please read this <a href="airpack.php3">description page</a> for full listings of the applications included
+in the package. </p><br>&nbsp;
+
+</td>
+</tr>
+</table>
+
+<p>
+<? include("end1.php3"); ?>

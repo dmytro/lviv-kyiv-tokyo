@@ -1,0 +1,39 @@
+<table border=0 width=100%>
+<tr>
+<td <? include("styles/bg-orange2.php3"); ?> >
+<font color=white face="helvetica">
+<b>WELCOME TO WWW.LINUX-MANDRAKE.COM</b>
+</font>
+</td>
+</tr>
+<tr>
+<td <? include("styles/bg-grey1.php3"); ?>> 
+<font size=-1 face="helvetica">
+<img src="../images/mkhat2-www.gif" width=160 height=160 align=right>
+<b>Linux-Mandrake<font size=-1><sup>TM</sup></font></b> is a new Linux Distribution which provides ease of use for both home and office, and solidity. Mandrake is the friendly Linux Operating System. It is freely available in many languages, all over the world.
+<blockquote>
+<p>
+</font>
+<b>Mandrake is Linux for your desktop!</b>
+<p>
+<center>
+<table border=0 cellpadding=3>
+<tr>
+<td align=center valign=center>
+<a href="http://www.wpi.com/linuxworld/lw-ec-winners.html"><img src="/images/lwec.gif" border=0 alt="LinuxWorld Editors' Choice Awards" width=152 height=50></a>
+</td>
+<td align=center valign=center>
+<b>
+<font size=-1>
+LinuxWorld<br> 
+Editors' Choice Awards<br>
+Mandrake 6.0: <a href="http://www.wpi.com/linuxworld/lw-ec-winners.html">Best product of the Year'99</a></b>
+</font>
+</td>
+</tr>
+</table>
+</center>
+</blockquote>
+</td>
+</tr>
+</table>

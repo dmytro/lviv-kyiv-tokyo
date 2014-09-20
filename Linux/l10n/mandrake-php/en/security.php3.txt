@@ -1,0 +1,37 @@
+<? include("begin1.php3"); ?>
+Linux-Mandrake Security
+<? include("begin2.php3"); ?>
+Linux-Mandrake Security
+<? include("begin3.php3"); ?>
+
+Security holes are fixed as soon as possible when they are discovered. Most of the new packages can easily be upgraded just by running ``MandrakeUpdate'' regularly. 
+<p>
+However, you can be informed for each security fix by subscribing to our security mailling-list: just type your email adress in in the form below to subscribe.
+<FORM METHOD="POST" ACTION="http://www.linux-mandrake.com/cgi-bin/listel.pl">
+
+<input type="Hidden" name="langue" value="en">
+<BR>
+<input type="Hidden" name="public" value="se">
+<input type="Hidden" name="bot" value="sympa">
+ E-mail:
+<INPUT  TYPE="text" NAME="email" SIZE=25 MAXLENGTH=50>
+
+<BR>
+<font size=-1>
+subscribe<input type="Radio" name="action" value="subscribe" checked>
+unsubscribe</font><input type="Radio" name="action" value="unsubscribe">
+&nbsp;&nbsp;Please, while unsubscribing use the same adress you used to subscribe
+<BR>
+<INPUT TYPE="submit" VALUE="Submit">
+<INPUT TYPE="reset" VALUE="Reset">
+<BR>
+</FORM>
+<P>
+You can also subscribe by sending an email to <b>sympa@linux-mandrake.com</b> with "SUB security" without the quotes in the <b>body</b> of the message.
+<hr>
+<font size=1>
+<!-- Created: Fri Sep  3 11:42:31 CEST 1999 -->
+<!-- hhmts start -->
+Last modified: Mon Jan  3 17:46:04 CET 2000
+<!-- hhmts end -->
+<? include("end1.php3"); ?>

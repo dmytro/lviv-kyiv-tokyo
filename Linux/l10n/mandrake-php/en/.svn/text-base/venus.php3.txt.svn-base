@@ -1,0 +1,32 @@
+<? include("begin1.php3"); ?>
+Linux Mandrake 6.0 (Venus)
+<? include("begin2.php3"); ?>
+Linux Mandrake 6.0 (Venus)
+<? include("begin3.php3"); ?>
+<font size=+1>MandrakeSoft is very pleased to present...</font>
+<p>
+<br><br>
+<center>
+<table border=0>
+<tr>
+<td valign=top>
+<a href="venus2.php3">
+<img src=../images/venus.jpg width=40 height=44 border=0 alt="venus"></a>
+</td>
+<td valign=bottom>
+<a href="venus2.php3">
+<img src=../images/lxmdk6.0.jpg width=263 height=115 border=0 alt="mandrake 6.0"></a>
+</td></tr>
+</table>
+<p align=center>
+<br>
+<br>
+<a href="venus2.php3"><b>...enter a new Linux world...</b></a>
+<p><br><br>
+
+    <hr><font size=1>
+<!-- Created: Wed May 26 17:32:39 CEST 1999 -->
+<!-- hhmts start -->
+Last modified: Wed May 26 19:09:10 CEST 1999
+<!-- hhmts end -->
+<? include("end1.php3"); ?>

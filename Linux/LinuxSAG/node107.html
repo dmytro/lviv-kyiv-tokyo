@@ -1,0 +1,172 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<!--Converted with LaTeX2HTML 98.1 release (February 19th, 1998)
+originally by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Створення повних коп╕й з tar</TITLE>
+<META NAME="description" CONTENT="Створення повних коп╕й з tar">
+<META NAME="keywords" CONTENT="linux,ukrainian,guide,sag">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<LINK REL="STYLESHEET" HREF="sag.css">
+<LINK REL="next" HREF="node108.html">
+<LINK REL="previous" HREF="node106.html">
+<LINK REL="up" HREF="node106.html">
+<LINK REL="next" HREF="node108.html">
+</HEAD>
+<BODY BGCOLOR=#FFFFFF>
+<!--Navigation Panel-->
+<A NAME="tex2html1822"
+ HREF="node108.html">
+<IMG WIDTH="37" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="next"
+ SRC="next_motif.gif"></A> 
+<A NAME="tex2html1818"
+ HREF="node106.html">
+<IMG WIDTH="26" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="up"
+ SRC="up_motif.gif"></A> 
+<A NAME="tex2html1812"
+ HREF="node106.html">
+<IMG WIDTH="63" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="previous"
+ SRC="previous_motif.gif"></A> 
+<A NAME="tex2html1820"
+ HREF="node7.html">
+<IMG WIDTH="65" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="contents"
+ SRC="contents_motif.gif"></A> 
+<A NAME="tex2html1821"
+ HREF="node120.html">
+<IMG WIDTH="43" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="index"
+ SRC="index_motif.gif"></A> 
+<BR>
+<B> Дал╕:</B> <A NAME="tex2html1823"
+ HREF="node108.html">В╕дновлення файл╕в за допомогою</A>
+<B> Вгору:</B> <A NAME="tex2html1819"
+ HREF="node106.html">Просте резервування</A>
+<B> Назад:</B> <A NAME="tex2html1813"
+ HREF="node106.html">Просте резервування</A>
+<BR>
+<BR>
+<!--End of Navigation Panel-->
+
+<H2><A NAME="SECTION001241000000000000000">&#160;</A><A NAME="6988">&#160;</A>
+<BR>
+Створення повних коп╕й з <TT>tar</TT>
+</H2><FONT SIZE="+1"><FONT SIZE="+1"></FONT></FONT>
+<P>
+<FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1">Повна коп╕я може дуже просто бути створена командою <TT>tar</TT><A NAME="6990">&#160;</A>:
+		</FONT></FONT></FONT></FONT><BLOCKQUOTE><FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1">
+<TT>
+# tar -create -file /dev/ftape /usr/src <BR>
+tar: Removing leading / from absolute path names in the archive <BR>
+# 
+		</TT></FONT></FONT></FONT></FONT></BLOCKQUOTE><FONT SIZE="+1"><FONT SIZE="+1"></FONT></FONT>
+<P>
+<FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1">Зразок команди поданий тут використову╓ GNU верс╕ю <TT>tar</TT><A NAME="6992">&#160;</A> ╕
+	прийнят╕ для ц╕╓╖ верс╕╖ довг╕ командн╕ опц╕╖. Традиц╕йн╕
+	верс╕╖ <TT>tar</TT><A NAME="6994">&#160;</A> розум╕ють т╕льки опц╕╖, що складаються з
+	одн╕╓╖ л╕тери. Верс╕я GNU також може створювати коп╕╖, що не
+	пом╕щаються на одну стр╕чку чи дискету, та так╕, як╕ мають
+	файли з дуже довгими маршрутами. Не вс╕ традиц╕йн╕
+	верс╕╖ вм╕ють це робити. Л╕накс користу╓ться т╕льки GNU
+	верс╕╓ю <TT>tar</TT><A NAME="6996">&#160;</A>.
+</FONT></FONT></FONT></FONT>
+<P>
+<FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1">Якщо Ваша коп╕я не пом╕ща╓ться на одну стр╕чку, треба
+	користуватися опц╕╓ю для створення багатотомних арх╕в╕в
+	<TT>-multi-volume</TT> (<TT>-M</TT>):
+		</FONT></FONT></FONT></FONT><BLOCKQUOTE><FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1">
+<TT>
+# tar -cMf /dev/fd0H1440 /usr/src <BR>
+tar: Removing leading / from absolute path names in the archive <BR>
+Prepare volume #2 for /dev/fd0H1440 and hit return:  <BR>
+# 
+		</TT></FONT></FONT></FONT></FONT></BLOCKQUOTE><FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1">
+	В╕дм╕тьте, що Ви ма╓те в╕дформатувати дискети перш, н╕ж робити
+	коп╕ювання, або ж ╕накше скористуватися ╕ншим в╕кном чи
+	в╕ртуальним терм╕налом для форматування, коли <TT>tar</TT><A NAME="6998">&#160;</A>
+	запита╓ про наступну дискету.
+	
+	П╕сля того, як Ви зак╕нчили робити коп╕ювання перев╕рте
+	правильн╕сть зроблено╖ коп╕╖, користуючись опц╕╓ю
+	<TT>-commpare</TT> (<TT>-d</TT>):
+		</FONT></FONT></FONT></FONT><BLOCKQUOTE><FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1">
+<TT>
+# tar -compare -verbose -f /dev/ftape <BR>
+usr/src/ <BR>
+usr/src/linux <BR>
+usr/src/linux-1.2.10-includes/ <BR>
+.... <BR>
+#
+		</TT></FONT></FONT></FONT></FONT></BLOCKQUOTE><FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1">
+	Якщо Ви не перев╕рите зроблену коп╕ю, то можливо Ви не
+	знатимете, що Ваша коп╕я не працю╓ аж до того часу, поки Ви не
+	втратите важлив╕ дан╕. 
+</FONT></FONT></FONT></FONT>
+<P>
+<FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1">Доповнююч╕ коп╕╖ можна створювати за допомогою <TT>tar</TT><A NAME="7000">&#160;</A> та
+	опц╕╖ <TT>-newer</TT> (<TT>-N</TT>):
+		</FONT></FONT></FONT></FONT><BLOCKQUOTE><FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1">
+<TT>
+# tar -create -newer '8 Sep 1995' -file /dev/ftape /usr/src -verbose <BR>
+tar: Removing leading / from absolute path names in the archive <BR>
+usr/src/ <BR>
+usr/src/linux-1.2.10-includes/ <BR>
+usr/src/linux-1.2.10-includes/include/ <BR>
+usr/src/linux-1.2.10-includes/include/linux/ <BR>
+usr/src/linux-1.2.10-includes/include/linux/modules/ <BR>
+usr/src/linux-1.2.10-includes/include/asm-generic/ <BR>
+usr/src/linux-1.2.10-includes/include/asm-i386/ <BR>
+usr/src/linux-1.2.10-includes/include/asm-mips/ <BR>
+usr/src/linux-1.2.10-includes/include/asm-alpha/ <BR>
+usr/src/linux-1.2.10-includes/include/asm-m68k/ <BR>
+usr/src/linux-1.2.10-includes/include/asm-sparc/ <BR>
+usr/src/patch-1.2.11.gz <BR>
+# 
+		</TT></FONT></FONT></FONT></FONT></BLOCKQUOTE><FONT SIZE="+1"><FONT SIZE="+1"></FONT></FONT>
+<P>
+<FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1">На жаль <TT>tar</TT><A NAME="7002">&#160;</A> не може визначити, коли ╕нформац╕я, що
+	м╕ститься в inode зм╕нилася, наприклад, коли б╕ти дозвол╕в на
+	файл зм╕нилися, або, нав╕ть, якщо назва файлу зм╕нилася. Ц╕
+	проблеми можна об╕йти, якщо скористуватися командою <TT>find</TT><A NAME="7004">&#160;</A>
+	та пор╕вняти поточну файлову систему ╕з списком заарх╕вованих
+	файл╕в. Деяк╕ програми та скрипти для Л╕накса, як╕ вм╕ють це
+	робити можна знайти на р╕зних ftp серверах.
+	
+</FONT></FONT></FONT></FONT><HR>
+<!--Navigation Panel-->
+<A NAME="tex2html1822"
+ HREF="node108.html">
+<IMG WIDTH="37" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="next"
+ SRC="next_motif.gif"></A> 
+<A NAME="tex2html1818"
+ HREF="node106.html">
+<IMG WIDTH="26" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="up"
+ SRC="up_motif.gif"></A> 
+<A NAME="tex2html1812"
+ HREF="node106.html">
+<IMG WIDTH="63" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="previous"
+ SRC="previous_motif.gif"></A> 
+<A NAME="tex2html1820"
+ HREF="node7.html">
+<IMG WIDTH="65" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="contents"
+ SRC="contents_motif.gif"></A> 
+<A NAME="tex2html1821"
+ HREF="node120.html">
+<IMG WIDTH="43" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="index"
+ SRC="index_motif.gif"></A> 
+<BR>
+<B> Дал╕:</B> <A NAME="tex2html1823"
+ HREF="node108.html">В╕дновлення файл╕в за допомогою</A>
+<B> Вгору:</B> <A NAME="tex2html1819"
+ HREF="node106.html">Просте резервування</A>
+<B> Назад:</B> <A NAME="tex2html1813"
+ HREF="node106.html">Просте резервування</A>
+<!--End of Navigation Panel-->
+<ADDRESS>
+<I>Dmytro Kovalev</I>
+<BR><I>1999-06-10</I>
+</ADDRESS>
+</BODY>
+</HTML>

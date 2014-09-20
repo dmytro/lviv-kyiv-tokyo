@@ -1,0 +1,185 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<!--Converted with LaTeX2HTML 98.1 release (February 19th, 1998)
+originally by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Багатор╕внев╕ коп╕╖</TITLE>
+<META NAME="description" CONTENT="Багатор╕внев╕ коп╕╖">
+<META NAME="keywords" CONTENT="linux,ukrainian,guide,sag">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<LINK REL="STYLESHEET" HREF="sag.css">
+<LINK REL="next" HREF="node110.html">
+<LINK REL="previous" HREF="node106.html">
+<LINK REL="up" HREF="node102.html">
+<LINK REL="next" HREF="node110.html">
+</HEAD>
+<BODY BGCOLOR=#FFFFFF>
+<!--Navigation Panel-->
+<A NAME="tex2html1844"
+ HREF="node110.html">
+<IMG WIDTH="37" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="next"
+ SRC="next_motif.gif"></A> 
+<A NAME="tex2html1840"
+ HREF="node102.html">
+<IMG WIDTH="26" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="up"
+ SRC="up_motif.gif"></A> 
+<A NAME="tex2html1834"
+ HREF="node108.html">
+<IMG WIDTH="63" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="previous"
+ SRC="previous_motif.gif"></A> 
+<A NAME="tex2html1842"
+ HREF="node7.html">
+<IMG WIDTH="65" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="contents"
+ SRC="contents_motif.gif"></A> 
+<A NAME="tex2html1843"
+ HREF="node120.html">
+<IMG WIDTH="43" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="index"
+ SRC="index_motif.gif"></A> 
+<BR>
+<B> Дал╕:</B> <A NAME="tex2html1845"
+ HREF="node110.html">Що арх╕вувати</A>
+<B> Вгору:</B> <A NAME="tex2html1841"
+ HREF="node102.html">Резервн╕ коп╕╖</A>
+<B> Назад:</B> <A NAME="tex2html1835"
+ HREF="node108.html">В╕дновлення файл╕в за допомогою</A>
+<BR>
+<BR>
+<!--End of Navigation Panel-->
+
+<H1><A NAME="SECTION001250000000000000000">
+Багатор╕внев╕ коп╕╖</A>
+</H1><FONT SIZE="+1"><FONT SIZE="+1"></FONT></FONT>
+<P>
+<FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1">Просте резервування описане попередньо достатн╓ в б╕льшост╕
+	випадк╕в для персонального вжитку, або для невеликих
+	центр╕в. Для б╕льш "важкого" застосування необх╕дне вживання
+	багатор╕вневого резервного коп╕ювання. 
+</FONT></FONT></FONT></FONT>
+<P>
+<FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1">Простий метод ма╓ два р╕вн╕ коп╕ювання: повний та
+	доповнюючий. Це поняття можна узагальнити на дов╕льну
+	к╕льк╕сть р╕вн╕в. Повна коп╕я буде носити назву коп╕╖ р╕вня&nbsp;0,
+	доповнююч╕ коп╕╖ називатимуться коп╕ями р╕вн╕в&nbsp;1, 2, 3, ...
+	При кожному доповнюючому коп╕юванн╕, Ви арх╕ву╓те все, що
+	зм╕нилося з часу попередньо╖ коп╕╖ такого-ж або попереднього
+	р╕вня.
+</FONT></FONT></FONT></FONT>
+<P>
+<FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1">Призначення тако╖ системи резервування в тому, що вона
+	дозволя╓ довшу <B>╕стор╕ю резервування <A NAME="tex2html181"
+ HREF="footnode.html#foot7017"><SUP>171</SUP></A></B> дешевими засобами. В попередньому приклад╕ ╕стор╕я
+	резервування йшла назад до часу попереднього повного
+	резервування. ╥╖ (╕стор╕ю) можна подовжити т╕льки за рахунок
+	придбання додаткових стр╕чок, по одн╕й стр╕чц╕ на тиждень, але
+	це може бути занадто дорого. Довша ╕стор╕я коп╕й корисна,
+	оск╕льки з╕псован╕ чи зникл╕ файли не завжди виявляються
+	швидко. Тому, нав╕ть верс╕я файлу, що трохи стар╕ша, н╕ж
+	хот╕лося б, краще, н╕ж н╕якого файлу зовс╕м. 
+</FONT></FONT></FONT></FONT>
+<P>
+<FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1">З багатор╕вневим коп╕юванням ╕стор╕ю резервування можна
+	подовжити дешевшими засобами. Наприклад, якщо купити десять
+	стр╕чок, то можна використовувати стр╕чки&nbsp;1 та&nbsp;2 для
+	щом╕сячних коп╕й (перша п'ятниця кожного м╕сяця), стр╕чки з&nbsp;3
+	по&nbsp;6 для щотижневих коп╕й (╕нш╕ п'ятниц╕; В╕дм╕тьте, що м╕сяць
+	може мати п'ять п'ятниць. Тому нам потр╕бно чотири стр╕чки), а
+	стр╕чки з&nbsp;7 по&nbsp;10 для щоденних коп╕й (з понед╕лка до
+	четверга). Всього з чотирма новими стр╕чками ми, таким чином,
+	змогли подовжити глибину резевних коп╕й в╕д двох тижн╕в (п╕сля
+	того, як вс╕ денн╕ стр╕чки використан╕) до двох
+	м╕сяц╕в. Звичайно, ж ми не зможемо в╕дновити будь-яку верс╕ю
+	будь-якого файлу на протяз╕ цих двох м╕сяц╕в, але те, що можна
+	в╕дновити, часто виявля╓ться достатн╕м.
+</FONT></FONT></FONT></FONT>
+<P>
+<FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1">Рисунок&nbsp;<A HREF="node109.html#fig:backup-history-timeline"><IMG  ALIGN="BOTTOM" BORDER="1" ALT="[*]"
+ SRC="cross_ref_motif.gif"></A> показу╓, який р╕вень
+	резервування використову╓ться кожного дня, ╕ як╕ коп╕╖ можуть
+	бути в╕дновленими в к╕нц╕ м╕сяця. 
+</FONT></FONT></FONT></FONT>
+<P>
+<FONT SIZE="+1"><FONT SIZE="+1"></FONT></FONT>
+<BR>
+<DIV ALIGN="CENTER"><A NAME="fig:backup-history-timeline">&#160;</A><A NAME="6886">&#160;</A>
+<TABLE WIDTH="50%">
+<CAPTION><STRONG>Рисунок:</STRONG>
+Проста багатор╕внема схема резервування.</CAPTION>
+<TR><TD>
+<DIV ALIGN="CENTER">
+
+<!-- MATH: $\includegraphics{backups/backup-timeline.ps}$ -->
+<IMG
+  ALIGN="BOTTOM" BORDER="0"
+ SRC="img13.gif"
+ ALT="\includegraphics{backups/backup-timeline.ps}"></DIV></TD></TR>
+</TABLE>
+</DIV>
+<BR><FONT SIZE="+1"><FONT SIZE="+1"></FONT></FONT>
+<P>
+<FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1">Р╕вн╕ резервування можна також використовувати для зменшення
+	часу в╕дновлення файлово╖ системи до м╕н╕муму. Якщо Ви ма╓те
+	батато доповнюючих коп╕й ╕з стало зростаючими номерами, Вам
+	потр╕бно в╕дновити вс╕ з них, щоб повн╕стю в╕дновити файлову
+	систему. Зам╕сть цього, якщо скористатися номерами р╕вн╕в
+	резервування, як╕ не монотонн╕, можна скоротити к╕льк╕сть
+	коп╕й, як╕ потр╕бн╕ для в╕дновлення вс╕╓╖ файлово╖ системи. 
+</FONT></FONT></FONT></FONT>
+<P>
+<FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1">Щоб зменшити к╕льк╕сть необх╕дних для повного в╕дновлення
+	стр╕чок, треба користуватися меншими номерами для кожного
+	наступного доповнюючого резервування. Однак, в цьому випадку,
+	час для створення кожно╖ тако╖ коп╕╖ зб╕льшу╓ться (кожне
+	резервування коп╕ю╓ все з часу попереднього повного
+	резервування). Стор╕нка п╕дказки до команди <TT>dump</TT><A NAME="7023">&#160;</A> пода╓
+	кращу схему резервування, яка подана в
+	таблиц╕&nbsp;&nbsp;<A HREF="node109.html#tab:efficient-backup-levels"><IMG  ALIGN="BOTTOM" BORDER="1" ALT="[*]"
+ SRC="cross_ref_motif.gif"></A>. Користуйтеся такою
+	посл╕довн╕стю стр╕чок: 3, 2, 5, 4, 7, 6, 9, 8, 9...Така
+	схема утриму╓ час створення коп╕й ╕ в╕дновлення на
+	м╕н╕мум╕. Максимум, що Вам потр╕бно резервувати, це результати
+	дводенно╖ роботи. К╕льк╕сть стр╕чок для в╕дновлення залежить
+	в╕д того, наск╕льки довго часу проходить м╕ж повними
+	коп╕юваннями, але ця к╕льк╕сть менша, н╕ж при використанн╕
+	простих посл╕довнестей. 
+</FONT></FONT></FONT></FONT>
+<P>
+<FONT SIZE="+1"><FONT SIZE="+1"></FONT></FONT>
+<BR>
+<DIV ALIGN="CENTER"><A NAME="tab:efficient-backup-levels">&#160;</A><A NAME="6892">&#160;</A>
+<TABLE WIDTH="50%">
+<CAPTION><STRONG>Рисунок:</STRONG>
+Ефективна схема резервування з використанням багатор╕вневого коп╕ювання</CAPTION>
+<TR><TD><IMG
+ 
+ SRC="img14.gif"
+ ALT="\begin{figure}
+\begin{center}
+\begin{tabular}{r l l l}
+Tape & Level & Backup& Re...
+... & 1, 2, 5, 7, 9, 10, 11, \dots \\
+\hline
+\end{tabular}\end{center}\end{figure}"></TD></TR>
+</TABLE>
+</DIV>
+<BR><FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1">
+			
+	Гарна схема, звичайно ж, може зменшити к╕льк╕сть роботи, але
+	це означа╓, що ╓ багато речей, про як╕ треба пам'ятати. ╤ Ви
+	повинн╕ вир╕шити, чи ця схема варта того. 
+</FONT></FONT></FONT></FONT>
+<P>
+<FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1"><TT>dump</TT><A NAME="7025">&#160;</A> п╕дтриму╓ багатор╕вневе резервування. Для <TT>tar</TT><A NAME="7027">&#160;</A>
+	та <TT>cpio</TT><A NAME="7029">&#160;</A> це треба робити за допомогою скрипт╕в. 
+	
+</FONT></FONT></FONT></FONT>
+<BR><HR>
+<ADDRESS>
+<I>Dmytro Kovalev</I>
+<BR><I>1999-06-10</I>
+</ADDRESS>
+</BODY>
+</HTML>

@@ -1,0 +1,17 @@
+<table width=100% cellspacing=1 cellpadding=1 border=0>
+<tr>
+<td bgcolor="#ffcc00" width=1%>&nbsp;</td><td bgcolor="#666699" ><font color=white face="helvetica" width=99%>
+<b>Your Linux</b>
+</font>
+</td>
+</tr>
+<tr>
+<td <? include("styles/bg-grey1.php3"); ?> colspan=2> 
+<font size=-1 face="helvetica">
+<li> We have won the `Product of the year' and `Distribution/ Server' <a href="http://www.wpi.com/linuxworld/lw-ec-winners.html">LinuxWorld's Expo Awards</a>.<p>
+<li> <a href="http://counter.li.org/machine-form.html">Register</a> your machine at the <a href="http://counter.li.org/">Linux Counter</a>
+<p>
+</font>
+</td>
+</tr>
+</table>

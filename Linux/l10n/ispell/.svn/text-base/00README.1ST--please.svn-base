@@ -1,0 +1,24 @@
+
+
+This is a short description of changes I'ver done to files of Ukrainian ispell.
+
+
+Dictionary files
+--------------------
+All original dictionary files if modified by me are stored with 'dk' extension.
+I.e. base.koi -> base.dk.  Coreected entrires are commented out with star (*) char as 
+a first symbol of the string.
+
+To make ne file for dictionary just do somthing like:
+
+grep -v ^\* FILE.dk > FILE.koi
+
+DO NOT EDIT *.koi file if *dk file is present. It WILL be overwritten
+
+Dmytro Koval'ov <kov@tokyo.email.ne.jp>
+
+Affix file
+----------
+
+Do not edit  ukrainian.aff, edit ukrainian.aff.koi instead. *.aff file is 
+overwriten with 'make'.

@@ -1,0 +1,78 @@
+<? include("begin1.php3"); ?>
+Linux-Mandrake PR - AXA
+<? include("begin2.php3"); ?>
+Linux-Mandrake PR - AXA
+<? include("begin3.php3"); ?>
+
+
+<b>AXA Innovation Fund Takes Equity Position in Rising Linux Start-Up,
+MandrakeSoft</b>
+<p>
+PASADENA, Calif.--(BUSINESS WIRE)--Aug. 24, 1999--MandrakeSoft, publisher of the popular
+Linux-Mandrake operating system, today announced that the Investment Fund of AXA, AXA Placement
+Innovation, took an equity position in the company to fuel its aggressive growth. 
+<p>
+AXA Placement Innovation specializes in financing promising high tech companies. 
+<p>
+"We believe that MandrakeSoft is poised to be a dominant player in the emerging but potentially huge Linux
+market," said Peter Bieliczky from AXA Investment Managers Group. "MandrakeSoft has evolved very
+quickly since its inception a few months ago and we are strong believers in the Linux-Mandrake strategy
+and team." 
+<p>
+"We feel pretty excited about this investment that means a recognition of our strategy by a world class
+investor, and will help us keeping our pace of expansion," said Jacques Le Marois, president,
+MandrakeSoft. "We now have the fuel to finance even more open-source projects and consolidate our
+position as one of the major Linux distribution players." 
+<p>
+<b>About Linux-Mandrake</b>
+<p>
+Linux-Mandrake is a user friendly Linux operating system that can be used at home or in the office.
+Linux-Mandrake won two awards at LinuxWorld Expo in August 99 for Best Product of the Year and Best
+Linux Distribution/Server, and was a finalist for the Linux Distribution/Client Award. 
+<p>
+Linux-Mandrake 6.0 features the "Mandrake touch," MandrakeSoft's signature graphical interfaces that give
+users selected desktop icons including easy CD-Rom and floppy disk access and easy Internet upgrades
+using the "Mandrake Update" icon. It also features Pentium optimization with performance enhancement from
+5 to 30%, scalable font support and KDE/Gnome. LinuxMall, the largest online reseller of Linux products,
+reports that Linux-Mandrake was its best selling product in July. 
+<p>
+<b>About AXA</b>
+<p>
+With assets under management valued at nearly US$ 655 billion and earnings of US$ 1.7 billion in 1998,
+AXA is one of the world's leading insurers and asset managers. 
+<p>
+<b>About MandrakeSoft</b>
+<p>
+Founded in 1998 on the Internet, MandrakeSoft publishes the user friendly and popular open-source
+Linux-Mandrake operating system, which is compatible with the leading Red Hat Linux(TM) distribution.
+MandrakeSoft is headquartered in both Europe (France), and the U.S., with offices in Germany. MandrakeSoft
+signed a strategic partnership with MacMillan, and today, Linux-Mandrake counts thousands of contributors
+around the world. 
+<p>
+MandrakeSoft is the originator of several other innovative Open Source cooperative projects that focus on
+ease of use, including Lothar, an automatic hardware configuration, Linux4Windows, which allows users to
+install and use Linux directly on top of a Windows directory, and the DiskDrake hard-drive partitioning tool.
+For more information on Linux-Mandrake and additional products, please visit us at
+<a href="http://www.linux-mandrake.com">http://www.linux-mandrake.com</a>. 
+<p>
+Note to Editors: Linux is a registered trademark of Linus Torvalds. Mandrake and Linux-Mandrake are
+registered trademarks of MandrakeSoft. All other trademarks and copyrights are owned by their respective
+companies. 
+
+<p>
+<b>              CONTACT: MandrakeSoft <br>
+              Daniel Morales, 626-797-7337 <br>
+              daniel@mandrakesoft.com <br>
+              or <br>
+              Alize Public Relations <br>
+              Caroline Carmagnol, 650/323-1607 <br>
+              caroline@alizepr.com <br>
+</b>
+<p>
+<hr>
+<font size=1>
+<!-- Created: Mon Aug 23 07:31:16 EDT 1998 -->
+<!-- hhmts start -->
+Last modified: Tue Aug 24 18:40:46 CEST 1999
+<!-- hhmts end -->
+<? include("end1.php3"); ?>

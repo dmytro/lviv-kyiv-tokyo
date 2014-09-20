@@ -1,0 +1,578 @@
+<? include("begin1.php3"); ?>
+Linux Mandrake PowerPack Edition
+<? include("begin2.php3"); ?>
+Linux Mandrake PowerPack Edition
+<? include("begin3.php3"); ?>
+<p><br>
+<center><a href="http://www.linux-mandrake.com/"><img src="../images/pp.jpg" border="0"></a></center>
+<p>
+<b>Linux-Mandrake Power Pack 6.0 Demo and Commercial Applications details:<p></b>
+
+<pre>
+
+<li><b>IBM Lotus eSuite DevPack</b>
+
+The eSuite DevPack is a set of Java-based components that can be used as modular
+building blocks to quickly and easily create interactive and dynamic Web
+applications that are accessible via standard Web browsers. The DevPack includes
+the following components; calculating grid, rich text processor, chart library,
+screen show and data access utilities like SQL/JDBC, and CGI gateway; plus
+sample applications, utilities, and developer documentation.
+
+New features in eSuite DevPack 2.0, combined with enhanced Java and JavaScript
+support in Domino R5, provide numerous benefits including the ability to create
+dual-client solutions for browsers and Notes clients, and greater productivity
+through improved documentation and additional data access components. eSuite
+DevPack 2.0 offers excellent integration with popular Java development
+environments, such as IBM's VisualAge for Java and NetObjects Fusion.
+
+http://notes.net/linux
+
+<li><b>CMeister</b>
+
+CMeisterTM is a platform and compiler independent IDE(Integrated Development
+Environment) for
+developing C language applications
+
+  * CMeister is developed by Java language.
+    It is quite simple to port CMeister on diverse development platforms.
+  * CMeister is based on the compiler independent architecture.          
+    It provides handy way to replace compiler dependent modules.
+  * CMeister is complete and easy to use.                       
+    It supports base IDE featues such as source editing, building, version
+        control, debugging, profiling, coverage testing, etc.
+  * CMeister provides comprehensive GUI environments.
+    It supports advanced features such as Workplace/Project management functions
+        for the integrated development.
+    For embedded application developers, it supports multi-targeted and cross platform
+development.
+
+http://www.cmeister.com/
+
+<li><b>BFRIS</b>
+
+                                       Zero Gravity Fighter Combat
+      ...Within seconds of activation, thousands of warships begin pouring out of the
+alien matter
+   transport gate, immediately attacking everything in sight. The construction
+facilities and colonies
+    on Jupiter's moons are all but destroyed; mining facilites in the Oort cloud are
+left a shambles,
+                              and the alien warships advance towards Earth.
+                                     It is humanity's darkest hour.
+    That was nearly a century ago; we are in our 83rd year of war with the alien
+invaders. Many among
+    our people have given up hope, saying that one person can not make a difference;
+our way of life
+                             relies upon that one person who does not agree.
+
+* Fly six unique combat fighters and battle with plasma cannons and ten
+different powerups in a maze of interconnected battle arenas
+* Physics engine includes velocity, acceleration, momentum, and inertial effects
+along six degrees of freedom
+* Powerups include shields, avionics upgrades, jamming systems, camouflage, and
+serious firepower augmentation
+* Amazing quality OpenGL-based graphics featuring support for video cards with
+chipsets made by 3Dfx, Rendition, NVIDIA, 3Dlabs, Intel, and ATI
+* Hardware-accelerated 3-D sound support for Microsoft Windows and cards with
+compliant DirectSound3D drivers
+* Force feedback effects on supported joysticks for extra realism
+* Local-area and TCP/IP internet network support
+* Advanced predictive dynamics support up to 64 simultaneous players
+* Ships with binaries for Linux, Microsoft Windows 95, Windows 98, and Windows NT
+
+http://www.aegistech.com/bfris-b.html
+
+<li><b>ChemApp</b>
+
+ChemApp is GTT-Technologies' programmer's library for the calculation of
+multicomponent, multiphase chemical equilibria and their associated energy
+balances. With the release of ChemApp light we would like to give interested
+programmers the chance to get to know ChemApp at zero risk.
+
+http://gttserv.lth.rwth-aachen.de/~sp/tt/chemapp/calight/calight.htm
+
+<li><b>Hopkins FBI</b>
+
+HOPKINS FBI is a well produced interactive fiction. Having a great story line it
+gives to the player, who leads an investigation as Special Agent HOPKINS, the
+excitement of a thriller. Suspense, fear, humour (sometimes morbid humour) are
+omnipresent. Versions Windows 95/98, Linux, OS/2, BeOS
+
+Hand Drawn animation
+Drawn by cartoon specialists according to the rule book they were scanned and
+meticulously retouched frame by frame to produce high-quality scenes. A very
+special care was taken to realise the game's introduction and final scenes.
+(Real size of this animation: 640 * 400 pixels)
+
+Highly detailed, with very studied camera movements, extremely realistic 3D
+scenes leading the player by the airs as under the seas give him incomparable
+sensations. Fluid full screen SVGA 3D scenes were realised without any
+perceptible quality loss by the use of an unique compression algorithm.
+
+Hand draw image
+Retouched and colorized image First hand drawn by a famous strip cartoonist,
+Thierry Ségur, they were scanned then retouched and coloured on computer by an
+international graphist team. They give to the player an uninterrupted pleasure
+of discovery, leading him from HOPKINS's apartment to a secret submarine base,
+going through such different places as the FBI headquarters, the very exotic and
+mysterious Condor Island, an hidden universe where the dead can talk, and so
+on...
+
+http://www.hopkinsfbi.com/
+
+<li><b>InterBase</b>
+
+InterBase is a SQL-compliant, relational database management software product
+from InterBase Software Corporation. InterBase combines sophisticated database
+technology with unparalleled ease of use. This free version is fully functional,
+and certified for Red Hat Linux 4.2. In a client/server configuration, InterBase
+for Linux is compatible with the commercial versions of InterBase on other
+platforms.
+
+http://www.interbase.com/
+
+<li><b>Dharma ODBC SDK</b>
+        
+The Dharma ODBC SDKTM gives you a competitive edge by providing an easy to
+implement, high performance data access solution that is easy for your customers
+to use. Our SDK solution is designed for application developers who need
+immediate results, but have limited resources.
+
+http://www.products.dharma.com/odbcsdk/
+
+<li><b>JavaORB</b>
+
+JavaORB is a CORBA implementation developped in Java. 
+It provides mapping for CORBA 2.2 and coming soon 2.3.
+
+http://www.multimania.com/dogweb
+
+<li><b>OCR Shop</b>
+
+The Only UNIX Optical Character Recognition Software with the Award-Winning
+Caere OmniPage ® Engine
+
+OCR Shop was developed around the award-winning OmniPage engine from Caere
+Corporation under an exclusive licensing deal. OCR Shop delivers the OmniPage
+power previously only available to Macintosh and PC users. Designed with
+Vividata image processing technology, OCR Shop is the most accurate, most
+powerful OCR software package on the market today.
+
+OCR Shop converts paper documents and images into editable formats for use with
+virtually all applications. (The version for Linux only outputs as ACSII text.)
+With unprecedented accuracy and speed, OCR Shop will recognize text in 14
+languages, including French, German, Spanish, and Portuguese. The English
+language is supported in a number of variations: United Kingdom, United States,
+medical and legal.
+
+http://www.vividata.com
+
+<li><b>CodeWizard: CodeWizard for C++ Edition</b>
+
+CodeWizard uses the magic of Source Code Analysis technology to improve and
+standardize your code- automatically!
+
+CodeWizard automatically enforces C++ coding standards so you can produce clean,
+robust code quickly and easily.
+
+http://www.parasoft.com/products/wizard/cplus/
+
+<li><b>Insure++: Insure++ Edition</b>
+
+Insure++ is the most thorough C/C++ runtime error detection tool available.
+
+Insure++ uses patented Source Code Instrumentation and Mutation Testing
+technologies to expose an unprecedented number of bugs-- automatically!
+
+Insure++ automatically locates bugs in your source code and gives you the exact
+information you need to fix them.
+
+http://www.parasoft.com/products/insure/
+
+<li><b>UConvert: POSC Universal Units Converter</b>
+
+It is a units conversion program that easily and quickly shows
+equivalencies for everything from common units such as feet in a
+mile to obscure units such as therms in a joule.
+
+A calculator function is included with the converter to allow
+easy conversion from any number of units to the equivalent
+number of "other" units.
+
+Units are indexed by categories.  This lets you find all the
+valid units for a specific category.  For example, for the
+category "frequency," you can easily see the valid units are
+cycles/second, Hertz, radians/second and revolutions/minute.
+(The converter then lets you convert any of these units to any
+of the other units.)
+
+The POSC Universal Units Converter is based on POSC standard
+reference data for units conversion.  It comes preloaded with
+the current units reference data as defined in the POSC
+Specifications V2.2.2.  Using a menu option of the program, a
+user connected to the Internet may request the latest available
+reference data to be downloaded from the POSC web site at any
+time.
+
+http://www.posc.org
+
+<li><b>UltraseekServer: A Search Engine for Intranets and Web Sites</b>
+
+Ultraseek Server combines the power of Infoseek's award-winning search and
+spidering technology for your own Web. Whether it's a single public system, a
+huge corporate intranet, or anything in between, our hands-off approach to
+administration will get you up and running immediately. From the user's
+perspective, natural language queries that yield the most relevant results and
+an index that is always complete and up-to-date make Ultraseek a real favorite.
+
+http://software.infoseek.com/products/ultraseek/ultratop.htm
+
+<li><b>Ac3d: 3D object/scene modeller</b>
+
+Features
+     Multi platform program - AC3D file format compatible across platforms
+     Easy to use intuitive interface.
+     4 views - 3 orthographic and one 3D at once or individual views.
+     Named objects can be searched for within a scene
+     Navigate/Zoom around the 2d views with cursor keys and other single key presses
+     Hierarchical view window
+     Hide/unhide objects for easier/faster editing of complicated scenes
+     Built-in fast OpenGL 3D renderer with adjustable field-of-view - instantly
+        see results of your actions in 3D. Spin
+     the model or switch into 'walk mode' for doom-style control.
+     Headlight and up to 7 other positionable lights
+     24-bit colour palette with adjustable diffuse; ambient; emissive; specular;
+        shininess and transparency
+     Texture mapping support with real-time rendering.
+     Adjustable 2D and 3D grid guide lines with grid-snap function
+     Edit at different granularity - groups, objects, vertices
+     Full polygon editing. Not just sphere's, cubes etc - make a sphere and move
+        the points (vertices) to deform the shape.
+     Manipulate individual surfaces:
+         insert/remove vertices
+         make holes
+         spike
+         spline
+         bevel
+         triangulate
+         flip
+         group into new objects
+     Create new surfaces/objects around any selection (Convex hull)
+     Configurable to use external renderers such as Povray and BMRT - just
+        select Tools->Render to start.
+     Attach URLs to obejcts for use in VRML files
+     Attach string data to objects to be used as scripting in Dive or special
+        directives for POV or renderman
+     Supports many output/input formats including:
+         3D-studio
+         Lightwave
+         Alias triangle
+         DXF
+         VRML1 and 2
+         Povray
+         RIB
+     Extrude and revolve 2D lines to make 3D shapes.
+     scale a selection to a specific size
+     flip a selection (mirror) about X, Y or Z axis
+     Optimize duplicate vertices and surfaces
+     Simple documented file formats allow easy conversion from other forms of
+        data - ideal for visualizing your own data in 3D.
+     Plugin interface (registered versions only) with source code for existing
+        plugins and a software development kit.
+
+http://www.comp.lancs.ac.uk/computing/users/andy/ac3d.html
+
+<li><b>Avp: AntiViral Toolkit Pro</b>
+
+state-of-the-art computer anti-virus application suite. Offering innovative
+features and swift update services you're not left alone when it comes to deal
+with today's computer virus problem.
+
+http://www.avp.ch/
+
+<li><b>Blackdown JDK: Java Development Kit for Linux.</b>
+
+The Blackdown JDK is one of the ports of Sun's Java Developer's Toolkit to Linux. The JDK includes the basic tools needed for developing and running Java
+applications, including (among other things) the following: 
+
+     A Java Virtual Machine, or JVM. The virtual machine interprets and executes Java byte codes (a more condensed, intermediate form for Java instructions) inside
+     a software-only machine. In other words, the JVM emulates a hardware platform, including registers, program counter, and so forth. 
+     A Java compiler, which takes a text file containing Java syntax and transforms it into Java byte codes. 
+     An appletviewer for executing Java applet code. 
+     A Java debugger. 
+     Example Java programs. 
+     The Java 1.1 class library, including platform-independent library source. 
+     A tool for creating and managing Java security keys. 
+     A remote method stub and skeleton generator. 
+     A registry server for remote method invocations. 
+     C and C++ headers for extending the JVM with interfaces to native code. 
+     Native libraries for the platform-dependent portions of the JVM, including AWT layer above Motif and X11. 
+     Native libraries for embedding a JVM in other native applications. 
+
+http://www.blackdown.org/
+
+<li><b>Code_crusader: Code Crusader is a UNIX development environment for X Windows.</b>
+
+Code Crusader is a UNIX development environment for X Windows. It is slowly
+evolving into a complete IDE, inspired by MetroWerks Code Warrior.
+
+http://www.cco.caltech.edu/~jafl/jcc/
+
+<li><b>Dbmaker: An RDBMS with many advanced features and multimedia support.</b>
+
+DBMaker is a standard SQL RDBMS that handles multimedia, as well as traditional
+data types. DBMaker supports BLOBs, File Objects, and pattern matching to
+facilitate the handling of images, movies, music or other file types. A unique
+open architecture allows DBMaker to manage data across different platforms,
+while robust crash recovery, multiple backup, and restoration options keep data
+safe. DBMaker's graphical management tools, cross-platform support and TCP/IP
+based architecture make it well suited for Internet/Intranet, client/server, as
+well as single-user based applications.
+
+http://www.casemaker.com/products/dbmaker.htm
+
+<li><b>Kisdn-pro</b>
+
+kISDN is an ISDN monitoring and configuring tool that allows observation of
+the traffic on 2 channels and configuration of the ISDN interfaces ipppx
+in a convenient way (frontend to the isdn4linux package), containing
+a provider database for easy account setup and an ISDN telephone with
+several features.
+
+http://www.millenniumx.de/
+
+<li><b>nftp: Interactive FTP client</b>
+
+nftp is an FTP client, i.e. software for transferring files to and from remote
+network computers by means of FTP protocol. Its main distinctive features are
+remote directory contents caching, batch progress indicator, marking files in
+different directories, showing file descriptions from 00index.txt etc. files,
+reconnect-on-demand, user interface in 15 languages: Brazilian Portuguese,
+Bulgarian, Chinese#, Danish, Dutch, English, French, German, Hungarian,
+Italian, Japanese#, Norwegian, Russian, Spanish, Swedish (# -- not available
+yet under Unix).
+
+http://www.ayukov.com/nftp/index.html
+
+<li><b>Quake2: Quake2 for Linux</b>
+
+Shortly after landing on an alien surface you learn that hundreds of your men
+have been reduced to just a few.  Now you must fight your way through heavily
+fortified military installations, lower the city's defenses and shut down
+the enemy's war machine.  Only then will the fate of humanity be known.
+
+LARGER, MISSION-BASED LEVELS
+
+You have a series of complex missions, what you do in one level could affect
+another.  One false move and you could alert security, flood an entire
+passageway, or worse.
+
+SUPERIOR ARTIFICIAL INTELLIGENCE
+
+This time the enemy has IQs the size of their appetites.  The can evade your
+attack, strategically position themselves for an ambush and hunt your ass
+down.
+
+IN-YOUR-FACE SOUND AND GRAPHICS
+
+hear distant combat explosions and rockets whizzing past your head.  And with
+a compatible 3-D graphics accelerator, experience smoother 16-bit graphics and
+real-time lighting effects.
+
+WICKED MULTIPLAYER CAPABILITIES
+
+More than 32 players, friends or foes, can do at it in a bloody deathmatch via
+LAN and over the internet.
+
+http://www.idsoftware.com/
+
+<li><b>Regulus: Regulus RealTime monitoring/accounting integrated package for ISP</b>
+
+Regulus is a Real-Time accounting software. Its purpose is
+to help ISP to regain control over lines usages. Now ISP
+using Regulus can be sur they get paid for the service
+they provide to their customers.
+
+A Regulus is working Real-Time, lines contention and
+Regulus smart products definition can be used to ease
+access during the pick hour and have the lines used
+evenly during the rest of the day.
+
+To request a free Regulus license (up to 9 monitored lines)
+access http://www.regulus.safe.ca
+
+http://www.regulus.safe.ca/index.html
+
+<li><b>StarDivision StarOffice 5.1: complete Office Suite</b>
+
+StarOffice is a complete Office Suite for Linux.
+
+StarOffice 5.1 Highlights:
+
+  *  With the new StarOffice Explorer you'll have a larger overview, which provides an easier and
+     quicker access to your files.
+
+  *  A new dimension of the intuitive work through visual prompting, continous AutoFunctions, etc.
+
+  *  With the most updated technology, surf the Internet by connecting to external Browsers.
+
+  *  Supreme document exchange with MS Office users through outstanding filters.
+
+  *  New and more efficient AutoPilot for professional documents.
+
+  *  Creative freedom through easy conversion from Bitmaps to vector graphics or to 3D objects.
+
+  *  New effective 3D diagrams and descriptive share charts.
+
+  *  Perfect interaction from StarOffice and operating system, for example, by using StarOffice as
+     default application for mails and News.
+
+  *  Security for your personal mails with PGP support.
+
+  *  Individual configuration in a matter of seconds.
+
+  *  Plan and coordinate events and tasks over the Internet.
+
+http://www.stardivision.com/
+
+<li><b>Wingz: X-windows Graphical Spreadsheet</b>
+
+X-windows Graphical Spreadsheet
+
+http://www.newweb.iisc.co.uk/wingz/
+
+<li><b>Sniff: SNiFF+ Integrated Cross-Platform Development Environment</b>
+
+SNiFF+ is an open, extensible and scalable cross-platform programming
+environment for C, C++, FORTRAN, JavaTM, CORBA IDL and other languages. The main
+goal in developing SNiFF+ was to create an efficient and portable environment
+with a comfortable user interface. SNiFF+ is tailored for large multi-developers
+projects.
+
+SNiFF+ doesn't come with a preinstalled license key any longer. 
+
+http://www.takefive.co.at/
+
+<li><b>Visual SlickEdit</b>
+
+Visual SlickEdit, the award-winning editor from MicroEdge, Inc. increases
+development productivity, and improves software quality. It supports most
+languages out of the box and is extendable to support your favorite language as
+well. Powerful features include: Context Tagging(TM), Dynamic Difference
+Editing(TM), FTP Support, a Class Browser, Dynamic Tagging and a Code
+Beautifier! With a multi-platform presence and integration with industry leading
+development environments, Visual SlickEdit provides an entire organization with
+a standard coding environment.
+
+http://www.slickedit.com/
+
+<li><b>WipeOut</b>
+
+WipeOut is a multi-user, multi-platform development environment for C++, Java,
+Eiffel, and Fortran running on Linux and other Unix systems. It consist of
+several components, which partly provide interfaces for existing tools such as
+CVS, GDB or MAKE. WipeOut supports all source code engineering tasks like
+generating, parsing, testing, managing, and analysing in an uniform programming
+environment with an highly customizable and easy to use user interface.
+
+Ozone
+
+ozone is an object-oriented database completely implemented in Java(tm). ozone
+provides multi-user support, access rights administration, transactions,
+deadlock recognition and distribution of objects over multiple databases.
+
+http://www.softwarebuero.de/products-eng.html
+
+<li><b>Blender</b>
+
+Blender is a free and fully functional 3D modeling/rendering/animation package
+for Unix systems. Blender is distributed without sources, it is exclusively
+developed and maintained by the Dutch company NaN.
+
+http://www.blender.nl
+
+<li><b>Executor: Demo of Commercial Macintosh Emulator</b>
+
+Fast CPU Emulation (75 MHz 486DX4 approximates 25 MHz 68040). Requires nothing
+from Apple. Allows many Macintosh applications, including Word 5 and Excel 4 to
+run. Reads 1.4 MB Macintosh formatted floppies, SCSI disks and CD-ROMs. Color
+support, Prints to PostScript printers.
+
+http://www.ardi.com/
+
+<li><b> NetBeans_Developer: NetBeans Developer - Java IDE</b>
+
+NetBeans Developer is a Java Development Environment, written in pure Java.
+Entirely based on Swing (JFC), Developer takes full advantage of its rich
+feature set. Developer is an object oriented, visual programming environment
+based on JavaBeans components. Generated code is reusable and extensible, and
+does not rely on any third party framework. The IDE runs on any platform that
+supports JDK 1.1.x, including Linux, Win95/98/NT, Solaris, OS/2, HP-UX, Irix...
+Developer comes with an integrated full-featured text editor, debugger, and
+compiler. Pluggable Look & Feel, powerful Form Editor with support for advanced
+Layout Managers, multiple virtual desktops ... and more.
+
+http://www.netbeans.com
+
+<li><b>VariCAD: VariCAD -- 3D&2D CAD system</b>
+
+Three- and two-dimensional CAD system for construction and design works in
+machine-building.
+
+http://www.varicad.com
+
+<li><b>TeamWave Workplace</b>
+
+TeamWave Workplace is designed to help people work together. It is versatile
+enough to support telecommuting and telework, distance learning, case-based
+learning, and corporate training. And it is designed to work with a variety of
+systems including MacIntosh, Windows95 and Unix (AIX, Sun, Linux).
+
+TeamWave Workplace uses a client-server solution to provide permanent and
+accessible locations where people can gather to work. Using a familiar 'Rooms'
+metaphor, TeamWave Workplace provides easy creation and manipulation of work
+spaces. Each workspace or room, can serve range of needs including library or
+archival needs and conferencing needs.
+
+To provide support for long-term projects, the TeamWave Workplace server stores
+the contents of each room in the same state as people left them. This allows
+people to work on projects without having to worry about archiving the materials
+for the next working session. The room and the materials are always ready for
+another group work session or for individual work.
+
+http://www.teamwave.com/
+
+<li><b>WordPerfect</b>
+
+Corel® WordPerfect® 8 for Linux® - Personal Edition is an ideal office solution
+that delivers the same exceptional word-processing capabilities as the Windows®
+version, plus many features available only for Linux. Share information easily
+with enhanced compatibility features. Maximize your hardware with support for
+over 1,000 printers. Corel WordPerfect 8 for Linux - Personal Edition is
+word-processing power for home, school and office.
+
+http://www.corel.com/products/wordperfect/
+
+<li><b>Acroread: Adobe Acrobat Reader 4.0 beta</b>
+
+Acrobat Reader is part of the Adobe Acrobat family of software, which lets you
+view, distribute, and print documents in Portable Document Format
+(PDF)--regardless of the computer, operating system, fonts, or application used
+to create the original file. PDF files retain all the formatting, fonts, and
+graphics of the original document, and virtually any PostScript(TM) document can
+be converted into a PDF file. Adobe Acrobat Reader have a plug-in for Netscape
+Navigator to to view PDF files inline
+
+http://www.adobe.com
+</pre>
+
+
+<hr><font size=1>
+<!-- Created: Thu Jun  3 23:10:47 CEST 1999 -->
+<!-- hhmts start -->
+Last modified: Fri Jun  4 16:30:31 CEST 1999
+<!-- hhmts end -->
+<? include("end1.php3"); ?>
+
+

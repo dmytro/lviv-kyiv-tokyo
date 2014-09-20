@@ -1,0 +1,45 @@
+<? include("begin1.php3"); ?>
+Linux-Mandrake RPM Applications
+<? include("begin2.php3"); ?>
+Linux-Mandrake RPM Applications
+<? include("begin3.php3"); ?>
+
+<b><li> DEVEL MAILLING LIST</b><p>
+Firtsly, you might want to consider subscribing to our <a href="fdevlists.php3">developpers mailling-lists</a>.
+<p>
+<b><li> UPLOAD</b><p>
+A lot of applications still remain in .tar.gz format. We need to have them in RPM format for FTP contribs, as well as for putting them inside Linux-Mandrake itself. From now, you can add your own packages on <a href="ftp://ftp.linux-mandrake.com/incoming/">ftp://ftp.linux-mandrake.com/incoming/</a>
+<p>
+Please announce your upload on devel@linux-mandrake.com and contact <a href ="mailto:lenny@mandrakesoft.com?subject=RPM">lenny@mandrakesoft.com</A> for more information.
+<p>
+<b><li> NEEDS</b><p>
+Actually, there is a big need of packaged KDE applications! A lot of KDE apps (from which koffice) remain in .tar.{gz|bz2} format.
+
+<p>
+<b><li>GUIDELINE FOR MANDRAKE RPMs:</b><p>
+Please consider having a look at our <a href="../howtos/mdk-rpm/">Mandrake RPM HOWTO</a> - and use it!<p>
+<p>
+You can also use <a href="ftp://ftp.mandrakesoft.com/pub/chmou/skelet.spec">our generic .spec file</a>. For most stuff, filling in the empty fields should be enough to create a working RPM.
+<p>
+<a href="mailto:chmouel@mandrakesoft.com?subject=rpm-spec-mode">Chmouel</A>
+has a mode to work more easily with Emacs or Xemacs, take it from <br>
+<a href="ftp://ftp.mandrakesoft.com/pub/chmou/rpm-spec-mode-mdk.spec">ftp://ftp.mandrakesoft.com/pub/chmou/rpm-spec-mode-mdk.spec</a>
+<br>to use it set up your ~/.emacs with :
+</font>
+<pre>
+
+    (setq auto-mode-alist 
+          (append '(("\\.spec$"    . rpm-spec-mode)) auto-mode-alist))
+
+</pre>
+Enjoy!
+<p>
+<font face="arial, helvetica">For any information you want on the work on RPM packages, please contact <a href ="mailto:lenny@mandrakesoft.com?subject=RPM">lenny@mandrakesoft.com</A>
+</font>
+<hr>
+<font size=1>
+<!-- Created: Tue Mar 23 00:16:54 CET 1999 -->
+<!-- hhmts start -->
+Last modified: Fri Jan 14 09:58:38 CET 2000
+<!-- hhmts end -->
+<? include("end1.php3"); ?>

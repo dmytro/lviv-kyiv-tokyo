@@ -1,0 +1,14 @@
+
+<table bgcolor=white width=100% cellpadding=3 cellspacing=0 border=0>
+<tr>
+<td align=left>
+<font  face="helvetica, arial" size=-2> 
+<? print(date( "F, dS Y" )); ?> 
+</font>
+</td>
+<td align=center>
+<font face="helvetica, arial" size=-1>[ <a href="/en/">Main Page</a> | <a href="/en/airfeat.php3">Features</a> | <a href="/en/fscreenshots.php3">Screenshots</a> | <a href="/en/demos">Demos</a> | <a href="/en/ftp.php3">Download</a> | <a href="/en/fpowerpack.php3">PowerPack</a> | <a href="/en/enreg.php3">Register</a> | <a href="/en/fdoc.php3">Documentation</a> | <a href="/en/security.php3">Security</a> | <a href="/en/email.php3">Contact</a> ]
+</font>
+</td>
+</tr>
+</table> 

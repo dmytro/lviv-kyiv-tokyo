@@ -1,0 +1,37 @@
+<? include("begin1.php3"); ?>
+DiskDrake Announce
+<? include("begin2.php3"); ?>
+DiskDrake Announce
+<? include("begin3.php3"); ?>
+
+<p>
+
+<b> MANDRAKESOFT ANNOUNCES PROJECT DISKDRAKE:</b><p>
+
+&nbsp;&nbsp;"A Hard-Drive partioner for Linux, under opensource license"<br>
+&nbsp;&nbsp; ------------------------------------------------------------
+
+<p align=justify>
+ MandrakeSoft - publisher of the popular "Linux-Mandrake" distribution - announces DiskDrake, a complete hard-drive partioner available for Linux now (beta version) and for Windows soon. DiskDrake is published under the terms of the General Public License (GNU).
+<p align=justify>
+ Recently, a new need for hard-drive partioners has been felt with the growing success of Linux: people often want to install Linux on their PC without having to remove Windows. So, in order to free some place for Linux they usually need to resize their disk partitions, which is still a delicate operation, only permitted by some hard-to-use text based programs like "fips" or other proprietary software.
+<p align=justify>
+We, at MandrakeSoft, have choosen to release our own full-featured graphical partioner freely (under the terms of the General Public License). DiskDrake currently runs under Linux. A Windows port is envisaged.
+<p align=justify>
+The first released version of DiskDrake is beta software, but it should improve rapidly with the contribution of the free-software community.
+<p align=justify>
+DiskDrake will of course be integrated in the next version of Linux-Mandrake.
+<p align=justify>
+DiskDrake can be discovered and downloaded from:
+<p align=justify>
+	<a href="http://www.linux-mandrake.com/diskdrake/">http://www.linux-mandrake.com/diskdrake/</a>
+<p align=justify>
+All developpers with sufficient knowledge in Linux, as well as in Windows programming can join the project. Debug it and add some new great features in it!
+
+<p>
+<hr><font size=1>
+<!-- Created: Wed Mar  3 00:10:30 CET 1999 -->
+<!-- hhmts start -->
+Last modified: Wed Jul 21 22:24:25 CEST 1999
+<!-- hhmts end -->
+<? include("end1.php3"); ?>

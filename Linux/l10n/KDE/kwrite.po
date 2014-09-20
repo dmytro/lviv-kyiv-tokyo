@@ -1,0 +1,382 @@
+# Ukrainian translation of kwrite
+# Copyright (C) 2000 Free Software Foundation, Inc.
+# Dmytro Koval'ov <kov@tokyo.email.ne.jp>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: kwrite VERSION\n"
+"POT-Creation-Date: 1999-04-17 02:13+0200\n"
+"PO-Revision-Date: 2000-04-27 19:04+09:00\n"
+"Last-Translator: Dmytro Koval'ov <kov@tokyo.email.ne.jp>\n"
+"Language-Team: Ukrainian <linux@linux.org.ua>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=koi8-u\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "&Add Bookmark"
+msgstr "&Додати закладку"
+
+msgid "&All"
+msgstr "&Все"
+
+msgid "&Auto Brackets"
+msgstr "&Автоматичн╕ дужки"
+
+msgid "&Backspace Indent"
+msgstr ""
+
+msgid "&Bookmarks"
+msgstr "&Закладки"
+
+msgid "&Case Sensitive"
+msgstr "З урахуванням &ре╜╕стру"
+
+msgid "&Clear Bookmarks"
+msgstr "По&чистити закладки"
+
+msgid "&Colors..."
+msgstr "&Кольори ..."
+
+msgid "&Defaults..."
+msgstr "&Стандартн╕ ..."
+
+msgid "&Delete On Input"
+msgstr "&Стирати при ввод╕"
+
+msgid "&Deselect All"
+msgstr "В╕дм╕нити ви&б╕р всього"
+
+msgid "&Find..."
+msgstr "&Шукати..."
+
+msgid "&From Cursor"
+msgstr "В╕д &курсора"
+
+msgid "&Goto Line..."
+msgstr "&Перейти на рядок..."
+
+msgid "&Goto Line:"
+msgstr "Пере&йти на рядок:"
+
+msgid "&Highlight..."
+msgstr "&Вид╕лити..."
+
+msgid "&Indent"
+msgstr "В╕д&ступ"
+
+msgid "&Insert..."
+msgstr "&Вставка..."
+
+msgid "&Multiple Selections"
+msgstr "Багато&разовий виб╕р"
+
+msgid "&No"
+msgstr "&Н╕"
+
+msgid "&Options..."
+msgstr "&Параметри..."
+
+msgid "&Persistent Selections"
+msgstr "&Ст╕йкий виб╕р"
+
+msgid "&Prompt On Replace"
+msgstr "За&питувати перед зам╕ною"
+
+msgid "&Replace With:"
+msgstr "За&м╕нити на:"
+
+msgid "&Replace..."
+msgstr "За&м╕нити..."
+
+msgid "&Select All"
+msgstr "Вибрати &все"
+
+msgid "&Selected Text"
+msgstr "&Вибраний текс"
+
+msgid "&Set Bookmark..."
+msgstr "&Встановити закладку..."
+
+msgid "&Text To Find:"
+msgstr "Шукати &текст:"
+
+msgid "&Toggle Old"
+msgstr ""
+
+msgid "&Vertical Selections"
+msgstr "В&ертикальний виб╕р"
+
+msgid "&Whole Words Only"
+msgstr "Т╕льки &ц╕л╕ слова"
+
+msgid "&Word Wrap"
+msgstr "Пере&н╕с сл╕в"
+
+msgid "&Yes"
+msgstr "&Так"
+
+msgid ""
+"A Document with this Name already exists.\n"
+"Do you want to overwrite it?"
+msgstr ""
+"Документ з такою назвою вже ╕сну╓.\n"
+"Чи Ви хочете його зам╕нити?"
+
+msgid "An Error occured while trying to open this Document"
+msgstr "При в╕дкритт╕ документу сталася помилка"
+
+msgid "Auto &Indent"
+msgstr "Автоматичний &в╕дступ"
+
+msgid "Background:"
+msgstr "Тло:"
+
+msgid "Beginning of document reached"
+msgstr "Вже на початку документу"
+
+msgid "Bold"
+msgstr "Жирний"
+
+msgid "Col"
+msgstr "Стовпчик"
+
+msgid "Config Select"
+msgstr "Виб╕р конф╕╜урац╕╖"
+
+msgid "Continue from the beginning"
+msgstr "Почати з початку"
+
+msgid "Continue from the end"
+msgstr "Почати з к╕нця"
+
+msgid ""
+"Could not save the document.\n"
+"Open a new document anyways?"
+msgstr ""
+"Не можу записати документ.\n"
+"Все таки в╕дкрити новий?"
+
+msgid "Could not start or find KFM"
+msgstr "Не можу знайти чи стартувати KFM"
+
+msgid "Default Font"
+msgstr "Стандартний шрифт"
+
+msgid "Default Item Styles"
+msgstr "Стандартн╕ пункти стил╕в"
+
+msgid "Edit Options"
+msgstr "Параметри редагування"
+
+msgid "End of document reached"
+msgstr "Вже в к╕нц╕ документу"
+
+msgid "Family:"
+msgstr "Родина:"
+
+msgid "File Extensions:"
+msgstr "Розширення файл╕в:"
+
+msgid "Find"
+msgstr "Шукати"
+
+msgid "Find &Again"
+msgstr "Шукати &знову"
+
+msgid "Find &Backwards"
+msgstr "Шукати на&зад"
+
+msgid "Found:"
+msgstr "Знайдено:"
+
+msgid "Highlight Auto Select"
+msgstr "Автоматичний виб╕р п╕дсв╕тки"
+
+msgid "Highlight:"
+msgstr "Вид╕лення:"
+
+msgid "In&vert Selection"
+msgstr "Зм╕нити виб╕р на &протилежний"
+
+msgid "Inserted"
+msgstr "Вставлено"
+
+msgid "Item Font"
+msgstr "Шрифт пункту"
+
+msgid "Item Style"
+msgstr "Стиль пункту"
+
+msgid "Item:"
+msgstr "Пункт:"
+
+msgid ""
+"KWrite 0.98\n"
+"\n"
+"Copyright 1998\n"
+"Jochen Wilhelmy\n"
+"digisnap@cs.tu-berlin.de"
+msgstr ""
+"KWrite 0.98\n"
+"\n"
+"Права застережен╕ 1998\n"
+"Jochen Wilhelmy\n"
+"digisnap@cs.tu-berlin.de"
+
+msgid ""
+"KWrite is already waiting\n"
+"for an internet job to finish\n"
+"Please wait until it has finished\n"
+"Alternatively stop the running one."
+msgstr ""
+"KWrite вже чека╓ на зак╕нчення\n"
+"роботи з ╕нтернетом.\n"
+"Будь-ласка, або зачекайте поки\n"
+"робота зак╕нчиться, або \n"
+"зупин╕ть ╖╖."
+
+msgid "Line"
+msgstr "Рядок"
+
+msgid "Loading..."
+msgstr "Завантаження..."
+
+msgid "Message"
+msgstr "Пов╕домлення"
+
+msgid "Mime Types:"
+msgstr "Типи MIME:"
+
+msgid "Ne&w..."
+msgstr "&Новий..."
+
+msgid "New &View"
+msgstr "Новий пере&гляд"
+
+msgid "New &Window"
+msgstr "Нове &в╕кно"
+
+msgid "New Document"
+msgstr "Новий документ"
+
+msgid "No changes need to be saved"
+msgstr "Нема╓ жодних зм╕н для запису"
+
+msgid "Normal:"
+msgstr "Звичайне:"
+
+msgid "Open Document"
+msgstr "В╕дкрити документ"
+
+msgid "Open Recen&t"
+msgstr "В╕дкрити не&давн╕й"
+
+msgid "R&edo"
+msgstr "П&овторити"
+
+msgid "Read"
+msgstr "Зчитування"
+
+msgid "Remove Trailing &Spaces"
+msgstr "Забрати &пропуски в к╕нцях рядк╕в"
+
+msgid "Replace &Tabs"
+msgstr "Зам╕нити &табуляц╕╖"
+
+msgid "Replace this occurence?"
+msgstr "Зам╕нити це?"
+
+msgid "Save Config"
+msgstr "Записати конф╕╜урац╕ю"
+
+msgid "Save Document"
+msgstr "Записати документ"
+
+msgid "Saving..."
+msgstr "Збереження..."
+
+msgid "Search string not found!"
+msgstr "Такий рядок не знайдено!"
+
+msgid "Select Options"
+msgstr "Вибрати параметри"
+
+msgid "Selected + Found:"
+msgstr "Вибрано + Знайдено:"
+
+msgid "Selected:"
+msgstr "Вибрано:"
+
+msgid "Set Highlight"
+msgstr "Встановити вид╕лення"
+
+msgid "Show &Statusbar"
+msgstr "Показувати стр╕чку &Статусу"
+
+msgid "Show &Toolbar"
+msgstr "Показати стр╕чку &╤нструмент╕в"
+
+msgid "Size:"
+msgstr "Розм╕р:"
+
+msgid "Tab Width:"
+msgstr "Ширина табуляц╕й:"
+
+msgid "Text Background:"
+msgstr "Тло тексту:"
+
+msgid ""
+"The current Document has been modified.\n"
+"Would you like to save it?"
+msgstr ""
+"Цей документ був зм╕нений.\n"
+"Чи хочете Ви його записати?"
+
+msgid "The specified File does not exist"
+msgstr "Вказаний файл не ╕сну╓"
+
+msgid ""
+"This Document has been modified.\n"
+"Would you like to save it?"
+msgstr ""
+"Цей документ був зм╕нений.\n"
+"Чи хочете Ви його записати?"
+
+msgid "U&ndo"
+msgstr "В╕д&м╕нити"
+
+msgid "Undo steps:"
+msgstr "Крок╕в в╕дкату:"
+
+msgid "Uninden&t"
+msgstr "В╕дм╕нити в╕дс&туп"
+
+msgid "Vertical Selections Off"
+msgstr "Вимкнути вертикальний виб╕р"
+
+msgid "Vertical Selections On"
+msgstr "Вмикнути вертикальний виб╕р"
+
+msgid "Waiting for KFM..."
+msgstr "Чекаю на KFM..."
+
+msgid "Wrap &Cursor"
+msgstr "Розрив &курсора"
+
+msgid "Wrap Words At:"
+msgstr "Переносити слова на:"
+
+msgid "Wrote"
+msgstr "Записано"
+
+msgid "You do not have read permission to this file"
+msgstr "Ви не ма╓те дозволу на читання цього файлу"
+
+msgid "You do not have write permission to this file"
+msgstr "Ви не ма╓те дозволу на запис цього файлу"
+
+msgid "You have specified a directory"
+msgstr "Ви вибрали каталог"
+
+msgid "replace(s) made"
+msgstr "зам╕нено"

@@ -1,0 +1,154 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<!--Converted with LaTeX2HTML 98.1 release (February 19th, 1998)
+originally by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Створення файлово╖ системи</TITLE>
+<META NAME="description" CONTENT="Створення файлово╖ системи">
+<META NAME="keywords" CONTENT="linux,ukrainian,guide,sag">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<LINK REL="STYLESHEET" HREF="sag.css">
+<LINK REL="next" HREF="node52.html">
+<LINK REL="previous" HREF="node50.html">
+<LINK REL="up" HREF="node47.html">
+<LINK REL="next" HREF="node52.html">
+</HEAD>
+<BODY BGCOLOR=#FFFFFF>
+<!--Navigation Panel-->
+<A NAME="tex2html1116"
+ HREF="node52.html">
+<IMG WIDTH="37" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="next"
+ SRC="next_motif.gif"></A> 
+<A NAME="tex2html1112"
+ HREF="node47.html">
+<IMG WIDTH="26" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="up"
+ SRC="up_motif.gif"></A> 
+<A NAME="tex2html1106"
+ HREF="node50.html">
+<IMG WIDTH="63" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="previous"
+ SRC="previous_motif.gif"></A> 
+<A NAME="tex2html1114"
+ HREF="node7.html">
+<IMG WIDTH="65" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="contents"
+ SRC="contents_motif.gif"></A> 
+<A NAME="tex2html1115"
+ HREF="node120.html">
+<IMG WIDTH="43" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="index"
+ SRC="index_motif.gif"></A> 
+<BR>
+<B> Дал╕:</B> <A NAME="tex2html1117"
+ HREF="node52.html">Монтування та розмонтування</A>
+<B> Вгору:</B> <A NAME="tex2html1113"
+ HREF="node47.html">Файлов╕ системи</A>
+<B> Назад:</B> <A NAME="tex2html1107"
+ HREF="node50.html">Якою файловою системою користуватися?</A>
+<BR>
+<BR>
+<!--End of Navigation Panel-->
+
+<H2><A NAME="SECTION00684000000000000000">&#160;</A><A NAME="sec:mkfs">&#160;</A>
+<BR>
+Створення файлово╖ системи
+</H2>
+<P>
+<FONT SIZE="+1"><FONT SIZE="+1">Файлов╕ системи створюются (або ``╕н╕ц╕ал╕зуються'') за
+	допомогою команди <TT>mkfs</TT><A NAME="3397">&#160;</A>. Насправд╕ ж, для кожно╖ файлово╖
+	системи ╕сну╓ своя власна команда. Команда <TT>mkfs</TT><A NAME="3399">&#160;</A>
+	всього-навсього фасад до ц╕ло╖ групи команд, ╕ для створення то╖
+	або ╕ншо╖ файлово╖ системи, застосову╓ться в╕дпов╕дна ╖й
+	команда. Тип файлово╖ системи, яку треба створити, зада╓ться
+	за допомогою параметру <TT>-t тип_файлово╖_системи</TT>
+	команд╕ <TT>mkfs</TT><A NAME="3401">&#160;</A>.
+	
+	Програми, як╕ викликаються командою <TT>mkfs</TT><A NAME="3403">&#160;</A>, мають р╕зн╕
+	параметри. Загальн╕ (╕ найб╕льш важлив╕) параметри наведен╕
+	нижче, але конкретн╕ш╕ дан╕ можна завжди в╕дшукати в стор╕нц╕
+	п╕дказки по конкретн╕й команд╕.
+</FONT></FONT>
+<P>
+<BLOCKQUOTE><DL>
+<DT><STRONG><TT>-t</TT> <I>тип_файлово╖_системи</I></STRONG>
+<DD>Вибер╕ть тип
+файлово╖ системи.
+	<DT><STRONG><TT>-c</TT></STRONG>
+<DD>Шукати зб╕йн╕ блоки та поновити ╖х список.
+	<DT><STRONG><TT>-l</TT> <I>назва_файлу</I></STRONG>
+<DD>Прочитати попередн╕й список
+	зб╕йних блок╕в з файлу  <I>назва_файлу</I>.
+	</DL></BLOCKQUOTE><FONT SIZE="+1"><FONT SIZE="+1">
+	Щоб створити на дискет╕ файлову систему типу ext2, потр╕бно
+	виконати так╕ команди:
+		</FONT></FONT><BLOCKQUOTE><FONT SIZE="+1"><FONT SIZE="+1">
+<TT>
+<code>$</code> <I>fdformat -n /dev/fd0H1440 </I> <BR>
+<code>Double-sided, 80 tracks, 18 sec/track. Total capacity 1440 kB.</code> <BR>
+<code>Formatting ... done</code> <BR>
+<code>$</code> <I>badblocks /dev/fd0H1440 1440 </I></TT></FONT></FONT>&gt;<FONT SIZE="+1"><FONT SIZE="+1"><TT><I> bad-blocks</I> <BR>
+<code>$</code> <I>mkfs -t ext2 -l bad-blocks /dev/fd0H1440</I> <BR>
+<code>mke2fs 0.5a, 5-Apr-94 for EXT2 FS 0.5, 94/03/10</code> <BR>
+<code>360 inodes, 1440 blocks</code> <BR>
+<code>72 blocks (5.00%) reserved for the super user</code> <BR>
+<code>First data block=1</code> <BR>
+<code>Block size=1024 (log=0)</code> <BR>
+<code>Fragment size=1024 (log=0)</code> <BR>
+<code>1 block group</code> <BR>
+<code>8192 blocks per group, 8192 fragments per group</code> <BR>
+<code>360 inodes per group</code> <BR>
+<code></code>
+<BR>
+<code>Writing inode tables: done     </code> <BR>
+<code>Writing superblocks and filesystem accounting information: done</code> <BR>
+<code>$</code>
+		</TT></FONT></FONT></BLOCKQUOTE>
+<P>
+<FONT SIZE="+1"><FONT SIZE="+1">Спершу дискета формату╓ться (параметр <TT>-n</TT> забороня╓
+	перев╕рку дискети на зб╕йн╕ блоки). П╕сля цього зб╕йн╕ блоки
+	шукаються командою <TT>badblocks</TT><A NAME="3405">&#160;</A>, результати роботи яко╖
+	в╕дправляються в файл. ╤, нарешт╕, створю╓ться файлова
+	система, ╕ при цьому використову╓ться список зб╕йних блок╕в,
+	створений командою <TT>badblocks</TT><A NAME="3407">&#160;</A>.
+</FONT></FONT>
+<P>
+<FONT SIZE="+1"><FONT SIZE="+1">Зам╕сть команди <TT>badblocks</TT><A NAME="3409">&#160;</A> можна скористуватися
+	параметром  <TT>-c</TT>, при цьому в╕дпада╓ необх╕дн╕сть в
+	додатковому файл╕. Таке використання команди показано в
+	наступному приклад╕.
+		</FONT></FONT><BLOCKQUOTE><FONT SIZE="+1"><FONT SIZE="+1">
+<TT>
+<code>$</code> <I>mkfs -t ext2 -c /dev/fd0H1440</I> <BR>
+<code>mke2fs 0.5a, 5-Apr-94 for EXT2 FS 0.5, 94/03/10</code> <BR>
+<code>360 inodes, 1440 blocks</code> <BR>
+<code>72 blocks (5.00%) reserved for the super user</code> <BR>
+<code>First data block=1</code> <BR>
+<code>Block size=1024 (log=0)</code> <BR>
+<code>Fragment size=1024 (log=0)</code> <BR>
+<code>1 block group</code> <BR>
+<code>8192 blocks per group, 8192 fragments per group</code> <BR>
+<code>360 inodes per group</code> <BR>
+<code> </code> <BR>
+<code>Checking for bad blocks (read-only test): done</code> <BR>
+<code>Writing inode tables: done     </code> <BR>
+<code>Writing superblocks and filesystem accounting information: done</code> <BR>
+<code>$</code>
+		</TT></FONT></FONT></BLOCKQUOTE><FONT SIZE="+1"><FONT SIZE="+1">
+	Параметром <TT>-c</TT> зручн╕ше користуватися, н╕ж командою
+	<TT>badblocks</TT><A NAME="3411">&#160;</A> ╕ додактковим файлом, але для перев╕рки
+	файлово╖ системи п╕сля ╖╖ створення краще все-таки вживати
+	<TT>badblocks</TT><A NAME="3413">&#160;</A>.
+	
+	Процес створення файлово╖ системи на жорсткому диску
+	в╕др╕зня╓ться в╕д процесу для дискет т╕льки тим, що при
+	в╕дпада╓ крок форматування. 
+</FONT></FONT>
+<P>
+<BR><HR>
+<ADDRESS>
+<I>Dmytro Kovalev</I>
+<BR><I>1999-06-10</I>
+</ADDRESS>
+</BODY>
+</HTML>

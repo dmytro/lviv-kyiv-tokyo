@@ -1,0 +1,118 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<!--Converted with LaTeX2HTML 98.1 release (February 19th, 1998)
+originally by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Просте резервування</TITLE>
+<META NAME="description" CONTENT="Просте резервування">
+<META NAME="keywords" CONTENT="linux,ukrainian,guide,sag">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<LINK REL="STYLESHEET" HREF="sag.css">
+<LINK REL="next" HREF="node109.html">
+<LINK REL="previous" HREF="node105.html">
+<LINK REL="up" HREF="node102.html">
+<LINK REL="next" HREF="node107.html">
+</HEAD>
+<BODY BGCOLOR=#FFFFFF>
+<!--Navigation Panel-->
+<A NAME="tex2html1808"
+ HREF="node107.html">
+<IMG WIDTH="37" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="next"
+ SRC="next_motif.gif"></A> 
+<A NAME="tex2html1804"
+ HREF="node102.html">
+<IMG WIDTH="26" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="up"
+ SRC="up_motif.gif"></A> 
+<A NAME="tex2html1798"
+ HREF="node105.html">
+<IMG WIDTH="63" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="previous"
+ SRC="previous_motif.gif"></A> 
+<A NAME="tex2html1806"
+ HREF="node7.html">
+<IMG WIDTH="65" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="contents"
+ SRC="contents_motif.gif"></A> 
+<A NAME="tex2html1807"
+ HREF="node120.html">
+<IMG WIDTH="43" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="index"
+ SRC="index_motif.gif"></A> 
+<BR>
+<B> Дал╕:</B> <A NAME="tex2html1809"
+ HREF="node107.html">Створення повних коп╕й з</A>
+<B> Вгору:</B> <A NAME="tex2html1805"
+ HREF="node102.html">Резервн╕ коп╕╖</A>
+<B> Назад:</B> <A NAME="tex2html1799"
+ HREF="node105.html">Виб╕р засоб╕в для створення</A>
+<BR>
+<BR>
+<!--End of Navigation Panel-->
+
+<H1><A NAME="SECTION001240000000000000000">
+Просте резервування</A>
+</H1><FONT SIZE="+1"><FONT SIZE="+1"></FONT></FONT>
+<P>
+<FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1">Найпрост╕ша схема резезвування - це зарезервувати все
+	абсолютно за один раз, а пот╕м резервувати все, що зм╕нилося з
+	часу попереднього резервування. Перше резервування носить
+	назву <B>повного резервування</B><A NAME="tex2html179"
+ HREF="footnode.html#foot6977"><SUP>169</SUP></A>,
+	наступн╕ п╕сля нього - "доповнююч╕ коп╕╖"<A NAME="tex2html180"
+ HREF="footnode.html#foot6982"><SUP>170</SUP></A>. Повна коп╕я част╕ше вимага╓ б╕льше роботи, н╕ж
+	доповнююч╕, через те, що потр╕бно записати б╕льше даних на
+	стр╕чку, ╕, можливо, що вс╕ дан╕ не пом╕стяться на одну
+	стр╕чку (або дискету). В╕дновлення файл╕в з доповнюючих коп╕й
+	може вимагати набагато б╕льшо╖ роботи, н╕ж в╕дновлення з
+	повно╖ коп╕╖. В╕дновлення файл╕в можна оптим╕зувати таким
+	чином, щоб в╕дновлен╕ файли завжди бралися з останньо╖ повно╖
+	коп╕╖. Таким чином, можливо резервування вимага╓ трохи б╕льше
+	роботи, але, може трапитися, що Вам н╕коли не буде потр╕бно
+	в╕дновлювати файл з повно╖ коп╕╖ ╕ доповнювати його з
+	доповнюючо╖.
+</FONT></FONT></FONT></FONT>
+<P>
+<FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1">Якщо Ви плану╓те робити резервн╕ коп╕╖ кожного дня ╕ ма╓те
+	ш╕сть стр╕чок для цього, Ви можете використати стр╕чку&nbsp;1 для
+	першо╖ повно╖ коп╕╖ (скаж╕мо, в п'ятницю), ╕ стр╕чки&nbsp;2-&nbsp;5 для
+	доповнюючо╖ коп╕╖ (в╕д понед╕лка до четверга). Пот╕м Ви робите
+	нову повну коп╕ю на стр╕чц╕ 6 (друго╖ п'ятниц╕) ╕ почина╓те
+	робити доповнююч╕ коп╕╖ з стр╕чками&nbsp;2-5 знову. Намагайтеся не
+	стерти стр╕чку 1 до того, часу поки Ви не будете мати ново╖
+	повно╖ коп╕╖, на той випадок, якщо щось трапиться п╕д час
+	створення друго╖ повно╖ коп╕╖. Нав╕ть п╕сля того, як Ви
+	зробили другу повну коп╕ю, тримайте першу коп╕ю десь в
+	безпечному м╕сц╕, раптом вс╕ наступн╕ коп╕╖ будуть знищеними
+	(в╕д вогню, чи ще в╕д чогось), Ви все-таки матимете щось в
+	руках. Коли Вам потр╕бно буде зробити наступну повну коп╕ю,
+	роб╕ть ╖╖ на стр╕чц╕&nbsp;1, а стр╕чку&nbsp;6 в╕дклад╕ть. 
+</FONT></FONT></FONT></FONT>
+<P>
+<FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1">Якщо Ви ма╓те б╕льше, н╕ж 6 стр╕чок, Ви можете використовувати
+	додатков╕ з них для ╕нших повних коп╕й. Кожного разу, коли Ви
+	робите нову повну коп╕ю, використовуйте найстар╕шу
+	стр╕чку. Таким чином, Ви можете мати повн╕ коп╕╖ за к╕лька
+	попередн╕х тижн╕в, що дуже добре, якщо Вам потр╕бно в╕дшукати
+	якийсь старий файл, що Ви вже його стерли, або стару верс╕ю
+	файлу. 
+</FONT></FONT></FONT></FONT>
+<P>
+<FONT SIZE="+1"><FONT SIZE="+1"></FONT></FONT>
+<BR><HR>
+<!--Table of Child-Links-->
+<A NAME="CHILD_LINKS">&#160;</A>
+<UL>
+<LI><A NAME="tex2html1810"
+ HREF="node107.html">Створення повних коп╕й з <TT>tar</TT></A>
+<LI><A NAME="tex2html1811"
+ HREF="node108.html">В╕дновлення файл╕в за допомогою <TT>tar</TT></A>
+</UL>
+<!--End of Table of Child-Links-->
+<BR><HR>
+<ADDRESS>
+<I>Dmytro Kovalev</I>
+<BR><I>1999-06-10</I>
+</ADDRESS>
+</BODY>
+</HTML>

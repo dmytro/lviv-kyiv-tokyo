@@ -1,0 +1,97 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<!--Converted with LaTeX2HTML 98.1 release (February 19th, 1998)
+originally by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Ре╓страц╕я в систем╕ та вих╕д з системи</TITLE>
+<META NAME="description" CONTENT="Ре╓страц╕я в систем╕ та вих╕д з системи">
+<META NAME="keywords" CONTENT="linux,ukrainian,guide,sag">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<LINK REL="STYLESHEET" HREF="sag.css">
+<LINK REL="next" HREF="node92.html">
+<LINK REL="previous" HREF="node79.html">
+<LINK REL="up" HREF="sag.html">
+<LINK REL="next" HREF="node86.html">
+</HEAD>
+<BODY BGCOLOR=#FFFFFF>
+<!--Navigation Panel-->
+<A NAME="tex2html1534"
+ HREF="node86.html">
+<IMG WIDTH="37" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="next"
+ SRC="next_motif.gif"></A> 
+<A NAME="tex2html1530"
+ HREF="sag.html">
+<IMG WIDTH="26" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="up"
+ SRC="up_motif.gif"></A> 
+<A NAME="tex2html1524"
+ HREF="node84.html">
+<IMG WIDTH="63" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="previous"
+ SRC="previous_motif.gif"></A> 
+<A NAME="tex2html1532"
+ HREF="node7.html">
+<IMG WIDTH="65" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="contents"
+ SRC="contents_motif.gif"></A> 
+<A NAME="tex2html1533"
+ HREF="node120.html">
+<IMG WIDTH="43" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="index"
+ SRC="index_motif.gif"></A> 
+<BR>
+<B> Дал╕:</B> <A NAME="tex2html1535"
+ HREF="node86.html">Ре╓страц╕я в систем╕ через</A>
+<B> Вгору:</B> <A NAME="tex2html1531"
+ HREF="sag.html">Linux System Administrators' Guide</A>
+<B> Назад:</B> <A NAME="tex2html1525"
+ HREF="node84.html">Загрузка в однокористувацький режим</A>
+<BR>
+<BR>
+<!--End of Navigation Panel-->
+
+<H1><A NAME="SECTION001000000000000000000">&#160;</A>
+<A NAME="ch:logins">&#160;</A>
+<BR>
+Ре╓страц╕я в систем╕ та вих╕д з системи
+</H1><FONT SIZE="+1"></FONT>
+<P>
+<FONT SIZE="+1"></FONT><BLOCKQUOTE><FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1">
+<I>
+        This chapter needs a quote.  Suggestions, anyone?  <BR>
+        </I></FONT></FONT></FONT></BLOCKQUOTE><FONT SIZE="+1"></FONT>
+<P>
+<FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1">
+	Цей розд╕л опису╓ те, що в╕дбува╓ться при ре╓страц╕╖
+	користувача в систем╕ та виход╕ з не╖. В деталях описана також
+	деяка вза╓мод╕я фонових процес╕в, файл╕в
+	ре╓страц╕╖<A NAME="tex2html156"
+ HREF="footnode.html#foot6143"><SUP>147</SUP></A> та файл╕в конф╕╜урац╕╖.
+</FONT></FONT></FONT>
+<P>
+<FONT SIZE="+1"></FONT>
+<BR><HR>
+<!--Table of Child-Links-->
+<A NAME="CHILD_LINKS">&#160;</A>
+<UL>
+<LI><A NAME="tex2html1536"
+ HREF="node86.html">Ре╓страц╕я в систем╕ через терм╕нали</A>
+<LI><A NAME="tex2html1537"
+ HREF="node87.html">Ре╓страц╕я в систем╕ через мережу</A>
+<LI><A NAME="tex2html1538"
+ HREF="node88.html">Що робить  <TT>login</TT></A>
+<LI><A NAME="tex2html1539"
+ HREF="node89.html">X та xdm</A>
+<LI><A NAME="tex2html1540"
+ HREF="node90.html">Керування доступом</A>
+<LI><A NAME="tex2html1541"
+ HREF="node91.html">Старт командно╖ оболонки</A>
+</UL>
+<!--End of Table of Child-Links-->
+<BR><HR>
+<ADDRESS>
+<I>Dmytro Kovalev</I>
+<BR><I>1999-06-10</I>
+</ADDRESS>
+</BODY>
+</HTML>

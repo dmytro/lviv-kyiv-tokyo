@@ -1,0 +1,482 @@
+<? include("begin1.php3"); ?>
+Supported hardware (Linux-Mandrake 6.1)
+<? include("begin2.php3"); ?>
+Supported hardware (Linux-Mandrake 6.1)
+<? include("begin3.php3"); ?>
+
+<p>
+<center>
+[ <a href="#processors">processors</a> | <a href="#graphics">graphics boards</a> | <a href="#cdroms">cd roms</a> | <a href="#cdr">cd-r & cd-rw</a> | <a href="#scsi">scsi</a> | <a href="#network">network</a> | <a href="#sound">sound</a> | <a href="#modems">modems</a> | <a href="#scanners">scanners</a> | <a href="#printers">printers</a> ]<p>
+</center>
+<a name=processors>
+<img src="../images/micropro.gif" align="center"> <b>PROCESSEURS:</b><p>
+<table border=0 cellspacing="10">
+<tr>
+<td width="60%">
+- tous les processeurs <b>Pentium et compatible</b>: Pentium, Pentium pro, Pentium MMX, Pentium II, Pentium III, Celeron, Cyrix 6x86, Cyrix M II, AMD K6, K6-2, Winchip...
+</td>
+<td>
+<center>
+<img src="../images/intel.gif"><p><img src="../images/amd.gif"><p><img src="../images/cx.gif"><p><img src="../images/winch.gif">
+</center>
+</td>
+</table>
+
+<p>
+<hr>
+<a name=graphics>
+<img src="../images/board.gif" align="center"> <b>CARTES GRAPHIQUES:</b><p>
+Toutes les cartes vidéo courantes sont supportées.<p>
+Les cartes supportées par  <b>XFree3.3.5</b> sont: (liste exhaustive ainsi que les fonctionnalités sont disponibles sur <a href="http://www.xfree86.org/3.3.5/index.html">http://www.xfree86.org/3.3.5/index.html</a>)<p>
+<p>
+   - 3DLabs Oxygen GMX<br>
+   - 3Dfx Voodoo Banshee and Voodoo3.<br>
+   - Actix GE32+, GE32i, GE64, ProStar, Ultra<br>
+   - Ark Logic 1000PV, 1000VL, ARK2000MT, ARK2000PV<br>
+   - ASUS 3Dexplorer, PCI-AV264CT, PCI-V264CT, Video Magic PCI V864, Video Magic PCI VT64<br>
+   - ATI 3D Pro Turbo(PC2TV), 3D Xpression,  8514 Ultra, All-in-Wonder, 68875 (Graphics Ultra/Graphics Ultra Pro), Brooktree 481 (Graphics Wonder), AT&T20C491 (RAMDACS: att20c490, att20c498, zoomdac, stg1700, ics5342), WinBoost, WinCharger, WinTurbo, Xpert98, Xpert XL, Xpert Play 3D Rage Pro, Xpert Play 98, Xpert Work 3D Rage Pro<br>
+   - Alliance Promotion Puces: 6422, AT24, AT25, AT3D (Hercules
+   Stingray 128/3D)<br>
+   - Avance Logic 2101, 2228, 2301, 2302, 2308, 2401<br>
+   - Cardex Challenger, Challenger Pro, Cobra, Trio64, Trio64Pro<br>
+   - Chips and Technologies (essentially for laptops) - chipsets:
+   ct65520, ct65525, ct65530, ct65535, ct65540, ct65545, ct65546,
+   ct65548, ct65550, ct65554, ct65555, ct68554, ct64200, ct64300, 
+   ct69000<br>
+   - Cirrus Logic - puces: CL-GD5420, CL-GD5422,
+   CL-GD6205/6215/6225/6235, CL-GD6420/6440, CL-GD5424, CL-GD5426,
+   CL-GD5428, CL-GD5429, CL-GD5430, CL-GD5434,CL-GD5436 , CL-GD5440,
+   CL-GD5446, CL-GD5480, CL-GD5462, CL-GD5464, CL-GD5465,
+   CL-GD7541/7542/7543/7548, CL-GD7555<br>
+   - Creative Labs 3D Blaster, Graphics Blaster(3D, Eclipse, MA201,
+     MA202, MA302, MA334, Exxtreme)<br>
+   - DEC 21030<br>
+   - Diamond Edge 3D, Fire, Multimedia Stealth 3D, SpeedStar,  VIPER (VLB + PCI), Stealth<br>
+   - IIT AGX-016, AGX-015, AGX-014 and XGA-2<br>
+   - Intel i740<br>
+   - La plupart des cartes sur base MACH 32/MACH 64<br>
+   - Matrox Comet, Marvel II, Millennium (MGA2064W with TVP3026 RAMDAC), Millennium II (MGA2164W) (PCI+AGP with TVP3026 RAMDAC), Mystique with 170 and 220 MHz RAMDACs integré (MGA1064SG et MGA1164SG), Productiva G100, MGA1064SG and MGA1164SG), G400, G200 AGP<br>
+   - Miro Crystal, miroMedia, Video 20SV<br>
+   - NVidia/STG2000, Riva128, Riva TNT (PCI+AGP)<br>
+   - La plupart des OAK<br>
+   - La plupart des S3/S3 ViRGE, Trio3D<br>
+   - Neomagic   <br>
+   - Orchid P9000<br>
+   - SiS 86c201, SiS 86c202, SiS 86c205, Sis 530/620<br>
+   - La plupart des TRIDENT(including Blade3D, CyberBlade and Cyber9525)<br>
+   - Tseng puces: ET3000, ET4000, ET4000/W32 and ET6000<br>
+   - Headland Technologies HT216-32 (Video7)<br>
+   - Western Digital SVGA puces: PVGA1, WD90C00, WD90C10, WD90C11,
+   WD90C24, WD90C30, WD90C31, WD90C33<br>
+   - ELSA GLoria L/MX, L, XL, S, Synergy<br>
+   - ELSA WINNER 2000/Office<br>
+   - DIAMOND Fire GL 1000, 1000 Pro, 3000<br>
+   - LEADTEK WinFast 2300<br>
+   - ACCELSTAR Permedia II AGP<br>
+   - Trident 3DImage 975 AGP<br>
+   - SiS 86c201, 86c202, 86c205, 5597, 5598, 6326 AGP<br>
+   - Cyrix MediaGX, MediaGXm avec puces 5520 or 5530<br>
+   - Rendition V1000, V2100, V2200 (for cards like miroCRYSTAL, VRX, Diamond Stealth II S220, Hercules Thriller3D)<br>
+   - Weitek P9100<br>
+<p>
+<hr>
+<p>
+<a name=cdroms>
+<img src="../images/cdrom.gif" align="center"> <b>LECTEURS CD ROMS:</b><p>
+
+- Tous Les lecteurs SCSI<br>
+- Tous les Lecteurs ATAPI<br>
+- Aztech/Orchid/Okano/Wearnes/TXC/CyDROM<br>
+- Conrad TXC<br>
+- CyCDROM CR520ie/CR540ie/CR940ie<br>
+- Goldstar R420 <br>
+- Matsushita/Panasonic/Creative, Longshine, TEAC<br>
+- Mitsumi (standard) [no XA/Multisession]<br>
+- Mitsumi [XA/MultiSession]<br>
+- NEC CDR-260
+- Optics(Lasermate CR328 A, Storage DOLPHIN 8000AT)<br>
+- Philips/LMS CM206<br>
+- Sanyo CDR-H94A<br>
+- Sony (CDU-510, CDU-515, CDU-535, CDU-531, CDU31A/CDU33A)<br>
+- ISP16/MAD16/Mozart<br>
+<p>
+<hr>
+<p>
+<a name=cdr>
+<img src="../images/cdrom.gif" align="center"> <b>Graveurs de CD et CD-RW:</b><p>
+- Tous les SCSI-3/mmc avec support générique<br>
+- Tous les  ATAPI/mmc avec support générique ("Il semblerait que tous les graveurs sortis depuis 1999 ont un support MCC. Si un graveur récent ne fonctionne pas avec cdrecord, c'est surement que vous avez trouvé un bug constructeur.")<br>
+- Philips CDD 521<br>
+- COMPRO/Matsushita/Panasonic CW-7502<br>
+- Philips CDD-2000<br>
+- TEAC CD-R55S<br>
+- Yamaha CDR-400<br>
+- ACER CR-1420C<br>
+- ACER CDRW 6206A<br>
+- BTC BCE 621E<br>
+- COMPRO CW-7502<br>
+- Dysan CR-622 ???? voir Wearnes 622<br>
+- Dysan CR-1622<br>
+- DynaTec CDM-240J (voir Pinnacle RCD-4x4)<br>
+- DynaTec CDM-240  (utilisez cdrecord driver=yamaha_cdr100)<br>
+- DynaTec CDM-400  (utilisez cdrecord driver=yamaha_cdr100)<br>
+- Grundig CDR-100<br>
+- Hewlett Packard 4020i<br>
+- Hewlett Packard 6020i<br>
+- HP C4324/C4325 (HP SureStore 4020i/6020i)<br>
+- HP 7100<br>
+- HP 7110<br>
+- HP 7200<br>
+- HP 8100<br>
+- Hi-Val CD-R (voir Pinnacle RCD-4x4)<br>
+- JVC XR-W2001 (utilisez le code TEAC code - voir ci-dessous - audio ne fonctionne pas)<br>
+- JVC XR-W2010 (utilisez le code TEAC code - voir ci-dessous - audio ne fonctionne pas)<br>
+- JVC XR-W2020 (utilisez le code TEAC code - voir ci-dessous - audio ne fonctionne pas)<br>
+- JVC XR-W2080 (le premier support MMC de JVC)<br>
+- Kodak PCD-200 ou Kodak PCD-200 Plus<br>
+- Kodak PCD-225<br>
+- Kodak PCD-240<br>
+- Kodak PCD-600<br>
+- Matsushita CW-7502<br>
+- Matsushita CW-7582<br>
+- Memorex CR-622 ???? voir Wearnes 622<br>
+- Memorex CR-1622<br>
+- Memorex CRW-1622<br>
+- Microboards PlayWrite 2000 (utilisez cdrecord driver=sony_cdu924)<br>
+- Microboards PlayWrite 4000 (utilisez cdrecord driver=yamaha_cdr100)<br>
+- Microboards PlayWrite 4001RW<br>
+- MicroNet MasterCD Plus 4x4 (utilisez cdrecord driver=yamaha_cdr100)<br>
+- MicroNet MasterCD Plus 4x6<br>
+- Mitsubishi MCA-CDRW 226<br>
+- Mitsumi CR-2401-TS<br>
+- Mitsumi CR-2600-TE<br>
+- Mitsumi CR-2801<br>
+- Mitsumi CR-4801<br>
+- Nomai 680.rw<br>
+- Olympus CDS615E<br>
+- Olympus CDS620E (utilisez cdrecord driver=sony_cdu924)<br>
+- Olympus CD-R2x6 (utilisez cdrecord driver=sony_cdu924)<br>
+- Optima Dis Kovery 650 CD-R (use cdrecord driver=sony_cdu924)<br>
+- OTI CDRW 965<br>
+- Panasonic CW-7502<br>
+- Panasonic CW-7582<br>
+- Philips CDD 521 (CDD521/02  Revision: 2.06 possède un mauvais support constructeur)<br>
+- Philips CDD 521 (unitées mise à jour uniquement: ID: CDD521/10  Revision: 2.07)<br>
+- Philips CDD 522<br>
+- Philips CDD 2000<br>
+- Philips CDD 2600<br>
+- Philips CDD 3600<br>
+- Philips CDD 3610<br>
+- Philips Omniwriter 26<br>
+- Philips Omniwriter 26A<br>
+- Pinnacle Micro RCD-1000 (voir TEAC/JVC): mise à jour constructeur vers 2.3 nécessaire)<br>
+- Pinnacle Micro RCD-5020 (voir TEAC/JVC - audio ne fonctionne pas)<br>
+- Pinnacle Micro RCD-5040 (voir TEAC/JVC - audio ne fonctionne pas)<br>
+- Pinnacle Micro RCD-4x4<br>
+- Pioneer DW-S114X<br>
+- Plasmon CDR 4220 (non testé)<br>
+- Plasmon RF-4100<br>
+- Plasmon RF-4102<br>
+- Plasmon CDR 4400 (utilisez cdrecord driver=yamaha_cdr100)<br>
+- Plasmon CDR 480<br>
+- Plextor PX-R24CS (utilisez cdrecord driver=ricoh_ro1420c)<br>
+- Plextor PX-R412C<br>
+- Plextor PX-R820C<br>
+- Procom PCDR 4 (utilisez cdrecord driver=yamaha_cdr100)<br>
+- Ricoh RO-1420C<br>
+- Ricoh MP-6200<br>
+- Ricoh MP-6200I<br>
+- Ricoh MP-6201<br>
+- Smart & Friendly CD-R1002 (utilisez cdrecord driver=sony_cdu924)<br>
+- Smart & Friendly CD-R1004 (utilisez cdrecord driver=yamaha_cdr100)<br>
+- Smart & Friendly CD-R2004 (utilisez cdrecord driver=sony_cdu924)<br>
+- Smart & Friendly CD-R2006 PLUS<br>
+- Smart & Friendly CD-R2006 PRO<br>
+- Smart & Friendly CD-R4000 (utilisez cdrecord driver=yamaha_cdr100)<br>
+- Smart & Friendly CD-R4006<br>
+- Smart & Friendly CD-R4012<br>
+- Smart & Friendly CD-RW226<br>
+- Smart & Friendly CD-R8020<br>
+- Sony CDU920S<br>
+- Sony CDU924S<br>
+- Sony CDU926S<br>
+- Sony CDU928<br>
+- Sony CDU940S<br>
+- Sony CDU948S<br>
+- Sony CRX-100<br>
+- Taiyo Yuden CD-WO EW-50<br>
+- TEAC CD-R50S<br>
+- TEAC CD-R55S<br>
+- TEAC CD-R56S<br>
+- That's Write CDR-N820S<br>
+- Traxdata CDRW2260+<br>
+- Traxdata CDR-4120<br>
+- Traxdata CDRW-4260<br>
+- Turtle Beach 2040R (utilisez cdrecord driver=ricoh_ro1420c)<br>
+- Wearnes CD-R622<br>
+- Wearnes CD-R632P<br>
+- Yamaha CDR-100<br>
+- Yamaha CDR-102<br>
+- Yamaha CDR-200<br>
+- Yamaha CDR-400(Revision constructeur 1.0d et plus ou mise à jour nécessaire)<br>
+- Yamaha CDR-401<br>
+- Yamaha CRW-4001<br>
+- Yamaha CRW-2260<br>
+- Yamaha CRW-4260<br>
+- Yamaha CRW-4416<br>
+<p>
+<hr>
+<p>
+<a name=scsi>
+<img src="../images/board.gif" align="center"> <b>ADAPTATEURS SCSI:</b><p>
+   - 7000FASST SCSI<br>
+   - ACARD <br>
+   - Adaptec(AHA 152x, AHA-174x, AHA-294x(W/UW/D/WD), AHA-394x(W), AHA-398x(W), AHA-274x EISA, AHA-284x VLB; Adaptec, AIC-777x, AIC-785x, AIC-787x, AIC-788x, AHA-29xx PCI, Adaptec AHA-2940(AU/U2W/U2/U2B/U2BOEM), AHA-274xT, AHA-2842, AHA-2910B, AHA-2920C, AHA-2930(U/U2), AHA-2944(D/WD/UD/UWD), AHA-3940(U/UW/AUW/U2W/U2B), AHA-3950U2D, AHA-3985(U/UW), AIC-786x, AIC-789x, AIC-3860, Adaptec 1520B, Adaptec 1522B, Adaptec 1542)<br>
+   - AdvanSys(ABP510, ABP5150, ABP5140, ABP5142, ABP902, ABP915, ABP920, ABP930, ABP930U, ABP930UA, ABP960, ABP960U, ABP542, ABP742, ABP842, ABP940, ABP940U, ABP940UA, ABP970, ABP970U, ABP940UW, ABP970UW, ABP752, ABP852, ABP950, ABP950UW, ABP980, ABP980U, ABP980UA)<br>
+   - Always IN2000<br>
+   - AM53/79C974 PCI<br>
+   - BusLogic(Mylex, MultiMaster, FlashPoint)<br>
+   - Data Technology Corp DTC3180/3280<br> 
+   - DTC3180/3280<br>
+   - EATA-DMA (DPT, NEC, AT&T, SNI, AST, Olivetti, Alphatronix)<br>
+   - EATA-PIO (old DPT PM2001, PM2012A)<br>
+   - EATA ISA/EISA/PCI (cartes DPT et avec support generique EATA/DMA)<br>
+   - Future Domain 16xx<br>
+   - GDT SCSI Disk Array Controller<br>
+   - Generic NCR5380/53c400<br>
+   - Initio 9100U(W)<br>
+   - Inition INI-A1000U2W<br>
+   - NCR(5380, 53c810, 53c810A, 53c815, 53c825, 53c825A, 53c860, 53c875, 53c876, 53c895 53c400, NCR5380, 53c810, 53c810A, 53c815, 53c820, 53c825, 53c810, 53c820, 53c720, 53c700, 53c710, 53c700-66, 53c406A)<br>
+   - Lecteur IOMEGA ZIP avec Port Parallèle<br>
+   - PAS16<br>
+   - Perceptive Solutions PSI-240I<br>
+   - PCI2000, PCI2220i<br>
+   - PSI240i<br>
+   - Qlogic FAS<br>
+   - Qlogic ISP(FC)<br>
+   - Seagate ST-01/ST-02 et Future Domain TMC-8xx<br>
+   - SYM83C8XX<br>
+   - Tekram DC-390(T)<br>
+   - Trantor T128/T128F/T228<br>
+   - UltraStor 14F/24F/34F<br>
+   - Western Digital (WD7000-FAST, WD7000-FAST2, WD7000-ASC, WD7000-AX/MX/EX)<br>
+<p>
+<hr>
+<p>
+<a name=network>
+<img src="../images/board.gif" align="center"> <b>CARTES RESEAU:</b><p>
+   -3COM: EtherLink III/XL/16, 3c501, 3c503, 3c505, 3c507, 3c509, 3c579, 3c515, séries 3c590,series 3c900
+   <br>- Allied Telesis AT150, ATI1700
+   <br>- Alteon AceNIC & 3Com 3C985 Gigabit
+   <br>- AMD LANCE and PCnet(AT1500, NE 2100)
+   <br>- AMD PCnet32(VLB and PCI)
+   <br>- Ansel Communications EISA 3200(EXPERIMENTAL)
+   <br>- Apple/Farallon LocalTalk PC
+   <br>- Apricot Xen--II sur carte mère
+   <br>- ARCnet
+   <br>- AT&T WaveLAN & DEC RoamAbout DS
+   <br>- AT--LAN--TEX/RealTek pocket adaptator
+   <br>- AT1700/1720
+   <br>- Cabletron E21xx
+   <br>- Comtrol Hostess SV-11
+   <br>- Compaq Netelligent 10/100 TX PCI UTP, 10 T PCI UTP, Integrated NetFlex 3/P, Netelligent Dual 10/100 TX PCI UTP, Netelligent Integrated 10/100 TX UTP,Netelligent 10/100 TX Embedded UTP, Netelligent 10 T/2 PCI UTP/Coax, Netelligent 10/100 TX UTP, NetFlex 3/P 
+   <br>- COPS LocalTalk PC
+   <br>- CS89x0
+   <br>- Crystal LAN CS8900/CS8920 
+   <br>- DECchip & DIGITAL EtherWorks
+   <br>- DECchip Tulip(dc21x4x)
+   <br>- DEPCA, DE10x, DE200, DE201, DE202, DE422)
+   <br>- Digi Intl. RightSwitch SE--X
+   <br>- Digital DEFEA, DEFPA adaptator (FDDI)
+   <br>- D--Link DE600/DE620 pocket adaptator, DFE-930-TX PCI 100, VIA Rhine PCI Fast Ethernet(VIA VT86c100A Rhine-II PC, 3043 Rhine-)
+   <br>- FDDI
+   <br>- FMV--181/182/183/184
+   <br>- G-NIC
+   <br>- HIPPI(EXPERIMENTAL)
+   <br>- HP AnyLAN, 10/100VG, PCLAN+ (27247B, 27252A), PCLAN (27245, 27xxx)
+   <br>- IBM Token Ring
+   <br>- ICL EtherTeam 16i/32
+   <br>- Intel EtherExpressPro/100, EtherWorks 3 (DE203, DE204, DE 205), EtherExpress 16, EtherExpressPro
+   <br>- MiCom-Interlan NI5010
+   <br>- Mylex LNE390A/B
+   <br>- NE1000/NE2000 (ISA)
+   <br>- NI5010, NI5210, NI6510, NI6510 EtherBlaster
+   <br>- Novell/Eagle/Microdyne NE3210
+   <br>- Packet Engines Yellowfin Gigabit--NIC
+   <br>- PCI NE2000
+   <br>- Racal--Interlan ES3210
+   <br>- RedCreek Communications
+   <br>- RealTek 8029, RTL8129, RTL8139 
+   <br>- Sangoma S502/S508 multi-protocol FR, Sangoma S502A, ES502A, S502E, S503, S507, S508, S509
+   <br>- SK_G16
+   <br>- SiS 900
+   <br>- SEEQ8005
+   <br>- SMC Ultra / EtherEZ (ISA, 8k 83c790), 9000 series, 9000 series, Ultra32 EISA (32K), EtherPower II 9432 PCI (83c170/175 EPIC series)
+   <br>- SysKonnect adapter
+   <br>- Tangent ATB-II, Novel NL-10000, Daystar Digital LT-200, Dayna DL2000, DaynaTalk PC (HL), COPS LT-95, Farallon PhoneNET PC II & III 
+   <br>- TI ThunderLAN
+   <br>- VIA Rhine 
+   <br>- Western Digital/SMC: WD80*3, SMC Ultra, SMC Ultra32, SMC 9194
+   <br>- WD80*3
+   <br>- Zenith Z--Note
+<p>
+<hr>
+<p>
+<a name=sound>
+<img src="../images/board.gif" align="center"> <b>CARTES SON:</b>
+<p>
+  - Aced Notebook Sound
+   <br>- AdLib
+   <br>- Advance Logic ALS-001, ALS-007, ALS-100, ALS-110
+   <br>- Aztech Sound Galaxy
+   <br>- AD1816(A) based cards
+   <br>- Compaq Deskpro XL sound
+   <br>- Creative/Ensoniq AudioPCI 97(ES1371)
+   <br>- Crystal CS423x
+   <br>- Ensoniq AudioPCI 1370(SoundBlaster 64/128 PCI)
+   <br>- Ensoniq SoundScape
+   <br>- ESS688 AudioDrive
+   <br>- ESS1688 AudioDrive
+   <br>- ESS1868 AudioDrive
+   <br>- ESS - Tech Maestro
+   <br>- Gravis UltraSound
+   <br>- Gravis UltraSound MAX
+   <br>- Gravis UltraSound PnP
+   <br>- GUS Max
+   <br>- Logitech SoundMan Games(not SM16 or SM Wave)
+   <br>- MediaTrix AudioTrix Pro
+   <br>- MediaVision Jazz16 (ProSonic, SoundMan Wave) 
+   <br>- Microsoft Sound System(D1848/CS4248/CS4231)
+   <br>- Mozart/MAD16 (OPTi 82C928) 
+   <br>- MAD16 Pro (OPTi 82C929/82C930) 
+   <br>- miroSOUND PCM12 
+   <br>- OPL3-SA1 sound chip 
+   <br>- OPL3-SA2/3/x sound chip 
+   <br>- Pro Audio Spectrum/Studio 16, Logitech SoundMan 16
+   <br>- PSS (AD1848, ADSP-2115, ESC614)
+   <br>- S3 Sonic Vibes
+   <br>- SoundBlaster (SB 16/32/64, DS, ESS, Jazz16, or SB clone)
+   <br>- Turtle Beach MultiSound Classiq, Tahiti, Monterey, Pinnacle, Fiji
+   <br>- Turtle Beach WaveFront(Tropez Plus, Tropez, Maui)
+   <br>- Yamaha OPL3-SA1, OPL3-SA2, SA3 and SAx
+<p>
+<hr>
+<a name=modems>
+<b>MODEM:</b><p>
+La plupart des modems sur port série sont supportés. Les "Winmodems" ne le sont PAS et ne seront JAMAIS.<p>
+<hr>
+<a name=scanners>
+<img src="../images/scanner.gif" align="center"> <b>SCANNERS:</b><p> 
+<b>Note:</B> liste exhaustive disponible sur: <a href="http://www.mostang.com/sane/sane-backends.html">http://www.mostang.com/sane/sane-backends.html</a>
+<p>
+   <br>-Abaton 300GS, 300S
+   <br>-AGFA Focus Lineart,II, Color, Color Plus.
+   <br>-Apple Scanner, OneScanner, ColorOneScanner.	
+   <br>-Artec/Ultima AT3, A6000C, A6000C PLUS, AT6, AT12
+   <br>-BlackWidow BW4800SP
+   <br>-Canon CanoScan 300, 600, 2700F
+   <br>-Epson GT-5500, GT-7000
+   <br>-HP ScanJet Plus, IIc, IIp, IIcx, 3c, 4c, 6100C, 3p, 4p, 5p, 6200C, 6250C, PhotoSmart PhotoScanner.
+   <br>-Kodak DC210, DC20, DC25 
+   <br>-Microtek Scanmaker E6, E3, E2, 35t+, III, IISP, IIHR, II, 600Z(S), 600G(S) 
+   <br>-Mustek MFC-600S, MFC-600Cd, MFS-6000CX, MSF-6000SP, MFS-8000SSP, MFC-800S, MFS-1200SP, MFS-12000CX, SE-6000SP, SE-12000SP
+   <br>-Nikon LS-20, LS-1000
+   <br>- Polaroid DMC
+   <br>- Plustek 4830
+   <br>- Umax UMAX Vista S6(E), SuperVista S12, UMAXS-12(G), Astra 600/610S/1200S/1220S, UG80/630, UC 630/840/1260, Vista T630, PSD, Gemini D-16
+   <br>- Umax Linotype Hell Jade, Jade2, Saphir2
+   <br>- Umax Vobis/Highscreen Scanbooster Premium
+   <br>- Umax Escom Image Scanner 256
+   <br>- Umax Nikon AX-210
+   <br>- Vobis HighScan
+<p>
+<hr>
+<a name=printers>
+<img src="../images/printer.gif" align="center" width=100 height=76> <b>IMPRIMANTES:</b><p> 
+<B>Note:</B> la plupart des imprimantes fonctionnent en mode texte.<p>
+Imprimantes supportées en mode graphique:
+<p>
+- Epson AP3250
+
+<br>- Apple Imprimante Matricielle (devrait fonctionner aussi avec Imagewriter)
+<br>- Apple Imagewriter en haute résolution
+<br>- Apple Imagewriter en basse résolution
+<br>- Apple Imagewriter LQ in 320 x 216 dpi mode
+<br>- Apple StyleWriter 2x00
+<br>- C.Itoh imprimante M8510
+<br>- Canon BubbleJet BJ10e
+<br>- Canon BubbleJet BJ-100/200/210/240
+<br>- Canon LBP-8II
+<br>- Canon LIPS III  
+<br>- Canon Color BubbleJet BJC-600, BJC-4000 and BJC-70
+<br>- Canon Color BubbleJet BJC-800
+<br>- Canon LBP-8II imprimante laser
+<br>- Canon LIPS III imprimante laser en anglais, mode (CaPSL)
+<br>- CalComp Raster format
+<br>- DEC LA50 
+<br>- DEC LA70 
+<br>- DEC LA70 imprimante avec fonction texte an basse résolution
+<br>- DEC LA75 
+<br>- DEC LA75 plus 
+<br>- DEC LN03 
+<br>- DEC LJ250 Companion color 
+<br>- DEC LJ250 driver
+<br>- Epson imprimantes matricielles compatibles (9- or 24-pin)
+<br>- Epson LQ-2550 and Fujitsu 3400/2400/1200 imprimante couleur
+<br>- Epson LP-8000 laser
+<br>- Epson LQ850 imprimant à une résolution de 360 x 360 DPI
+<br>- Epson Stylus 800 
+<br>- Epson Stylus Color
+<br>- HP DeskJet 500C avec 1 bit/pixel
+<br>- HP DeskJet 500C avec 24 bit/pixel couleur et couleur HQ (diffusion de Floyd-Steinberg)
+<br>- HP DeskJet 540C and Citizen Projet IIc (-r200x300)
+<br>- HP DeskJet 500C en noir et blanc uniquement
+<br>- HP DeskJet 510, 520, and 540C (noir uniquement)
+<br>- HP DeskJet 500C (idem cdjcolor)
+<br>- HP DeskJet 550C/560C
+<br>- HP DeskJet et DeskJet Plus
+<br>- HP DeskJet 500
+<br>- HP DeskJet 500C support alternatif
+<br>- HP DesignJet 650C
+<br>- HP LaserJet
+<br>- HP LaserJet IId/IIp/III* avec compression TIFF
+<br>- HP LaserJet III* avec compression Delta Row
+<br>- HP LaserJet IIID avec capacité duplex
+<br>- HP LaserJet 4 (defaults to 600 dpi)
+<br>- HP LaserJet 4 avec diffusion de Floyd-Steinberg
+<br>- HP LaserJet Plus
+<br>- HP LaserJet famille 5 & 6 (PCL XL), bitmap
+<br>- HP LaserJet famille 5 & 6, niveau de gris, bitmap
+<br>- HP 2563B line 
+<br>- HP PaintJet color 
+<br>- HP PaintJet XL driver 
+<br>- HP PaintJet XL driver
+<br>- HP PaintJet XL color 
+<br>- HP PaintJet XL300 color 
+<br>- HP PaintJet 1200C
+<br>- HP imprimantes noir et blanc PCL XL (famille LaserJet 5 et 6)
+<br>- HP PCL XL couleur (non encore disponible)
+<br>- Imagen imprimantes ImPress
+<br>- IBM 9-pin Proprinter
+<br>- IBM Jetprinter ink-jet imprimante couleur (Model #3852)
+<br>- NEC P6/P6+/P60 imprimant à une résolution de 360 x 360 DPI
+<br>- Mitsubishi CP50
+<br>- OCE 9050 
+<br>- Okidata MicroLine 182
+<br>- Okidata MicroLine imprimantes compatibles IBM
+<br>- Ricoh 4081 laser 
+<br>- StarJet 48 inkjet 
+<br>- Sony Microsystems NWP533 laser [Sony only]
+<br>- Tektronix 4693d imprimante couleur, 2 bits par composant R/G/B
+<br>- Tektronix 4693d imprimante couleur, 4 bits par composant R/G/B
+<br>- Tektronix 4693d imprimante couleur, 8 bits per composant R/G/B
+<br>- Tektronix 4695/4696 table traçante inkjet
+<br>- Xerox XES  (2700, 3700, 4045, etc.)
+<p>
+
+<hr><font size=1>
+<!-- Created: Thu Feb 11 13:52:55 CET 1999 -->
+<!-- hhmts start -->
+Last modified: Wed Oct  6 11:55:09 CEST 1999
+<!-- hhmts end -->
+<? include("end1.php3"); ?>

@@ -1,0 +1,99 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<!--Converted with LaTeX2HTML 98.1 release (February 19th, 1998)
+originally by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Вим╕рювання д╕рок</TITLE>
+<META NAME="description" CONTENT="Вим╕рювання д╕рок">
+<META NAME="keywords" CONTENT="linux,ukrainian,guide,sag">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<LINK REL="STYLESHEET" HREF="sag.css">
+<LINK REL="next" HREF="node118.html">
+<LINK REL="previous" HREF="node112.html">
+<LINK REL="up" HREF="sag.html">
+<LINK REL="next" HREF="node118.html">
+</HEAD>
+<BODY BGCOLOR=#FFFFFF>
+<!--Navigation Panel-->
+<A NAME="tex2html1940"
+ HREF="node118.html">
+<IMG WIDTH="37" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="next"
+ SRC="next_motif.gif"></A> 
+<A NAME="tex2html1936"
+ HREF="sag.html">
+<IMG WIDTH="26" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="up"
+ SRC="up_motif.gif"></A> 
+<A NAME="tex2html1930"
+ HREF="node116.html">
+<IMG WIDTH="63" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="previous"
+ SRC="previous_motif.gif"></A> 
+<A NAME="tex2html1938"
+ HREF="node7.html">
+<IMG WIDTH="65" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="contents"
+ SRC="contents_motif.gif"></A> 
+<A NAME="tex2html1939"
+ HREF="node120.html">
+<IMG WIDTH="43" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="index"
+ SRC="index_motif.gif"></A> 
+<BR>
+<B> Дал╕:</B> <A NAME="tex2html1941"
+ HREF="node118.html">Терм╕ноло╜╕чний словник (початковий вар╕ант)</A>
+<B> Вгору:</B> <A NAME="tex2html1937"
+ HREF="sag.html">Linux System Administrators' Guide</A>
+<B> Назад:</B> <A NAME="tex2html1931"
+ HREF="node116.html">Коли годинник в╕дста╓</A>
+<BR>
+<BR>
+<!--End of Navigation Panel-->
+
+<H1><A NAME="SECTION001400000000000000000">&#160;</A> <A NAME="chap:measure-holes">&#160;</A>
+<BR>
+Вим╕рювання д╕рок
+</H1><FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1"></FONT></FONT></FONT>
+<P>
+<FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1">Цей додаток м╕стить ц╕каву частину програми, яка використову╓ться для
+вим╕рювання потенц╕йних д╕рок в файлових системах. Вих╕дний текст
+книжки ма╓ повний текст програми.
+(<TT>sag/measure-holes/measure-holes.c</TT>).
+</FONT></FONT></FONT></FONT></FONT>
+<P>
+<FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1"></FONT></FONT></FONT><BLOCKQUOTE><FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1"></FONT></FONT></FONT></FONT><PRE>
+int process(FILE *f, char *filename) {
+        static char *buf = NULL;
+        static long prev_block_size = -1;
+        long zeroes;
+        char *p;
+
+        if (buf == NULL || prev_block_size != block_size) {
+                free(buf);
+                buf = xmalloc(block_size + 1);
+                buf[block_size] = 1;
+                prev_block_size = block_size;
+        }
+        zeroes = 0;
+        while (fread(buf, block_size, 1, f) == 1) {
+                for (p = buf; *p == '\0'; )
+                        ++p;
+                if (p == buf+block_size)
+                        zeroes += block_size;
+        }
+        if (zeroes &gt; 0)
+                printf("%ld %s\n", zeroes, filename);
+        if (ferror(f)) {
+                errormsg(0, -1, "read failed for `%s'", filename);
+                return -1;
+        }
+        return 0;
+}
+</PRE><FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1"></FONT></FONT></FONT></FONT></BLOCKQUOTE><FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1"></FONT></FONT></FONT>
+<BR><HR>
+<ADDRESS>
+<I>Dmytro Kovalev</I>
+<BR><I>1999-06-10</I>
+</ADDRESS>
+</BODY>
+</HTML>

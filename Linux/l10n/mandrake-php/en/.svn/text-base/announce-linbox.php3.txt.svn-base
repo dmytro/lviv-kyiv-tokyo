@@ -1,0 +1,112 @@
+<? include("begin1.php3"); ?>
+SuSE Linux AG, MandrakeSoft and Linbox Inc. Join Forces
+<? include("begin2.php3"); ?>
+SuSE Linux AG, MandrakeSoft and Linbox Inc. Join Forces
+<? include("begin3.php3"); ?>
+<table>
+<tr>
+<td>
+<font face="arial, helvetica">
+<p align="justify">
+<b>February 14 2000 - SuSE Linux AG, MandrakeSoft and Linbox Inc. Join Forces to Develop Linux Network Computing</b>
+<p align="justify">
+NUREMBERG, Germany, PASADENA, USA and METZ, France - 2/14/2000 - SuSE
+Linux AG, MandrakeSoft and Linbox Inc. are joining forces to develop
+Linux Network Computing and bring it to the broadest audience. SuSE Linux
+AG, MandrakeSoft and Linbox Inc. are partnering to develop and include in
+future versions of Linux distributions the key technologies of the Linbox
+Network Architecture. All SuSE Linux and MandrakeSoft users will soon be
+able to set up efficient diskless Network Computing solutions based on
+Linux.
+<p align="justify">
+The Linbox Network Architecture is an open approach to Linux Network
+Computing based on diskless standard computers on the desktop side, such
+as the Linbox Net Station, and full featured servers, such as the Linbox
+Net Server. According to Jean Pierre Laisne', CEO of Linbox Inc., "The
+Linbox Network Architecture allows users to bring the power of Linux to
+the desktop at minimal costs while still preserving the user's investments
+in Windows or MacOS software. Diskless Linbox Net Stations can be set up
+in a matter of minutes by users with no previous skills in the Linux
+environment and require no maintenance."
+<p align="justify">
+Roland Dyroff, CEO of SuSE Linux AG adds, "We have been impressed by the
+implementation of the Linbox Network Architecture in the school of Saint
+Die' (France). After 6 months, it appears that 6 year old pupils can
+effectively use Internet and Productivity software under Linux and, at
+the same time, access legacy multimedia CD-ROMs for Windows. We have
+decided to partner with Linbox and MandrakeSoft so that all Linux users
+worldwide will be able to benefit from Linux Network Computing and the
+Linbox Network Architecture with minimal effort."
+<p align="justify">
+"MandrakeSoft will actively join SuSE Linux AG and Linbox Inc. in this
+standardization effort," says Jacques Le Marois, President of
+MandrakeSoft. "The LNA can be implemented very easily on any standard
+hardware platform without any restrictions. LNA brings to the community
+the kind a freedom one would expect for Linux Network Computing."
+<p align="justify">
+Under the joint partnership, SuSE Linux AG, MandrakeSoft and Linbox will
+form an open project which will publish the specifications of the Linbox
+Network Architecture and the required software under open source
+licensing. Development will be held by the Linbox R&D center in the
+Lorraine region, France's pioneering region for Linux and Free Software.
+All Linux users and businesses are welcome to join the LNA open project.
+<p align="justify">
+<u>About SuSE Linux AG</u>
+<br>
+SuSE, with a workforce of over 250 people, is one of the leading
+international Linux companies. SuSE has offices in Germany, the UK, Czech
+Republic, Italy and the US. SuSE Linux is used by more than 50,000
+business customers world-wide due to its stability and high quality.
+<br>
+SuSE offers an extensive palette of qualified consulting and support
+services for using Linux in a business environment, as well as commercial
+Linux software and complete Linux systems. SuSE contributes considerably
+to Linux development projects such as the Linux kernel, glibc,
+XFree86[tm], KDE, ISDN4Linux, ALSA (Advanced Linux Sound Architecture)
+and USB (Universal Serial Bus).
+<br><a href="http://www.suse.de">www.suse.de</a>
+<br>Christian Egle, +49-(0)911-7405331
+<br>ce@suse.de
+<br>SuSE is a registered trademark of SuSE Linux AG.
+<p align="justify">
+<u>About MandrakeSoft</u>
+<br>
+Born of the Internet, with offices in both USA and France, MandrakeSoft
+attributes the development of its Linux version to the contributions of
+thousands of developers throughout the world linked by the Internet. This
+world-wide effort is constantly adopted and improved by MandrakeSoft's
+own technical teams to provide one of the most complete and simple
+graphical Linux operating systems available. The company has signed a
+strategic partnership agreement with the US publisher MacMillan which
+brings Linux-Mandrake as the best selling Linux product in the US market
+according to PC Data. Linux-Mandrake is one of the most complete and easy
+to use Linux operating systems available for both servers and
+workstations and continues to be fully compatible with Red Hat Linux.
+Linux-Mandrake received the "Best Linux Product of the Year" and the
+"Best Linux-Distribution/Server" Awards at LinuxWorld Expo'99 in San
+Jose, CA.
+<br>
+
+<br>CONTACT: MandrakeSoft
+<br><a href="http://www.linux-mandrake.com">www.linux-mandrake.com</a>
+<br>Caroline Carmagnol of Alize Public Relation, 650-320-8900
+<br>caroline@alizepr.com
+<p align="justify">
+<u>About Linbox Inc.</u>
+<br>
+Linbox, inventor of the Linbox Network Architecture (LNA), is a leading
+Linux Network Computer designer. Linbox LNA technology brings 300%
+compatibility and 75% cost savings to corporate and workgroup networks.
+Linbox designed products make an exclusive use of Standard Hardware
+Components and an intensive use of Free Software with no export
+restrictions.
+<br>CONTACT: Linbox Inc.
+<br>www.linbox.com
+<br>Jean-Pierre Laisne', +33-6 86 56 16 33
+<br>jpl@linbox.com
+</p>
+</font>
+</td>
+</tr>
+</table>
+<? include("end1.php3"); ?>

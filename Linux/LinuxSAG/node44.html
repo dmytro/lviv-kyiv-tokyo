@@ -1,0 +1,233 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<!--Converted with LaTeX2HTML 98.1 release (February 19th, 1998)
+originally by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Типи розд╕л╕в диску</TITLE>
+<META NAME="description" CONTENT="Типи розд╕л╕в диску">
+<META NAME="keywords" CONTENT="linux,ukrainian,guide,sag">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<LINK REL="STYLESHEET" HREF="sag.css">
+<LINK REL="next" HREF="node45.html">
+<LINK REL="previous" HREF="node43.html">
+<LINK REL="up" HREF="node41.html">
+<LINK REL="next" HREF="node45.html">
+</HEAD>
+<BODY BGCOLOR=#FFFFFF>
+<!--Navigation Panel-->
+<A NAME="tex2html1024"
+ HREF="node45.html">
+<IMG WIDTH="37" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="next"
+ SRC="next_motif.gif"></A> 
+<A NAME="tex2html1020"
+ HREF="node41.html">
+<IMG WIDTH="26" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="up"
+ SRC="up_motif.gif"></A> 
+<A NAME="tex2html1014"
+ HREF="node43.html">
+<IMG WIDTH="63" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="previous"
+ SRC="previous_motif.gif"></A> 
+<A NAME="tex2html1022"
+ HREF="node7.html">
+<IMG WIDTH="65" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="contents"
+ SRC="contents_motif.gif"></A> 
+<A NAME="tex2html1023"
+ HREF="node120.html">
+<IMG WIDTH="43" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="index"
+ SRC="index_motif.gif"></A> 
+<BR>
+<B> Дал╕:</B> <A NAME="tex2html1025"
+ HREF="node45.html">Розд╕лення жорсткого диску на</A>
+<B> Вгору:</B> <A NAME="tex2html1021"
+ HREF="node41.html">Розд╕ли</A>
+<B> Назад:</B> <A NAME="tex2html1015"
+ HREF="node43.html">Розширен╕ та лог╕чн╕ розд╕ли</A>
+<BR>
+<BR>
+<!--End of Navigation Panel-->
+
+<H2><A NAME="SECTION00673000000000000000">
+Типи розд╕л╕в диску</A>
+</H2>
+<P>
+<FONT SIZE="+1"><FONT SIZE="+1">Таблиц╕ розд╕л╕в диску або загрузочн╕ сектори (один з яких ╓
+	MBR, а ╕нш╕ знаходяться на розширених розд╕лах) мають по одому
+	байту (тобто - один байт на кожен дисковий розд╕л - чи то
+	основний, чи то лог╕чний), в якому запису╓ться тип
+	в╕дпов╕дного розд╕лу. Це робиться для того, щоб можна було
+	визначати тип операц╕йно╖ системи, як╕й належить даний розд╕л,
+	або призначення даного розд╕лу. Мета цього - запоб╕гти
+	випадкам, коли дв╕ р╕зн╕ операц╕йн╕ системи можуть випадково
+	скористуватися одним ╕ тим же розд╕лом.  Однак, насправд╕,
+	операц╕йн╕ системи не дуже то стурбован╕ р╕зними байтами
+	розд╕л╕в. Наприклад, Л╕накс не зверта╓ на цей байт жодно╖
+	уваги. Що ще г╕рше - деяк╕ з операц╕йних систем користуються
+	цим байтом нев╕рно. Наприклад, як м╕н╕мум деяк╕ верс╕╖
+	DR-DOS'у ╕гнорують найстарший б╕т даного байту, в той час, як
+	╕нш╕ - в╕дносяться до нього з повагою.
+</FONT></FONT>
+<P>
+<FONT SIZE="+1"><FONT SIZE="+1">Жодна стандартизац╕йна ╕нстанц╕я не може вказати, яке значення
+	байту в╕дпов╕да╓ чому, але деяк╕ найб╕льш вживан╕ величини
+	приведен╕ в таблиц╕&nbsp;<A HREF="node44.html#tab:partition-ids"><IMG  ALIGN="BOTTOM" BORDER="1" ALT="[*]"
+ SRC="cross_ref_motif.gif"></A>. Ця ж сама таблиця
+	ма╓ться в команд╕ <TT>fdisk</TT><A NAME="3152">&#160;</A> Л╕накса.
+</FONT></FONT>
+<P>
+<BR>
+<DIV ALIGN="CENTER"><A NAME="2855">&#160;</A>
+<TABLE>
+<CAPTION><STRONG>Таблиця:</STRONG>
+Типи розд╕л╕в жостких диск╕в (з програми <TT>fdisk</TT><A NAME="3154">&#160;</A> Л╕накса).</CAPTION>
+<TR><TD>
+
+<DIV ALIGN="CENTER">
+<TABLE CELLPADDING=3 BORDER="1">
+<TR><TD ALIGN="RIGHT">0</TD>
+<TD ALIGN="LEFT">Empty</TD>
+<TD ALIGN="RIGHT">40</TD>
+<TD ALIGN="LEFT">Venix 80286</TD>
+<TD ALIGN="RIGHT">94</TD>
+<TD ALIGN="LEFT">Amoeba BBT</TD>
+<TD ALIGN="RIGHT">&nbsp;</TD>
+<TD ALIGN="LEFT">&nbsp;</TD>
+</TR>
+<TR><TD ALIGN="RIGHT">1</TD>
+<TD ALIGN="LEFT">DOS 12-bit FAT</TD>
+<TD ALIGN="RIGHT">51</TD>
+<TD ALIGN="LEFT">Novell?</TD>
+<TD ALIGN="RIGHT">a5</TD>
+<TD ALIGN="LEFT">BSD/386</TD>
+<TD ALIGN="RIGHT">&nbsp;</TD>
+<TD ALIGN="LEFT">&nbsp;</TD>
+</TR>
+<TR><TD ALIGN="RIGHT">2</TD>
+<TD ALIGN="LEFT">XENIX root</TD>
+<TD ALIGN="RIGHT">52</TD>
+<TD ALIGN="LEFT">Microport</TD>
+<TD ALIGN="RIGHT">b7</TD>
+<TD ALIGN="LEFT">BSDI fs</TD>
+<TD ALIGN="RIGHT">&nbsp;</TD>
+<TD ALIGN="LEFT">&nbsp;</TD>
+</TR>
+<TR><TD ALIGN="RIGHT">3</TD>
+<TD ALIGN="LEFT">XENIX usr</TD>
+<TD ALIGN="RIGHT">63</TD>
+<TD ALIGN="LEFT">GNU HURD</TD>
+<TD ALIGN="RIGHT">b8</TD>
+<TD ALIGN="LEFT">BSDI swap</TD>
+<TD ALIGN="RIGHT">&nbsp;</TD>
+<TD ALIGN="LEFT">&nbsp;</TD>
+</TR>
+<TR><TD ALIGN="RIGHT">4</TD>
+<TD ALIGN="LEFT">DOS 16-bit &lt;32M</TD>
+<TD ALIGN="RIGHT">64</TD>
+<TD ALIGN="LEFT">Novell</TD>
+<TD ALIGN="RIGHT">c7</TD>
+<TD ALIGN="LEFT">Syrinx</TD>
+<TD ALIGN="RIGHT">&nbsp;</TD>
+<TD ALIGN="LEFT">&nbsp;</TD>
+</TR>
+<TR><TD ALIGN="RIGHT">5</TD>
+<TD ALIGN="LEFT">Extended</TD>
+<TD ALIGN="RIGHT">75</TD>
+<TD ALIGN="LEFT">PC/IX</TD>
+<TD ALIGN="RIGHT">db</TD>
+<TD ALIGN="LEFT">CP/M</TD>
+<TD ALIGN="RIGHT">&nbsp;</TD>
+<TD ALIGN="LEFT">&nbsp;</TD>
+</TR>
+<TR><TD ALIGN="RIGHT">6</TD>
+<TD ALIGN="LEFT">DOS 16-bit <IMG
+  ALIGN="MIDDLE" BORDER="0"
+ SRC="img7.gif"
+ ALT="$\ge$">32M</TD>
+<TD ALIGN="RIGHT">80</TD>
+<TD ALIGN="LEFT">Old MINIX</TD>
+<TD ALIGN="RIGHT">e1</TD>
+<TD ALIGN="LEFT">DOS access</TD>
+<TD ALIGN="RIGHT">&nbsp;</TD>
+<TD ALIGN="LEFT">&nbsp;</TD>
+</TR>
+<TR><TD ALIGN="RIGHT">7</TD>
+<TD ALIGN="LEFT">OS/2 HPFS</TD>
+<TD ALIGN="RIGHT">81</TD>
+<TD ALIGN="LEFT">Linux/MINIX</TD>
+<TD ALIGN="RIGHT">e3</TD>
+<TD ALIGN="LEFT">DOS R/O</TD>
+<TD ALIGN="RIGHT">&nbsp;</TD>
+<TD ALIGN="LEFT">&nbsp;</TD>
+</TR>
+<TR><TD ALIGN="RIGHT">8</TD>
+<TD ALIGN="LEFT">AIX</TD>
+<TD ALIGN="RIGHT">82</TD>
+<TD ALIGN="LEFT">Linux swap</TD>
+<TD ALIGN="RIGHT">f2</TD>
+<TD ALIGN="LEFT">DOS secondary</TD>
+<TD ALIGN="RIGHT">&nbsp;</TD>
+<TD ALIGN="LEFT">&nbsp;</TD>
+</TR>
+<TR><TD ALIGN="RIGHT">9</TD>
+<TD ALIGN="LEFT">AIX bootable</TD>
+<TD ALIGN="RIGHT">83</TD>
+<TD ALIGN="LEFT">Linux native</TD>
+<TD ALIGN="RIGHT">ff</TD>
+<TD ALIGN="LEFT">BBT</TD>
+<TD ALIGN="RIGHT">&nbsp;</TD>
+<TD ALIGN="LEFT">&nbsp;</TD>
+</TR>
+<TR><TD ALIGN="RIGHT">a</TD>
+<TD ALIGN="LEFT">OS/2 Boot Manag</TD>
+<TD ALIGN="RIGHT">93</TD>
+<TD ALIGN="LEFT">Amoeba</TD>
+<TD ALIGN="RIGHT">&nbsp;</TD>
+<TD ALIGN="LEFT">&nbsp;</TD>
+<TD ALIGN="RIGHT">&nbsp;</TD>
+<TD ALIGN="LEFT">&nbsp;</TD>
+</TR>
+</TABLE></DIV>
+<A NAME="tab:partition-ids">&#160;</A></TD></TR>
+</TABLE>
+</DIV>
+<BR>
+<P>
+<HR>
+<!--Navigation Panel-->
+<A NAME="tex2html1024"
+ HREF="node45.html">
+<IMG WIDTH="37" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="next"
+ SRC="next_motif.gif"></A> 
+<A NAME="tex2html1020"
+ HREF="node41.html">
+<IMG WIDTH="26" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="up"
+ SRC="up_motif.gif"></A> 
+<A NAME="tex2html1014"
+ HREF="node43.html">
+<IMG WIDTH="63" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="previous"
+ SRC="previous_motif.gif"></A> 
+<A NAME="tex2html1022"
+ HREF="node7.html">
+<IMG WIDTH="65" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="contents"
+ SRC="contents_motif.gif"></A> 
+<A NAME="tex2html1023"
+ HREF="node120.html">
+<IMG WIDTH="43" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="index"
+ SRC="index_motif.gif"></A> 
+<BR>
+<B> Дал╕:</B> <A NAME="tex2html1025"
+ HREF="node45.html">Розд╕лення жорсткого диску на</A>
+<B> Вгору:</B> <A NAME="tex2html1021"
+ HREF="node41.html">Розд╕ли</A>
+<B> Назад:</B> <A NAME="tex2html1015"
+ HREF="node43.html">Розширен╕ та лог╕чн╕ розд╕ли</A>
+<!--End of Navigation Panel-->
+<ADDRESS>
+<I>Dmytro Kovalev</I>
+<BR><I>1999-06-10</I>
+</ADDRESS>
+</BODY>
+</HTML>

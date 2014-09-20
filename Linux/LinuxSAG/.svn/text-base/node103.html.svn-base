@@ -1,0 +1,123 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<!--Converted with LaTeX2HTML 98.1 release (February 19th, 1998)
+originally by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Про важлив╕сть мати резервн╕ коп╕╖</TITLE>
+<META NAME="description" CONTENT="Про важлив╕сть мати резервн╕ коп╕╖">
+<META NAME="keywords" CONTENT="linux,ukrainian,guide,sag">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<LINK REL="STYLESHEET" HREF="sag.css">
+<LINK REL="next" HREF="node104.html">
+<LINK REL="previous" HREF="node102.html">
+<LINK REL="up" HREF="node102.html">
+<LINK REL="next" HREF="node104.html">
+</HEAD>
+<BODY BGCOLOR=#FFFFFF>
+<!--Navigation Panel-->
+<A NAME="tex2html1772"
+ HREF="node104.html">
+<IMG WIDTH="37" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="next"
+ SRC="next_motif.gif"></A> 
+<A NAME="tex2html1768"
+ HREF="node102.html">
+<IMG WIDTH="26" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="up"
+ SRC="up_motif.gif"></A> 
+<A NAME="tex2html1762"
+ HREF="node102.html">
+<IMG WIDTH="63" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="previous"
+ SRC="previous_motif.gif"></A> 
+<A NAME="tex2html1770"
+ HREF="node7.html">
+<IMG WIDTH="65" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="contents"
+ SRC="contents_motif.gif"></A> 
+<A NAME="tex2html1771"
+ HREF="node120.html">
+<IMG WIDTH="43" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="index"
+ SRC="index_motif.gif"></A> 
+<BR>
+<B> Дал╕:</B> <A NAME="tex2html1773"
+ HREF="node104.html">Виб╕р нос╕╖в для створення</A>
+<B> Вгору:</B> <A NAME="tex2html1769"
+ HREF="node102.html">Резервн╕ коп╕╖</A>
+<B> Назад:</B> <A NAME="tex2html1763"
+ HREF="node102.html">Резервн╕ коп╕╖</A>
+<BR>
+<BR>
+<!--End of Navigation Panel-->
+
+<H1><A NAME="SECTION001210000000000000000">
+Про важлив╕сть мати резервн╕ коп╕╖</A>
+</H1><FONT SIZE="+1"><FONT SIZE="+1"></FONT></FONT>
+<P>
+<FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1">Ваш╕ дан╕ важлив╕. ╥х в╕дновлення буде варте Вашого часу ╕
+	зусиль, а це - варте грошей, або, як м╕н╕мум, власниих
+	переживань та сл╕з. Деяк╕ дан╕ неможливо створити заново,
+	наприклад, якщо це - результати якогось експерименту. Оск╕льки
+	це - вкладення кап╕талу, Ви ма╓те ╖х захищати та намагатися не
+	загубити. 
+</FONT></FONT></FONT></FONT>
+<P>
+<FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1">Ви можете загубити сво╖ дан╕ в основному з чотирьох причин:
+	з╕псована апаратура, помилки в програмах, д╕╖ людей та
+	природн╕ лиха.<A NAME="tex2html175"
+ HREF="footnode.html#foot6815"><SUP>165</SUP></A>
+	Хоча сучасна апаратура ста╓ все б╕льш над╕йною, вона все таки
+	може псуватися, як ╕нколи зда╓ться, неспод╕вано. Найб╕льш
+	важлив╕ для збереження даних пристро╖ - це жорстк╕ диски, як╕
+	залежать в╕д невидимих, крих╕тних магн╕тних пол╕в ╕ живуть в
+	св╕т╕ переповненому електромагн╕тними шумами. Сучасн╕ програми
+	нав╕ть ╕ не намагаються бути над╕йними. Зал╕зобетонно-над╕йн╕
+	програми в сучасному св╕т╕ - це виключення, а не правило. Люди
+	досить ненад╕йн╕, вони або роблять помилки, або, будучи
+	п╕длими по натур╕, просто навмисне псують дан╕. Природа, може
+	нав╕ть ╕ не диявольска по сво╖й натур╕, але може приносити
+	сюрпризи нав╕ть коли вона чудова та лаг╕дна. Беручи все це до
+	уваги, залиша╓ться т╕льки дивуватися, як все оце ще дос╕
+	працю╓.
+</FONT></FONT></FONT></FONT>
+<P>
+<FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1">Створення резервних коп╕й - це шлях до збереження вкладеного в
+	створення даних кап╕талу. Маючи к╕лька резервних коп╕й Ви можете не
+	турбуватися про те, ск╕льки даних (який ╖х в╕дсоток)
+	знищено. Варт╕сть повернення даних буде всього навсього
+	варт╕стю в╕дновлення даних з резервно╖ коп╕╖. 
+</FONT></FONT></FONT></FONT>
+<P>
+<FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1">Найб╕льш важливим ╓ робити резервування даних в╕рно. Так само,
+	як ╕ на все ╕нше, на це вплива╓ повсякденне життя, ╕ тому рано
+	чи п╕зно резервна коп╕я з╕псу╓ться. Частиною роботи з
+	резервування ╓ перев╕рка, що резервн╕ коп╕╖ працюють. Напевно
+	б п╕д час в╕дновлення даних Вам не хот╕лося д╕знатися, що Ваше
+	резервування не працювало<A NAME="tex2html176"
+ HREF="footnode.html#foot6816"><SUP>166</SUP></A> Нав╕ть б╕льше того, найжахлив╕ший крах може
+	статися якраз п╕д час створення резервних коп╕й. Якщо у Вас ╓
+	один нос╕й для резервування, може виявитися, що цей нос╕й
+	з╕псований, ╕ Ви опиня╓тесь на попелищ╕, залишеному на м╕сц╕
+	важко╖ роботи.<A NAME="tex2html177"
+ HREF="footnode.html#foot6817"><SUP>167</SUP></A> Або,
+	в╕дновлюючи що-небудь з резервно╖ коп╕╖, може раптом
+	виявитися, що щось дуже важливе, щось таке, наприклад, як база
+	даних сервера на 15&nbsp;000&nbsp;користувач╕в, залишилося не
+	заарх╕вованим. ╤ що ще краще, вс╕ Ваш╕ коп╕╖ можуть
+	працювати бездоганно, але саме той прив╕д стр╕чки, яким Ви
+	користувалися, був ╓диним в сво╓му род╕ ╕ сто╖ть тепер
+	наповнений по в╕нця водою.
+</FONT></FONT></FONT></FONT>
+<P>
+<FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1">Коли Ви почина╓те планувати створення резевних коп╕й, то
+	паранойя ╓ необх╕дним станом душ╕.
+</FONT></FONT></FONT></FONT>
+<P>
+<FONT SIZE="+1"><FONT SIZE="+1"></FONT></FONT>
+<BR><HR>
+<ADDRESS>
+<I>Dmytro Kovalev</I>
+<BR><I>1999-06-10</I>
+</ADDRESS>
+</BODY>
+</HTML>

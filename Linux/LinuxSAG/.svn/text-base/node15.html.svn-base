@@ -1,0 +1,124 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<!--Converted with LaTeX2HTML 98.1 release (February 19th, 1998)
+originally by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>init</TITLE>
+<META NAME="description" CONTENT="init">
+<META NAME="keywords" CONTENT="linux,ukrainian,guide,sag">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<LINK REL="STYLESHEET" HREF="sag.css">
+<LINK REL="next" HREF="node16.html">
+<LINK REL="previous" HREF="node14.html">
+<LINK REL="up" HREF="node14.html">
+<LINK REL="next" HREF="node16.html">
+</HEAD>
+<BODY BGCOLOR=#FFFFFF>
+<!--Navigation Panel-->
+<A NAME="tex2html640"
+ HREF="node16.html">
+<IMG WIDTH="37" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="next"
+ SRC="next_motif.gif"></A> 
+<A NAME="tex2html636"
+ HREF="node14.html">
+<IMG WIDTH="26" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="up"
+ SRC="up_motif.gif"></A> 
+<A NAME="tex2html630"
+ HREF="node14.html">
+<IMG WIDTH="63" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="previous"
+ SRC="previous_motif.gif"></A> 
+<A NAME="tex2html638"
+ HREF="node7.html">
+<IMG WIDTH="65" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="contents"
+ SRC="contents_motif.gif"></A> 
+<A NAME="tex2html639"
+ HREF="node120.html">
+<IMG WIDTH="43" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="index"
+ SRC="index_motif.gif"></A> 
+<BR>
+<B> Дал╕:</B> <A NAME="tex2html641"
+ HREF="node16.html">Ре╓страц╕я з терм╕нал╕в (login)</A>
+<B> Вгору:</B> <A NAME="tex2html637"
+ HREF="node14.html">Основн╕ послуги в систем╕</A>
+<B> Назад:</B> <A NAME="tex2html631"
+ HREF="node14.html">Основн╕ послуги в систем╕</A>
+<BR>
+<BR>
+<!--End of Navigation Panel-->
+
+<H2><A NAME="SECTION00431000000000000000">&#160;</A><A NAME="849">&#160;</A>
+<BR>
+<TT>init</TT>
+</H2>
+<P>
+<FONT SIZE="+1"><FONT SIZE="+1">Найперша ╕ найважлив╕ша послуга в Юн╕кс╕ нада╓ться процесом
+	<TT>init</TT><A NAME="851">&#160;</A>.  <TT>init</TT><A NAME="853">&#160;</A> ╓ першим процесом в кожн╕й систем╕
+	Юн╕кс, ╕ старт <TT>init</TT><A NAME="855">&#160;</A> ╓ останн╕м кроком, який викону╓
+	ядро, коли воно загружа╓ться. П╕сля свого старту <TT>init</TT><A NAME="857">&#160;</A>
+	продовже╓ процес загрузки системи, виконуючи р╕зноман╕тн╕
+	задач╕, потр╕бн╕ при старт╕ системи, так╕ як перев╕рка та
+	монтування файлових систем, старт демон╕в (фонових процес╕в),
+	тощо.
+</FONT></FONT>
+<P>
+<FONT SIZE="+1"><FONT SIZE="+1"><A NAME="677">&#160;</A>
+<A NAME="678">&#160;</A>
+<A NAME="679">&#160;</A>
+</FONT></FONT>
+<P>
+<FONT SIZE="+1"><FONT SIZE="+1">Точний список тих крок╕в, як╕ робляться <TT>init</TT><A NAME="859">&#160;</A>'ом
+	насправд╕ залежить в╕д того, до якого типу в╕н в╕дноситься. ╢
+	к╕лька р╕зноман╕тностей доступних для вибору. <TT>init</TT><A NAME="861">&#160;</A> як
+	звичайно забезпечу╓ <B>однокористувацький
+	режим</B><A NAME="tex2html10"
+ HREF="footnode.html#foot863"><SUP>9</SUP></A>, в якому н╕хто не може
+	заре╓струватися в систему ╕ користувач <TT>root</TT><A NAME="869">&#160;</A> користу╓ться
+	командною оболонкою на системн╕й консол╕; звичайний режим
+	роботи ма╓ назву <B>багатокористувацького
+	режиму</B><A NAME="tex2html11"
+ HREF="footnode.html#foot871"><SUP>10</SUP></A>. Деяк╕ верс╕╖ Юн╕кс╕в
+	узагальнюють ц╕ поняття п╕д назвою <B>``робочих р╕вн╕в''</B>
+	<A NAME="tex2html12"
+ HREF="footnode.html#foot877"><SUP>11</SUP></A>, при цьому одно- та багато- користувацьк╕ режими
+	розглядаються як два окремих робочих р╕вн╕. Кр╕м цього можуть
+	бути також ╕нш╕, як, наприклад, р╕вень, в якому запуска╓ться X
+	на системн╕й консол╕<A NAME="tex2html13"
+ HREF="footnode.html#foot882"><SUP>12</SUP></A>.
+</FONT></FONT>
+<P>
+<FONT SIZE="+1"><FONT SIZE="+1"><A NAME="690">&#160;</A>
+<A NAME="691">&#160;</A>
+<A NAME="692">&#160;</A>
+<A NAME="693">&#160;</A>
+</FONT></FONT>
+<P>
+<FONT SIZE="+1"><FONT SIZE="+1">При звичайн╕й робот╕ <TT>init</TT><A NAME="888">&#160;</A> забезпечу╓ роботу <TT>getty</TT><A NAME="890">&#160;</A>,
+	як╕ дозволяють користувачам заре╓струватися в систем╕ та
+	``всиновлю╓'' процеси-сироти (т╕ процеси, батьки яких, тобто
+	т╕ процеси в╕д яких вони породилися, вже померли
+	(завершилися); в Юн╕кс╕ <EM>вс╕</EM> процеси <EM>повинн╕</EM> бути
+	в ╓диному дерев╕, тобто вс╕х сирот потр╕бно всиновити.)
+</FONT></FONT>
+<P>
+<FONT SIZE="+1"><FONT SIZE="+1">П╕д час вимкнення системи, це саме <TT>init</TT><A NAME="892">&#160;</A> займа╓ться тим, що
+	вбива╓ вс╕ ╕нш╕ процеси, в╕дмонтову╓ вс╕ файлов╕ системи та
+	зупиня╓ процесор. ╤ <TT>init</TT><A NAME="894">&#160;</A> робить все це паралельно з ус╕ма
+	╕ншими функц╕ями, на як╕ ще окр╕м цього в╕н був сконф╕╜урований.
+</FONT></FONT>
+<P>
+<FONT SIZE="+1"><FONT SIZE="+1"><A NAME="700">&#160;</A>
+<A NAME="701">&#160;</A>
+<A NAME="702">&#160;</A>
+</FONT></FONT>
+<P>
+<BR><HR>
+<ADDRESS>
+<I>Dmytro Kovalev</I>
+<BR><I>1999-06-10</I>
+</ADDRESS>
+</BODY>
+</HTML>

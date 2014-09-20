@@ -1,0 +1,133 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<!--Converted with LaTeX2HTML 98.1 release (February 19th, 1998)
+originally by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Ре╓страц╕я в систем╕ через терм╕нали</TITLE>
+<META NAME="description" CONTENT="Ре╓страц╕я в систем╕ через терм╕нали">
+<META NAME="keywords" CONTENT="linux,ukrainian,guide,sag">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<LINK REL="STYLESHEET" HREF="sag.css">
+<LINK REL="next" HREF="node87.html">
+<LINK REL="previous" HREF="node85.html">
+<LINK REL="up" HREF="node85.html">
+<LINK REL="next" HREF="node87.html">
+</HEAD>
+<BODY BGCOLOR=#FFFFFF>
+<!--Navigation Panel-->
+<A NAME="tex2html1552"
+ HREF="node87.html">
+<IMG WIDTH="37" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="next"
+ SRC="next_motif.gif"></A> 
+<A NAME="tex2html1548"
+ HREF="node85.html">
+<IMG WIDTH="26" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="up"
+ SRC="up_motif.gif"></A> 
+<A NAME="tex2html1542"
+ HREF="node85.html">
+<IMG WIDTH="63" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="previous"
+ SRC="previous_motif.gif"></A> 
+<A NAME="tex2html1550"
+ HREF="node7.html">
+<IMG WIDTH="65" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="contents"
+ SRC="contents_motif.gif"></A> 
+<A NAME="tex2html1551"
+ HREF="node120.html">
+<IMG WIDTH="43" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="index"
+ SRC="index_motif.gif"></A> 
+<BR>
+<B> Дал╕:</B> <A NAME="tex2html1553"
+ HREF="node87.html">Ре╓страц╕я в систем╕ через</A>
+<B> Вгору:</B> <A NAME="tex2html1549"
+ HREF="node85.html">Ре╓страц╕я в систем╕ та</A>
+<B> Назад:</B> <A NAME="tex2html1543"
+ HREF="node85.html">Ре╓страц╕я в систем╕ та</A>
+<BR>
+<BR>
+<!--End of Navigation Panel-->
+
+<H1><A NAME="SECTION001010000000000000000">
+Ре╓страц╕я в систем╕ через терм╕нали</A>
+</H1><FONT SIZE="+1"></FONT>
+<P>
+<FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1">На рис.&nbsp;<A HREF="node86.html#fig:terminal-logins"><IMG  ALIGN="BOTTOM" BORDER="1" ALT="[*]"
+ SRC="cross_ref_motif.gif"></A> показано, що саме
+	в╕дбува╓ться при ре╓страц╕╖ користувач╕в з терм╕налу. Перш
+	за все <TT>init</TT><A NAME="6149">&#160;</A> перев╕ря╓, чи ╓ програма <TT>getty</TT><A NAME="6151">&#160;</A> для
+	з'╓днання з терм╕налом (чи консоллю). <TT>getty</TT><A NAME="6153">&#160;</A> сидить на
+	терм╕нал╕ ╕ слуха╓, чека╓ поки користувач пов╕домить про те,
+	що в╕н готовий для ре╓страц╕╖ в систем╕ (зм╕ст ц╕╓╖ фрази
+	просто означа╓, що користувач повинен надрукувати
+	що-небудь). Коли <TT>getty</TT><A NAME="6155">&#160;</A> пом╕тить, що користувач вв╕в щось
+	з клав╕атури, в╕н виводить на екран прив╕тання з файлу
+	<TT>/etc/issue</TT><A NAME="6157">&#160;</A>, просить користувача ввести ╕м'я ╕ врешт╕-решт
+	запуска╓ програму <TT>login</TT><A NAME="6159">&#160;</A>.  <TT>login</TT><A NAME="6161">&#160;</A>'у переда╓ться
+	параметром ╕м'я користувача ╕ в╕н, в свою чергу, попросить
+	користувача ввести пароль для входу в систему. Якщо ╕м'я ╕
+	пароль в╕дпов╕дають один одному, <TT>login</TT><A NAME="6163">&#160;</A> переда╓
+	управл╕ння командн╕й оболонц╕, яка вказана для користувача в
+	<TT>/etc/passwd</TT><A NAME="6165">&#160;</A>, якщо ж н╕ - просто зак╕нчу╓ свою роботу
+	(можливо давши користувачев╕ ще один шанс спробувати з
+	паролем). П╕сля цього <TT>init</TT><A NAME="6167">&#160;</A> пом╕ча╓, що терм╕нал
+	зв╕льнився ╕ старту╓ новий <TT>getty</TT><A NAME="6169">&#160;</A> на цьому терм╕нал╕.
+</FONT></FONT></FONT>
+<P>
+<FONT SIZE="+1"></FONT>
+<BR>
+<DIV ALIGN="CENTER"><A NAME="fig:terminal-logins">&#160;</A><A NAME="6139">&#160;</A>
+<TABLE WIDTH="50%">
+<CAPTION><STRONG>Рисунок:</STRONG>
+Вх╕д в систему через терм╕нал: вза╓мод╕я  <TT>init</TT><A NAME="6171">&#160;</A>, <TT>getty</TT><A NAME="6173">&#160;</A>,
+	<TT>login</TT><A NAME="6175">&#160;</A> та командно╖ оболонки.</CAPTION>
+<TR><TD>
+<DIV ALIGN="CENTER">
+
+<!-- MATH: $\includegraphics{logins/logins-via-terminals.ps}$ -->
+<IMG
+  ALIGN="BOTTOM" BORDER="0"
+ SRC="img12.gif"
+ ALT="\includegraphics{logins/logins-via-terminals.ps}"></DIV></TD></TR>
+</TABLE>
+</DIV>
+<BR><FONT SIZE="+1"></FONT>
+<P>
+<FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1">В╕дм╕тимо, що ╓диний новий процес при цьому - це той, який
+	створений <TT>init</TT><A NAME="6177">&#160;</A>'ом (за допомогою системно╖ функц╕╖
+	<TT>fork</TT><A NAME="6179">&#160;</A>), а <TT>getty</TT><A NAME="6181">&#160;</A> та <TT>login</TT><A NAME="6183">&#160;</A> т╕льки зам╕нюють
+	програму, що працювала до них (за допомогою системно╖ функц╕╖
+	<TT>ecxec</TT><A NAME="6185">&#160;</A>).
+</FONT></FONT></FONT>
+<P>
+<FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1">Для того, щоб пом╕тити вх╕д користувача в систему потр╕бна
+	окрема програма на кожному посл╕довному порт╕, оск╕льки
+	пом╕тити активн╕сть на посл╕довн╕й л╕н╕╖ може бути досить
+	складно. Кр╕м того, швидк╕сть передач╕ та ╕нш╕ параметри, як╕
+	дуже важлив╕ для телефонних л╕н╕й, можуть зм╕нюватися в╕д
+	дзв╕нка до дзв╕нка, ╕ тому <TT>getty</TT><A NAME="6187">&#160;</A> пристосову╓ться до
+	властивостей посл╕довного порта.
+</FONT></FONT></FONT>
+<P>
+<FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1">╤сну╓ к╕лька верс╕й <TT>getty</TT><A NAME="6189">&#160;</A> та <TT>init</TT><A NAME="6191">&#160;</A>, кожна з яких
+	ма╓ як сво╖ позитивн╕, так ╕ негативн╕ якост╕.  Д╕знатйтеся
+	про верс╕╖, встановлен╕ саме в Ваш╕й систем╕, але корисно
+	знати також ╕ про ╕нш╕ верс╕╖ (можна скористуватися мапою
+	програмного забезпечення Л╕накса для пошуку потр╕бних
+	програм). Якщо Ви не користу╓тесь телефонними каналами чи
+	посл╕довними л╕н╕ями зв'язку для п╕д'╓днання до ╕нших систем
+	чи ╤нтернету, то скор╕ше всього Вам нема про що турбуватися в
+	в╕дношенн╕ <TT>getty</TT><A NAME="6193">&#160;</A>, але про <TT>init</TT><A NAME="6195">&#160;</A> все-таки корисно
+	дещо знати.
+</FONT></FONT></FONT>
+<P>
+<FONT SIZE="+1"></FONT>
+<BR><HR>
+<ADDRESS>
+<I>Dmytro Kovalev</I>
+<BR><I>1999-06-10</I>
+</ADDRESS>
+</BODY>
+</HTML>

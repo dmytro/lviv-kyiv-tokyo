@@ -1,0 +1,94 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: grpmi VERSION\n"
+"POT-Creation-Date: 1999-10-26 01:56+0200\n"
+"PO-Revision-Date: 1999-27-10 18:33+0900\n"
+"Last-Translator: Dmytro Koval'ov <kov@tokyo.email.ne.jp>\n"
+"Language-Team: Ukrainian <kov@tokyo.email.ne.jp>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=koi8-u\n"
+"Content-Transfer-Encoding: koi8-u\n"
+
+#: grpmi.c:40
+msgid "Installing/Upgrading Progress"
+msgstr "Просування установки/поновлення"
+
+#: grpmi.c:64 grpmi.c:165
+msgid "Fetching:"
+msgstr "Читаю:"
+
+#: grpmi.c:70 grpmi.c:214
+msgid "Installing:"
+msgstr "Встановлюю:"
+
+#. Cancel button
+#: grpmi.c:83
+msgid "Cancel"
+msgstr "В╕дм╕нити"
+
+#: grpmi.c:136
+#, c-format
+msgid " is needed by %s-%s-%s"
+msgstr " потр╕бен для %s-%s-%s"
+
+#: grpmi.c:139
+#, c-format
+msgid " conflicts with %s-%s-%s"
+msgstr " конфл╕кту╓ з %s-%s-%s"
+
+#: grpmi.c:170 grpmi.c:189
+msgid "An error occured while fetching file"
+msgstr "Сталася помилка п╕д час читання файлу"
+
+#: grpmi.c:170 grpmi.c:189 grpmi.c:249 grpmi.c:253 grpmi.c:255
+msgid "Skip"
+msgstr "Пропустити"
+
+#: grpmi.c:236
+msgid "Preparing for install"
+msgstr "Готуюсь до установки"
+
+#: grpmi.c:249
+msgid "Can't open package"
+msgstr "Не можу в╕дкрити пакет"
+
+#: grpmi.c:253
+msgid "Package is corrupted"
+msgstr "Пакет з╕псований"
+
+#: grpmi.c:255
+msgid "Package can't be installed"
+msgstr "Не можу встановити пакет"
+
+#: grpmi.c:271 grpmi.c:277
+msgid "Error while checking dependencies :("
+msgstr "Помилка при перев╕рц╕ залежностей :("
+
+#: grpmi.c:271 grpmi.c:273 grpmi.c:277
+msgid "Quit"
+msgstr "Вих╕д"
+
+#: grpmi.c:273
+msgid "Force"
+msgstr "Примусово"
+
+#: grpmi.c:274 grpmi.c:285
+msgid "Error..."
+msgstr "Помилка..."
+
+#: grpmi.c:280
+msgid "Ok"
+msgstr "Так"
+
+#: grpmi.c:308
+msgid "grpmi error: you must be superuser!\n"
+msgstr "помилка grpmi: Ви повинн╕ мати прив╕ле╖ системного адм╕н╕стратора!\n"
+
+#: grpmi.c:315
+msgid "usage: grpmi <[-noupgrade] rpms>\n"
+msgstr "Використання: grpmi <[-noupgrade] rpm'и>\n"
+

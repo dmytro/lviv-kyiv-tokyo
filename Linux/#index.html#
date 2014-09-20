@@ -1,0 +1,774 @@
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<html> <head>
+<title>Lviv - Kyiiv Tokyo: Computer corner</title>
+</head>
+<BODY BGCOLOR="WHITE" background="../images/mulch_b.png">
+<p>&nbsp;
+
+ <!--  page header table -->
+<a name="top">&nbsp;</a>
+ <TABLE
+   VALIGN=CENTER
+   BORDER=0
+   WIDTH=100%
+   CELLSPACING=0
+   CELLPADDING=0> 
+   <TR> <TD   BGCOLOR="DARKGREEN" WIDTH=90%>
+     <FONT COLOR="YELLOW"><H1 ALIGN=CENTER>Наш комп'ютерний куточок</H1></FONT>
+     <TR><TD> &nbsp; 
+ </TABLE>
+<!--  page header table -->
+<TABLE  ALIGN=LEFT
+  BORDER=0
+  WIDTH=60%
+  CELLSPACING=0
+  CELLPADDING=0> 
+    <TR><TD BGCOLOR="DARKGREEN"> &nbsp; 
+  <TR> <TD   BGCOLOR="DARKGREEN" WIDTH=90%>
+    <FONT COLOR="YELLOW"><H3 ALIGN=CENTER>В сьогодн╕шньому випуску:
+    </H></FONT>
+    <TR><TD BGCOLOR="DARKGREEN"> &nbsp; 
+</TABLE>
+<BR CLEAR>
+<BR CLEAR>
+
+ <table
+   border="0" 
+   width="45%" 
+   cellpadding="5" 
+   cellspacing="0" 
+   bgcolor="DARKGREEN"
+ >
+   	<tr><td><a href="#1"><font color="yellow">Застосування укра╖нських PostScript шрифт╕в в Л╕накс╕ (Ukrainian Type1PostScript HOWTO)</font></a>
+ </td>
+</tr>
+</table>
+<BR CLEAR>
+ <table
+   border="0" 
+   width="45%" 
+   cellpadding="5" 
+   cellspacing="0" 
+   bgcolor="DARKGREEN"
+ >
+   	<tr><td><a href="#2"><font color="yellow">П╕дручник системного адм╕н╕стратора Л╕накса</font></a>
+ </td>
+</tr>
+</table>
+<BR CLEAR>
+ <table
+   border="0" 
+   width="45%" 
+   cellpadding="5" 
+   cellspacing="0" 
+   bgcolor="DARKGREEN"
+ >
+   	<tr><td><a href="#3"><font color="yellow">Комп╕ляц╕я ядра для Л╕накса верс╕╖ 2.2</font></a>
+ </td>
+</tr>
+</table>
+<BR CLEAR>
+ <table
+   border="0" 
+   width="45%" 
+   cellpadding="5" 
+   cellspacing="0" 
+   bgcolor="DARKGREEN"
+ >
+   	<tr><td><a href="#4"><font color="yellow">Електронна пошта укра╖нською мовою</font></a>
+ </td>
+</tr>
+</table>
+<BR CLEAR>
+ <table
+   border="0" 
+   width="45%" 
+   cellpadding="5" 
+   cellspacing="0" 
+   bgcolor="DARKGREEN"
+ >
+   	<tr><td><a href="#5"><font color="yellow">Проект розробки комп'ютерного словника сл╕в укра╖нсько╖ мови</font></a>
+ </td>
+</tr>
+</table>
+<BR CLEAR>
+ <table
+   border="0" 
+   width="45%" 
+   cellpadding="5" 
+   cellspacing="0" 
+   bgcolor="DARKGREEN"
+ >
+   	<tr><td><a href="#6"><font color="yellow">Застосування укра╖нсько╖ мови в GNU Emacs та XEmacs</font></a>
+ </td>
+</tr>
+</table>
+<BR CLEAR>
+ <table
+   border="0" 
+   width="45%" 
+   cellpadding="5" 
+   cellspacing="0" 
+   bgcolor="DARKGREEN"
+ >
+   	<tr><td><a href="#7"><font color="yellow">Перл для непрограм╕ст╕в</font></a>
+ </td>
+</tr>
+</table>
+<BR CLEAR>
+ <table
+   border="0" 
+   width="45%" 
+   cellpadding="5" 
+   cellspacing="0" 
+   bgcolor="DARKGREEN"
+ >
+   	<tr><td><a href="#8"><font color="yellow">Б╕льш, н╕ж стандартний редактор (VI)</font></a>
+ </td>
+</tr>
+</table>
+<BR CLEAR>
+ <table
+   border="0" 
+   width="45%" 
+   cellpadding="5" 
+   cellspacing="0" 
+   bgcolor="DARKGREEN"
+ >
+   	<tr><td><a href="#9"><font color="yellow">Програма ФОТОАЛЬБОМ (download)</font></a>
+ </td>
+</tr>
+</table>
+<BR CLEAR>
+ <table
+   border="0" 
+   width="45%" 
+   cellpadding="5" 
+   cellspacing="0" 
+   bgcolor="DARKGREEN"
+ >
+   	<tr><td><a href="#10"><font color="yellow">Локал╕зац╕я Л╕накса</font></a>
+ </td>
+</tr>
+</table>
+<BR CLEAR>
+ <table
+   border="0" 
+   width="45%" 
+   cellpadding="5" 
+   cellspacing="0" 
+   bgcolor="DARKGREEN"
+ >
+   	<tr><td><a href="#11"><font color="yellow">Н╕ те, н╕ се</font></a>
+ </td>
+</tr>
+</table>
+<BR CLEAR>
+   <!-- ЗОВН╤ШНЯ ТАбЛИЦЯ РОЗ╤ЛУ -->    <!-- copy start -->
+ <TABLE
+   COLUMNS=2
+   BORDER=0
+   WIDTH=90%
+   CELLSPACING=0
+   CELLPADDING=0>
+   <TR>
+     <TD>&nbsp;</TD>
+     <TD WIDTH=40%>
+       <!-- внутр╕шня таблиця заголовку -->
+     <TABLE
+       WIDTH=100%
+       COLUMNS=2
+       BORDER=0
+       CELLSPACING=0
+       CELLPADDING=5 BGCOLOR="DARKGREEN">
+     
+       <TR>
+ 	<TH BGCOLOR="DARKGREEN"> <a name="1"><a href="./Type1HOWTO/index.html"><FONT COLOR="white"> <!-- chap -->
+ 	                                               <!-- header -->Застосування укра╖нських PostScript шрифт╕в в Л╕накс╕ (Ukrainian Type1PostScript HOWTO) </a>	</font></a></TD></TR></TABLE>
+   <TR><TD COLSPAN=2>
+       <TABLE
+ 	BORDER=0
+ 	CELLPADDING=4
+ 	CELLSPACING=0
+ 	BGCLOLOR="DARKGREEN"
+ 	WIDTH=100%
+ 	>
+ 	<TR><TD BGCOLOR=DARKGREEN>
+         <TABLE BORDER=0 WIDTH=100% CELLSPACING=0 CELLPADDING=5> 
+ 	<TR><TD BGCOLOR=WHITE>                                 <!-- chapter --> Середовища вс╕х Юн╕кс╕в (╕ Л╕накса на жаль в тому числ╕) не
+	  надзвичайно багат╕ на кирил╕чн╕ шрифти (як на кирил╕чн╕ взагал╕, так
+	  ╕ на укра╖нськ╕ тим паче).<p>
+	  
+	  Б╕льш╕сть доступних на ╤нтернет╕ ресурс╕в згадують т╕льки матричн╕
+	  шрифти типу PCF або BDF. Як т╕ так ╕ ╕нш╕ шрифти дозволяють читати
+	  на екран╕ тексти укра╖нською мовою, але шрифти обох тип╕в не дають
+	  можливост╕ друкувати укра╖нською мовою тексти на друкарських
+	  пристроях. Матричн╕ шрифти для X Window в б╕льшост╕ випадк╕в
+	  створен╕ в одн╕й ╓дин╕й кодов╕й таблиц╕ KOI8, ╕ таким чином,
+	  користувач не ма╓ можливост╕ читати чи друкувати в ╕нших кодових
+	  таблицях не маючи ╕нших спец╕альних засоб╕в, що дозволяють
+	  перекодовувати так чи ╕накше з одн╕╓╖ в ╕ншу кодову таблицю.<p>
+	  
+	  В той же час ╕сну╓ величезна к╕льк╕сть шрифт╕в для укра╖нсько╖ мови,
+	  що застосовуються в операц╕йних системах MacOS (Macintosh) та MS
+	  Windows. Вважаючи на те, що в обох операц╕йних системах матричн╕
+	  шрифти вже практично не використовуються, можна вважати, що
+	  практична б╕льш╕сть наявних шрифт╕в ╓ в формат╕ або PostScript, або
+	  ж TrueType. З часом формат TrueType завойову╓ все б╕льшу ╕ б╕льшу
+	  частину комп'ютерних систем. <p>
+	  
+	  Отже, можна сказати, що задача поляга╓ т╕льки в можливост╕ адаптац╕╖
+	  ╕снуючо╖ бази шрифт╕в до X Window. В╕дзначимо, що це стосу╓ться не
+	  т╕льки Л╕накса, а ╕ будь-яко╖ системи X11, що працю╓ на практично
+	  будь-якому сучасному Юн╕кс╕.
+	  
+	  Хоча TrueType ма╓ сво╖ переваги перед PostScript, але останн╕
+	  набагато прост╕ше встановлювати та використовувати в X Window. Тому
+	  даний матер╕ал поясню╓ конвертування шрифт╕в типу True Type в шрифти
+	  формату PostScript Type1 та процедуру встановлення шрифт╕в в
+	  середовищ╕ X Window.
+ 	  <p>
+ 	  &nbsp;
+<a href="#top"><img src="arrow.marble.down.png" border="0" alt="To the top of page"></a>
+     </TABLE>
+     </TABLE>
+     <TR>
+ </TABLE>
+ <BR CLEAR>
+ <!-- copy end -->
+   <!-- ЗОВН╤ШНЯ ТАбЛИЦЯ РОЗ╤ЛУ -->    <!-- copy start -->
+ <TABLE
+   COLUMNS=2
+   BORDER=0
+   WIDTH=90%
+   CELLSPACING=0
+   CELLPADDING=0>
+   <TR>
+     <TD>&nbsp;</TD>
+     <TD WIDTH=40%>
+       <!-- внутр╕шня таблиця заголовку -->
+     <TABLE
+       WIDTH=100%
+       COLUMNS=2
+       BORDER=0
+       CELLSPACING=0
+       CELLPADDING=5 BGCOLOR="DARKGREEN">
+     
+       <TR>
+ 	<TH BGCOLOR="DARKGREEN"> <a name="2"><a href="./LinuxSAG/index.html"><FONT COLOR="white"> <!-- chap -->
+ 	                                               <!-- header -->П╕дручник системного адм╕н╕стратора Л╕накса </a>	</font></a></TD></TR></TABLE>
+   <TR><TD COLSPAN=2>
+       <TABLE
+ 	BORDER=0
+ 	CELLPADDING=4
+ 	CELLSPACING=0
+ 	BGCLOLOR="DARKGREEN"
+ 	WIDTH=100%
+ 	>
+ 	<TR><TD BGCOLOR=DARKGREEN>
+         <TABLE BORDER=0 WIDTH=100% CELLSPACING=0 CELLPADDING=5> 
+ 	<TR><TD BGCOLOR=WHITE>                                 <!-- chapter --> 	  Хоча вже ╕сну╓ достатня к╕льк╕сть р╕зномантних пос╕бник╕в як
+	  для початк╕вц╕в Л╕накса та Юн╕кса взагал╕, так ╕ для
+	  "маститих" системних адм╕н╕стратор╕в р╕зноман╕тних г╕лок та
+	  пох╕дних Юн╕кс╕в та Юн╕ксо-под╕бних систем, та зда╓ться ця
+	  праця завоювала свою любов та признання у вс╕х прихильник╕в
+	  Л╕накса недарма. Пода╓мо наш переклад ц╕╓╖ роботи, на Ваш
+	  розглад. Написана Ларсом В╕рзен╕усом легкою чудовою
+	  мовою, вона не зводить системну адм╕н╕страц╕ю до легенько╖
+	  забавки, але в той же час ╕ не наводить на не╖ туману
+	  недоступност╕ та ел╕тарност╕. Вважа╓мо ця праця заслужить
+	  також увагу укра╖нського читача, ╕ спод╕ва╓мося на
+	  приск╕плив╕сть читач╕в, як щодо мови перекладу, так,
+	  можливо, ╕ щодо техн╕чних недоречностей, що потрапили до
+	  перекладу. Чека╓мо, як на схильн╕, так ╕ на критичн╕ в╕дгуки
+	  в╕д Вас, Пане читачу.
+
+	  Подан╕ матер╕али м╕стять в соб╕ <a
+	  href="LinuxSAG/index.html">HTML текст для перегляду</a>,
+	  заарх╕вован╕ HTML тексти в вигляд╕ <a
+	  href="LinuxSAG/sag-0.6-ua-v1.1-html.tgz">*.tgz файлу</a>
+	  для загрузки та користування ними без п╕дключення до мереж╕
+	  та вих╕дн╕ тексти перекладу <a  href="LinuxSAG/sag-0.6-ua-v1.1.tgz">у вигляд╕ LaTeX *.tgz файлу</a>.
+	  <p>&nbsp;
+ 	  <p>
+ 	  &nbsp;
+<a href="#top"><img src="arrow.marble.down.png" border="0" alt="To the top of page"></a>
+     </TABLE>
+     </TABLE>
+     <TR>
+ </TABLE>
+ <BR CLEAR>
+ <!-- copy end -->
+   <!-- ЗОВН╤ШНЯ ТАбЛИЦЯ РОЗ╤ЛУ -->    <!-- copy start -->
+ <TABLE
+   COLUMNS=2
+   BORDER=0
+   WIDTH=90%
+   CELLSPACING=0
+   CELLPADDING=0>
+   <TR>
+     <TD>&nbsp;</TD>
+     <TD WIDTH=40%>
+       <!-- внутр╕шня таблиця заголовку -->
+     <TABLE
+       WIDTH=100%
+       COLUMNS=2
+       BORDER=0
+       CELLSPACING=0
+       CELLPADDING=5 BGCOLOR="DARKGREEN">
+     
+       <TR>
+ 	<TH BGCOLOR="DARKGREEN"> <a name="3"><a href="./Articles/Compile.2.2.uk.html"><FONT COLOR="white"> <!-- chap -->
+ 	                                               <!-- header -->Комп╕ляц╕я ядра для Л╕накса верс╕╖ 2.2 </a>	</font></a></TD></TR></TABLE>
+   <TR><TD COLSPAN=2>
+       <TABLE
+ 	BORDER=0
+ 	CELLPADDING=4
+ 	CELLSPACING=0
+ 	BGCLOLOR="DARKGREEN"
+ 	WIDTH=100%
+ 	>
+ 	<TR><TD BGCOLOR=DARKGREEN>
+         <TABLE BORDER=0 WIDTH=100% CELLSPACING=0 CELLPADDING=5> 
+ 	<TR><TD BGCOLOR=WHITE>                                 <!-- chapter -->Цей матер╕ал ╓ перекладом статт╕
+    подан╕й в служб╕ новин на ╤нтернет╕ ZDNet.  Стаття опису╓ основн╕
+    етапи комп╕ляц╕╖ ядра Л╕накса верс╕╖ 2.2 (ядро верс╕й 2.2 ╓
+    черговою сер╕╓ю стаб╕льних  ядер Л╕накса). Перше ядро верс╕╖ 2.2
+    - 2.2.0 з'явилося на початку 1999 року. На час публ╕кац╕╖
+    перекладу, вже випущено  ядро п╕д номером 2.2.9.  ╤ хоча стаття
+    конкретно згуду╓ ядра 2.2, але матер╕ал статт╕ не г╕рше п╕дходить
+    для  комп╕ляц╕╖ також ядер б╕льш ранн╕х верс╕й - стаб╕льних ядер
+    верс╕й 2.0. та експериментальних ядер верс╕й 2.1.
+ 	  <p>
+ 	  &nbsp;
+<a href="#top"><img src="arrow.marble.down.png" border="0" alt="To the top of page"></a>
+     </TABLE>
+     </TABLE>
+     <TR>
+ </TABLE>
+ <BR CLEAR>
+ <!-- copy end -->
+   <!-- ЗОВН╤ШНЯ ТАбЛИЦЯ РОЗ╤ЛУ -->    <!-- copy start -->
+ <TABLE
+   COLUMNS=2
+   BORDER=0
+   WIDTH=90%
+   CELLSPACING=0
+   CELLPADDING=0>
+   <TR>
+     <TD>&nbsp;</TD>
+     <TD WIDTH=40%>
+       <!-- внутр╕шня таблиця заголовку -->
+     <TABLE
+       WIDTH=100%
+       COLUMNS=2
+       BORDER=0
+       CELLSPACING=0
+       CELLPADDING=5 BGCOLOR="DARKGREEN">
+     
+       <TR>
+ 	<TH BGCOLOR="DARKGREEN"> <a name="4"><a href="./exmh/EXMH-ukrainian.howto.html"><FONT COLOR="white"> <!-- chap -->
+ 	                                               <!-- header -->Електронна пошта укра╖нською мовою </a>	</font></a></TD></TR></TABLE>
+   <TR><TD COLSPAN=2>
+       <TABLE
+ 	BORDER=0
+ 	CELLPADDING=4
+ 	CELLSPACING=0
+ 	BGCLOLOR="DARKGREEN"
+ 	WIDTH=100%
+ 	>
+ 	<TR><TD BGCOLOR=DARKGREEN>
+         <TABLE BORDER=0 WIDTH=100% CELLSPACING=0 CELLPADDING=5> 
+ 	<TR><TD BGCOLOR=WHITE>                                 <!-- chapter --><dl>
+  <dt>EXMH -
+  <dd>
+
+      програма з граф╕чним ╕нтерфейсом призначена для читання,
+      написання та передач╕ електронно╖ пошти, для середовища X Window
+      операц╕йних систем Юн╕кс. Тобто, в терм╕ноло╜╕╖ Юн╕кса - це
+      <i>MUA (Mail User Agent)</i>. Ми будемо про такого типу програми
+      казати "Користувацька програма електронно╖ пошти", роблячи
+      наголос на "користувацька". Таким чином ми будемо в╕др╕зняти
+      ╖╖ в╕д програми "доставки електронно╖ пошти" (<em>MTA - Mail
+      Transport Agent</em> англ╕йською), зразком яко╖ ╓ sendmail.  <p>
+      Дякуючи вбудованим можливостям по п╕дтримц╕ <em>MIME
+      (Multipurpose Internet Mail Extentions)</em>, EXMH легко може
+      бути пристосований до читання лист╕в укра╖нською мовою.
+
+</dl>
+ 	  <p>
+ 	  &nbsp;
+<a href="#top"><img src="arrow.marble.down.png" border="0" alt="To the top of page"></a>
+     </TABLE>
+     </TABLE>
+     <TR>
+ </TABLE>
+ <BR CLEAR>
+ <!-- copy end -->
+   <!-- ЗОВН╤ШНЯ ТАбЛИЦЯ РОЗ╤ЛУ -->    <!-- copy start -->
+ <TABLE
+   COLUMNS=2
+   BORDER=0
+   WIDTH=90%
+   CELLSPACING=0
+   CELLPADDING=0>
+   <TR>
+     <TD>&nbsp;</TD>
+     <TD WIDTH=40%>
+       <!-- внутр╕шня таблиця заголовку -->
+     <TABLE
+       WIDTH=100%
+       COLUMNS=2
+       BORDER=0
+       CELLSPACING=0
+       CELLPADDING=5 BGCOLOR="DARKGREEN">
+     
+       <TR>
+ 	<TH BGCOLOR="DARKGREEN"> <a name="5"><a href="./udict/00UDICT.readme.html"><FONT COLOR="white"> <!-- chap -->
+ 	                                               <!-- header -->Проект розробки комп'ютерного словника сл╕в укра╖нсько╖ мови </a>	</font></a></TD></TR></TABLE>
+   <TR><TD COLSPAN=2>
+       <TABLE
+ 	BORDER=0
+ 	CELLPADDING=4
+ 	CELLSPACING=0
+ 	BGCLOLOR="DARKGREEN"
+ 	WIDTH=100%
+ 	>
+ 	<TR><TD BGCOLOR=DARKGREEN>
+         <TABLE BORDER=0 WIDTH=100% CELLSPACING=0 CELLPADDING=5> 
+ 	<TR><TD BGCOLOR=WHITE>                                 <!-- chapter --> Цей проект ╓ спробою створення
+словника сл╕в укра╖нсько╖ мови. Такий словник уявля╓ться м╕г би
+послужитися при розробц╕ програм перев╕рки правопису укра╖нсько╖ мови
+(spell-checker'╕в).
+
+Для створення словника використовувалися джерела укра╖нських текст╕в
+доступн╕ на ╤нтернет╕. 
+ 	  <p>
+ 	  &nbsp;
+<a href="#top"><img src="arrow.marble.down.png" border="0" alt="To the top of page"></a>
+     </TABLE>
+     </TABLE>
+     <TR>
+ </TABLE>
+ <BR CLEAR>
+ <!-- copy end -->
+   <!-- ЗОВН╤ШНЯ ТАбЛИЦЯ РОЗ╤ЛУ -->    <!-- copy start -->
+ <TABLE
+   COLUMNS=2
+   BORDER=0
+   WIDTH=90%
+   CELLSPACING=0
+   CELLPADDING=0>
+   <TR>
+     <TD>&nbsp;</TD>
+     <TD WIDTH=40%>
+       <!-- внутр╕шня таблиця заголовку -->
+     <TABLE
+       WIDTH=100%
+       COLUMNS=2
+       BORDER=0
+       CELLSPACING=0
+       CELLPADDING=5 BGCOLOR="DARKGREEN">
+     
+       <TR>
+ 	<TH BGCOLOR="DARKGREEN"> <a name="6"><a href="./emacs-ukrainian.html"><FONT COLOR="white"> <!-- chap -->
+ 	                                               <!-- header -->Застосування укра╖нсько╖ мови в GNU Emacs та XEmacs </a>	</font></a></TD></TR></TABLE>
+   <TR><TD COLSPAN=2>
+       <TABLE
+ 	BORDER=0
+ 	CELLPADDING=4
+ 	CELLSPACING=0
+ 	BGCLOLOR="DARKGREEN"
+ 	WIDTH=100%
+ 	>
+ 	<TR><TD BGCOLOR=DARKGREEN>
+         <TABLE BORDER=0 WIDTH=100% CELLSPACING=0 CELLPADDING=5> 
+ 	<TR><TD BGCOLOR=WHITE>                                 <!-- chapter -->Вживання укра╖нсько╖ мови в emacs'╕ базу╓ться в основному на
+використанн╕ модуля ukrainian.el. Цей модуль дозволя╓ друкувати
+к╕лькома р╕зними кодовими таблицями, перекодовувати тексти з одних
+кодових таблиць в ╕нш╕, використовувати р╕зн╕ розкладки клав╕атури,
+тощо.
+ 	  <p>
+ 	  &nbsp;
+<a href="#top"><img src="arrow.marble.down.png" border="0" alt="To the top of page"></a>
+     </TABLE>
+     </TABLE>
+     <TR>
+ </TABLE>
+ <BR CLEAR>
+ <!-- copy end -->
+   <!-- ЗОВН╤ШНЯ ТАбЛИЦЯ РОЗ╤ЛУ -->    <!-- copy start -->
+ <TABLE
+   COLUMNS=2
+   BORDER=0
+   WIDTH=90%
+   CELLSPACING=0
+   CELLPADDING=0>
+   <TR>
+     <TD>&nbsp;</TD>
+     <TD WIDTH=40%>
+       <!-- внутр╕шня таблиця заголовку -->
+     <TABLE
+       WIDTH=100%
+       COLUMNS=2
+       BORDER=0
+       CELLSPACING=0
+       CELLPADDING=5 BGCOLOR="DARKGREEN">
+     
+       <TR>
+ 	<TH BGCOLOR="DARKGREEN"> <a name="7"><a href="./perl.html"><FONT COLOR="white"> <!-- chap -->
+ 	                                               <!-- header -->Перл для непрограм╕ст╕в </a>	</font></a></TD></TR></TABLE>
+   <TR><TD COLSPAN=2>
+       <TABLE
+ 	BORDER=0
+ 	CELLPADDING=4
+ 	CELLSPACING=0
+ 	BGCLOLOR="DARKGREEN"
+ 	WIDTH=100%
+ 	>
+ 	<TR><TD BGCOLOR=DARKGREEN>
+         <TABLE BORDER=0 WIDTH=100% CELLSPACING=0 CELLPADDING=5> 
+ 	<TR><TD BGCOLOR=WHITE>                                 <!-- chapter -->Моя власна спроба написати <font
+size=+1>ВЕЛИКУ</font> книжку...  Назва говорить сама за себе - це
+п╕дручник з мови програмування Перл, розрахований на тих, хто не ма╓
+дуже великого досв╕ду в програмуванн╕.  
+
+<p> Це - незак╕нчена верс╕я твору. В╕н буде доповнюватися в ход╕ того,
+як я буду мати можлив╕сть писати дал╕, а це залежить в╕д багатьох
+складових - в╕д мо╓╖ зайнятост╕ ╕ншими проектами, роботою, в╕д фаз
+м╕сяця та в╕д (найб╕льше) мого настрою ;-)
+
+ 	  <p>
+ 	  &nbsp;
+<a href="#top"><img src="arrow.marble.down.png" border="0" alt="To the top of page"></a>
+     </TABLE>
+     </TABLE>
+     <TR>
+ </TABLE>
+ <BR CLEAR>
+ <!-- copy end -->
+   <!-- ЗОВН╤ШНЯ ТАбЛИЦЯ РОЗ╤ЛУ -->    <!-- copy start -->
+ <TABLE
+   COLUMNS=2
+   BORDER=0
+   WIDTH=90%
+   CELLSPACING=0
+   CELLPADDING=0>
+   <TR>
+     <TD>&nbsp;</TD>
+     <TD WIDTH=40%>
+       <!-- внутр╕шня таблиця заголовку -->
+     <TABLE
+       WIDTH=100%
+       COLUMNS=2
+       BORDER=0
+       CELLSPACING=0
+       CELLPADDING=5 BGCOLOR="DARKGREEN">
+     
+       <TR>
+ 	<TH BGCOLOR="DARKGREEN"> <a name="8"><a href="./vi.html"><FONT COLOR="white"> <!-- chap -->
+ 	                                               <!-- header -->Б╕льш, н╕ж стандартний редактор (VI) </a>	</font></a></TD></TR></TABLE>
+   <TR><TD COLSPAN=2>
+       <TABLE
+ 	BORDER=0
+ 	CELLPADDING=4
+ 	CELLSPACING=0
+ 	BGCLOLOR="DARKGREEN"
+ 	WIDTH=100%
+ 	>
+ 	<TR><TD BGCOLOR=DARKGREEN>
+         <TABLE BORDER=0 WIDTH=100% CELLSPACING=0 CELLPADDING=5> 
+ 	<TR><TD BGCOLOR=WHITE>                                 <!-- chapter -->
+
+Редактор VI традиц╕йно розгляда╓ться як сльозоточивий зас╕б для
+користувач╕в Юн╕кс╕в. Але насправд╕ не все так пагано з VI, як
+зда╓ться на перший погляд. Т╕льки перш╕ сеанси роботи з VI приносять
+не дуже при╓мн╕ враження. Але чим дал╕ користувач заглиблю╓ться в
+можливост╕, як╕ нада╓ VI користувачев╕, тим б╕льше в╕н пройма╓ться
+н╕жними почуттями до цього невибагливого, але потужного засобу, ╕ тим
+б╕льше в╕н пройма╓ться почуттями сп╕вчуття до тих, хто не розум╕╓ сили
+та краси VI.  
+
+<p> На жаль цей тв╕р ще далекий в╕д свого справжнього завершення, ╕ я
+буду поновлювати ц╕ стор╕нки по ходу того, як буде дописуватися та або
+╕нша частина твору.
+
+ 	  <p>
+ 	  &nbsp;
+<a href="#top"><img src="arrow.marble.down.png" border="0" alt="To the top of page"></a>
+     </TABLE>
+     </TABLE>
+     <TR>
+ </TABLE>
+ <BR CLEAR>
+ <!-- copy end -->
+   <!-- ЗОВН╤ШНЯ ТАбЛИЦЯ РОЗ╤ЛУ -->    <!-- copy start -->
+ <TABLE
+   COLUMNS=2
+   BORDER=0
+   WIDTH=90%
+   CELLSPACING=0
+   CELLPADDING=0>
+   <TR>
+     <TD>&nbsp;</TD>
+     <TD WIDTH=40%>
+       <!-- внутр╕шня таблиця заголовку -->
+     <TABLE
+       WIDTH=100%
+       COLUMNS=2
+       BORDER=0
+       CELLSPACING=0
+       CELLPADDING=5 BGCOLOR="DARKGREEN">
+     
+       <TR>
+ 	<TH BGCOLOR="DARKGREEN"> <a name="9"><a href="./Software/album.pl.gz"><FONT COLOR="white"> <!-- chap -->
+ 	                                               <!-- header -->Програма ФОТОАЛЬБОМ (download) </a>	</font></a></TD></TR></TABLE>
+   <TR><TD COLSPAN=2>
+       <TABLE
+ 	BORDER=0
+ 	CELLPADDING=4
+ 	CELLSPACING=0
+ 	BGCLOLOR="DARKGREEN"
+ 	WIDTH=100%
+ 	>
+ 	<TR><TD BGCOLOR=DARKGREEN>
+         <TABLE BORDER=0 WIDTH=100% CELLSPACING=0 CELLPADDING=5> 
+ 	<TR><TD BGCOLOR=WHITE>                                 <!-- chapter -->
+
+Невеличкий скрипт у Перл╕, який допомага╓ створити фотоальбом ╕з
+просто╖ купи граф╕чних файл╕в. Запуст╕ть скрипт у директор╕╖ з файлами
+JPG ╕ направте свого броузера на файл index.html в ц╕й директор╕╖. Це
+все, що потр╕бно для створення альбома<p>
+
+Скрипт сприйма╓ р╕зноман╕тн╕ параметри. П╕дсказка вида╓ться, якщо
+запустити album.pl з параметром '--help' або без параметр╕в. <p>
+
+Зразок невеличкого фотоальбома - результат роботи скрипту album.pl
+<a href=./TLUG/index.html> приведено тут.</a>
+
+(Демонстрац╕я комп'ютера NetWinder на одному з зас╕дань TLUG (Tokyo
+Linux User group)) 
+ 	  <p>
+ 	  &nbsp;
+<a href="#top"><img src="arrow.marble.down.png" border="0" alt="To the top of page"></a>
+     </TABLE>
+     </TABLE>
+     <TR>
+ </TABLE>
+ <BR CLEAR>
+ <!-- copy end -->
+   <!-- ЗОВН╤ШНЯ ТАбЛИЦЯ РОЗ╤ЛУ -->    <!-- copy start -->
+ <TABLE
+   COLUMNS=2
+   BORDER=0
+   WIDTH=90%
+   CELLSPACING=0
+   CELLPADDING=0>
+   <TR>
+     <TD>&nbsp;</TD>
+     <TD WIDTH=40%>
+       <!-- внутр╕шня таблиця заголовку -->
+     <TABLE
+       WIDTH=100%
+       COLUMNS=2
+       BORDER=0
+       CELLSPACING=0
+       CELLPADDING=5 BGCOLOR="DARKGREEN">
+     
+       <TR>
+ 	<TH BGCOLOR="DARKGREEN"> <a name="10"><a href="./l10n"><FONT COLOR="white"> <!-- chap -->
+ 	                                               <!-- header -->Локал╕зац╕я Л╕накса </a>	</font></a></TD></TR></TABLE>
+   <TR><TD COLSPAN=2>
+       <TABLE
+ 	BORDER=0
+ 	CELLPADDING=4
+ 	CELLSPACING=0
+ 	BGCLOLOR="DARKGREEN"
+ 	WIDTH=100%
+ 	>
+ 	<TR><TD BGCOLOR=DARKGREEN>
+         <TABLE BORDER=0 WIDTH=100% CELLSPACING=0 CELLPADDING=5> 
+ 	<TR><TD BGCOLOR=WHITE>                                 <!-- chapter -->
+
+Р╕зноман╕тн╕ матер╕али, що стосуються локал╕зац╕╖ програмного
+забезпечення для Юн╕кса загалом ╕ для Л╕накса особливо.
+
+Локал╕зац╕╓ю називають переклад текстових пов╕домлень програм на ╕нш╕
+мови, на в╕дм╕ну в╕д ╕нтернац╕онал╕зац╕╖, п╕д якою розум╕ють написання
+програмного забезпечення таким чином, щоб його можна було пот╕м
+локал╕зувати. 
+ 	  <p>
+ 	  &nbsp;
+<a href="#top"><img src="arrow.marble.down.png" border="0" alt="To the top of page"></a>
+     </TABLE>
+     </TABLE>
+     <TR>
+ </TABLE>
+ <BR CLEAR>
+ <!-- copy end -->
+   <!-- ЗОВН╤ШНЯ ТАбЛИЦЯ РОЗ╤ЛУ -->    <!-- copy start -->
+ <TABLE
+   COLUMNS=2
+   BORDER=0
+   WIDTH=90%
+   CELLSPACING=0
+   CELLPADDING=0>
+   <TR>
+     <TD>&nbsp;</TD>
+     <TD WIDTH=40%>
+       <!-- внутр╕шня таблиця заголовку -->
+     <TABLE
+       WIDTH=100%
+       COLUMNS=2
+       BORDER=0
+       CELLSPACING=0
+       CELLPADDING=5 BGCOLOR="DARKGREEN">
+     
+       <TR>
+ 	<TH BGCOLOR="DARKGREEN"> <a name="11"><a href="./oops"><FONT COLOR="white"> <!-- chap -->
+ 	                                               <!-- header -->Н╕ те, н╕ се </a>	</font></a></TD></TR></TABLE>
+   <TR><TD COLSPAN=2>
+       <TABLE
+ 	BORDER=0
+ 	CELLPADDING=4
+ 	CELLSPACING=0
+ 	BGCLOLOR="DARKGREEN"
+ 	WIDTH=100%
+ 	>
+ 	<TR><TD BGCOLOR=DARKGREEN>
+         <TABLE BORDER=0 WIDTH=100% CELLSPACING=0 CELLPADDING=5> 
+ 	<TR><TD BGCOLOR=WHITE>                                 <!-- chapter -->...
+ 	  <p>
+ 	  &nbsp;
+<a href="#top"><img src="arrow.marble.down.png" border="0" alt="To the top of page"></a>
+     </TABLE>
+     </TABLE>
+     <TR>
+ </TABLE>
+ <BR CLEAR>
+ <!-- copy end -->
+</CENTER>
+<P CLEAR>
+ <hr noshade size=1> <address><a
+href="mailto:kov@tokyo.email.ne.jp">Дмитро Ковальов</a> Originial of
+this page can be found at: <a
+href="http://www.asahi-net.or.jp/~as9d-kvlv">
+ http://www.asahi-net.or.jp/~as9d-kvlv </a> </address>
+<!-- hhmts start -->
+Останн╕ зм╕ни внесен╕: Чтв С╕ч 27 12:02:24 JST 2000
+
+<!-- hhmts end -->
+
+<center>	
+<a href="http://www.cybercount.com/cgi-bin/click.cgi">
+<img src="http://www.cybercount.com/cgi-bin/getimage.cgi">
+</a>
+</center>
+Counter:
+<IMG
+SRC="http://cybercount.com/cgi-bin/new/c?ID=dmytro&tr=yes&ref=LinuxStartPage">
+from Oct 23 1999
+
+
+</body> </html>

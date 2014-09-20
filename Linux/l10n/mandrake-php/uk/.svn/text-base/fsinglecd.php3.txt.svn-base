@@ -1,0 +1,64 @@
+<? include("begin1.php3"); ?>
+Придбання Mandrake Л╕накса по всьому св╕ту
+<? include("begin2.php3"); ?>
+Придбання Mandrake Л╕накса по всьому св╕ту
+<? include("begin3.php3"); ?>
+
+<center>
+<table width="95%">
+<tr>
+<td>
+<img src="../images/world.gif">
+</td>
+<td>
+<table width="80%" cellpadding=6 cellspacing=0>
+<tr>
+<td bgcolor="#aaaaff" align="center" valign="center">
+<font color="white"><B>
+> ВИБЕР╤ТЬ СВО╢ М╤СЦЕПОЛОЖЕННЯ <
+</B>
+</td>
+</tr>
+
+<tr>
+<td bgcolor="#aaaaff" align="center">
+<font color="white" size="+1">
+<a href="../en/america.php3"> США/КАНАДА/П╤ВДЕННА АМЕРИКА</a> 
+
+<tr>
+<td bgcolor="#aaaaff" align="center">
+<font color="white" size="+1">
+<a href="../en/europe.php3">╢ВРОПА/РОС╤Я</a> 
+
+<tr>
+<td bgcolor="#aaaaff" align="center">
+<font color="white" size="+1">
+<a href="../en/asia.php3">АЗ╤Я/ОКЕАН╤Я</a>
+  
+<tr>
+<td bgcolor="#aaaaff" align="center">
+<font color="white" size="+1">
+<a href="../en/africa.php3">АФРИКА</a> 
+
+</table>
+</td>
+</tr>
+<tr>
+<td colspan=2>
+<p>
+<blockquote>
+<li> <b>Ви не можете знайти жодного дистрибютора,</b> який постача╓
+    PowerPack у Вашому ре╜╕он╕, <a
+    href="../en/register-customer.php3">заповн╕ть, будь-ласка, цю форму</a>.
+<li> <b>Ви дистрибютор</b> ╕ хочете замовити к╕лька PowerPacks, <a href="../en/register-reseller.php3">заповн╕ть, будь-ласка, цю форму</a>.
+</blockquote>
+</td>
+</tr>
+</table>
+</center> 
+<hr><font size=1>
+<!-- Created: Wed Mar  3 00:10:30 CET 1999 -->
+<!-- hhmts start -->
+Зм╕ни внесен╕: Wed Nov 17 07:27:29 JST 1999
+<!-- hhmts end -->
+<? include("end1.php3"); ?>

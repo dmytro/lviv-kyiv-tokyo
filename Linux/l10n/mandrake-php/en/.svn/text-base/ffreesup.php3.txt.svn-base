@@ -1,0 +1,74 @@
+<? include("begin1.php3"); ?>
+Linux-Mandrake International Free Support
+<? include("begin2.php3"); ?>
+Linux-Mandrake International Free Support
+<? include("begin3.php3"); ?>
+
+<table border=0 cellpadding=3 cellspacing=3>
+<tr>
+	<td colspan=2>
+<font face="helvetica, arial"><h3>Free support provided with packs</h3></font>
+<p align=justify>
+<font face="helvetica, arial">Included with the purchase of the Linux-Mandrake <a href="fpowerpack.php3">PowerPack</a> is 100 days of
+free installation support by email. With the Gold Pack 2000, 60 days of free
+telephone installation support is provided. The MacMillan Deluxe Package
+provides installation support from Linuxcare. To take advantage of any of these
+services, please first register your specific product on this <a href="enreg.php3">page</a>.</font>
+	</td>
+</tr>
+</table>
+<p>
+<h3>Other free support</h3>
+<table border=0 cellpadding=3 cellspacing=3 width="100%">
+<tr>
+<td width="306">
+<center>
+<font face="helvetica, arial"><a href="http://www.mandrakeuser.org"><img src="/images/muo.png" width="306" height="45"border="0" alt="mandrakuser.org"></a></center>
+<br>For free "GPL" editions, we have a dedicated website called "MandrakeUser.org". <a href="http://www.mandrakeuser.org">Discover it</a> now!<br> Or read nearby what's new on MandrakeUser.</font>
+</td>
+<td <? include("styles/bg-grey1.php3"); ?> valign="top">
+<table width="100%" height="100%" cellspacing="1" cellpadding="1" border="0">
+<tr>
+<td bgcolor="#ffcc00" align="center">
+<font face="helvetica"><b>NEW ON MANDRAKEUSER.ORG</b></font>
+<tr>
+<td <? include("styles/bg-grey1.php3"); ?> witdh="250" height="100%" > 
+
+<? include("../en/newsgrabber/muo.php3"); ?>
+
+</font>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p>
+In case of problem, please do as follows:
+<p>
+<ul>
+<li> Check <a href="fupdates.php3">the updates pages</a> to see if your problem has not yet been fixed.</li>
+<li> Read the <a href="/en/ffaq.php3">Linux-Mandrake Official FAQ</a> and the <a href="/en/fdoc.php3">documentation section</a>.</li>
+<li> Sheldon Lee Wen has written <a href="http://www.leeloo.org/nsfaq/">a very good synthesis</a> of Netscape related problems under Mandrake 6.0.</li>
+<li> <a href="/en/flists.php3">Subscribe to the Linux-Mandrake list</a> for Mandrake users help.</li>
+<li> Use the USENET News! Thanks to Tom Berger, a Mandrake USENET group as been created! It's <a href="http://www.dejanews.com/bg.xp?level=alt.os.linux.mandrake&ST=BG">alt.os.linux.mandrake</a></li>
+</ul>
+You can also search for your problem in Dejanews :
+<p>
+<blockquote>
+<form action="http://www.deja.com/dnquery.xp" method="get" target="_parent">
+<b>Search in Deja<sup><small>TM</small></sup></b><br>
+<input type="text" name="QRY" size="30" value=""><input type="submit" value="Find"><br>
+</form>
+</blockquote>
+<p>
+<h3>Advanced support</h3>
+If you are a company and you need Linux-Mandrake support or if you have professional needs specific to Linux-Mandrake products, please go on <a href="/en/consult.php3">this page</a> to discover our professional services.
+<p>
+
+<hr><font size=1>
+<!-- Created: Tue Jun  9 09:42:15 EDT 1998 -->
+<!-- hhmts start -->
+Last modified: Fri Mar 31 15:22:00 GMT 2000
+<!-- hhmts end -->
+<? include("end1.php3"); ?>

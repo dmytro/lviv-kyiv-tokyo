@@ -1,0 +1,493 @@
+<? include("begin1.php3"); ?>
+Linux Mandrake Localization
+<? include("begin2.php3"); ?>
+Linux Mandrake Localization
+<? include("begin3.php3"); ?>
+
+<!-- CONTENU EN HTML -->
+
+<!-- closing of the begin3.php3 -->
+</font></td></tr></table>
+
+<TABLE BORDER=0 WIDTH="100%" >
+
+<TR>
+<td <? include("styles/bg-orange2.php3"); ?> >
+<font color=white face="helvetica">
+<b>Internationalization of Mandrake</b>
+</font></td>
+</TR>
+
+<TR>
+<TD BGCOLOR="#FFFFFF">
+<BR>
+One thing we want to improve in Mandrake is internationalization
+support: we want to make Mandrake available in all possible languages,
+keyboards etc.
+<P>
+Everyone interested in participating to this effort should join the
+cooker-i18n@linux-mandrake.com mailling-list where will take place some
+discussions about localization in Linux-Mandrake.
+<P>
+Howto to subscribe?
+<P>
+Send <b>SUB cooker-i18n</b> in the subject of a message to
+<A HREF="mailto:sympa@linux-mandrake.com?subject=SUB%20cooker-i18n">
+sympa@linux-mandrake.com</A>
+<P>
+The coordination of the internationalization effort in Linux-Mandrake
+will be done by Pablo Saratxaga 
+<A HREF="mailto:pablo@mandrakesoft.com">&lt;pablo@mandrakesoft.com&gt;</A>.
+<P>
+You can see the current state of translations at
+<A HREF="http://www.linux-mandrake.com/l10n/translations.php3">
+http://www.linux-mandrake.com/l10n/translations.php3</A>
+<P>
+<br>
+</TD>
+</TR>
+
+<TR>
+<td <? include("styles/bg-orange2.php3"); ?> >
+<font color=white face="helvetica">
+<b>Mandrake leading in internationalization</b>
+</font></TD>
+</TR>
+
+<TR>
+<TD BGCOLOR="#FFFFFF">
+<BR>
+<H3>Currently Mandrake is the only, or has been the first main Linux 
+distribution to have the most advanced internationalization support
+for/with those packages:</H3>
+
+<UL>
+<LI><!--19991207-->
+	<b>ami:</b> a korean input server, (also with Gnome support
+	in <b>ami-gnome</b> package). With it you can easily input Korean
+	with any client following the <b>XIM</b> inpuit protocol.
+	For that you need to add in /etc/sysconfig/i18n
+	the following lines:<br><b>
+	LC_ALL=ko<br>
+	ENC=kr<br>
+	XIM=Ami<br>
+	XMODIFIERS="@im=Ami"<br></b>
+	and configure your xsession to launch <b>kinput2</b> each time 
+	you log on X11.<br>
+	The future distribution of Linux-Mandrake will automatically set up
+	those variables at install time.
+<LI><!--19991208-->
+	<b>xmms:</b> The successor of the famous MP3 reader x11amp;
+	MandrakeSoft has added full i18n support into the source code;
+	that hasn't yet been included back into the mainstream xmms and
+	therefore is a unique Mandrake feature :)<br>
+	Currently it is translated in German, Ukrainian, Walon and French,
+	new translations are welcome. 
+<LI><!--19991208-->
+	<b>rxvt-CLE:</b> a version of rxvt with support for
+ 	<img src="../images/new-zh.gif"><A HREF="../l10n_screenshots/rxvt-mc-zh.png">
+	Chinese (both Big5 and GB2312)</A>,
+	<img src="../images/new-ko.gif"><A HREF="../l10n_screenshots/rxvt-mc-ko.png">
+	Korean</A>, and
+	<img src="../images/new-ja.gif"><A HREF="../l10n_screenshots/rxvt-mc-ja.png">
+	Japanese</A>. With it you can use
+	text based programs in any of those languages (<b>mc</b> looks
+	really nice on it !).
+<LI><!--19991208-->
+	<b>control-panel:</b> that was easy, this little launcher has only
+	two (2) strings to translate, the changes to the source were
+	quite trivial :) &nbsp; However, we are needing translation of
+	the strings "<b>File</b>" and "<b>Change Orientation</b>" in as many
+	languages as possible.<br>
+	Currently available ones are: <b>br, cy, de, es, et, fr,
+	<img src="../images/new-gl.gif">gl,
+	<img src="../images/new-hr.gif">hr,
+	<img src="../images/new-hu.gif">hu, id, ja, lt
+	<img src="../images/new-nl.gif">nl, no, pl,
+	<img src="../images/new-pt.gif">pt, ro, ru,
+	<img src="../images/new-sk.gif">sk,
+	<img src="../images/new-tr.gif">tr, uk, wa, zh_TW.Big5 </b>.
+<LI><!--19991207-->
+	<b>kinput2-wnn4:</b> a japanese input server, compiled to use Wnn4
+	as the kana-to-kanji engine. With it you can easily input japanese
+	with any client following the <b>XIM</b> inpuit protocol.
+	For that you need to add in /etc/sysconfig/i18n
+	the following lines:<br><b>
+	LC_ALL=ja<br>
+	ENC=eucj<br>
+	XIM=kinput2<br>
+	XMODIFIERS="@im=kinput2"<br></b>
+	and configure your xsession to launch <b>kinput2</b> each time 
+	you log on X11.<br>
+	The future distribution of Linux-Mandrake will automatically set up
+	those variables at install time.
+<LI><!--19991207-->
+	<b>Wnn-4.2:</b> a popular kana-to-kanji converter; allowing to
+	easily input in kana or romaji, and convert to proper japanese.
+<LI><!--19991207-->
+	<b>fonts-ttf-gb2312:</b> Two very nice chinese (Gb2312 encoding) 
+	True Type fonts from <a href="http://www.arphic.com.tw/">Arphic</a>
+<LI><!--19991207-->
+	<b>fonts-ttf-big5:</b> Two very nice chinese (Big5 encoding) 
+	True Type fonts from <a href="http://www.arphic.com.tw/">Arphic</a>
+<LI><!--19991206-->
+	<b>ispell-en:</b> Added british dictionnary to the English 
+	ispell files.
+<LI><!--19991206-->
+	<b>ispell-sv:</b> Swedish ispell files.
+<LI><!--19991206-->
+	<b>ispell-sl:</b> Slovenian ispell files.
+<LI><!--19991206-->
+	<b>ispell-es:</b> Spanish ispell files.
+<LI><!--19991206-->
+	<b>ispell-eo:</b> Esperanto ispell files.
+<LI><!--19991206-->
+	<b>ispell-el:</b> Greek ispell files.
+<LI><!--19991205-->
+	<b>mandrake_desk:</b> the Mandrake specific icons in the KDE
+	and Gnome desktops; those have their caption and tooltips translated
+	in a wide array of languages too (<b>br, 
+	<img src="../images/new-ca.gif">ca,
+	<img src="../images/new-cs.gif">cs,
+	da, de, es, et, ga,
+	<img src="../images/new-gl.gif">gl,
+	hr, hu,
+	id, is, it, lt, nl, no, ro, ru, sk, uk, wa</b>)
+<LI><!--19991203-->
+	<b>locales-*:</b> The locales definitions for Linux; we provide the
+	most complete set of locales of any Linux distribution. If your
+	language isn't yet supported 
+	<a href="mailto:pablo@mandrakesoft.com?locales">mail us</a>,
+	we are very interested in providing to each one the possibility to
+	use Linux in his/her own language.<br>
+	Currently supported languages: ar, 
+	<img src="../images/new.gif">af,
+	bg, br, ca, cs, cy,
+	da, de, el, en, eo, es, et, eu, fi, fo, fr, ga,
+	gl, he, hr, hu, hy, id, is, it, ja, ka, kl, ko, lo, lt,
+	lv, nl, no, oc, pl, pt, ro, ru, sk, sl, sr, sv, th, tr, uk, vi, wa, zh
+<LI><!--19991202-->
+	<b>ispell-cs:</b> Czech ispell files.
+<LI><!--19991202-->
+	<b>ispell-fi:</b> Finnish ispell files.
+<LI><!--19991202-->
+	<b>ispell-nl:</b> Dutch ispell files.
+<LI><!--19991130-->
+	<b>Chinese input support:</b> the Linux-Mandrake will include
+	in standard the XIM compatible input server for the Chinese language
+	<b>xcin</b>; it can input in Big5 as well as in Guobiao 2312.<br>
+	To have the chinese input support you need to install the rpm packages
+	of <b>locales-zh</b> (if you haven't already), <b>libtabe</b>,
+	and <b>xcin</b> (you can also install <b>xa+cv</b> which allows
+	use of the xcin input server with programs not compatible with the
+	XIM input protocol). Then you need to add in /etc/sysconfig/i18n
+	the following lines; if you want Big5 support:<br><b>
+	LC_ALL=zh_TW.Big5<br>
+	ENC=big5<br>
+	XIM=xcin<br>
+	XMODIFIERS="@im=xcin"<br></b>
+	Or if you want GuoBiao 2312 support:<br><b>
+	LC_ALL=zh_CN<br>
+	ENC=gb<br>
+	XIM=xcin-zh_CN<br>
+	XMODIFIERS="@im=xcin-zh_CN"<br></b>
+	and configure your xsession to launch <b>xcin</b> each time you start
+	you log on X11.<br>
+	The future distribution of Linux-Mandrake will automatically set up
+	those variables at install time.
+<LI><!--19991129-->
+	<b>ispell-ca:</b> Catalan ispell files.
+<LI><!--19991129-->
+	<b>ispell-pt:</b> Portuguese ispell files.
+<LI><!--19991129-->
+	<b>ispell-pt_BR:</b> Brazilaian Portugues ispell files.
+<LI><!--19991129-->
+	<b>ispell-br:</b> Brezhoneg ispell files (currently included
+	in contrib section).
+<LI><!--19991104-->
+	<b>netscape-francais-4.70:</b> French interface for Netscape 4.7
+<LI><!--19991104-->
+	<b>netscape-walon-4.70:</b> Walloon interface for Netscape 4.7
+	(not 100% complete yet; if you want to improve it you are welcome)
+<LI><!--19991104-->
+	<b>netscape-castellano-4.70:</b> Spanish interface for Netscape 4.7
+	(includes localized nethelp)
+<LI><!--19991104-->
+	<b>fortunes-mod:</b>The i18n support here is double: the fortune 
+	sources have been changed to make it read the LANG variable and choose,
+	if there exist, fortune texts in the user's language. That is a feature
+	unique of Mandrake Linux. The other thing we do is to include in the
+	package fortune data files in as many languages as possible
+	(currently there are some in Czech, French, Gaeilge, Hungarian,
+	Indonesian, Italian, Spanish and Walloon; if you have freely 
+	distributable fortune files in your language you
+	can <A HREF="mailto:pablo@mandrakesoft.com">tell us</A>)
+<LI><!--19991104-->
+	<b>ispell-da:</b> Danish ispell files.
+<LI><!--19991104-->
+	<b>indexhtml-6.1:</b> the welcome page showed by Netscape on
+	a freshly installed Linux Mandrake; it has been translated to a lot
+	of languages (<b> bg, br, ca, cy, da, de, en, es, et,
+	fr, ga, hu, id, is, lt, mk, nl, no, pl, pt, ro, ru, sk,
+	tr, uk, wa</b>). If your language isn't listed yet, 
+	<a href="mailto:pablo@mandrakesoft.com?indexhtml">mail us</a>.
+<LI><!--19991021-->
+	<b>ispell-ru:</b> Russian ispell files.
+<LI><!--19991021-->
+	<b>ispell-pl:</b> Polish ispell files.
+<LI><!--19991021-->
+	<b>ispell-fr:</b> French ispell files.
+<LI><!--19991021-->
+	<b>ispell-it:</b> Italian spell checker files.
+<LI><!--19991021-->
+	<b>ispell-no:</b> Norwegian spell schecker files.
+<LI><!--19991021-->
+	<b>ispell-id:</b> Indonesian spell checker files.
+<LI><!--19991021-->
+	<b>XFree86</b>: corrected/added kbd mappings for: be, ee, il, lt;
+	added bulgarian support (microsoft-cp1251);
+	corrected Compose files for iso8859-13, iso8859-14
+<LI><!--19991021-->
+	<b>XFree86-libs:</b> with support for new locales for displaying
+	texts in armenian, bulgarian, ukrainian, georgian, laotian,
+	vietnamese, thai and a lot of languages using latin1 font encoding.
+<LI><!--19991021-->
+	<b>XFree86-xfs</b>: added various microsoft-cp125x encodings support
+	(needed for Bulgarian in particular) to the powerful
+	<A HREF="http://X-TT.dsl.gr.jp/">X-TT font server</A>, wich adds
+	support for True Type for all known font encodings.
+	Corrected the koi8-u encoding.
+	(if you know of a font encoding (that is really and widely used)
+	wich is not included then <A HREF="mailto:pablo@mandrakesoft.com">
+	write me !</A>) 
+<LI><!--19991010-->
+	<b>cp1251 support:</b> that encoding is needed 
+	to properly support Bulgarian; to enable it upgrade your 
+	<b>XFree86</b>, <b>XFree86-libs</b> and <b>XFree86-xfs</b> packages
+	to version 3.3.5-8mdk or higher. Upgrade <b>freetype</b> package
+	to version 1.3-2mdk or superior, and package <b>locales-bg</b>
+	to version 2.0-4mdk or superior.
+<LI><!--19991021-->
+	<b>man-pages-*:</b> Mandrake has the largest collection of man pages
+	in various languages: english of course, but also Czech (man-pages-cs),
+	German (man-pages-de), Spanish (man-pages-es), French (man-pages-fr),
+	Hungarian (man-pages-hu), Italian (man-pages-it), 
+	Japanese (man-pages-ja), Korean (man-pages-ko),
+	Polish (man-pages-pl) and Russian (man-pages-ru).
+	All those packages have been built with attention, compressed with
+	bzip2 to save disk space (all man page viewers shipped with Mandrake
+	have bzip2 and multi-language support), they include a special
+	per-language makewhatis script and a cron entry to run it, allowing
+	the <i>whatis</i> command to show you the info of localized pages
+	too (depending on your LANGUAGE or LANG variables values).
+	If you know of others please <A HREF="mailto:pablo@mandrakesoft.com">
+	mail us</A> so we can include them <font size=-1>(BTW, we haven't the
+	URL where to find korean man pages updates, do you know it ?)</font>
+<LI><!--19991010-->
+	<b>glibc:</b> added the missing modules to /usr/lib/gcov;
+	now iconv/gconv can also handle Armenian, Georgian, Vietnamese, and
+	Laotian encodings, in addition to all the others already supported.
+<LI><!--19991010-->
+	<b>iso-8859-14 support:</b> that encoding is needed 
+	to properly support Cymraeg (Welsh) and maybe other celtic languages;
+	update the same packages as for Lithuanian, with <b>locales-cy</b>
+	2.0-4mdk or superior instead of locales-lt.
+<LI><!--19990928-->
+	<b>Lithuanian support:</b> We are pleased to be the
+	very first distribution to support Lithuanian language (which needs
+	iso-8859-13 encoding support); to enable it upgrade your 
+	<b>XFree86</b>, <b>XFree86-libs</b> and <b>XFree86-xfs</b> packages
+	to version 3.3.5-mdk4 or higher. Upgrade <b>freetype</b> package
+	to version 1.2-10mdk or superior, and package <b>locales-lt</b>
+	to version 2.0-3mdk or superior.<br>There are still some things
+	to improve before the support is perfect (keyboard maps, a console
+	font)
+<LI><b>netscape-japanese-4.08:</b> Japanese interface for Netscape 4.08
+	(includes localized nethelp)
+<LI><b>netscape-korean-4.08:</b> Korean interface for Netscape 4.08
+	(includes localized nethelp)
+<LI> Spanish interface for Netscape 4.61
+	(includes localized nethelp)
+<LI><b>netscape-francais-4.08:</b> French interface for Netscape 4.08
+	(not 100% complete yet; if you want to improve it you are welcome)
+<LI><b>netscape-walon-4.08:</b> Walloon interface for Netscape 4.08
+	(not 100% complete yet; if you want to improve it you are welcome)
+<LI><b>netscape-castellano-4.08:</b> Spanish interface for Netscape 4.08
+	(includes localized nethelp)
+<LI><b>acon:</b> a package that brings arabic support in the linux
+	console with it you can read/write in arabic on the linux
+	console; the driver does RTL/LTR displayin, as well as the
+	re-shaping of arabic letters in fonction fo their place in
+	the word, and alef+lam ligatures.
+<!---
+<LI><b>KDE:</b> KDE is built including the support for new languages not
+	yet included in the officially distributed sources, such as Breton,
+	Basque or Walloon.
+-->	 
+<LI><b>gnomba:</b> made the necessary changes to add the i18n support that
+	is now integrated into mainstream package.
+<LI><b>gnome-core:</b> the spanish translation of gnome-intro has been done
+	by <i>Fabito</i> of the spanish team; and will be soon integrated
+	into main Gnome sources
+<LI><b>All the packages</b> are built including the latest *.po files
+	(the ones with the translations of the user interface) that are
+	available, taken from CVS or directly from the translators if possible;
+	thus ensuring to have the more complete translation of the moment,
+	even if it hasn't yet been included in the distributed tarball
+	of the program sources.
+	Also a <A HREF="cvs.php3">CVS</A> based system has been put
+	in place to add summary and descriptions into the rpm packages
+	for various languages.
+<!--
+<LI><b>The User Guide & Install Guide:</b> we aim to make it available in
+	as many languages as possible...
+	
+-->
+
+</UL>
+
+<P>
+<br>
+</TD>
+</TR>
+
+
+<TR>
+<td <? include("styles/bg-orange2.php3"); ?> >
+<B><FONT FACE="helvetica"><FONT COLOR="#FFFFFF">
+Mandrake localization teams
+</FONT></FONT></B></td>
+</TR>
+
+<TR>
+<TD BGCOLOR="#FFFFFF">
+<BR>
+
+<A NAME=af>
+<A NAME=ar>
+<A NAME=bg>
+<A NAME=br>
+<A NAME=ca>
+<A NAME=cs>
+<A NAME=cy>
+<A NAME=da>
+<A NAME=de>
+<A NAME=el>
+<A NAME=eo>
+<A NAME=es>
+<A NAME=et>
+<A NAME=eu>
+<A NAME=fa>
+<A NAME=fi>
+<A NAME=fo>
+<A NAME=fr>
+<A NAME=ga>
+<A NAME=gd>
+<A NAME=gl>
+<A NAME=gv>
+<A NAME=he>
+<A NAME=hr>
+<A NAME=hu>
+<A NAME=hy>
+<A NAME=id>
+<A NAME=is>
+<A NAME=it>
+<A NAME=ja>
+<A NAME=ka>
+<A NAME=kl>
+<A NAME=ko>
+<A NAME=kw>
+<A NAME=lo>
+<A NAME=lt>
+<A NAME=lv>
+<A NAME=mk>
+<A NAME=ms>
+<A NAME=nl>
+<A NAME=no>
+<A NAME=oc>
+<A NAME=pd>
+<A NAME=pl>
+<A NAME=pt_BR>
+<A NAME=pt>
+<A NAME=ro>
+<A NAME=ru>
+<A NAME=sk>
+<A NAME=sl>
+<A NAME=sp>
+<A NAME=sr>
+<A NAME=sv>
+<A NAME=th>
+<A NAME=tr>
+<A NAME=uk>
+<A NAME=vi>
+<A NAME=wa>
+<A NAME=zh>
+<A NAME=zh_CN>
+<A NAME="zh_CN.GB2312">
+<A NAME=zh_TW>
+<A NAME="zh_TW.Big5">
+
+
+The localization teams page has been moved to
+<A HREF="http://www.linux-mandrake.com/l10n/teams.php3">
+http://www.linux-mandrake.com/l10n/teams.php3</A>
+<BR> 
+
+<P>
+<BR>
+</TD>
+</TR>
+
+<TR>
+<td <? include("styles/bg-orange2.php3"); ?> >
+<font color=white face="helvetica">
+<b>Tutorials and other related links</b>
+</font></TD>
+</TR>
+
+<TR>
+<TD BGCOLOR="#FFFFFF">
+
+<BR>
+Here are some links related to the goal of the project:<br>
+<P>
+You can read a good explanation about localization, its meaning,
+its implications, and some vocabulary, from 
+<A HREF="http://www.mozilla.org/docs/refList/i18n/">Mozilla i18n &amp; l10n Guidelines</A>
+page and the comprehensive <A HREF="http://cns-web.bu.edu/pub/djohnson/web_files/i18n/i18n.html">
+Concepts of C/UNIX Internationalization</A> page of Dave Johnson.
+<P>
+And you can visit this very interesting and complete site on charsets encodings: 
+<A HREF="http://czyborra.com/charsets/">http://czyborra.com/charsets/</A>
+<P>
+The excellent <A HREF="http://www.kde.org/howto-i18n.html">i18n HOWTO</A>
+of KDE explains the steps to translate a *.po file.
+<P>
+There is also my page about 
+<A HREF="http://www.ping.be/linux/locales/">Linux locales</A>, which has
+links to several language specifics translation teams and info.
+And the (still at its begining) <A HREF="http://www.linuxi18n.org/">
+Linux i18n project</A> web site.
+<P>
+There are also some projects of coordination between transaltors and
+programers that exist for some big projects, 
+like <A HREF="http://www.gnome.org/i18n/">for Gnome</A>, or 
+<A HREF="http://www.kde.org/i18n.html">for KDE</A>, and the
+mailing lists at li.org.
+
+<P>
+<BR>
+</TD>
+</TR>
+
+</TABLE>
+<BR>
+
+<!-- ============================== MDK_PHP3_END =========================== -->
+
+<hr><font size=1>
+<!-- Created: Wed Mar  3 00:10:30 CET 1999 -->
+<!-- hhmts start -->
+Last modified: Wed Dec 22 13:45:36 CET 1999
+<!-- hhmts end -->
+<? include("end1.php3"); ?>

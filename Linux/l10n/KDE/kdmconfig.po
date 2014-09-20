@@ -1,0 +1,246 @@
+# Ukrainian translationof kdmconfig
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# Dmytro Koval'ov <kov@tokyo.email.ne.jp>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: kdmconfig VERSION\n"
+"POT-Creation-Date: 1999-01-12 01:14+0100\n"
+"PO-Revision-Date: 2000-04-26 21:38+09:00\n"
+"Last-Translator: Dmytro Koval'ov <kov@tokyo.email.ne.jp>\n"
+"Language-Team: Ukrainian <linux@linux.org.ua>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=koi8-u\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "\nPlease use files with these extensions\n"
+msgstr "\nБудь-ласка вживайте файли з такими розширеннями\n"
+
+msgid "\ndoes not seem to be an image file"
+msgstr "\nне ╓ файлом зображенням"
+
+msgid "&Appearance"
+msgstr "Ви&гляд"
+
+msgid "&Background"
+msgstr "На &тл╕"
+
+msgid "&Sessions"
+msgstr "&Сеанси"
+
+msgid "&Users"
+msgstr "&Користувач╕"
+
+msgid "<"
+msgstr "<"
+
+msgid ""
+"<\n"
+"It will not be saved..."
+msgstr ""
+"<\n"
+"Це не буде збережено..."
+
+msgid "All"
+msgstr "Вс╕"
+
+msgid "All users"
+msgstr "Вс╕ користувач╕"
+
+msgid "Allow to shutdown"
+msgstr "Дозволити вимикати систему"
+
+msgid "Available types"
+msgstr "Наявн╕ типи"
+
+msgid "BottomLeft"
+msgstr "Нижн╕й л╕вий"
+
+msgid "BottomRight"
+msgstr "Нижн╕й правий"
+
+msgid "Center"
+msgstr "В центр"
+
+msgid "Change font..."
+msgstr "Зм╕нити шрифт..."
+
+msgid "Click or drop an image here"
+msgstr "Клацн╕ть або поклад╕ть зображення сюди"
+
+msgid "Color"
+msgstr "Кол╕р"
+
+msgid "Commands"
+msgstr "Команди"
+
+msgid "Console Only"
+msgstr "Т╕льки на консол╕"
+
+msgid "ERROR"
+msgstr "ПОМИЛКА"
+
+msgid "Example"
+msgstr "Приклад"
+
+msgid "Fail"
+msgstr "Неудачна"
+
+msgid "Fail font"
+msgstr "Шрифт при неудач╕"
+
+msgid "Fancy"
+msgstr "Ц╕кавий"
+
+msgid "GUI Style:"
+msgstr "Стиль граф╕чно╖ оболонки:"
+
+msgid "Greeting"
+msgstr "Прив╕тання"
+
+msgid "Greeting font"
+msgstr "Шрифт прив╕тання"
+
+msgid "Greeting string:"
+msgstr "Текст прив╕тання:"
+
+msgid "Horizontal Blend"
+msgstr "Горизонтальний перех╕д"
+
+msgid "Improper File Extension"
+msgstr "Нев╕рне розширення файлу"
+
+msgid "KDM Configuration"
+msgstr "Конф╕╜урац╕я KDM"
+
+msgid "KDM logo:"
+msgstr "Логотип KDM:"
+
+msgid "Language"
+msgstr "Мова"
+
+msgid "Language:"
+msgstr "Мова:"
+
+msgid "Missing privileges"
+msgstr "Не вистача╓ дозвол╕в"
+
+msgid "Motif"
+msgstr "Motif"
+
+msgid "New type"
+msgstr "Новий тип"
+
+msgid "No user selected"
+msgstr "Не вибраний користувач"
+
+msgid "No-show users"
+msgstr "Не показувати користувач╕в"
+
+msgid "None"
+msgstr "Н╕"
+
+msgid "Preview"
+msgstr "Попередн╕й перегляд"
+
+msgid "Restart"
+msgstr "Перезапустити"
+
+msgid "Root Only"
+msgstr "Т╕льки root"
+
+msgid "Save image as default image?"
+msgstr "Записати це зображення як стандартне?"
+
+msgid "Scale"
+msgstr "Масштабований"
+
+msgid "Select fonts"
+msgstr "Вибрати шрифти"
+
+msgid "Selected users"
+msgstr "Вибран╕ користувач╕"
+
+msgid "Session types"
+msgstr "Типи сеанс╕в"
+
+msgid ""
+"Show all users\n"
+" but no-show users"
+msgstr ""
+"Показувати вс╕х користувач╕в\n"
+"кр╕м вказаних"
+
+msgid ""
+"Show only\n"
+"selected users"
+msgstr ""
+"Показувати т╕льки \n"
+"вибраних користувач╕в"
+
+msgid "Show users"
+msgstr "Показувати користувач╕в"
+
+msgid "Shutdown"
+msgstr "Вимкнути"
+
+msgid "Solid Color"
+msgstr "Суц╕льна заливка"
+
+msgid "Sorry, but \n"
+msgstr "Перепрошую, але\n"
+
+msgid ""
+"Sorry, but you don't have read/write\n"
+"permission to the KDM setup file."
+msgstr ""
+"Перепрошую, але Ви не ма╓те дозвол╕в \n"
+"на запис в файл установок KDM."
+
+msgid "Sort users"
+msgstr "Сортувати користувач╕в"
+
+msgid "Standard"
+msgstr "Стандартний"
+
+msgid "Standard font"
+msgstr "Стандартний шрифт"
+
+msgid ""
+"There was an error loading the image:\n"
+">"
+msgstr ""
+"Сталася помилка при читанн╕ зображення:\n"
+">"
+
+msgid ""
+"There was an error saving the image:\n"
+">"
+msgstr ""
+"Сталася помилка при запис╕ зображення:\n"
+">"
+
+msgid "Tile"
+msgstr "Моза╖ка"
+
+msgid "TopLeft"
+msgstr "Вгор╕ л╕воруч"
+
+msgid "TopRight"
+msgstr "Вгор╕ праворуч"
+
+msgid "Vertical Blend"
+msgstr "Вертикальний перех╕д"
+
+msgid "Wallpaper"
+msgstr "Шпалери"
+
+msgid "Windows"
+msgstr "Windows"
+
+msgid "usage: kdmconfig [-init | {appearance,font,background,sessions,users}]\n"
+msgstr "вживання: kdmconfig  [-init | {вигляд,шрифт,тло,сеанси,користувач╕}]\n"
+
+msgid "without name!"
+msgstr "нема╓ назви!"
+

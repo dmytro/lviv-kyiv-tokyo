@@ -1,0 +1,18 @@
+
+<? include("begin1.php3"); ?>
+Linux-Mandrake best banners
+<? include("begin2.php3"); ?> 
+Linux-Mandrake best banners
+<? include("begin3.php3"); ?> 
+<p>&nbsp;
+<p align=justify><font face="Arial, Helvetica, sans-serif">Welcome to our banner collection. Here you will find the banners we use to 
+advertise Linux-Mandrake. If you would like to support your favorite Linux
+distribution feel free to use these banners on your own web pages.</font></p>
+<p align=justify><font face="Arial, Helvetica, sans-serif">
+If you create your own Mandrake banner we'd love to see it. Please let us know
+at <a href="mailto:sticker@linux-mandrake.com">sticker@linux-mandrake.com</a> and the best ones will be placed on this page.</font></p>
+
+<? include("../en/banners.html"); ?>
+
+<p>
+<? include("end1.php3"); ?>

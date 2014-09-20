@@ -1,0 +1,18 @@
+<table border=0 width=100%>
+<tr>
+<td <? include("styles/bg-blue1.php3"); ?> >
+<font color=white face="helvetica">
+AppWatch.com
+</font>
+</td>
+</tr>
+<tr>
+<td <? include("styles/bg-grey1.php3"); ?> > 
+<font size=-1 face="helvetica">
+
+<? include("newsgrabber/appswatch.php3"); ?>
+
+</font>
+</td>
+</tr>
+</table>

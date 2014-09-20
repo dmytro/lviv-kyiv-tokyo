@@ -1,0 +1,39 @@
+<? include("begin1.php3"); ?>
+Linux-Mandrake Downloads
+<? include("begin2.php3"); ?>
+Linux-Mandrake Downloads
+<? include("begin3.php3"); ?>
+
+<body bgcolor="white">
+<br>
+<li> You must at least download the "Mandrake/" and "images/" trees from the "7.0/" directory. It's about 600 Mb.<p>
+<li> An iso9660 image of Linux-Mandrake is also available . You can use such a file for easy CD-burning (under Windows, you can use Easy CD Pro or Easy CD Creator, check our <a href="../howtos/iso/howtoisoen.html">notice here</a> - <a href="../howtos/iso/howtoisofr.html">version en français ici</a>).  It's about 600 Mb (one file only). <b>Important Notes:</b> the iso file is available in the "iso/" directory. The file "iso-md5sum" is only needed for binary integrity checking.
+<P>
+<B>We are looking for new mirrors</B>. If you could setup a mirror please use our  <a href="ftp://sunsite.uio.no/pub/unix/Linux/Mandrake">primary mirror</a> or <a href="ftp://ftp.sunet.se/pub/Linux/distributions/mandrake/">this one</a> for <a href="ftp://ftp.sunet.se/README.rsync">rsync</a> and contact  the maintainer of this page <a href="mailto:mirrors@linux-mandrake.com">mirrors@linux-mandrake.com</a> 
+<P>
+<b>IMPORTANT NOTES:</b> <p>
+<blockquote>
+<li> The common ISO image file for Mandrake 7.0 is called mandrake70-2.iso - it works and is speed-optimized for i586 processors and higher.
+<p>
+<li> There is another ISO image file called mandrake70-2.i486.iso. - it works for i486 processors and higher. The mirror list is available <a href="#486">here</a><p>
+<li> There is third ISO image file called mandrake70.usparc.iso. - it works for UltraSPARC processors and higher. It's still BETA software. The mirror list is available <a href="#usparc">here</a><p>
+
+
+</blockquote>
+<P>
+<h2>Linux-Mandrake for i586 and higher </h2>(servers marked as "++" are updated hourly for updates):
+
+<? include("../en/mirrors.html"); ?>
+
+<a name="486"></a>
+<P>
+<h2>mandrake70-2.i486.iso mirrors</h2>
+<? include("../en/mirrors-486.html"); ?>
+
+<a name="usparc"></a>
+<P>
+<h2>mandrake70.usparc.iso mirrors</h2>
+<? include("../en/mirrors-usparc.html"); ?>
+
+
+<? include("end1.php3"); ?>

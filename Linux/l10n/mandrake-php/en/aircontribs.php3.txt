@@ -1,0 +1,67 @@
+<? include("begin1.php3"); ?>
+Mandrake Contribs CD
+<? include("begin2.php3"); ?>
+Mandrake Contribs CD
+<? include("begin3.php3"); ?>
+
+
+<BR>
+<CENTER>
+<table border=0 cellpading=3 cellspacing=0>
+<tr>
+<td valign="middle">
+<img src="../images/cd3.png" width=60 height=60 alt="CD3" align="middle">
+</td>
+<td valign="middle">
+<font color="#666699" face="arial, helvetica" size="+5"><b>RPM Contribs CD</b></font>
+</td>
+</tr>
+</table>
+
+</center></b><p align=justify>
+
+<hr width="50%">
+<font face="arial, helvetica">
+<h1><b>CD-ROM Contents</b>
+<p></h1>
+<A HREF="airpack.php3"><IMG SRC="../images/box2.gif" BORDER=0 width=78 height=100 align="right"></A>
+RPMS/<BR>
+This CD ROM contains 899 RPM applications representing 1361 MBytes of data
+
+<P>
+<i>index-html/</i><BR>       
+Huge index generated with "rpm2html" of all the files contained on this CDROM.<br>
+You are currently on the main index page, use the table below
+to view the applications sorted by different categories.
+
+<P>
+<a href="air-indexsum.php3">indexsum.txt</a> (48K)<BR>
+Summary of all the files of RPMS Contribs.
+
+<P>
+<a href="air-indexfiles.php3">indexfiles.txt</a>&nbsp;&nbsp;<b><font color="red" face="arial, helvetica">&lt;!></font></b>&nbsp;(5479K)<BR>  
+Full list of files of all the RPM Contribs.
+</font>
+<P>
+<center>
+
+<table width="100%" bgcolor="#aabbff" border=0 cellspacing=10 cellpadding=5>
+<tr>
+<td><center>Index</center></td>
+<td><center><a href="contribs/Groups.html">RPM sorted by Group</a></center></td>
+<td><center><a href="contribs/Distribs.html">RPM sorted by Distribution</a></center></td>
+<td><center><a href="contribs/Vendors.html">RPM sorted by Vendor</a></center></td>
+<td><center><a href="contribs/ByDate.html">RPM sorted by creation date</a></center></td>
+<td><center><a href="contribs/ByName.html">RPM sorted by Name</a></center></td>
+</tr>
+</table>
+
+</center>
+
+<hr><font size=1>
+<!-- Created: Wed Mar  3 00:10:30 CET 1999 -->
+<!-- hhmts start -->
+Last modified: Wed Feb  9 20:36:11 CET 2000
+<!-- hhmts end -->
+
+<? include("end1.php3"); ?>

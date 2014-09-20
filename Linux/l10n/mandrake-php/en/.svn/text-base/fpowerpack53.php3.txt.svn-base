@@ -1,0 +1,48 @@
+<? include("begin1.php3"); ?>
+Linux Mandrake PowerPack Edition
+<? include("begin2.php3"); ?>
+Linux Mandrake PowerPack Edition
+<? include("begin3.php3"); ?>
+<center><a href="http://www.linux-mandrake.com/"><img src="../images/pp.jpg" border="0"></a></center>
+<p>
+<b>The Linux-Mandrake Power Pack Edition (5.3) includes:<p></b>
+<blockquote>
+<li> 1 Book: Linux-Mandrake "Installation & Use Guide"
+<li> 100 Days Installation Support (email) 
+<li> CD1: Linux-Mandrake 5.3 (Festen) installation CD - please read <a href="ffestenfeat.php3">the features here</a>.
+<li> CD2: full sources (of CD1)
+<li> CD3: <a href="liste.rpms.cd3.txt">various applications</a> (more than 1400) in RPM format, with index
+<li> CD4: demo and commercial applications:<p>
+<br>
+<img src="../images/corel.gif" align="center" alt="Corel">  <img src="../images/moonlight.jpg"  align="center" alt="Moonlight"> <img src="../images/blender.jpg"  align="center" alt="Blender">  <img src="../images/cforge.jpg"  align="center" alt="CForge">  <img src="../images/halcyon.jpg"  align="center" alt="Halcyon"><br>
+<blockquote>
+<li> <a href="http://linux.corel.com" target="_parent">Corel - Wordperfect 8.0</a> Wordprocessor for Linux. 
+<li> <a href="http://www.cybersociety.com/moonlight/" target="_parent">Moonlight Creator</a> 3D Virtual Studio.
+<li> <a href="http://www.blender.nl" target="_parent">Blender</a> Animation Studio. 
+<li> <a href="http://www.cco.caltech.edu/~jafl/jcc/" target="_parent">Code Crusader</a> Code development environment. 
+<li> <a href="http://www.codeforge.com" target="_parent">Code Forge</a> Integrated development environment.
+<li> <a href="http://www.ardi.com" target="_parent">Executor</a> Macintosh emulator. 
+<li> <a href="http://www.fship.com" target="_parent">Flagship</a> Database Development System.
+<li> <a href="http://www.vbix.com/" target="_parent">Halcyon</a> Instant Basic for Java.
+<li> <a href="http://www.millenniumX.com" target="_parent">MillenniumX</a> Kisdn (ISDN utility)
+<li> <a href="http://www.netbeans.com" target="_parent">NetBeans</a> Visual programming environment. 
+<li> <a href="http://www.perforce.com" target="_parent">Perforce</a>  Fast Software Configuration Management (SCM) System.
+<li> <a href="http://www.regulus.safe.ca" target="_parent">Regulus</a> Real-Time accounting software for ISPs. 
+<li> <a href="http://www.takefive.com" target="_parent">Sniff</a> Source Code Engineering tool.
+<li> <a href="http://www.teamwave.com" target="_parent">Teamwave - Workplace</a> Groupware.
+<li> <a href="http://www.nllgg.nl/Ted" target="_parent">Ted</a> Easy Rich Text Processor.
+<li> <a href="http://www.varicad.com" target="_parent">VariCAD</a> 3D/2D Mechanical Engineering CAD System. 
+<li> <a href="http://www.softwarebuero.de" target="_parent">Wipeout</a> Integrated Software Development Environment.
+</blockquote>
+<img src="../images/netbeans.jpg"  align="center" alt="Netbeans">  <img src="../images/perforce.jpg"  align="center" alt="Perforce"> <img src="../images/teamwave.jpg"  align="center" alt="Teamwave">  <img src="../images/ted.jpg"  align="center" alt="Ted"> <img src="../images/varicad.jpg"  align="center" alt="VariCAD">  <img src="../images/wipeout.jpg" align="center"  alt="Wipeout"><br>
+</blockquote>
+    <hr>
+
+<b>ORDERS: Please <a href="../en/fsinglecd.php3">have a look here</a></b>
+</center>
+<hr><font size=1>
+<!-- Created: Wed Feb 10 01:49:31 CET 1999 -->
+<!-- hhmts start -->
+Last modified: Sat Apr 10 16:08:08 CEST 1999
+<!-- hhmts end -->
+<? include("end1.php3"); ?>

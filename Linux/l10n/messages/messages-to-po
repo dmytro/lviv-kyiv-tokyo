@@ -1,0 +1,359 @@
+#!/usr/bin/perl -w
+
+# Copyright © 2000 
+# Dmytro Koval'ov <kov@tokyo.email.ne.jp>, 2000
+#     $Id: messages-to-po,v 0.2.1.1 2000/01/26 21:46:47 dk Exp $
+#     $Date: 2000/01/26 21:46:47 $
+#     $Log: messages-to-po,v $
+#     Revision 0.2.1.1  2000/01/26 21:46:47  dk
+#     New parameter --local added.
+#     If --local used translations in PO file override ones from *.messages
+#     file.
+#
+#     Revision 0.2  2000/01/26 09:30:41  dk
+#     Added support fro 'fuzzy; flag
+#     Marks entries translated with script by 'fuzzy' mark
+#
+# v 0.1.1 2000 01 24
+#   * original header preservation added
+#   * translation of partially translate PO file
+# v 0.1 2000 01 20,     First realease
+#
+# Havily used functions from Po::Files.pm by:
+# Copyright © 1998 Progiciels Bourbeau-Pinard inc.
+# François Pinard <pinard@iro.umontreal.ca>, 1998.
+#
+
+##? Translates selected entries in PO file using database
+##? of translated entries *.messages
+##? Outputs to PO file or STOUT.
+##?
+
+my $fuzzy = 3;			# default value
+
+my $header = '#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI +ZONE\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: ENCODING\n"
+';
+
+use strict;
+
+my $messages = " ./uk.messages";
+my $POFILE = "-";
+my $LOCAL = 0;
+NEXT_ARG:
+while (my $arg = shift) {
+##? messages-to-po [<OPTRIONS>] [PO-FILE]
+##? Command line options:
+##? 
+    ( $arg =~ /^-l$/ ) or
+	( $arg =~ /^--local$/) && 
+##? --local, -l (NOT IMPEMENTED)
+##?    Translation in "local" file (in PO file that is being translated)
+##?    take preference over the translated strings from *.messages file.
+##?    By default *.messages overrides local translations.
+##? 
+	    do {
+		$LOCAL=1;
+	    };
+    ( $arg =~ /^-f()$/ ) or
+	( $arg =~ /^--fuzzy=?(.*)$/) && 
+##? -f, --fuzzy, --fuzzy=yes
+##?    insert 'fuzzy' flag for each message translated by program
+##? --fuzzy=<NUMBER>
+##?    insert 'fuzzy' flag for message translated by program
+##?    if message is shorter that <NUMBER> words
+##?        default: --fuzzy=3
+##? --fuzzy=no, -nf
+##?    do not put any 'fuzzy' flags at all
+	    do {
+		($fuzzy = ($1 ne "") ? $1 : $fuzzy ) =~ tr {A-Z} {a-z};
+		&usage ("Wrong parameter $fuzzy") if ( $fuzzy !~ /yes|no|[0-9]+/);
+		next  NEXT_ARG;
+	    };
+    ( $arg =~ /^-nf$/ ) && 
+	do {
+	    $fuzzy = 'no';
+	    next  NEXT_ARG;;
+	};
+
+    ( $arg =~ /^-m$/ ) && 
+##? -m <PATH> 
+##?     path to message file. If not present 
+##?     uses ./uk.messages
+	do {  &usage ("No file name") # exit if empty name
+		  if (($messages = shift) eq "");
+	      next  NEXT_ARG;;
+	  };
+    
+##? -o <PATH>
+##?    Output file. If not present, prints to STDOUT
+##?
+    ( $arg =~/^-o$/ ) &&
+	do { my $OUTFILE = shift;
+	     &usage ("No filename")
+		 if ($OUTFILE eq "");
+	     &usage ("Can not open file for writing: $!")
+		 unless open STDOUT, ">$OUTFILE";
+	     next NEXT_ARG;
+	 };
+    $POFILE = $arg;
+}
+
+&usage ("No messages file: $!")
+    unless ( -f $messages );
+
+my $entries;
+my %po_entries = ();
+my %ms_entries = ();
+
+my %comments =();
+my %quotes = ();
+my %refs = ();
+my %flags = ();
+
+my $entry;
+my $type; 
+
+%ms_entries = &po_read_hash ($messages);
+
+open POFILE , "<$POFILE" or die " $POFILE: $!\n";
+while (<POFILE>) { 
+    s/\cM$//;
+    s/[ \t]+$//;
+    if (/^\#/) { print; next };
+    if (/^$/) {			# print all gathered info when hit an empty row
+	if ($entry->{'msgid'} =~ /^msgid\s*\"\"\s*$/) { 
+				# ÑËÝÏ ÐÕÓÔÉÊ msgid ÔÏ ÞÉ ÚÁ×ÖÄÉ ÃÅ header?
+	    print $header, "\n";
+	} else {
+	    my $key = &unquote($entry->{'msgid'});
+	    if (exists  $ms_entries {$key}) {
+		if ( &unquote($ms_entries {$key}) ne &unquote($entry->{'msgstr'})) {
+		    print &fuzzy($entry->{'msgid'}, $fuzzy);
+		} else { 
+		    print $entry->{'msgid'};
+		}
+		if (($LOCAL) 
+		    and (&unquote($ms_entries {$key}) ne &unquote($entry->{'msgstr'})) 
+		    and (&unquote($entry->{'msgstr'}) ne "")) {
+		    print $entry -> {'msgstr'};
+		    print "# local translation\n\n";
+		} else {
+		    print &requote (  'msgstr', $ms_entries {$key}), "\n"; 
+		}
+	    } else {
+		print $entry->{'msgid'};
+		print $entry -> {'msgstr'}, "\n";
+	    }
+	    $type= ''; 
+	};
+	next };
+    if (/^msgid/) {
+	$type = 'msgid';
+	$entry->{$type} = $_;
+	next;
+    }
+    if (/^msgstr/) {
+	$type = 'msgstr';
+  	if ( $entry->{'msgid'} =~ /^msgid\s*\"\"\s*$/) {
+  	    $header = "msgid \"\"\nmsgstr \"\"\n";
+  	} else {
+	    $entry->{$type} = $_;
+	};
+	next;
+    }
+    $entry->{$type} .= $_;
+    $header   .= $_;
+
+}
+
+print $entry->{'msgid'};
+my $key = &unquote($entry->{'msgid'});
+if (exists  $ms_entries {$key}) {
+    print &requote (  'msgstr', $ms_entries {$key}), "\n";
+} else {
+    print  "msgstr \"\"\n";
+}
+
+exit;
+# ----------------------------------------
+sub po_read_hash {
+    my ($name) = @_;
+    my $entries = [];
+    my %entries = ();
+    my $entry = {};
+    my $type = '';
+    my $msgid = '';
+    my $msgstr = '';
+    open PO_FILE, $name or die "* $name: $!\n";
+    while (<PO_FILE>) {
+	s/\cM$//;
+
+	my $obsolete = /^\#~/;
+	# FIXME: Better study the obsoleteness of an obsolete entry.
+
+	s/[ \t]+$//;
+
+	s/\#~ *// if $obsolete;
+	next if /^$/;
+
+	if (/^\#/) {
+	    if ($type eq 'msgstr') {
+		$entry->{'msgid'} = &unquote ($msgid);
+		$entry->{'msgstr'} = &unquote ($msgstr);
+		$entries {&unquote ($msgid)} = &unquote ($msgstr);
+
+		$entry = {};
+		$type = '';
+	    }
+	    $entry->{'obsolete'} = 1 if $obsolete;
+	    if (/^\#[ \t\n]/) {
+		$entry->{'comment'} .= $_;
+	    } elsif (/^\#\./) {
+		$entry->{'qoutes'} .= $_;
+	    } elsif (/^\#:/) {
+		$entry->{'refs'} .= $_;
+	    } elsif (/^\#,/) {
+		$entry->{'flags'} .= $_;
+	    } else {
+		warn "$name:$.: Unrecognised line\n";
+	    }
+	} elsif (/^msgid/) {
+	    if ($type eq 'msgstr') {
+		$entry->{'msgid'} = &unquote ($msgid);
+		$entry->{'msgstr'} = &unquote ($msgstr);
+		$entries {&unquote ($msgid)} = &unquote ($msgstr);
+		$entry = {};
+	$comments {&unquote ($msgid)} = $entry->{'comment'}; #-
+	$quotes {&unquote ($msgid)} = $entry->{'quotes'} ; #-
+	$refs {&unquote ($msgid)} = $entry->{'refs'}; #-
+	$flags {&unquote ($msgid)} = $entry->{'flags'} ; #-
+	    }
+	    $entry->{'obsolete'} = 1 if $obsolete;
+	    $type = 'msgid';
+	    $msgid = $_;
+	} elsif (/^msgstr/) {
+	    $entry->{'obsolete'} = 1 if $obsolete;
+	    $type = 'msgstr';
+	    $msgstr = $_;
+	} elsif (/^[ \t]*\"/) {
+	    $entry->{'obsolete'} = 1 if $obsolete;
+	    if ($type eq 'msgid') {
+		$msgid .= $_;
+	    } elsif ($type eq 'msgstr') {
+		$msgstr .= $_;
+	    } else {
+		warn "$name:$.: Unrecognised line\n";
+	    }
+	} else {
+	    warn "$name:$.: Unrecognised line\n";
+	};
+    }
+    close PO_FILE;
+
+    if ($type eq 'msgstr') {
+	$entry->{'msgid'} = &unquote ($msgid);
+	$entry->{'msgstr'} = &unquote ($msgstr);
+	$entries  {&unquote ($msgid)} = &unquote ($msgstr);
+    }
+
+    %entries;
+}
+
+sub requote {
+    my ($type, $string) = @_;
+    my $multi = $string =~ /[^\n]\n+[^\n]/;
+
+    $string =~ s/\\/\\\\/g;
+    $string =~ s/\"/\\\"/g;
+    $string =~ s/\a/\\a/g;
+    $string =~ s/\010/\\b/g;
+    $string =~ s/\f/\\f/g;
+    if ($multi) {
+	$string =~ s/\n/\\n\"\n\"/g;
+	$string =~ s/\"\n\"$//;
+    } else {
+	$string =~ s/\n/\\n/g;
+    }
+    $string =~ s/\t/\\t/g;
+
+    $type . ($multi ? " \"\"\n\"" : ' "') . $string . "\"\n";
+}
+
+
+
+sub unquote {
+    my ($string) = @_;
+
+    $string =~ s/^[^\"]+\"(.*)\"[^\"]*\n$/$1/s;
+    $string =~ s/\"[ \t]*\\?\n(\#~)?[ \t]*\"//g;
+    $string =~ s/\\[ \t]*\n//g;
+
+    my $result = '';
+    while ($string =~ /\\([abfnt\"\\]|[0-7]+)/) {
+	$result .= $` . ($1 eq 'a' ? "\a"
+			 : $1 eq 'b' ? "\b"
+			 : $1 eq 'f' ? "\f"
+			 : $1 eq 'n' ? "\n"
+			 : $1 eq 't' ? "\t"
+			 : $1 eq '"' ? '"'
+			 : $1 eq '\\' ? '\\'
+			 : sprintf '%c', oct $1);
+	$string = $';
+    }
+
+    $result . $string;
+}
+
+
+#------------------------------------------------------------
+# Prints usage message end exits
+#
+sub usage () {
+    my $msg = shift;
+    my $iam;
+    chomp ($iam = `basename $0`);
+    print "$iam: $msg \n", '-' x 40, "\n\n";
+    print "    Usage :  $iam  [parameters]\n\n";
+    if (open USAGE, "$0") {
+	while (<USAGE>) {
+	    (/^##\?(.*)$/) && do {
+		print $1, "\n";
+	 }}
+	close USAGE; }
+    else {
+	print "Error: Can't open file $0 for reading: $!";
+    }
+    exit 1;
+}
+
+# ------------------------------------------------------------
+# returns msgid with prepended fuzzy string if necessary
+#
+sub fuzzy {
+    my $msgid = shift;
+    my $fuzzy = shift;
+    my $fuzzy_str ="#, fuzzy\n";
+    if ( $fuzzy eq 'yes' ) {
+	return $fuzzy_str . $msgid;
+    } elsif ( $fuzzy eq 'no' ) {
+	return $msgid;
+    } else {		       
+	my @msgstr_l = split ' ', &unquote ($msgid);
+	if ( ++$#msgstr_l le $fuzzy) {
+	    return $fuzzy_str . $msgid;
+	}
+	return  $msgid;
+    }
+}
+
+

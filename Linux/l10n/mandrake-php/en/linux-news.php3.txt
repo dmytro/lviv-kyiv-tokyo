@@ -1,0 +1,25 @@
+<table border=0 width=100% cellpadding=1>
+<tr>
+<td bgcolor="#666699" colspan=3><font color=white face=helvetica><b>ALL LINUX NEWS</b></font>
+</td>
+</tr>
+<tr>
+<td width=33% valign=top align=center <? include("styles/bg-grey1.php3"); ?> > 
+<font size=-1>All Linux news by</font><br><a href="http://linuxtoday.com"><img src="../images/linuxtoday.gif" alt="LinuxToday" width=45 height=26 border=0 align=center></a><p>
+<font size=-2>(Read all Mandrake-related news on LinuxToday <a href="http://linuxtoday.com/search/search-action.pl?topic=All+Topics&query=mandrake">here</a>)</a><p>
+<? include("newsgrabber/linuxtoday.php3"); ?>   
+</td>
+
+<td width=33% valign=top align=center <? include("styles/bg-grey1.php3"); ?> > 
+<font size=-1>Selected Linux news by<br> <a href="http://www.linux-center.org"><img src="../images/nnl.gif" alt="Linux Center News" width=123 height=18 border=0 align=center></a><p>
+<? include("newsgrabber/nnl.php3"); ?>   
+</td>
+
+<td width=33% valign=top align=center <? include("styles/bg-grey1.php3"); ?> > 
+<font size=-1>Selected Linux news by<br> <a href="http://lwn.net"><img src="../images/lwn.gif" alt="Linux Weekly News Daily" width=134 height=26 border=0 align=center></a><p>
+<? include("newsgrabber/lwn.php3"); ?>   
+
+</td>
+
+</tr>
+</table>

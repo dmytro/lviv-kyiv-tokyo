@@ -1,0 +1,18 @@
+<? include("begin1.php3"); ?>
+Linux Mandrake Download
+<? include("begin2.php3"); ?>
+Linux Mandrake Download
+<? include("begin3.php3"); ?>
+Linux Mandrake 6.1 (Helios)</i> is available on several mirrors.
+
+<p>
+<p>
+Please <a href="ftp.php3">check our FTP mirrors here</a>. They also contain contribs, kernel and development stuff from us.<p>
+
+    <hr>
+<font size=1>
+<!-- Created: Tue Jun  9 09:42:15 EDT 1998 -->
+<!-- hhmts start -->
+Last modified: Fri Sep 17 16:54:22 CEST 1999
+<!-- hhmts end -->
+<? include("end1.php3"); ?>

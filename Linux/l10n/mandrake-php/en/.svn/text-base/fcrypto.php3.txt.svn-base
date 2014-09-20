@@ -1,0 +1,16 @@
+<? include("begin1.php3"); ?>
+Encryption solutions with Mandrake
+<? include("begin2.php3"); ?>
+Encryption solutions with Mandrake
+<? include("begin3.php3"); ?>
+MandrakeSoft has released a set of cryptographic packages that cannot be distributed or redistributed from the USA and from several European countries. All those packages have been uploaded to unrestricted servers.<p>
+<img src="../images/modssl.jpg" width=120 height=51 align=right alt="modssl logo"> Right now, we have released crypto stuff such as <b>lynx_ssl</b>, <b>mod_ssl</b> for Apache, <b>openssl</b>, <b>ssh</b> <b>pgp</b> and <b>Netscape</b>.
+<p>
+All those packages have been compiled for Linux-Mandrake with pentium optimizations. In most cases, they will run on Red Hat boxes.
+<p>
+We are looking for other mirrors, If you are able to setup one, please write to <a href="mailto:mirrors@linux-mandrake.com">mirrors@linux-mandrake.com</A>
+<BR><b>Warning:</b> before mirroring the URL (marked =) below, please check that your server is located in a country that allows cryptographic software export.
+<p>
+Please get the packages from:
+<? include("cryptoftp.html"); ?>
+<? include("end1.php3"); ?>

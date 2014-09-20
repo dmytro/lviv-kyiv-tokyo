@@ -1,0 +1,16 @@
+<? include("begin1.php3"); ?>
+Придбання компакт диск╕в Mandrake та попередньо сконф╕гурованих
+комп'ютер╕в в ╢ВРОП╤
+<? include("begin2.php3"); ?>
+Придбання компакт диск╕в Mandrake та попередньо сконф╕гурованих
+комп'ютер╕в в ╢ВРОП╤
+<? include("begin3.php3"); ?>
+
+<? include("europe.html"); ?>
+
+ <hr><font size=1>
+<!-- Created: Thu Oct 15 05:47:05 EDT 1998 -->
+<!-- hhmts start -->
+Last modified: Sun Jun  6 23:42:54 CEST 1999
+<!-- hhmts end -->
+<? include("end1.php3"); ?>

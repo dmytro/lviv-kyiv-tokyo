@@ -1,0 +1,69 @@
+<? include("begin1.php3"); ?>
+Press Release - Linuxi18n.org
+<? include("begin2.php3"); ?>
+Press Release - Linuxi18n.org
+<? include("begin3.php3"); ?>
+
+<b>The Linux-Mandrake team is pleased
+   to announce the www.linuxi18n.org
+   project</b><p> 
+     Sep 22nd<p>
+<p>
+   This is a new project to provide a central point of contact between
+   programmers/project teams of free software, and translators/translation
+   teams. 
+<p>
+   The Linux-Mandrake team is pleased to announce the
+   http://www.linuxi18n.org/ project. 
+<p>
+   This is a new project to provide a central point of contact between
+   programmers/project teams of free software, and translators/translation
+   teams. 
+<p>
+   You may wonder why yet another project, there are already such
+   projects for such and such language, or such and such
+   program/desktop. But, while they are very important and surely fulfill
+   correctly their tasks, the scope isn't the same. 
+<p>
+   This project aims to be a central point for all possible free programs; it
+   could eventually serve as an intermediary to already constitued projects
+   or translation teams; but it would also allow the participation of
+   individuals, of little known free programs, etc. 
+<p>
+   Free softwares give, among other good things, the freedom to adapt a
+   program to the needs and customs of any culture and language of the
+   world; the tools to add the needed support for full translation to
+   programs are there; as well as the willing of a lot of potential translators. 
+<p>
+   But very often, with the exception of 2 or 3 big projects, there is a lack of
+   coordination, or a lack of knowledge on how to use those tools by the
+   programmers, or the translators don't know how or when to send new
+   updated versions of the localized texts, or some individuals want to
+   participate but are stopped by the complexity to having to get a full CVS
+   tree and compile the programs regularly, or a little free program isn't
+   very known and some translation teams never heard of it and is never
+   translated,... 
+
+   This project aims to address those problems, by creating a "translation
+   bazaar", where the texts to translate can be proposed, people interested
+   in doing the translation can pick them and send them back; by
+   automatizing most of the work and taking the burden of coordination
+   away of programmers and translators. 
+<p>
+   By my own experience and contact with various programmers and
+   translators I can say that such a service is currently really needed; but
+   only very big projects like KDE or Gnome can afford to have a similar
+   service; and indeed it is seeing the KDE and Gnome pages that I had
+   this idea, but this time open to all free projects and programs. 
+<p>
+   Join linuxi18n on <a href="http://www.linuxi18n.org">http://www.linuxi18n.org</a>
+<p>
+   Contact: Pablo Saratxaga - Project Leader 
+   Email: pablo@mandrakesoft.com 
+<p>
+<hr><font size=1>
+<!-- Created: Tue Sep 21 01:08:21 CEST 1999 -->
+<!-- hhmts start -->
+Last modified: Fri Sep 24 01:33:24 CEST 1999
+<!-- hhmts end -->
+<? include("end1.php3"); ?>

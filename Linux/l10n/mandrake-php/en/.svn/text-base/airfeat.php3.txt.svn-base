@@ -1,0 +1,111 @@
+<? include("begin1.php3"); ?>
+Linux Mandrake 7.0 (Air) 
+<? include("begin2.php3"); ?>
+Linux Mandrake 7.0 (Air) 
+<? include("begin3.php3"); ?>
+
+<br>
+<center>
+<table border=0 cellpading=3 cellspacing=0>
+<tr>
+<td valign="middle">
+<img src="../images/cd1.png" width=60 height=60 alt="CD1" align="top">
+</td>
+<td valign="middle">
+<font color="#666699" face="arial, helvetica" size=+5><b>Distribution main CD</b></font>
+<br>
+</td>
+</tr>
+</table>
+</center>
+
+<p align="justify"><A HREF="airpack.php3"><IMG SRC="../images/box2.gif" BORDER=0 width=78 height=100 alt="Mandrake 7.0 PowerPack" align="right"></a>
+<b>Linux-Mandrake</b> is a 32 bit, multitasking operating system based on Linux. Mandrake runs on Pentium and Pentium-compatible architectures (Pentium, Pentium Pro, Pentium MMX, Pentium II, Pentium III and clones). Linux-Mandrake combines the power of a Unix-based system with the graphical environments of KDE, GNOME, AfterStep, WindowMaker, IceWM, XFCE, FVWM, and many others.
+<p align="justify">
+<b>Linux-Mandrake 7.0</b> includes the famous Apache Web Server, the GNU image manipulation program Gimp, Netscape Communicator and many of the finest applications available for Linux. Linux-Mandrake is free to download, free to use and free to distribute. We also provide the full source code of all our applications for anyone to modify and distribute.
+<p align="justify">
+Additionally, our distribution is constantly updated with the newest software releases and the latest Linux kernels.
+    <hr>
+
+<table border=0 width="100%" cellpadding=12> 
+<tr>
+<td valign=top colspan=2>
+<li><b>                     Improvements and add-ons</b>
+<div align=justify>
+<blockquote><img src="../images/hat-s.png" width=37 height=28 alt="Mandrake icon" align=left><b>DrakX</b> - our new open-source graphical installation procedure utility. DrakX provides several levels of automated installation for the various skill levels of users. DrakX also allows users to configure their Internet connection during the installation process with full support of ADSL and RNIS technologies. Additionally, nearly 50 different languages are available in DrakX!
+<br><br>
+<img src="../images/i-dd32.gif" width=32 height=32 alt="DD icon" align=left><b>DiskDrake</b> is our new hard-drive partitioning tool which is incorporated into DrakX. DiskDrake allows any user to easily  create, modify and re-size disk partitions using an entirely graphical interface. A completely automated option is also available for inexperienced users.
+<br><br>
+<img src="../images/tux.gif" width=28 height=33 alt="Tux" align=left><b>The very latest Linux Kernel (2.2.14)</b> which has been enhanced with the «Supermount» utility eliminates the clumsy mounting/unmounting process for removable media such as CD-ROMs and floppy disks. Also included:
+<ul>
+<li>Glibc: 2.1.2<br>
+<li>RPM: 3.0.3<br>
+<li>Bash: 2.03<br>
+<li>Qt 1.44 & 2.0.1<br>
+<li>wine: 991212<br>
+</ul>
+<br><br>
+<img src="../images/xfree86.gif" width=42 height=21 alt="Xfree86" align=left><b>The very latest XFree86 (3.3.6)</b> supports many of the latest video cards such as: Matrox G400, S3 Trio 3D, SAVAGE 3D, Nvidia GeForce, ATI Rage 128, Ati Rage Mobility, SIS 540/630/300, Silican Motion Lynx etc
+etc.
+<br><br>
+<img src="../images/i-drake32.gif" width=32 height=32 alt="DrakConf icon" align=left><b>DrakConf</b> is our new desktop configuration panel which enables users to easily configure and modify hardware devices such as video cards, keyboard, mouse (including USB keyboards and mice). DrakConf also includes the new Lothar utility which is a set of tools that offers auto-detecting and configuring of additional hardware devices such as sound cards, network cards, etc. 
+<br><br>
+<img src="../images/i-doc32.gif" width=32 height=32 alt="Mandrake doc icon" align=left><b>High level of internationalization</b> with 50 languages available.
+<br>
+<br>
+<br>
+<img src="../images/i-news32.gif" width=32 height=32 alt="Mandrake news icon" align=left><b>Many desktop enhancements</b> and customizations that greatly simplify a user's experience of learning Linux for the first time. Additional features such as immediate access to a Windows partition, if installed on the same machine, provide a much requested feature. You have a choice of 9 different pre-configured graphical interfaces including the popular:
+<blockquote>
+<br><img src="../images/kde-s.png" width=30 height=30 alt="KDE icon" align=middle>KDE 1.1.2
+<br><br><img src="../images/gnome-s.png" width=30 height=30 alt="Gnome icon" align=middle>Gnome 1.0.55
+<br><br><img src="../images/wm-s.png" width=30 height=32 alt="WindowMaker icon" align=middle>WindowMaker 0.61.1
+<br><br>Enlightenment 0.16.3
+<br><br>IceWM 1.0.0
+</blockquote>
+
+<img src="../images/lock-s.png" width=51 height=35 alt="Lock icon" align=left>Several <b>pre-configured «Security Levels»</b> are now available at installation time to ensure that your Linux system suits your needs.
+<br><br>
+<img src="../images/tux.gif" width=28 height=33 alt="Tux icon" align=left>A customized system kernel « kernel secure » is available for servers that need to be secured. 
+<br>
+<br>
+<img src="../images/i-dd32.gif" width=32 height=32 alt="DD icon" align=left>« RAID » disks support.
+<br>« SMP » multi-processor support.
+
+<br><br>
+<img src="../images/i-news32.gif" width=32 height=32 alt="Mandrake news icon" align=left><b>Pentium-class (and higher) optimizations</b> which result in performance gains of up to 30%!
+<br><br>
+<img src="../images/i-hat32.png" width=32 height=32 alt="Mandrake icon" align=left>You can install Linux directly on your Windows partition using « Lnx4Win ».
+<br><br><br>
+<img src="../images/i-update32.gif" width=32 height=32 alt="Mandrake Update icon" align=left>
+You benefit from the MandrakeUpdate tool which lets you update your system easily and automatically using the Internet. You'll find MandrakeUpdate a great help for staying current with the latest security releases.
+<br><br>
+
+<img src="../images/gimp.gif" width=30 height=22 alt="GIMP icon" align=left>You have an extensive choice of applications such as:
+<blockquote>
+<img src="../images/netscape-logo.png" width=32 height=32 alt="Netscape icon" align=left>Netscape 4.7
+<br><br><img src="../images/gimp.gif" width=30 height=22 alt="GIMP icon" align=left>Gimp 1.4
+<br><br><img src="../images/gnu-s.png" width=32 height=30 alt="Gnu emacs icon" align=left>Xemacs 21.1
+<br><br><img src="../images/mysql-logo.png" width=82 height=25 alt="MySQL logo" align=left>MySQL 3.20.32a
+</blockquote>
+Also Sketch (Vector drawing), Apache (Web Server) with many extensions such as PHP, LDAP server and client, MySQL and PostgreSQL (RDBMS)... A complete list of packages on the main CD is available <a href="rpms70.php3">here</a> (37K).
+<br><br>
+<img src="../images/i-rpm32.gif" width=32 height=32 alt="RPM icon" align=left>You can use all the applications packaged for Red Hat Linux as Mandrake continues to be compatible with Red Hat.
+</div>
+</blockquote>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+</td>
+</tr>
+</table>
+</center>
+    <hr>
+<font size=1>
+<!-- Created: Thu Feb 11 13:52:55 CET 1999 -->
+<!-- hhmts start -->
+Last modified: Thu Feb 10 17:21:39 CET 2000
+<!-- hhmts end -->
+
+<? include("end1.php3"); ?>

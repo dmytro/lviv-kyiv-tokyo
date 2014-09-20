@@ -1,0 +1,61 @@
+<? include("begin1.php3"); ?>
+Older polls
+<? include("begin2.php3"); ?>
+Older polls
+<? include("begin3.php3"); ?>
+
+<center>
+<p><table border=0 width=90%>
+<tr valign=top>
+<td bgcolor=blue width=30% valign=top>
+<font color=white face="helvetica">
+<b>POLL 1 RESULTS</b>
+</font>
+</td>
+</tr>
+<tr>
+<td bgcolor="#eeeeee" valign=top> 
+<font size=-1 face="helvetica">
+
+<center><b>Which is your CPU frequency?</b></center><p><table border=0 cellpadding=30 width=100%><tr><td><p><b>50-150 Mhz (1629 votes)</b><table border=0 width=10.654719079076% bgcolor=yellow><tr><td align=center>10%</td></tr></table><p><p><b>150-300 Mhz (5319 votes)</b><table border=0 width=34.789718097979% bgcolor=yellow><tr><td align=center>34%</td></tr></table><p><p><b>300-900 Mhz (8341 votes)</b><table border=0 width=54.555562822945% bgcolor=yellow><tr><td align=center>54%</td></tr></table></tr></td></table><p><b>Total: 15289 votes</b>
+</td></tr>
+
+<tr valign=top>
+<td bgcolor=blue width=30% valign=top>
+<font color=white face="helvetica">
+<b>POLL 2 RESULTS</b>
+</font>
+</td>
+</tr>
+<tr>
+<td bgcolor="#eeeeee" valign=top> 
+<font size=-1 face="helvetica">
+
+<center><b>I use Mandrake 6.0 mostly as a:</b></center><p><table border=0 cellpadding=30 width=100%><tr><td><p><b>server (1029 votes)</b><table border=0 width=25.140483752749% bgcolor=yellow><tr><td align=center>25%</td></tr></table><p><p><b>client (3064 votes)</b><table border=0 width=74.859516247251% bgcolor=yellow><tr><td align=center>74%</td></tr></table><p></tr></td></table><p><b>Total: 4093 votes</b>
+</table>
+
+<!--
+<table width=98%>
+<tr>
+<td bgcolor=#f9b353 >
+<font color=white size=3>
+<a href="http://www.linux-mandrake.com/en/main.php3"><img src="../images/magic.gif" border=0 align=center></a> ...Back to <a href="http://www.linux-mandrake.com">Linux-Mandrake main page</a>...
+</td>
+</tr>
+
+
+</table> 
+</td>
+</tr>
+</table><font size=-6>
+
+</center>
+-->
+<? include("ad.php3"); ?>
+<hr>
+<font size=1>
+<!-- Created: Fri Nov 13 04:35:50 EST 1998 -->
+<!-- hhmts start -->
+Last modified: Fri Oct 29 17:35:24 CEST 1999
+<!-- hhmts end -->
+<? include("end1.php3"); ?>

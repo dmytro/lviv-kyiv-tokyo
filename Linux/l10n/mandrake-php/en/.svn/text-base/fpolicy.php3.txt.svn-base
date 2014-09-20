@@ -1,0 +1,38 @@
+<? include("begin1.php3"); ?>
+Linux-Mandrake - Introduction
+<? include("begin2.php3"); ?>
+LINUX MANDRAKE INTRODUCTION
+<? include("begin3.php3"); ?>
+
+<p align=justify>
+If you don't know at all about Linux, you might be interested in having a look at our <a href="linux.php3">"What is Linux?"</a> page first.
+
+<p align=justify><b>Linux Mandrake<sup>TM</sup></b> is a complete pre-configured graphical Linux<sup>TM</sup> operating system. It's easy to install, easy to use and stable. And it's available in your own language! When you try it, you adopt it!<p>
+<center>
+<a href="fscreenshots.php3"><img src="../images/mydesk1-s.jpg" border=0></a>&nbsp;&nbsp;&nbsp;<a href="fscreenshots.php3"><img src="../images/mydesk-5-s.jpg" border=0></a> 
+</center>
+<p align=justify>
+Inside <i>Linux Mandrake</i>, the graphical interfaces KDE, Gnome, AfterStep, WindowMaker, IceWM etc. are fully integrated inside a very modern distribution, fully compatible with Red Hat<sup>TM</sup> applications (RPM packages). You don't have to spend hours to get all those graphical interfaces to work: once Mandrake is installed, everything works. Mandrake is also easier to use than other distributions.<p align=justify>
+Get Linux-Mandrake, install it and work.<br> Don't lose your time, don't lose your money!
+<p>
+Do you see the advantages?
+<p align=justify>
+<b>You've got a fully graphical Linux system, compatible with RedHat<sup>TM</sup>, with several powerful Graphical Desktop Managers and many enhancements... </b> 
+<p>
+<center><font size=+1><b>Who uses Linux Mandrake</b>?</font></center>
+<p>
+<blockquote>
+<li> newbies from the Windows world. They need an easy-to-use linux distribution. Mandrake is the easiest.<br>
+<li> other people who don't want to spend too much time when installing and configuring their Linux box.
+</blockquote>
+<p align=justify>
+You can get <i>Linux Mandrake</i> for free (<a href="fdownload.php3">via FTP</a>), at <a href="fsinglecd.php3">small price on a CD-ROM</a>, or even in a <a href="fpowerpack.php3">comprehensive pack</a> with a very useful userguide and applications CDs!<p>
+<center><font size=+1><b>Don't delay, get Linux-Mandrake!</b></font><br></center>
+</font><p><hr>
+<font size=1>
+<!-- Created: Tue Jun  9 07:30:16 EDT 1998 -->
+<!-- hhmts start -->
+Last modified: Sun Feb  6 23:14:41 CET 2000
+<!-- hhmts end -->
+<? include("end1.php3"); ?>
+

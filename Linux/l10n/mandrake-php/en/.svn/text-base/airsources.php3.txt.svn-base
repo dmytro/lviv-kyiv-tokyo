@@ -1,0 +1,42 @@
+<? include("begin1.php3"); ?>
+Linux Mandrake 7.0 (Air) 
+<? include("begin2.php3"); ?>
+Linux Mandrake 7.0 (Air) 
+<? include("begin3.php3"); ?>
+
+
+<BR>
+<CENTER>
+<table border=0 cellpading=3 cellspacing=0>
+<tr>
+<td valign="middle">
+<center>
+<img src="../images/cd2.png" width=60 height=60 alt="CD2 &CD4" align="middle">
+
+<font color="#666699" face="arial, helvetica" size="+5"><b>sources CD</b></font>
+</center>
+</td>
+</tr>
+<tr>
+<td>
+<p align="justify">&nbsp;
+<p align="justify">
+<A HREF="airpack.php3"><IMG SRC="../images/box2.gif" BORDER=0 width=78 height=100 align="right"></A>
+<font face="arial, helvetica"><b>Linux-Mandrake</b> is a distribution of the Linux operating system, released under the terms of the <b>GPL</b> (the GNU public license). The GPL ensures that you may freely download, modify and redistribute our software. See our <a href="flicensing.php3">licensing information</a> for more details.
+<p align="justify">
+Providing our source code is a benefit to all Linux users. It allows anyone to copy, distribute, examine, alter and improve the software. Linux-Mandrake is constantly being enhanced by contributors throughout the world who work with these source files.
+<p align="justify">
+For MandrakeSoft, the <b>Open Source</b> philosophy is a crucial part of our policy. By providing our source code worldwide, we ensure that our distribution maintains the highest level of quality.</font>
+<p align="justify">
+</td>
+</tr>
+</table>
+</center>
+    <hr>
+<font size=1>
+<!-- Created: Thu Feb 11 13:52:55 CET 1999 -->
+<!-- hhmts start -->
+Last modified: Wed Feb  9 20:35:31 CET 2000
+<!-- hhmts end -->
+
+<? include("end1.php3"); ?>

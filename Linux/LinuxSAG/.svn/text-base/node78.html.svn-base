@@ -1,0 +1,111 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<!--Converted with LaTeX2HTML 98.1 release (February 19th, 1998)
+originally by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Авар╕йн╕ загрузочн╕ дискети</TITLE>
+<META NAME="description" CONTENT="Авар╕йн╕ загрузочн╕ дискети">
+<META NAME="keywords" CONTENT="linux,ukrainian,guide,sag">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<LINK REL="STYLESHEET" HREF="sag.css">
+<LINK REL="previous" HREF="node77.html">
+<LINK REL="up" HREF="node72.html">
+<LINK REL="next" HREF="node79.html">
+</HEAD>
+<BODY BGCOLOR=#FFFFFF>
+<!--Navigation Panel-->
+<A NAME="tex2html1447"
+ HREF="node79.html">
+<IMG WIDTH="37" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="next"
+ SRC="next_motif.gif"></A> 
+<A NAME="tex2html1443"
+ HREF="node72.html">
+<IMG WIDTH="26" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="up"
+ SRC="up_motif.gif"></A> 
+<A NAME="tex2html1439"
+ HREF="node77.html">
+<IMG WIDTH="63" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="previous"
+ SRC="previous_motif.gif"></A> 
+<A NAME="tex2html1445"
+ HREF="node7.html">
+<IMG WIDTH="65" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="contents"
+ SRC="contents_motif.gif"></A> 
+<A NAME="tex2html1446"
+ HREF="node120.html">
+<IMG WIDTH="43" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="index"
+ SRC="index_motif.gif"></A> 
+<BR>
+<B> Дал╕:</B> <A NAME="tex2html1448"
+ HREF="node79.html">init</A>
+<B> Вгору:</B> <A NAME="tex2html1444"
+ HREF="node72.html">Загрузка та вимкнення системи</A>
+<B> Назад:</B> <A NAME="tex2html1440"
+ HREF="node77.html">Однокористувацький режим</A>
+<BR>
+<BR>
+<!--End of Navigation Panel-->
+
+<H1><A NAME="SECTION00860000000000000000">
+Авар╕йн╕ загрузочн╕ дискети</A>
+</H1><FONT SIZE="+1"></FONT>
+<P>
+<FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1">Не завжди комп'ютер може загрузитися з жорсткого
+	диску. Наприклад, якщо Ви помилилися при конф╕╜урац╕╖ LILO,
+	може статися так, що система не буде грузитися. Для таких
+	ситуац╕й потр╕бно мати запасний спос╕б загрузки системи, який
+	би працював завжди (як м╕н╕мум до тих п╕р, поки працю╓
+	апаратура). Для типового PC це означа╓ загрузку з дискети.
+<A NAME="5206">&#160;</A>
+<A NAME="5207">&#160;</A>
+</FONT></FONT></FONT>
+<P>
+<FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1">Б╕льш╕сть Л╕накс╕в, що розповсюджуються на сьогодн╕,
+	дозволяють створити <B>авар╕йну загрузочну дискету</B>. Варто
+	створити ╖╖ як можна швидше. Однак, ╕нколи загрузочн╕ дискети
+	мають т╕льки ядро, передбачаючи, що Ви будете користуватися
+	╕ншими програмами з придбаного комплекту для виправлення вс╕х
+	Ваших негаразд╕в. Бува╓ так, що цих програм не
+	досить. Наприклад, Вам потр╕бно в╕дновити к╕лька файл╕в з
+	резервних коп╕й зроблених ран╕ше, а не з установочних диск╕в.
+<A NAME="5209">&#160;</A>
+<A NAME="5210">&#160;</A>
+<A NAME="5211">&#160;</A>
+</FONT></FONT></FONT>
+<P>
+<FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1">Таким чином, може буде потр╕бно створити власн╕ авар╕йн╕
+	дискети з кореневою файловою системою на них. ╤нформац╕ю про
+	те, як це зробити, можна знайти в документ╕ написаному ╫рехам
+	Чепменом <A NAME="tex2html143"
+ HREF="footnode.html#foot5393"><SUP>135</SUP></A> <EM> Bootdisk HOWTO</EM>
+	(<a href="node119.html#bootdisk-howto">       Bootdisk HOWTO</a>). Звичайно, потр╕бно пот╕м п╕дтримувати
+	сво╖ загрузочну та кореневу дискету в порядку ╕ поновлювати ╖х
+	при необх╕дност╕.
+<A NAME="5215">&#160;</A>
+</FONT></FONT></FONT>
+<P>
+<FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1">При авар╕йн╕й загрузц╕ дисков╕д, який використову╓ться для
+	монтування коренево╖ файлово╖ системи, неможливо
+	використовувати для ╕нших ц╕лей. Якщо система ма╓ всього один
+	дисков╕д, це приносить велик╕ незручност╕. Однак, якщо в
+	систем╕ досить пам'ят╕, загрузочну дискету можна створити
+	таким чином, що дискета з кореневою файловою системою
+	прочита╓ться в пам'ять, ╕ в пам'ят╕ створиться в╕ртуальний
+	диск <A NAME="tex2html144"
+ HREF="footnode.html#foot5398"><SUP>136</SUP></A>. Щоб це було можливо, ядро системи
+	повинно бути настро╓не в╕дпов╕дним чином. П╕сля того, як
+	коренева файлова система змонтована з в╕ртуального диску,
+	дисков╕д може використовуватися для монтування ╕нших дискет.
+<A NAME="5217">&#160;</A>
+
+</FONT></FONT></FONT>
+<BR><HR>
+<ADDRESS>
+<I>Dmytro Kovalev</I>
+<BR><I>1999-06-10</I>
+</ADDRESS>
+</BODY>
+</HTML>

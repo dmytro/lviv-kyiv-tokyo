@@ -1,0 +1,193 @@
+<? include("begin1.php3"); ?>
+Linux-Mandrake PowerPack 7.0
+<? include("begin2.php3"); ?>
+Linux-Mandrake PowerPack 7.0
+<? include("begin3.php3"); ?>
+</font>
+<center>
+<table width="75%" border="0" align="center" cellspacing=0 cellpadding=2>
+  <tr> 
+    <td width="10%" height="31" align=center> 
+      <!--div align="center"><img src="../images/ping-s.png" width="37" height="28"></div-->
+    </td>
+<br>&nbsp;
+<b><i>
+<font color="#666699" face="arial, helvetica" size="+5">Linux Mandrake PowerPack </font>
+ 
+<font color="#FFCC00" face="arial, helvetica" size="+5">7.0</font>
+</i></b>   
+ </td>
+  </tr>
+  <tr bgcolor="#FFFFFF"> 
+    <td colspan="2" height="205"> 
+      <div align="center"><img src="../images/box1-70.gif" width="151" height="193"> </div>
+    </td>
+  </tr>
+</table>
+<p>
+
+
+
+
+
+
+<table border="0" align="center" cellspacing=0 cellpadding=2  WIDTH="75%">
+<tr>
+<td colspan=4 bgcolor="#ccccff">&nbsp;</td>
+</tr>
+<tr>
+<td width=12 bgcolor=#CCCCFF>&nbsp;
+</td>
+
+<td><a href="airfeat.php3"><img SRC="../images/cd1.png" height=60 width=60 border=0 alt="CD 1"></a></td>
+<td WIDTH="82%" >
+<div align=center><b><font face="Verdana, Arial, Helvetica, sans-serif"><font color="#666699">Installation CD </font></font></b></div>
+<div align=left><font face="Arial, Helvetica, sans-serif" color="#000000">Comes with our new graphical Installer and the Diskdrake partition resizer, supermount, security levels, new graphical desktop and many more. Click <a href="airfeat.php3">here</a> for all the details.</div>
+</td>
+<td bgcolor=#ccccff>&nbsp;</td>
+</tr>
+<tr>
+<td colspan=4 bgcolor=#ccccff>&nbsp;
+</td>
+</tr>
+<tr>
+<td width=12 bgcolor=#CCCCFF>&nbsp;
+</td>
+
+<td><a href="airsources.php3"><img SRC="../images/cd2.png" height=60 width=60 border=0 alt="CD 2"></a>
+</td>
+<td WIDTH="82%">
+
+<div align=center><b><font face="Verdana, Arial, Helvetica, sans-serif"><font color="#666699">Sources CD</font></font></b></div>
+<div align=left><font face="Arial, Helvetica, sans-serif" color="#000000">Mandrake is Open Source software. It means that you have access to the <a href="airsources.php3">sources</a> of the software.</font></div>
+
+</td>
+<td bgcolor=#ccccff>&nbsp;
+</td>
+</tr>
+<tr>
+<td colspan=4 bgcolor=#ccccff>&nbsp;</td>
+</tr>
+<tr>
+<td width=12 bgcolor=#CCCCFF>&nbsp;
+</td>
+
+<td><a href="aircontribs.php3"><img SRC="../images/cd3.png" height=60 width=60 border=0 alt="CD 3"></a></td>
+<td WIDTH="82%" >
+<div align="center"><b><font face="Verdana, Arial, Helvetica, sans-serif"><font color="#666699">RPM contribs CD </font></font></b></div>
+<div align="left"><font face="Arial, Helvetica, sans-serif" color="#000000">This CD ROM contains 899 RPM applications representing 1361 MBytes of data. Click <a href="aircontribs.php3">here</a> for a list of these pakages.</font></div>
+</td>
+<td bgcolor=#ccccff>&nbsp;</td>
+</tr>
+<tr>
+<td colspan=4 bgcolor=#ccccff>&nbsp;</td>
+</tr>
+<tr>
+<td width=12 bgcolor=#CCCCFF>&nbsp;
+</td>
+
+<td><a href="airsources.php3"><img SRC="../images/cd4.png" height=60 width=60 border=0 alt="CD 4"></a></td>
+<td WIDTH="82%" >
+<div align=center><b><font face="Verdana, Arial, Helvetica, sans-serif"><font color="#666699">Contribs CD (sources)</font></font></b></div>
+<div align=left><font face="Arial, Helvetica, sans-serif" color="#000000">It is distributed under the GPL (GNU public licence). It means that you have access to the <a href="airsources.php3">sources</a> of the software.</font></div>
+</td>
+<td bgcolor=#ccccff>&nbsp;</td>
+</tr>
+<tr>
+<td colspan=4 bgcolor=#ccccff>&nbsp;</td>
+</tr>
+<tr>
+<td width=12 bgcolor=#CCCCFF>&nbsp;
+</td>
+
+<td><a href="aircomm.php3"><img SRC="../images/cd5.png" height=60 width=60 border=0 alt="CD 5"></a></td>
+<td WIDTH="82%" >
+<div align=center><b><font face="Verdana, Arial, Helvetica, sans-serif"><font color="#666699">1 st Application CD </font></font></b></div>
+<div align=left><font face="Arial, Helvetica, sans-serif" color="#000000">Linux is now an established operating system and many software companies are developing great software for this platform. Click <a href="aircomm.php3">here</a> to discover the latest titles.
+</td>
+<td bgcolor=#ccccff>&nbsp;</td>
+</tr>
+<tr>
+<td colspan=4 bgcolor=#ccccff>&nbsp;</td>
+</tr>
+<tr>
+<td width=12 bgcolor=#CCCCFF>&nbsp;
+</td>
+
+<td><a href="aircomm.php3"><img SRC="../images/cd6.png" height=60 width=60 BORDER=0 alt="CD 6"></a></td>
+<td WIDTH="82%" >
+<div align=center><b><font face="Verdana, Arial, Helvetica, sans-serif"><font color="#666699">2nd Application CD </font></font></b></div>
+<div align=left><font face="Arial, Helvetica, sans-serif" color="#000000">Linux is now an established operating system and many software companies are developing great software for this platform. Click <a href="aircomm.php3">here</a> to discover the latest titles.
+</td width=20 bgcolor=#ccccff>
+<td bgcolor=#ccccff>&nbsp;
+</td>
+</tr>
+<tr>
+<td colspan=4 bgcolor=#ccccff>&nbsp;
+</td>
+</tr>
+<tr>
+<td width=12 bgcolor=#CCCCFF>&nbsp;
+</td>
+<td width="18%" height="104" align=center valign="middle" bgcolor="#FFCC00"> 
+<div align="center">
+<A HREF="airdoc.php3"><img src="../images/manuel1.png" width="64" height="90" border=0 align=absmiddle border=0 alt="manual"></a>
+</div>
+</td><td WIDTH="82%" HEIGHT="29" BGCOLOR="#FFCCOO">
+<b><center>
+<p><font face="Verdana, Arial, Helvetica, sans-serif"><font color="#666699">User guide</font></font><br>
+<font face="Verdana, Arial, Helvetica, sans-serif" color="#666699">Reference manual</font>
+<p><font face="Verdana, Arial, Helvetica, sans-serif" color="#FFFFFF" size="2">384 pages</font>
+</center></b>
+</td>
+<td  bgcolor="#CCCCFF">&nbsp;&nbsp;
+</td>
+</tr>
+<tr>
+<td  bgcolor="#CCCCFF" colspan=4>
+&nbsp;
+</td>
+</tr>
+<tr>
+<td width=12 bgcolor=#CCCCFF>&nbsp;
+</td>
+<td width="18%" height="104" align=center valign="middle" bgcolor="#FFCC00"> 
+<div align="center">
+<A HREF="airdoc.php3"><img src="../images/manuel2.png" width="64" height="90" border=0 align=absmiddle border=0 alt="manual"></a>
+</div>
+</td>
+<td width="82%" height="104" bgcolor="#FFCC00"> 
+<div align="center">
+<b>
+<p><font face="Verdana, Arial, Helvetica, sans-serif" color="#666699">Install Guide</font></p>
+<p><font face="Verdana, Arial, Helvetica, sans-serif" color="#FFFFFF" size="2">85 pages</font></p></b>
+</td>
+<td  bgcolor="#CCCCFF">&nbsp;&nbsp;
+</td>
+</tr>
+<tr>
+<td  bgcolor="#CCCCFF" colspan=4>
+&nbsp;
+</td>
+</tr>
+</table>
+</center>
+<p align="left">
+<font face="helvetica, arial">
+<b>ORDERS:</b><p></font>
+<blockquote>
+<ul>
+<font face="helvetica, arial"><li><b>go</b> to our <a href="fsinglecd.php3">resellers lists here</a></b></li></font>
+<font face="helvetica, arial"><li> <b>if you don't find any reseller</b> that provides the PowerPack in your area, <a href="register-customer.php3">please fill this form</a>.</li></font>
+<font face="helvetica, arial"><li> <b>you are a reseller</b> and want to order some PowerPacks, <a href="register-reseller.php3">please fill this form</a>.</li></font>
+</ul>
+</blockquote>
+</p>
+
+<hr><font size=1>
+<!-- Created: Wed Mar  3 00:10:30 CET 1999 -->
+<!-- hhmts start -->
+Last modified: Mon Feb 28 17:25:21 CET 2000
+<!-- hhmts end -->
+
+<? include("end1.php3"); ?>

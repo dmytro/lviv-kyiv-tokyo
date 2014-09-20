@@ -1,0 +1,126 @@
+<? include("begin1.php3"); ?>
+Linux-Mandrake main products description
+<? include("begin2.php3"); ?>
+Our Goals with Linux Mandrake
+<? include("begin3.php3"); ?>
+<p>&nbsp;</font>
+<ul>
+<li>
+<font face="Arial,Helvetica">To provide a working and easy-to-install Linux distribution for people who prefer not to spend their time installing and configuring their operating system. You can install Linux-Mandrake and begin USING IT!!</font></li>
+<br>&nbsp;
+<li>
+<font face="Arial,Helvetica"> To provide a complete Linux distribution ready to meet the needs of most users, whether your needs are graphics, word-processing, multimedia, etc.</font></li>
+<br>&nbsp;
+<li>
+<font face="Arial,Helvetica">To provide a solid-stable and proven fast Linux server system loaded with features for Internet and Intranet servers</font></li>
+<br>&nbsp;
+<li><font face="Arial,Helvetica">To provide an optimized and customized distribution, compatible with RedHat, a well-known linux environment</font></li>
+<li><font face="Arial,Helvetica">To provide a fully configured and fun to use Linux system for all.</font></li>
+</ul>
+<p>&nbsp;
+<center>[<a href="fpowerpack.php3">PowerPack</a>] - [<a href="goldfeat.php3">Gold Pack 2000</a>]</center>
+<p>&nbsp;
+</td>
+</tr>
+
+<tr>
+<td BGCOLOR="#666699"><b><font face="Arial,Helvetica"><font color="#FFFFFF">your Linux Mandrake wishes</font></font></b></td>
+</tr>
+
+<tr>
+<td BGCOLOR="#FFFFFF">
+      <p> <font face="Arial, Helvetica, sans-serif"><img SRC="../images/dreamof.png" ALT="did you ever dream of..." height=42 width=385> 
+        </font>
+      <p> 
+      <font face="helvetica">
+      <li><font face="Arial, Helvetica, sans-serif">Installing your operating 
+        system with a fully graphical interface that guides you step by step through the entire installation process? </font> 
+        <p align="center"><font face="Arial, Helvetica, sans-serif"><a href="../images/screen-drakx.jpg"><img SRC="../images/screen-drakx-s.jpg" ALT="install with DrakX" BORDER=0 width="350" height="262"></a></font></p>
+        <p> 
+      <li><font face="Arial, Helvetica, sans-serif">An installation procedure that 
+        explains all that you can do and gives you all the choices you may want 
+        to make.</font>
+      <li><font face="Arial, Helvetica, sans-serif">An operating system that is able to install itself from your existing Windows environement, while respecting the integrity of all your programs and datas ? </font> 
+        <p align="center"><font face="Arial, Helvetica, sans-serif"><a href="../images/screen-lnx4win.jpg"><img SRC="../images/screen-lnx4win-s.jpg" ALT="Linux4win window" BORDER=0 width="300" height="237"></a></font></p>
+      </font>
+      <li><font face="Arial, Helvetica, sans-serif">A real intuitive choice of many attractive and functional window 
+        managers just after installing your OS ?</font> 
+        <p align="center"><font face="Arial, Helvetica, sans-serif"><a href="../images/kdm.jpg"><img SRC="../images/kdm-s.jpg" ALT="multi-window managers choice at startup" BORDER=0 height=177 width=300></a> 
+          </font>
+        <p> 
+        <p><font face="Arial, Helvetica, sans-serif"><img SRC="../images/dreamof.png" ALT="did you ever dream of..." height=42 width=385> 
+          </font>
+          <li> <font face="Arial, Helvetica, sans-serif">many themes available 
+            under KDE or Gnome that meet the preference of any user ?</font> </li>
+          
+      <p align="center">&nbsp; 
+      <table border="0" width="99%" cellspacing="5">
+        <tr>
+          <td>
+            <div align="center"><font face="Arial, Helvetica, sans-serif"><a href="../images/kdeth.jpg"><img src="../images/kdeth-s.jpg" alt="many themes under KDE" border=0 height=211 width=200></a></font></div>
+          </td>
+          <td>
+          <!--  <div align="center"><font face="Arial, Helvetica, sans-serif"><a href="../images/them.jpg"><img src="../images/them-s.jpg" alt="many themes under KDE" border=0 height=251 width=350></a></font></div>-->
+          </td>
+        </tr>
+      </table>
+      <br>
+      <div align="center"></div>
+      <p align="left"> <font face="Arial, Helvetica, sans-serif"><img SRC="../images/dreamof.png" ALT="did you ever dream of..." height=42 width=385> 
+        </font> 
+      <li> <font face="Arial, Helvetica, sans-serif">Scaleable TruType fonts (.ttf) 
+        available for all applications (including printing), at 
+        boot time?</font> 
+        <center>
+          <p><a href="../images/tt.jpg"><img SRC="../images/tt-s.jpg" ALT="scalable True-Type fonts available under X and for printing" BORDER=0 height=175 width=200></a>
+        </center>
+        <p> <img SRC="../images/dreamof.png" ALT="did you ever dream of..." height=42 width=385> 
+        <P> 
+        <B><font face="Arial, Helvetica, sans-serif">Mandrake KDE customization</font></B>
+      <li><font face="Arial, Helvetica, sans-serif">The Linux system mounts and recognises CD-ROM, floppy and even DOS/Windows formated discs, just by clinking on preconfigured icons from the desktop.</font>
+      <li><font face="Arial, Helvetica, sans-serif">Easy printing under KDE by 
+        dragging and dropping documents onto the printer icon. </font>
+      <li><font face="Arial, Helvetica, sans-serif">Mandrake-Updates utility icon to automaticaly update your Linux-System with just one click.</font> 
+
+        <p> <font face="Arial, Helvetica, sans-serif"><img SRC="../images/dreamof.png" ALT="did you ever dream of..." height=42 width=385> 
+          </font>
+        <p> 
+      <li><font face="Arial, Helvetica, sans-serif">The best multilangual support available for this OS ?</font> 
+      <li> <font face="Arial, Helvetica, sans-serif">A complete linux distribution that 
+        offers the power of an Operating System with a complete working Office Suite (Word processor, Spreadsheet, Database, Présentations and PIM) fully compatible with MS Office applications and documents ?</font></li>
+      <li> <font face="Arial, Helvetica, sans-serif">A faster linux-distribution  optimized for your Pentium or compatible processor ?</font></li>
+      <li> <font face="Arial, Helvetica, sans-serif">A linux-distribution that allows faster access time to IDE hard-drives ?&nbsp;</font></li>
+      <p> <font face="Arial, Helvetica, sans-serif"><img SRC="../images/dreamof.png" ALT="did you ever dream of..." height=42 width=385></font>
+      <li><font face="Arial, Helvetica, sans-serif">A free email support to get started with your new system ?</font>
+      <li><font face="Arial, Helvetica, sans-serif">A free and helpful assistance from other Mandrake users throughout the Linux community ?
+      <li><font face="Arial, Helvetica, sans-serif">A free 60 days phone customer service 
+        support provided with the Gold Pack 2000 for registered users ?</font> 
+        <center>
+          <table BORDER=0 >
+            <tr> 
+              <td VALIGN=TOP></td>
+              <td VALIGN=BOTTOM></td>
+            </tr>
+          </table>
+
+  <p><font face="Arial, Helvetica, sans-serif"><b><u>clik to discover all Linux-Mandrake new features...</u></b></font><b></b> 
+<table BORDER=0 COLS=3 WIDTH="520" cellspacing=0 cellpadding=0>
+<tr>
+<td ALIGN=CENTER VALIGN=CENTER width=160><a href="fpowerpack.php3"><img SRC="../images/boite70.jpg" height=200 width=160 alt="PowerPack box" border=0></a></td>
+
+<td width=200><a href="fpowerpack.php3"><img SRC="../images/fpowerpack.gif" height=49 width=300 alt="< PowerPack" border=0></a>
+<br><a href="goldfeat.php3"><img SRC="../images/fgoldpack.gif" height=56 width=270 alt="Gold Pack 2000 >" border=0></a></td>
+
+<td ALIGN=CENTER VALIGN=CENTER width=160><a href="goldfeat.php3"><img SRC="../images/boitegold.gif" height=200 width=160 alt="Gold Pack2000 box" border=0></a></td>
+</tr>
+</table>
+        </center>
+ <br>
+    <hr>
+<font size=1>
+<!-- Created: Thu Feb 11 13:52:55 CET 1999 -->
+<!-- hhmts start -->
+Last modified: Mon Feb 21 16:16:05 CET 2000
+<!-- hhmts end --> 
+
+<? include("end1.php3"); ?>

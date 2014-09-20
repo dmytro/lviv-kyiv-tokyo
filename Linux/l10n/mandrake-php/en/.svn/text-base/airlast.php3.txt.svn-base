@@ -1,0 +1,101 @@
+<? include("begin1.php3"); ?>
+Linux-Mandrake 7.0 - Last minute fixes
+<? include("begin2.php3"); ?>
+Linux-Mandrake 7.0 - Last minute fixes
+<? include("begin3.php3"); ?>
+<br>
+<i>
+<p align="justify">Some users have encountered problems installing the 7.0 due to specific
+configurations that we did not fully test. Please use the patches included below for each scenario if it applies to you. These custom patches should enable you to complete a successful installation.<br>
+</i>
+<h3>Note:</h3>
+<div align="justify">To download and save a patch, right-click on the link in your web
+browser and choose "Save Link As" (assuming you are using Navigator). save this file to your boot floppy making sure to keep the name "patch.pl". Then, during installation, boot from the disk as normal but type "linux patch" at boot prompt.
+</div></i><p>
+<hr>
+<p>
+<b>Autoboot users</b>
+<br><i>what:</i> can't load second stage ramdisk, or can't exec stage2
+<br><i>when:</i> before starting the X graphical install, after finding the cdrom
+<br><i>why:</i> the Autoboot.bat script is buggy
+<br><i>solution:</i> use this <a href="/drakx/patches/Autoboot.bat">Autoboot.bat</a>
+<p>
+<b>Slow 'upgrade' speed</b>
+<br><i>what:</i> it is very slow and seems to be dead-looping
+<br><i>when:</i> every time you upgrade
+<br><i>solution:</i> none, WAIT and all should be ok!
+<p>
+<b>PCMCIA pcnet_cs</b>
+<br><i>what:</i> can't find the module 8390.o
+<br><i>when:</i> at the beginning of network install
+<br><i>solution:</i> use this <a href="/drakx/patches/pcmcia.img">pcmcia.img</a> floppy image
+<p>
+<b>RAID mylex DAC:</b>
+<br><i>what:</i> can't find the devices
+<br><i>when:</i> at step `setup SCSI'
+<br><i>solution:</i> use this <a href="/drakx/patches/dac960/patch.pl">patch</a>
+<p>
+<b>USB or serial mouse incorrectly detected</b>
+<br><i>what:</i> the mouse was wrongly detected as a PS2 mouse instead of a serial or USB mouse
+<br><i>when:</i> at step `select Language'
+<br><i>why:</i> the kernel has some problem with some motherboards and detection for serial or USB mice may be incorrect
+detects a PS2 mouse is available
+<br><i>solution:</i> use this <a href="/drakx/patches/skipps2/patch.pl">patch</a>
+<p>
+<b>install freeze</b>
+<br><i>what:</i> in graphical installation mode, ther is no response at all (num lock doesn't even toggle)
+<br><i>when:</i> at step `setup SCSI'
+<br><i>why:</i> the kernel has some problem with some motherboards (Shuttle Spacewalker HOT-569 with S3 based video card) and freezes.
+<br><i>solution:</i> either install in expert and choose NO pci probe, or use this <a href="/drakx/patches/skippci/patch.pl">patch</a>
+<p>
+<b>Error message: "min_size" being an unknown method</b>
+<br><i>what:</i> an error message "min_size" keeps being displayed
+<br><i>when:</i> at step `Setup Filesystems', in some instance of a large FAT partition
+<br><i>why:</i> It seems like you have a large single FAT that the fat-resizer finds buggy. DrakX tries to detect the bounds of the FAT filesystem and forget to test the returned error.
+<br><i>solution:</i> use this <a href="/drakx/patches/noautofatresize/patch.pl">patch</a>
+<p>
+<b>Matrox G100</b>
+<br><i>what:</i> Matrox G100 is on the list but the X configuration doesn't recognise it.
+<br><i>when:</i> X configuration
+<br><i>why:</i> This card was not implemented in the distribution.
+<br><i>solution:</i> either use this <a href="/drakx/patches/pcitable/patch.pl">patch</a> or choose "expert mode" install and when configuring X, choose "no PCI detection". During graphic card selection choose "Unlisted" and when selecting the X server pick "SVGA".
+<p>
+<b>Acard SCSI card</b>
+<br><i>what:</i> DrakX tries to install module "unknown" and fails
+<br><i>when:</i> at step `setup SCSI'
+<br><i>why:</i> The module atp870u is not properly associated with the Acard PCI entries
+<br><i>solution:</i> use this <a href="/drakx/patches/pcitable/patch.pl">patch</a>
+<p>
+<b>computer with no PCI:</b>
+<br><i>what:</i> can't open /proc/bus/pci/devices
+<br><i>when:</i> at step `setup SCSI'
+<br><i>solution:</i> use this <a href="/drakx/patches/nopci/patch.pl">patch</a>
+<p>
+<b>formatting FAT fails:</b>
+<br><i>what:</i> formatting FATs fails
+<br><i>when:</i> in diskdrake
+<br><i>solution:</i> use this <a href="/drakx/patches/mkdosfs/patch.pl">patch</a>
+(please report to bugs@linux-mandrake.com)
+<p>
+<b>EATA scsi</b>
+<br><i>what:</i> can't boot on the EATA disk or can't access the EATA disk
+<br><i>when:</i> after installation, after rebooting
+<br><i>solution:</i> install using this <a href="/drakx/patches/disk-IS-scsi/patch.pl">patch</a> or
+add the missing alias in /etc/conf.modules (should be "alias scsi_hostadapter eata")
+<p>
+<!-- doesn't work :(
+<b>promise Ultra66:</b>
+<br><i>what:</i> the hard drive plugged to the promise card is not available
+<br><i>when:</i> at step `Setup Filesystems'
+<br><i>solution:</i> use this <a href="/drakx/patches/promise/patch.pl">patch</a>
+(please report to bugs@linux-mandrake.com)
+<p>
+-->
+
+<hr>
+<font size=1>
+<!-- Created: Tue Sep 29 07:31:16 EDT 1998 -->
+<!-- hhmts start -->
+Last modified: Wed Feb 16 10:23:04 CET 2000
+<!-- hhmts end -->
+<? include("end1.php3"); ?>

@@ -1,0 +1,101 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<!--Converted with LaTeX2HTML 98.1 release (February 19th, 1998)
+originally by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Пошта</TITLE>
+<META NAME="description" CONTENT="Пошта">
+<META NAME="keywords" CONTENT="linux,ukrainian,guide,sag">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<LINK REL="STYLESHEET" HREF="sag.css">
+<LINK REL="next" HREF="node24.html">
+<LINK REL="previous" HREF="node22.html">
+<LINK REL="up" HREF="node14.html">
+<LINK REL="next" HREF="node24.html">
+</HEAD>
+<BODY BGCOLOR=#FFFFFF>
+<!--Navigation Panel-->
+<A NAME="tex2html736"
+ HREF="node24.html">
+<IMG WIDTH="37" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="next"
+ SRC="next_motif.gif"></A> 
+<A NAME="tex2html732"
+ HREF="node14.html">
+<IMG WIDTH="26" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="up"
+ SRC="up_motif.gif"></A> 
+<A NAME="tex2html726"
+ HREF="node22.html">
+<IMG WIDTH="63" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="previous"
+ SRC="previous_motif.gif"></A> 
+<A NAME="tex2html734"
+ HREF="node7.html">
+<IMG WIDTH="65" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="contents"
+ SRC="contents_motif.gif"></A> 
+<A NAME="tex2html735"
+ HREF="node120.html">
+<IMG WIDTH="43" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="index"
+ SRC="index_motif.gif"></A> 
+<BR>
+<B> Дал╕:</B> <A NAME="tex2html737"
+ HREF="node24.html">Друк</A>
+<B> Вгору:</B> <A NAME="tex2html733"
+ HREF="node14.html">Основн╕ послуги в систем╕</A>
+<B> Назад:</B> <A NAME="tex2html727"
+ HREF="node22.html">Файлова система мереж╕ (Network</A>
+<BR>
+<BR>
+<!--End of Navigation Panel-->
+
+<H2><A NAME="SECTION00439000000000000000">
+Пошта</A>
+</H2>
+<P>
+<FONT SIZE="+1"><FONT SIZE="+1">Електронна пошта як звичайно ╓ найважлив╕шим засобом
+	сп╕лкування за допомогою комп'ютера. Електронний лист
+	збер╕га╓ться у файл╕ в спец╕альному формат╕, ╕ для читання та
+	передач╕ кореспонденц╕╖ використовуються призначен╕ для цього
+	програми.
+	
+<A NAME="777">&#160;</A>
+<A NAME="824">&#160;</A>
+<A NAME="825">&#160;</A>
+<A NAME="780">&#160;</A>
+<A NAME="826">&#160;</A>
+</FONT></FONT>
+<P>
+<FONT SIZE="+1"><FONT SIZE="+1">Кожен користувач ма╓ <B>вх╕дну поштову скриню</B> (файл
+	спец╕ального формату), в як╕й збер╕гаються вс╕ нов╕
+	листи. Коли хто-небудь в╕дсила╓ листа, поштова програма
+	в╕дшукову╓ поштову скриню адресату ╕ допису╓ листа в к╕нець
+	поштово╖ скрин╕. Якщо поштова скриня знаходиться на ╕нш╕й
+	машин╕, лист в╕дсила╓ться на цю машину, ╕ ця (в╕ддалена)
+	машина доставля╓ листа до поштово╖ скрин╕ адресата, тим чином,
+	який вона вважа╓ за найкращий.
+</FONT></FONT>
+<P>
+<FONT SIZE="+1"><FONT SIZE="+1"><A NAME="783">&#160;</A>
+<A NAME="784">&#160;</A>
+</FONT></FONT>
+<P>
+<FONT SIZE="+1"><FONT SIZE="+1">Система електронно╖ пошти склада╓ться з багатьох
+	програм. Доставка пошти до м╕сцево╖ чи в╕ддалено╖ скрин╕
+	викону╓ться одн╕╓ю програмою (<B>агентом доставки пошти</B>
+	(mail transfer agent, MTA): наприклад, <TT>sendmail</TT><A NAME="1060">&#160;</A> або
+	<TT>smail</TT><A NAME="1062">&#160;</A>), в той час як програм, якими користуються
+	безпосередньо користувач╕, багато ╕ вони значно в╕др╕зняються
+	одна в╕д одно╖ (<B>агент користувача пошти</B> (mail user
+	agent, MUA): наприклад, <TT>pine</TT><A NAME="1065">&#160;</A>, <TT>elm</TT><A NAME="1067">&#160;</A>). Поштов╕ скрин╕
+	звичайно знаходяться в  <TT>/var/spool/mail</TT><A NAME="1069">&#160;</A>.
+</FONT></FONT>
+<P>
+<BR><HR>
+<ADDRESS>
+<I>Dmytro Kovalev</I>
+<BR><I>1999-06-10</I>
+</ADDRESS>
+</BODY>
+</HTML>

@@ -1,0 +1,116 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<!--Converted with LaTeX2HTML 98.1 release (February 19th, 1998)
+originally by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Виб╕р засоб╕в для створення резервних коп╕й</TITLE>
+<META NAME="description" CONTENT="Виб╕р засоб╕в для створення резервних коп╕й">
+<META NAME="keywords" CONTENT="linux,ukrainian,guide,sag">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<LINK REL="STYLESHEET" HREF="sag.css">
+<LINK REL="next" HREF="node106.html">
+<LINK REL="previous" HREF="node104.html">
+<LINK REL="up" HREF="node102.html">
+<LINK REL="next" HREF="node106.html">
+</HEAD>
+<BODY BGCOLOR=#FFFFFF>
+<!--Navigation Panel-->
+<A NAME="tex2html1796"
+ HREF="node106.html">
+<IMG WIDTH="37" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="next"
+ SRC="next_motif.gif"></A> 
+<A NAME="tex2html1792"
+ HREF="node102.html">
+<IMG WIDTH="26" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="up"
+ SRC="up_motif.gif"></A> 
+<A NAME="tex2html1786"
+ HREF="node104.html">
+<IMG WIDTH="63" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="previous"
+ SRC="previous_motif.gif"></A> 
+<A NAME="tex2html1794"
+ HREF="node7.html">
+<IMG WIDTH="65" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="contents"
+ SRC="contents_motif.gif"></A> 
+<A NAME="tex2html1795"
+ HREF="node120.html">
+<IMG WIDTH="43" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="index"
+ SRC="index_motif.gif"></A> 
+<BR>
+<B> Дал╕:</B> <A NAME="tex2html1797"
+ HREF="node106.html">Просте резервування</A>
+<B> Вгору:</B> <A NAME="tex2html1793"
+ HREF="node102.html">Резервн╕ коп╕╖</A>
+<B> Назад:</B> <A NAME="tex2html1787"
+ HREF="node104.html">Виб╕р нос╕╖в для створення</A>
+<BR>
+<BR>
+<!--End of Navigation Panel-->
+
+<H1><A NAME="SECTION001230000000000000000">
+Виб╕р засоб╕в для створення резервних коп╕й</A>
+</H1><FONT SIZE="+1"><FONT SIZE="+1"></FONT></FONT>
+<P>
+<FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1">Для створення резервних коп╕й ╕сну╓ безл╕ч засоб╕в. Традиц╕йн╕
+	засоби Юн╕кса - це команди <TT>tar</TT><A NAME="6925">&#160;</A>, <TT>cpio</TT><A NAME="6927">&#160;</A> та
+	<TT>dump</TT><A NAME="6929">&#160;</A>. Додатково до цього ╕снують ╕нш╕ пакети (як
+	безкоштовн╕, так ╕ комерц╕йн╕). На виб╕р конкретного засобу
+	вплива╓ також виб╕р нос╕я. 
+</FONT></FONT></FONT></FONT>
+<P>
+<FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1"><TT>tar</TT><A NAME="6931">&#160;</A> та <TT>cpio</TT><A NAME="6933">&#160;</A> - под╕бн╕ м╕ж собою, ╕ з точки зору
+	резервного коп╕ювання майже однаков╕. Обидв╕ програми можуть
+	збер╕гати дан╕ на стр╕чках та читати ╖х зв╕дти. Обидв╕ можуть
+	користуватися практично будь-якими нос╕ями для запису,
+	оск╕льки драйвери низького р╕вня в ядр╕ п╕клуються про роботу
+	з пристроями ╕ вс╕ пристро╖ виглядають практично однаково для
+	програм р╕вня користувача. Деяк╕ верс╕╖ традиц╕йних
+	Юн╕ксовських <TT>tar</TT><A NAME="6935">&#160;</A> та <TT>cpio</TT><A NAME="6937">&#160;</A> можуть мати деяк╕
+	проблеми з незвичайними файлами (символ╕чними ссилками,
+	спец╕альними файлами пристро╖в, файлами з занадто довгими
+	назвами, тощо<A NAME="tex2html178"
+ HREF="footnode.html#foot6945"><SUP>168</SUP></A>), але
+	Л╕накс╕вськ╕ верс╕╖ поводяться з усим цим так, як треба.
+</FONT></FONT></FONT></FONT>
+<P>
+<FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1"><TT>dump</TT><A NAME="6959">&#160;</A> в╕др╕зня╓ться тим, що в╕н чита╓ безпосередньо
+	файлову систему , а не файли через файлову систему. Кр╕м того в╕н
+	написаний спец╕ально для створення резервних коп╕й, в той час,
+	як <TT>tar</TT><A NAME="6961">&#160;</A> та <TT>cpio</TT><A NAME="6963">&#160;</A> насправд╕ створен╕ для арх╕вування
+	даних, хоча ╕ можуть робити резервн╕ коп╕╖ також.
+</FONT></FONT></FONT></FONT>
+<P>
+<FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1">Звертання прямо до файлово╖ системи ма╓ деяк╕ переваги. Це
+	робить можливим арх╕вування файл╕в без зм╕ни ╖х дат, щоб
+	досягти цього ж за допомогою <TT>tar</TT><A NAME="6965">&#160;</A> та <TT>cpio</TT><A NAME="6967">&#160;</A> Вам
+	потр╕бно було б спочатку монтувати файлову систему в режим╕
+	т╕льки читання. Також пряме читання з файлово╖ системи
+	ефективн╕ше, тод╕, коли потр╕бно створити резервну коп╕ю вс╕╓╖
+	файлово╖ системи, оск╕льки менше часу витрача╓ться на перев╕д
+	магн╕тно╖ головки. Основним недол╕ком ╓ залежн╕сть в╕д типу
+	файлово╖ системи - кожна програма розум╕╓ одну ╓дину файлову
+	систему.  Л╕накс╕вська верс╕я <TT>dump</TT><A NAME="6969">&#160;</A> може працювати
+	т╕льки з файловою системою ext2.
+</FONT></FONT></FONT></FONT>
+<P>
+<FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1"><TT>dump</TT><A NAME="6971">&#160;</A> також п╕дтриму╓ безпосередньо р╕вн╕ створення
+	резервних коп╕й (про як╕ буде трохи дал╕); при використанн╕
+	команд <TT>tar</TT><A NAME="6973">&#160;</A> та <TT>cpio</TT><A NAME="6975">&#160;</A> це треба робити за допомогою
+	╕нших засоб╕в. 
+</FONT></FONT></FONT></FONT>
+<P>
+<FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1">Пор╕вняння ╕нших засоб╕в для створення резезвних коп╕й
+	виходить поза меж╕ тематики ц╕╓╖ книжки. Багато засоб╕в
+	приведено на  Linux Software Map.
+	
+</FONT></FONT></FONT></FONT>
+<BR><HR>
+<ADDRESS>
+<I>Dmytro Kovalev</I>
+<BR><I>1999-06-10</I>
+</ADDRESS>
+</BODY>
+</HTML>

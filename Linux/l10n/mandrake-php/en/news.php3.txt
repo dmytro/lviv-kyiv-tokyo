@@ -1,0 +1,25 @@
+<?
+$fd = fopen("fnews.php3", "r");
+if (!$fd)  echo "<center>ERROR/News file not found!</center><br>"; else
+
+ $etat=0;
+ $count=0;	
+ $max=3;
+
+
+ while (!feof($fd) && $count<=$max) {
+        $buf=fgets($fd, 255);
+	
+	
+	if (strstr($buf,"<!--/fast-->")) {
+		$etat=0; 
+		if ($count<$max) echo "<hr>";
+	}
+	if ($etat==1) echo $buf."<br>";
+	if (strstr($buf,"<!--fast-->")) {
+		$etat=1;
+		$count++;
+	}
+        }
+
+?>                                      

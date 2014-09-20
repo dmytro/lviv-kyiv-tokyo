@@ -1,0 +1,38 @@
+<? include("begin1.php3"); ?>
+Linux-Mandrake Installation Assistance
+<? include("begin2.php3"); ?>
+Linux-Mandrake Installation Assistance
+<? include("begin3.php3"); ?>
+
+<FORM METHOD="POST" ACTION="/cgi-bin/cgi-mail-support.pm" ENCTYPE="application/x-www-form-urlencoded">
+
+<CENTER>
+<p>
+<TABLE BGCOLOR="blue" WIDTH="80%" CELLSPACING="0" BORDER="0" CELLPADDING="10">
+<TR>
+	  <TD><font color="white"> 
+		<B>Enter your registration number:</B><br> 
+	      </font>
+	      <INPUT TYPE="text" NAME="keynumber"  SIZE=24 MAXLENGTH=24>
+	      <font color=white>
+	      <p>
+		<B>Describe your problem here:</b><br>
+		<textarea rows=20 cols=65 name=problem>
+		</textarea>
+	      <p>
+	      <center>
+		<b><INPUT TYPE="submit" NAME="submit" VALUE="Send the message">
+	      </center>    
+	    </td>
+	  </TR>
+	</TABLE>
+      </CENTER>
+   
+    </form>
+<hr>
+<font size=1>
+<!-- Created: Fri Nov 13 04:35:50 EST 1998 -->
+<!-- hhmts start -->
+Last modified: Mon Jul 12 17:17:00 CEST 1999
+<!-- hhmts end -->
+<? include("end1.php3"); ?>

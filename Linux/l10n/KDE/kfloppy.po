@@ -1,0 +1,162 @@
+# Ukrainian translation of kfloppy
+# Copyright (C) 2000 Free Software Foundation, Inc.
+# Dmytro Koval'ov <kov@tokyo.email.ne.jp>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: kfloppy VERSION\n"
+"POT-Creation-Date: 1999-03-13 01:55+0100\n"
+"PO-Revision-Date: 2000-04-28 18:52+09:00\n"
+"Last-Translator: Dmytro Koval'ov <kov@tokyo.email.ne.jp>\n"
+"Language-Team: UKRAINIAN <linux@linux.org.ua>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=koi8-u\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid ""
+"%s is mounted.\n"
+"Please unmount the floppy first."
+msgstr ""
+"%s змонтовано.\n"
+"Будь-ласка, в╕дмонтуйте дискету спочатку."
+
+msgid "Abort"
+msgstr "В╕дм╕на"
+
+msgid "About KDE Floppy Formatter"
+msgstr "Про форматувач дискет KDE"
+
+msgid "All files were sucessfully erased."
+msgstr "Вс╕ файли усп╕шно стерт╕."
+
+msgid "Block %d is bad. Continuing ..."
+msgstr "З╕псований блок %s. Продовжую ..."
+
+msgid ""
+"Cannot access %s\n"
+"Make sure that the device exists and that\n"
+"you have write permission to it."
+msgstr ""
+"Не можу д╕статися до %s\n"
+"Пересв╕дч╕тся, що такий пристр╕й встановлений\n"
+"╕ що Ви ма╓те права на запис на ньому."
+
+msgid ""
+"Cannot access floppy or floppy drive\n"
+"Please insert a floppy and make sure that you\n"
+"have selected a valid floppy drive.\n"
+msgstr ""
+"Не можу працювати з дискетою чи \n"
+"дисководом.\n"
+"Вставте, будь-ласка дискету ╕\n"
+"пересв╕дч╕ться, що Ви вибрали \n"
+"в╕рний прив╕д.\n"
+
+msgid ""
+"Cannot create a filesystem on: %s\n"
+"%s"
+msgstr ""
+"Не можу створити файлову систему на %s\n"
+"%s"
+
+msgid ""
+"Cannot find kfdformat\n"
+"kfdformat is part of the KFloppy distribution.\n"
+"Please install KFloppy properly."
+msgstr ""
+"Не можу знайти kfdformat\n"
+"kfdformat - це складова частина KFloppy.\n"
+"Будь-ласка, встанов╕ть KFloppy корректно."
+
+msgid ""
+"Cannot find kmkdosfs\n"
+"kmkdosfs is part of the KFloppy distribution.\n"
+"Please install KFloppy properly."
+msgstr ""
+"Не можу знайти kmkdosfs\n"
+"kmkdosfs - це складова частина KFloppy.\n"
+"Будь-ласка, встанов╕ть KFloppy корректно."
+
+msgid ""
+"Cannot find kmke2fs\n"
+"kmke2fs is part of the KFloppy distribution.\n"
+"Please install KFloppy properly."
+msgstr ""
+"Не можу знайти kmke2fs\n"
+"kmke2fs - це складова частина KFloppy.\n"
+"Будь-ласка, встанов╕ть KFloppy корректно."
+
+msgid ""
+"Cannot format: %s\n"
+"%s"
+msgstr ""
+"Не можу форматувати: %s\n"
+"%s"
+
+msgid ""
+"Cannot start a new program\n"
+"fork() failed."
+msgstr ""
+"Не можу стартувати нову програму\n"
+"не працю╓ fork()"
+
+msgid "Cannot start a new program: fork() failed."
+msgstr "Не можу стартувати нову програму: не працю╓ fork()"
+
+msgid "Create Label:"
+msgstr "Створити етикетку:"
+
+msgid "Creating Filesystem ..."
+msgstr "Створюю файлову систему ..."
+
+msgid "DD"
+msgstr "DD"
+
+msgid "Density:"
+msgstr "Щ╕льн╕сть:"
+
+msgid "Error while trying to determine whether floppy is mounted\n"
+msgstr "Помилка при спроб╕ визначення, чи змонтована дискета\n"
+
+msgid "File System:"
+msgstr "Файлова система:"
+
+msgid "Floppy Drive:"
+msgstr "Прив╕д дисководу:"
+
+msgid "Format"
+msgstr "Форматувати"
+
+msgid "Full Format"
+msgstr "Повний формат"
+
+msgid "HD"
+msgstr "HD"
+
+msgid "KDE Floppy"
+msgstr "Дискета KDE"
+
+msgid "KDE Floppy Formatter"
+msgstr "Форматувач дискет KDE"
+
+msgid "KFloppy"
+msgstr "KFloppy"
+
+msgid "Quick Erase"
+msgstr "Прискорене стирання"
+
+msgid ""
+"The floppy was sucessfully formatted.\n"
+"Blocks marked bad: %d\n"
+"Raw Capacity: %d\n"
+msgstr ""
+"Дискета була усп╕шно в╕дформатована.\n"
+"Позначен╕ з╕псован╕ блоки: %d\n"
+"╢мн╕сть (повна): %d\n"
+
+msgid "Verifying ..."
+msgstr "Перев╕рка ..."
+
+msgid "Version "
+msgstr "Верс╕я"
+

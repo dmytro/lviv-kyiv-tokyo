@@ -1,0 +1,104 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<!--Converted with LaTeX2HTML 98.1 release (February 19th, 1998)
+originally by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Резервування з компрес╕╓ю</TITLE>
+<META NAME="description" CONTENT="Резервування з компрес╕╓ю">
+<META NAME="keywords" CONTENT="linux,ukrainian,guide,sag">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<LINK REL="STYLESHEET" HREF="sag.css">
+<LINK REL="previous" HREF="node110.html">
+<LINK REL="up" HREF="node102.html">
+<LINK REL="next" HREF="node112.html">
+</HEAD>
+<BODY BGCOLOR=#FFFFFF>
+<!--Navigation Panel-->
+<A NAME="tex2html1866"
+ HREF="node112.html">
+<IMG WIDTH="37" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="next"
+ SRC="next_motif.gif"></A> 
+<A NAME="tex2html1862"
+ HREF="node102.html">
+<IMG WIDTH="26" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="up"
+ SRC="up_motif.gif"></A> 
+<A NAME="tex2html1858"
+ HREF="node110.html">
+<IMG WIDTH="63" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="previous"
+ SRC="previous_motif.gif"></A> 
+<A NAME="tex2html1864"
+ HREF="node7.html">
+<IMG WIDTH="65" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="contents"
+ SRC="contents_motif.gif"></A> 
+<A NAME="tex2html1865"
+ HREF="node120.html">
+<IMG WIDTH="43" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="index"
+ SRC="index_motif.gif"></A> 
+<BR>
+<B> Дал╕:</B> <A NAME="tex2html1867"
+ HREF="node112.html">П╕дримка в╕рного часу в</A>
+<B> Вгору:</B> <A NAME="tex2html1863"
+ HREF="node102.html">Резервн╕ коп╕╖</A>
+<B> Назад:</B> <A NAME="tex2html1859"
+ HREF="node110.html">Що арх╕вувати</A>
+<BR>
+<BR>
+<!--End of Navigation Panel-->
+
+<H1><A NAME="SECTION001270000000000000000">
+Резервування з компрес╕╓ю</A>
+</H1><FONT SIZE="+1"><FONT SIZE="+1"></FONT></FONT>
+<P>
+<FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1">Резервування займа╓ пр╕рву м╕сця, яке, в свою чергу, може
+	коштувати пр╕рву грошей. Щоб зменшити об'╓м зарезервованих
+	даних можна скористуватися програмами для компресування
+	даних. ╢ к╕лька шлях╕в для цього. Деяк╕ програми самост╕йно
+	можуть п╕дтримувати компресування даних; наприклад,  опц╕я
+	<TT>-gzip</TT> (<TT>-z</TT>) для GNU <TT>tar</TT><A NAME="7041">&#160;</A> в╕дправля╓ вс╕
+	дан╕ через канал (pipe) до програми компрес╕╖
+	<TT>gzip</TT><A NAME="7043">&#160;</A>, перш, н╕ж записати дан╕ на нос╕й.
+</FONT></FONT></FONT></FONT>
+<P>
+<FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1">На жаль, арх╕вування з компрес╕╓ю може спричинити
+	проблеми. Механ╕зм роботи програм компрес╕╖ приводить до того,
+	що, якщо хоча б один б╕т в арх╕в╕ псу╓ться ╕ ста╓ нев╕рним, то
+	╕ весь арх╕в ста╓ нев╕рним. Деяк╕ програми компрес╕╖ мають
+	вбудован╕ механ╕зми корекц╕╖ помилок, але не ╕сну╓ такого
+	методу, який би м╕г справитися з великою к╕льк╕стю помилок. Це
+	означа╓, що якщо резервна коп╕я скомпресована тим чином, яким
+	це робить GNU <TT>tar</TT><A NAME="7045">&#160;</A>, тобто коли весь арх╕в компресу╓ться
+	як одне ц╕ле, то ╓дина помилка в арх╕вац╕╖ може привести до
+	того, що вся коп╕я буде загублена. Резервн╕ коп╕╖ мають бути
+	над╕йними, ╕ тому такий метод компрес╕╖ не дуже гарна ╕дея. 
+	
+	Альтернативою може бути компресування файл╕в поодинц╕. Це
+	означа╓, що якщо нав╕ть один файл втрачено, вс╕ ╕нш╕ будуть
+	ц╕л╕. Загублений файл м╕г би бути з╕псованим все одно, нав╕ть
+	без компрес╕╖, тому цей п╕дх╕д до арх╕вування не набагато
+	г╕рший в╕д того, коли компрес╕я не використову╓ться
+	зовс╕м. Програма <TT>afio</TT><A NAME="7047">&#160;</A> (вар╕ант команди <TT>cpio</TT><A NAME="7049">&#160;</A>) вм╕╓
+	це робити. 
+	
+	Компресування займа╓ деякий час, що може привести до того, що
+	програма арх╕вування не зможе записувати дан╕ на стр╕чку з
+	потр╕бною швидк╕стю.<A NAME="tex2html185"
+ HREF="footnode.html#foot6919"><SUP>173</SUP></A> Цього
+	можна позбутися, якщо пропускати дан╕ через буфер (або
+	внутр╕шн╕й, якщо програма достатньо для цього розумна, або
+	використовуючи ╕ншу програму), але нав╕ть в цьому випадку
+	арх╕вац╕я може не працювати, так як треба. Це може, однак,
+	бути проблемою т╕льки на пов╕льних комп'ютерах.
+</FONT></FONT></FONT></FONT>
+<P>
+<FONT SIZE="+1"><FONT SIZE="+1"></FONT></FONT>
+<BR><HR>
+<ADDRESS>
+<I>Dmytro Kovalev</I>
+<BR><I>1999-06-10</I>
+</ADDRESS>
+</BODY>
+</HTML>

@@ -1,0 +1,291 @@
+<? include("begin1.php3"); ?>
+Linux-Mandrake Products: Register!
+<? include("begin2.php3"); ?>
+Linux-Mandrake Products Distributors worldwide.
+<? include("begin3.php3"); ?>
+
+<TABLE BORDER=0>
+<tr>
+<td>
+<H1>Linux-Mandrake Products: Order now!</H1>
+<p><br>
+You are a reseller and you are interested in ordering some <b><a href="fpowerpack.php3">Mandrake PowerPacks</a></b> (or other Mandrake products)?
+Please register by filling this form and we will send you a list of available distributors as soon as possible.
+<B>Note:</B> If you are not reseller and you want to buy a PowerPack, please go <a href="register-customer.php3">here</A>.
+<FORM METHOD="POST" ACTION="http://www.linux-mandrake.com/cgi-bin/register-reseller.pl">
+<a href="/en/fpowerpack.php3"><img src="../images/ppack.jpg" align=right width=50 height=70 border=0></a>
+<table>
+<tr>
+<td><li> Your name:</td>
+<td><INPUT NAME="name" SIZE=25 MAXLENGTH=20></td>
+</tr>
+
+
+<tr>
+<td><li> E-mail:</td>
+<td><INPUT NAME="email" SIZE=25 MAXLENGTH=50></td>
+</tr>
+
+<tr>
+<td><li> Country:</td> 
+<td>
+<SELECT NAME=country>
+<OPTION SELECTED VALUE="">{Select a country}
+<OPTION  VALUE="CA"> Canada
+<OPTION  VALUE="AF"> Afghanistan
+<OPTION  VALUE="AL"> Albania
+<OPTION  VALUE="DZ"> Algeria
+<OPTION  VALUE="AD"> Andorra
+<OPTION  VALUE="AI"> Anguilla
+<OPTION  VALUE="AG"> Antigua and Barbuda
+<OPTION  VALUE="AR"> Argentina
+<OPTION  VALUE="AM"> Armenia
+<OPTION  VALUE="AW"> Aruba
+<OPTION  VALUE="AU"> Australia
+<OPTION  VALUE="AT"> Austria
+<OPTION  VALUE="AZ"> Azerbaijan
+<OPTION  VALUE="BS"> Bahamas
+<OPTION  VALUE="BH"> Bahrain
+<OPTION  VALUE="BD"> Bangladesh
+<OPTION  VALUE="BB"> Barbados
+<OPTION  VALUE="BY"> Belarus
+<OPTION  VALUE="BE"> Belgium
+<OPTION  VALUE="BZ"> Belize
+<OPTION  VALUE="BJ"> Benin
+<OPTION  VALUE="BM"> Bermuda
+<OPTION  VALUE="BT"> Bhutan
+<OPTION  VALUE="BO"> Bolivia
+<OPTION  VALUE="BA"> Bosnia and Herzegovina
+<OPTION  VALUE="BW"> Botswana
+<OPTION  VALUE="BR"> Brazil
+<OPTION  VALUE="BN"> Brunei Darussalam
+<OPTION  VALUE="BG"> Bulgaria
+<OPTION  VALUE="BF"> Burkina Faso
+<OPTION  VALUE="BI"> Burundi
+<OPTION  VALUE="KH"> Cambodia
+<OPTION  VALUE="CM"> Cameroon
+<OPTION  VALUE="CV"> Cape Verde
+<OPTION  VALUE="KY"> Cayman Islands
+<OPTION  VALUE="CF"> Central African Republic
+<OPTION  VALUE="TD"> Chad
+<OPTION  VALUE="CL"> Chile
+<OPTION  VALUE="CN"> China
+<OPTION  VALUE="CO"> Colombia
+<OPTION  VALUE="KM"> Comoros
+<OPTION  VALUE="CG"> Congo
+<OPTION  VALUE="CI"> Corte D'Ivoire (Ivory Coast)
+<OPTION  VALUE="CR"> Costa Rica
+<OPTION  VALUE="HR"> Croatia (Hrvatska)
+<OPTION  VALUE="CY"> Cyprus
+<OPTION  VALUE="CZ"> Czech Republic
+<OPTION  VALUE="DK"> Denmark
+<OPTION  VALUE="DJ"> Djibouti
+<OPTION  VALUE="DM"> Dominica
+<OPTION  VALUE="DO"> Dominican Republic
+<OPTION  VALUE="EC"> Ecuador
+<OPTION  VALUE="EG"> Egypt
+<OPTION  VALUE="SV"> El Salvador
+<OPTION  VALUE="GQ"> Equatorial Guinea
+<OPTION  VALUE="ER"> Eritrea
+<OPTION  VALUE="EE"> Estonia
+<OPTION  VALUE="ET"> Ethiopia
+<OPTION  VALUE="FO"> Faroe Islands
+<OPTION  VALUE="FJ"> Fiji
+<OPTION  VALUE="FI"> Finland
+<OPTION  VALUE="FR"> France
+<OPTION  VALUE="GF"> French Guiana
+<OPTION  VALUE="PF"> French Polynesia
+<OPTION  VALUE="GA"> Gabon
+<OPTION  VALUE="GM"> Gambia
+<OPTION  VALUE="GE"> Georgia, Republic of
+<OPTION  VALUE="DE"> Germany
+<OPTION  VALUE="GH"> Ghana
+<OPTION  VALUE="GI"> Gibraltar
+<OPTION  VALUE="GB"> Great Britain And Northern Ireland
+<OPTION  VALUE="GR"> Greece
+<OPTION  VALUE="GL"> Greenland
+<OPTION  VALUE="GD"> Grenada
+<OPTION  VALUE="GP"> Guadeloupe
+<OPTION  VALUE="GU"> Guam
+<OPTION  VALUE="GT"> Guatemala
+<OPTION  VALUE="GN"> Guinea
+<OPTION  VALUE="GW"> Guinea-Bissau
+<OPTION  VALUE="GY"> Guyana
+<OPTION  VALUE="HT"> Haiti
+<OPTION  VALUE="HN"> Honduras
+<OPTION  VALUE="HK"> Hong Kong
+<OPTION  VALUE="HU"> Hungary
+<OPTION  VALUE="IS"> Iceland
+<OPTION  VALUE="IN"> India
+<OPTION  VALUE="ID"> Indonesia
+<OPTION  VALUE="IE"> Ireland
+<OPTION  VALUE="IL"> Israel
+<OPTION  VALUE="IT"> Italy
+<OPTION  VALUE="JM"> Jamaica
+<OPTION  VALUE="JP"> Japan
+<OPTION  VALUE="JO"> Jordan
+<OPTION  VALUE="KZ"> Kazakhstan
+<OPTION  VALUE="KE"> Kenya
+<OPTION  VALUE="KI"> Kiribati
+<OPTION  VALUE="KR"> Korea (South)
+<OPTION  VALUE="KW"> Kuwait
+<OPTION  VALUE="KG"> Kyrgyzstan
+<OPTION  VALUE="LA"> Laos
+<OPTION  VALUE="LV"> Latvia
+<OPTION  VALUE="LB"> Lebanon
+<OPTION  VALUE="LS"> Lesotho
+<OPTION  VALUE="LI"> Liechtenstein
+<OPTION  VALUE="LT"> Lithuania
+<OPTION  VALUE="LU"> Luxembourg
+<OPTION  VALUE="MO"> Macao
+<OPTION  VALUE="MK"> Macedonia
+<OPTION  VALUE="MG"> Madagascar
+<OPTION  VALUE="MW"> Malawi
+<OPTION  VALUE="MY"> Malaysia
+<OPTION  VALUE="MV"> Maldives
+<OPTION  VALUE="ML"> Mali
+<OPTION  VALUE="MT"> Malta
+<OPTION  VALUE="MH"> Marshall Islands
+<OPTION  VALUE="MQ"> Martinique
+<OPTION  VALUE="MR"> Mauritania
+<OPTION  VALUE="MU"> Mauritius
+<OPTION  VALUE="MX"> Mexico
+<OPTION  VALUE="MD"> Moldova
+<OPTION  VALUE="MC"> Monaco
+<OPTION  VALUE="MN"> Mongolia
+<OPTION  VALUE="MS"> Montserrat
+<OPTION  VALUE="MA"> Morocco
+<OPTION  VALUE="MZ"> Mozambique
+<OPTION  VALUE="MM"> Myanmar
+<OPTION  VALUE="NA"> Namibia
+<OPTION  VALUE="NR"> Nauru
+<OPTION  VALUE="NP"> Nepal
+<OPTION  VALUE="NL"> Netherlands
+<OPTION  VALUE="AN"> Netherlands Antilles
+<OPTION  VALUE="NC"> New Caledonia
+<OPTION  VALUE="NZ"> New Zealand
+<OPTION  VALUE="NI"> Nicaragua
+<OPTION  VALUE="NE"> Niger
+<OPTION  VALUE="NG"> Nigeria
+<OPTION  VALUE="NO"> Norway
+<OPTION  VALUE="OM"> Oman
+<OPTION  VALUE="PK"> Pakistan
+<OPTION  VALUE="PA"> Panama
+<OPTION  VALUE="PG"> Papua New Guinea
+<OPTION  VALUE="PY"> Paraguay
+<OPTION  VALUE="PE"> Peru
+<OPTION  VALUE="PH"> Philippines
+<OPTION  VALUE="PN"> Pitcairn
+<OPTION  VALUE="PL"> Poland
+<OPTION  VALUE="PT"> Portugal
+<OPTION  VALUE="PR"> Puerto Rico
+<OPTION  VALUE="QA"> Qatar
+<OPTION  VALUE="RE"> Reunion
+<OPTION  VALUE="RO"> Romania
+<OPTION  VALUE="RU"> Russia
+<OPTION  VALUE="RW"> Rwanda
+<OPTION  VALUE="KN"> Saint Kitts and Nevis
+<OPTION  VALUE="LC"> Saint Lucia
+<OPTION  VALUE="VC"> Saint Vincent and the Grenadines
+<OPTION  VALUE="SM"> San Marino
+<OPTION  VALUE="ST"> Sao Tome and Principe
+<OPTION  VALUE="SA"> Saudi Arabia
+<OPTION  VALUE="SN"> Senegal
+<OPTION  VALUE="YU"> Serbia-Montenegro (Yugoslavia)
+<OPTION  VALUE="SC"> Seychelles
+<OPTION  VALUE="SL"> Sierra Leone
+<OPTION  VALUE="SG"> Singapore
+<OPTION  VALUE="SK"> Slovak Republic
+<OPTION  VALUE="SI"> Slovenia
+<OPTION  VALUE="SB"> Solomon Islands
+<OPTION  VALUE="SO"> Somalia
+<OPTION  VALUE="ZA"> South Africa
+<OPTION  VALUE="ES"> Spain
+<OPTION  VALUE="LK"> Sri Lanka
+<OPTION  VALUE="SH"> St. Helena
+<OPTION  VALUE="PM"> St. Pierre and Miquelon
+<OPTION  VALUE="SR"> Suriname
+<OPTION  VALUE="SZ"> Swaziland
+<OPTION  VALUE="SE"> Sweden
+<OPTION  VALUE="CH"> Switzerland
+<OPTION  VALUE="SY"> Syria
+<OPTION  VALUE="TW"> Taiwan
+<OPTION  VALUE="TJ"> Tajikistan
+<OPTION  VALUE="TZ"> Tanzania
+<OPTION  VALUE="TH"> Thailand
+<OPTION  VALUE="TG"> Togo
+<OPTION  VALUE="TO"> Tonga
+<OPTION  VALUE="TT"> Trinidad and Tobago
+<OPTION  VALUE="TN"> Tunisia
+<OPTION  VALUE="TR"> Turkey
+<OPTION  VALUE="TM"> Turkmenistan
+<OPTION  VALUE="TC"> Turks and Caicos Islands
+<OPTION  VALUE="TV"> Tuvalu
+<OPTION  VALUE="UM"> US Minor Outlying Islands
+<OPTION  VALUE="UG"> Uganda
+<OPTION  VALUE="UA"> Ukraine
+<OPTION  VALUE="AE"> United Arab Emirates
+<OPTION  VALUE="US"> United States
+<OPTION  VALUE="UY"> Uruguay
+<OPTION  VALUE="UZ"> Uzbekistan
+<OPTION  VALUE="VU"> Vanuatu
+<OPTION  VALUE="VA"> Vatican City State
+<OPTION  VALUE="VE"> Venezuela
+<OPTION  VALUE="VN"> Vietnam
+<OPTION  VALUE="VG"> Virgin Islands (British)
+<OPTION  VALUE="VI"> Virgin Islands (U.S.)
+<OPTION  VALUE="WF"> Wallis and Futuna Islands
+<OPTION  VALUE="YE"> Yemen
+<OPTION  VALUE="ZR"> Zaire
+<OPTION  VALUE="ZM"> Zambia
+<OPTION  VALUE="ZW"> Zimbabwe
+</SELECT>
+</td>
+</tr>
+
+<tr>
+<td><li> Which Product (GPL Edition, PowerPack Edition,<br>Gold Pack 2000 or Pre-Loaded Computers)?</td>
+<td><SELECT NAME=product>
+<OPTION SELECTED VALUE="">{Select a product}
+<OPTION  VALUE="GPL">GPL Edition (Single and cheap CD)
+<OPTION  VALUE="PWP">PowerPack Edition (Boxed Product)
+<OPTION  VALUE="GP2">Gold Pack 2000 Pack Edition (Boxed Product)
+<OPTION  VALUE="PIC">Pre-Loaded Computers
+</SELECT>
+</td>
+</tr> 
+
+
+<tr>
+<td><li> How much quantity?</td>
+<td><INPUT NAME="numberpcs" SIZE=5 MAXLENGTH=10></td>
+</tr> 
+
+<tr>
+<td><li> Free Text (address, url, comments...):</td>
+<td><TEXTAREA name="freetext" rows=5 cols=25 wrap></textarea></td>
+</tr>
+
+<tr>
+<td></td>
+<td><INPUT NAME="language" TYPE=hidden VALUE="en">
+<INPUT TYPE="submit" VALUE="Submit">
+<INPUT TYPE="reset" VALUE="Reset"></td>
+</tr>
+</table>
+
+<BR>
+</FORM>
+
+</TD>
+</TR>
+</TABLE>
+
+    <hr>
+<font size=1>
+<!-- Created: Thu Feb 11 13:52:55 CET 1999 -->
+<!-- hhmts start -->
+Last modified: Wed Feb  2 12:26:56 CET 2000
+<!-- hhmts end -->
+
+<? include("end1.php3"); ?>

@@ -1,0 +1,155 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<!--Converted with LaTeX2HTML 98.1 release (February 19th, 1998)
+originally by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>╤нш╕ засоби для файлово╖ системи ext2</TITLE>
+<META NAME="description" CONTENT="╤нш╕ засоби для файлово╖ системи ext2">
+<META NAME="keywords" CONTENT="linux,ukrainian,guide,sag">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<LINK REL="STYLESHEET" HREF="sag.css">
+<LINK REL="previous" HREF="node56.html">
+<LINK REL="up" HREF="node47.html">
+<LINK REL="next" HREF="node58.html">
+</HEAD>
+<BODY BGCOLOR=#FFFFFF>
+<!--Navigation Panel-->
+<A NAME="tex2html1186"
+ HREF="node58.html">
+<IMG WIDTH="37" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="next"
+ SRC="next_motif.gif"></A> 
+<A NAME="tex2html1182"
+ HREF="node47.html">
+<IMG WIDTH="26" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="up"
+ SRC="up_motif.gif"></A> 
+<A NAME="tex2html1178"
+ HREF="node56.html">
+<IMG WIDTH="63" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="previous"
+ SRC="previous_motif.gif"></A> 
+<A NAME="tex2html1184"
+ HREF="node7.html">
+<IMG WIDTH="65" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="contents"
+ SRC="contents_motif.gif"></A> 
+<A NAME="tex2html1185"
+ HREF="node120.html">
+<IMG WIDTH="43" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="index"
+ SRC="index_motif.gif"></A> 
+<BR>
+<B> Дал╕:</B> <A NAME="tex2html1187"
+ HREF="node58.html">Диски без файлових систем</A>
+<B> Вгору:</B> <A NAME="tex2html1183"
+ HREF="node47.html">Файлов╕ системи</A>
+<B> Назад:</B> <A NAME="tex2html1179"
+ HREF="node56.html">╤нш╕ програми для вс╕х</A>
+<BR>
+<BR>
+<!--End of Navigation Panel-->
+
+<H2><A NAME="SECTION006810000000000000000">
+╤нш╕ засоби для файлово╖ системи ext2</A>
+</H2>
+<P>
+<FONT SIZE="+1"><FONT SIZE="+1">Додатково до програм, як╕ створюють (<TT>mke2fs</TT><A NAME="3783">&#160;</A>) та
+	перев╕ряють ц╕л╕сн╕сть (<TT>e2fsck</TT><A NAME="3785">&#160;</A>) файлово╖ системи, ╕ якими
+	можна користуватися або безпосередньо, або ж через ╖х незалежну
+	в╕д типу файлово╖ системи ``фасадну'' програму, ╕снують деяк╕
+	╕нш╕ додактков╕ засоби для ext2.
+</FONT></FONT>
+<P>
+<FONT SIZE="+1"><FONT SIZE="+1"><TT>tune2fs</TT><A NAME="3787">&#160;</A> служить для п╕дгонки параметр╕в файлово╖
+	системи. Деяк╕ з найб╕льш ц╕кавих параметр╕в так╕:
+</FONT></FONT>
+<P>
+<UL>
+<P>
+<LI>Найб╕льша допустима к╕льк╕сть монтувань. Якщо файлова
+             система була змонтована ╕ розмонтована без перев╕рки
+             багато раз╕в, <TT>e2fsck</TT><A NAME="3789">&#160;</A> насильно перев╕ря╓ файлову
+             систему, нав╕ть якщо вона була розмонтована чисто. Для
+             систем, що використовуються для розробки чи для 
+             випробовування, корисною порадою було б цей номер
+             зменшити.
+
+<P>
+<LI>Максимальний час м╕ж перев╕рками. <TT>e2fsck</TT><A NAME="3791">&#160;</A> також
+                може примусово перев╕ряти файлову систему, якщо час
+                м╕ж перев╕рками досягнуто, нав╕ть якщо прапорець
+                чистоти встановлено, ╕ система монту╓ться не дуже
+                часто. Однак, цей параметр можна в╕дм╕нити.
+
+<P>
+<LI>К╕льк╕сть блок╕в зарезервованих для
+                <TT>root</TT>'а. Ext2 резерву╓ певну частину блок╕в
+                для використання <TT>root</TT>'ом. Таким чином,
+                нав╕ть, якщо файлова система переповню╓ться, для
+                системного адм╕н╕стратора доступний деякий прост╕р, ╕
+                ще можна дещо зробити не стираючи файл╕в. Як звично,
+                такий резервний прост╕р встановлю╓ться на р╕вн╕ 5%,
+                що для б╕льшост╕ диск╕в ╓ припустимою величиною. Для
+                дискет, однак, не ма╓ н╕якого сенсу резервування
+                жодного блока.
+
+<P>
+</UL><FONT SIZE="+1"><FONT SIZE="+1">
+        Стор╕нка п╕дказки по <EM>tune2fs</EM><A NAME="3793">&#160;</A> надасть Вам б╕льше
+       ╕нформац╕╖ по програм╕.
+</FONT></FONT>
+<P>
+<FONT SIZE="+1"><FONT SIZE="+1"><TT>dumpe2fs</TT><A NAME="3795">&#160;</A> показу╓ ╕нформац╕ю про файлову систему ext2, в
+	основному ╕нформац╕ю з супер-блока. Зразок того, що вида╓ ця
+	програма показано на рис.&nbsp;<A HREF="#fig:dump2fs-output"><IMG  ALIGN="BOTTOM" BORDER="1" ALT="[*]"
+ SRC="cross_ref_motif.gif"></A>. Деяк╕
+	дан╕, що видаються ╓ досить техн╕чними ╕ потребують розум╕ння
+	того, як працю╓ файлова система
+	(див. додаток&nbsp;<A HREF="#chap:ext2fspaper"><IMG  ALIGN="BOTTOM" BORDER="1" ALT="[*]"
+ SRC="cross_ref_motif.gif"></A>, але б╕льш╕сть зрозум╕ла
+	нав╕ть системним адм╕н╕страторам. 
+</FONT></FONT>
+<P>
+<BR>
+<DIV ALIGN="CENTER"><A NAME="fig:dumpe2fs-output">&#160;</A><A NAME="2872">&#160;</A>
+<TABLE WIDTH="50%">
+<CAPTION><STRONG>Рисунок:</STRONG>
+Зразок роботи  <TT>dumpe2fs</TT><A NAME="3797">&#160;</A></CAPTION>
+<TR><TD><IMG
+ 
+ SRC="img10.gif"
+ ALT="\begin{figure}
+\begin{center}
+\small
+\begin{tex2html_preform}\begin{verbatim}dum...
+... Free inodes: 35-360\end{verbatim}\end{tex2html_preform}\end{center}\end{figure}"></TD></TR>
+</TABLE>
+</DIV>
+<BR>
+<P>
+<FONT SIZE="+1"><FONT SIZE="+1"><TT>debugfs</TT><A NAME="3799">&#160;</A> ╓ в╕дладчиком файлово╖ системи. В╕н дозволя╓
+	прямий доступ до структур даних, що записуються на диск, тобто
+	його можна використовувати для в╕дновлення тих диск╕в, як╕
+	з╕псован╕ наст╕льки, що <TT>fsck</TT><A NAME="3801">&#160;</A> в╕дновити ╖х вже не
+	може. Про цю програму також просочувалися дан╕, що 
+	<TT>debugfs</TT><A NAME="3803">&#160;</A> можна використовувати також для в╕дновлення
+	стертих файл╕в. Однак, робота з ц╕╓ю програмою вимага╓ дуже
+	глибоких знань того, що Ви хочете зробити. Недостатн╕ знання
+	можуть знищити вс╕ Ваш╕ дан╕. 
+</FONT></FONT>
+<P>
+<FONT SIZE="+1"><FONT SIZE="+1"><TT>dump</TT><A NAME="3805">&#160;</A> та <TT>restore</TT><A NAME="3807">&#160;</A> служать для створення резервних
+	коп╕й файлово╖ системи ext2. Вони належать до традиц╕йних
+	засоб╕в Юн╕кса по створенню резерних коп╕й, але ╓ специф╕чними
+	для файлово╖ системи ext2. Детальн╕ша ╕нформац╕я про це ╓ в
+	розд╕л╕&nbsp;<A HREF="node102.html#chap:backups"><IMG  ALIGN="BOTTOM" BORDER="1" ALT="[*]"
+ SRC="cross_ref_motif.gif"></A>.
+</FONT></FONT>
+<P>
+<BR><HR>
+<ADDRESS>
+<I>Dmytro Kovalev</I>
+<BR><I>1999-06-10</I>
+</ADDRESS>
+</BODY>
+</HTML>

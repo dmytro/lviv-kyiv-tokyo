@@ -1,0 +1,1086 @@
+<html>
+</head>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso8859-1">
+<title>
+Status of Mandrake translations
+</title>
+</head>
+<body bgcolor=white text=black link=red vlink=brown alink=black>
+
+<? include("mdktitle.php3"); ?>
+
+<table border=0 width=100%>
+<tr>
+<td <? include("styles/bg-orange2.php3"); ?> >
+<font color=white face="helvetica">
+<b>Status of Mandrake translations</b>
+</font></td>
+</tr>
+</table>
+
+<br>
+Here you can find the current status of the translations of Linux Mandrake
+tools. You can retrieve the files from this page if you want to help
+with the translations, just click on the percent number or the "-".
+Then you can send the updated pages back to 
+<a href="mailto:pablo@mandrakesoft.com">pablo@mandrakesoft.com</a>.
+If you want to start translations for a language not yet listed here,
+please <a href="mailto:pablo@mandrakesoft.com">write me</a> before
+as they may be some few things to do before (and I have to add another
+column to this page and ask for a nice flag t obe made :) )
+<br>
+It really isn't difficult at all to do some translations, however
+there are some points you must be aware of
+if you never worked with pofiles:<br>
+<ul>
+<li>never touch the <b>msgid</b> strings, only fill the <b>msgstr</b> ones
+<li>when an entry is tagged as <b>fuzzy</b> that means it is probably
+	incorrect; it has to be checked, corrected, and the <b>fuzzy</b>
+	tag removed.
+<li>you can use the command <b>msgfmt -v -o /dev/null file.po</b> to check
+	for errors
+</ul>
+<br>
+
+
+<!-- Stats report (script greatly inspired from the one of Gnome site) -->
+
+<table border=1 width="90%" BGCOLOR="#FFFFFF">
+<tr><td></td>
+<td BGCOLOR="#FFFFFF"><a href="teams.php3#bg">bg</a></td>
+<td BGCOLOR="#FFFFFF"><a href="teams.php3#br">br</a></td>
+<td BGCOLOR="#FFFFFF"><a href="teams.php3#ca">ca</a></td>
+<td BGCOLOR="#FFFFFF"><a href="teams.php3#cs">cs</a></td>
+<td BGCOLOR="#FFFFFF"><a href="teams.php3#cy">cy</a></td>
+<td BGCOLOR="#FFFFFF"><a href="teams.php3#da">da</a></td>
+<td BGCOLOR="#FFFFFF"><a href="teams.php3#de">de</a></td>
+<td BGCOLOR="#FFFFFF"><a href="teams.php3#el">el</a></td>
+<td BGCOLOR="#FFFFFF"><a href="teams.php3#eo">eo</a></td>
+<td BGCOLOR="#FFFFFF"><a href="teams.php3#es">es</a></td>
+<td BGCOLOR="#FFFFFF"><a href="teams.php3#et">et</a></td>
+<td BGCOLOR="#FFFFFF"><a href="teams.php3#eu">eu</a></td>
+<td BGCOLOR="#FFFFFF"><a href="teams.php3#fi">fi</a></td>
+<td BGCOLOR="#FFFFFF"><a href="teams.php3#fr">fr</a></td>
+<td BGCOLOR="#FFFFFF"><a href="teams.php3#ga">ga</a></td>
+<td BGCOLOR="#FFFFFF"><a href="teams.php3#gl">gl</a></td>
+<td BGCOLOR="#FFFFFF"><a href="teams.php3#hr">hr</a></td>
+<td BGCOLOR="#FFFFFF"><a href="teams.php3#hu">hu</a></td>
+<td BGCOLOR="#FFFFFF"><a href="teams.php3#hy">hy</a></td>
+<td BGCOLOR="#FFFFFF"><a href="teams.php3#id">id</a></td>
+<td BGCOLOR="#FFFFFF"><a href="teams.php3#is">is</a></td>
+<td BGCOLOR="#FFFFFF"><a href="teams.php3#it">it</a></td>
+<td BGCOLOR="#FFFFFF"><a href="teams.php3#ja">ja</a></td>
+<td BGCOLOR="#FFFFFF"><a href="teams.php3#ko">ko</a></td>
+<td BGCOLOR="#FFFFFF"><a href="teams.php3#lt">lt</a></td>
+<td BGCOLOR="#FFFFFF"><a href="teams.php3#lv">lv</a></td>
+<td BGCOLOR="#FFFFFF"><a href="teams.php3#mk">mk</a></td>
+<td BGCOLOR="#FFFFFF"><a href="teams.php3#nl">nl</a></td>
+<td BGCOLOR="#FFFFFF"><a href="teams.php3#no">no</a></td>
+<td BGCOLOR="#FFFFFF"><a href="teams.php3#pl">pl</a></td>
+<td BGCOLOR="#FFFFFF"><a href="teams.php3#pt">pt</a></td>
+<td BGCOLOR="#FFFFFF"><a href="teams.php3#pt_BR">pt_BR</a></td>
+<td BGCOLOR="#FFFFFF"><a href="teams.php3#ro">ro</a></td>
+<td BGCOLOR="#FFFFFF"><a href="teams.php3#ru">ru</a></td>
+<td BGCOLOR="#FFFFFF"><a href="teams.php3#sl">sl</a></td>
+<td BGCOLOR="#FFFFFF"><a href="teams.php3#sk">sk</a></td>
+<td BGCOLOR="#FFFFFF"><a href="teams.php3#sp">sp</a></td>
+<td BGCOLOR="#FFFFFF"><a href="teams.php3#sr">sr</a></td>
+<td BGCOLOR="#FFFFFF"><a href="teams.php3#sv">sv</a></td>
+<td BGCOLOR="#FFFFFF"><a href="teams.php3#th">th</a></td>
+<td BGCOLOR="#FFFFFF"><a href="teams.php3#tr">tr</a></td>
+<td BGCOLOR="#FFFFFF"><a href="teams.php3#uk">uk</a></td>
+<td BGCOLOR="#FFFFFF"><a href="teams.php3#wa">wa</a></td>
+<td BGCOLOR="#FFFFFF"><a href="teams.php3#zh_CN">zh_CN</a></td>
+<td BGCOLOR="#FFFFFF"><a href="teams.php3#zh_TW.Big5">zh_TW.Big5</a></td>
+<td></td></tr>
+<tr><td></td>
+<td><img src="../images/flag-bg.png" alt="bg" width="30" height="16" border=0></td>
+<td><img src="../images/flag-br.png" alt="br" width="30" height="16" border=0></td>
+<td><img src="../images/flag-ca.png" alt="ca" width="30" height="16" border=0></td>
+<td><img src="../images/flag-cs.png" alt="cs" width="30" height="16" border=0></td>
+<td><img src="../images/flag-cy.png" alt="cy" width="30" height="16" border=0></td>
+<td><img src="../images/flag-da.png" alt="da" width="30" height="16" border=0></td>
+<td><img src="../images/flag-de.png" alt="de" width="30" height="16" border=0></td>
+<td><img src="../images/flag-el.png" alt="el" width="30" height="16" border=0></td>
+<td><img src="../images/flag-eo.png" alt="eo" width="30" height="16" border=0></td>
+<td><img src="../images/flag-es.png" alt="es" width="30" height="16" border=0></td>
+<td><img src="../images/flag-et.png" alt="et" width="30" height="16" border=0></td>
+<td><img src="../images/flag-eu.png" alt="eu" width="30" height="16" border=0></td>
+<td><img src="../images/flag-fi.png" alt="fi" width="30" height="16" border=0></td>
+<td><img src="../images/flag-fr.png" alt="fr" width="30" height="16" border=0></td>
+<td><img src="../images/flag-ga.png" alt="ga" width="30" height="16" border=0></td>
+<td><img src="../images/flag-gl.png" alt="gl" width="30" height="16" border=0></td>
+<td><img src="../images/flag-hr.png" alt="hr" width="30" height="16" border=0></td>
+<td><img src="../images/flag-hu.png" alt="hu" width="30" height="16" border=0></td>
+<td><img src="../images/flag-hy.png" alt="hy" width="30" height="16" border=0></td>
+<td><img src="../images/flag-id.png" alt="id" width="30" height="16" border=0></td>
+<td><img src="../images/flag-is.png" alt="is" width="30" height="16" border=0></td>
+<td><img src="../images/flag-it.png" alt="it" width="30" height="16" border=0></td>
+<td><img src="../images/flag-ja.png" alt="ja" width="30" height="16" border=0></td>
+<td><img src="../images/flag-ko.png" alt="ko" width="30" height="16" border=0></td>
+<td><img src="../images/flag-lt.png" alt="lt" width="30" height="16" border=0></td>
+<td><img src="../images/flag-lv.png" alt="lv" width="30" height="16" border=0></td>
+<td><img src="../images/flag-mk.png" alt="mk" width="30" height="16" border=0></td>
+<td><img src="../images/flag-nl.png" alt="nl" width="30" height="16" border=0></td>
+<td><img src="../images/flag-no.png" alt="no" width="30" height="16" border=0></td>
+<td><img src="../images/flag-pl.png" alt="pl" width="30" height="16" border=0></td>
+<td><img src="../images/flag-pt.png" alt="pt" width="30" height="16" border=0></td>
+<td><img src="../images/flag-pt_BR.png" alt="pt_BR" width="30" height="16" border=0></td>
+<td><img src="../images/flag-ro.png" alt="ro" width="30" height="16" border=0></td>
+<td><img src="../images/flag-ru.png" alt="ru" width="30" height="16" border=0></td>
+<td><img src="../images/flag-sl.png" alt="sl" width="30" height="16" border=0></td>
+<td><img src="../images/flag-sk.png" alt="sk" width="30" height="16" border=0></td>
+<td><img src="../images/flag-sp.png" alt="sp" width="30" height="16" border=0></td>
+<td><img src="../images/flag-sr.png" alt="sr" width="30" height="16" border=0></td>
+<td><img src="../images/flag-sv.png" alt="sv" width="30" height="16" border=0></td>
+<td><img src="../images/flag-th.png" alt="th" width="30" height="16" border=0></td>
+<td><img src="../images/flag-tr.png" alt="tr" width="30" height="16" border=0></td>
+<td><img src="../images/flag-uk.png" alt="uk" width="30" height="16" border=0></td>
+<td><img src="../images/flag-wa.png" alt="wa" width="30" height="16" border=0></td>
+<td><img src="../images/flag-zh_CN.GB2312.png" alt="zh_CN.GB2312" width="30" height="16" border=0></td>
+<td><img src="../images/flag-zh_TW.Big5.png" alt="zh_TW.Big5" width="30" height="16" border=0></td>
+<td></td></tr>
+<tr><td BGCOLOR="#FFFFFF">CD_README</td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/CD_README/CD_README-bg.tar.gz" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="orange"><a href="../l10n/pofiles/CD_README/CD_README-br.tar.gz" STYLE="text-decoration: none; color: orange">75%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/CD_README/CD_README-ca.tar.gz" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/CD_README/CD_README-cs.tar.gz" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/CD_README/CD_README-en.tar.gz" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="orange"><a href="../l10n/pofiles/CD_README/CD_README-da.tar.gz" STYLE="text-decoration: none; color: orange">75%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/CD_README/CD_README-de.tar.gz" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="orange"><a href="../l10n/pofiles/CD_README/CD_README-el.tar.gz" STYLE="text-decoration: none; color: orange">75%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="orange"><a href="../l10n/pofiles/CD_README/CD_README-eo.tar.gz" STYLE="text-decoration: none; color: orange">75%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/CD_README/CD_README-es.tar.gz" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/CD_README/CD_README-et.tar.gz" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="red"><a href="../l10n/pofiles/CD_README/CD_README-eu.tar.gz" STYLE="text-decoration: none; color: red">50%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="orange"><a href="../l10n/pofiles/CD_README/CD_README-fi.tar.gz" STYLE="text-decoration: none; color: orange">75%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/CD_README/CD_README-fr.tar.gz" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="red"><a href="../l10n/pofiles/CD_README/CD_README-ga.tar.gz" STYLE="text-decoration: none; color: red">50%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/CD_README/CD_README-en.tar.gz" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="orange"><a href="../l10n/pofiles/CD_README/CD_README-hr.tar.gz" STYLE="text-decoration: none; color: orange">75%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/CD_README/CD_README-en.tar.gz" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/CD_README/CD_README-en.tar.gz" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="orange"><a href="../l10n/pofiles/CD_README/CD_README-id.tar.gz" STYLE="text-decoration: none; color: orange">75%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/CD_README/CD_README-en.tar.gz" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/CD_README/CD_README-it.tar.gz" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/CD_README/CD_README-en.tar.gz" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/CD_README/CD_README-en.tar.gz" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="orange"><a href="../l10n/pofiles/CD_README/CD_README-lt.tar.gz" STYLE="text-decoration: none; color: orange">75%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/CD_README/CD_README-en.tar.gz" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/CD_README/CD_README-en.tar.gz" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="orange"><a href="../l10n/pofiles/CD_README/CD_README-nl.tar.gz" STYLE="text-decoration: none; color: orange">75%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="orange"><a href="../l10n/pofiles/CD_README/CD_README-no.tar.gz" STYLE="text-decoration: none; color: orange">75%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="orange"><a href="../l10n/pofiles/CD_README/CD_README-pl.tar.gz" STYLE="text-decoration: none; color: orange">75%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="red"><a href="../l10n/pofiles/CD_README/CD_README-pt.tar.gz" STYLE="text-decoration: none; color: red">50%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="orange"><a href="../l10n/pofiles/CD_README/CD_README-pt_BR.tar.gz" STYLE="text-decoration: none; color: orange">75%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/CD_README/CD_README-en.tar.gz" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="orange"><a href="../l10n/pofiles/CD_README/CD_README-ru.tar.gz" STYLE="text-decoration: none; color: orange">75%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/CD_README/CD_README-en.tar.gz" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/CD_README/CD_README-sk.tar.gz" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="orange"><a href="../l10n/pofiles/CD_README/CD_README-sp.tar.gz" STYLE="text-decoration: none; color: orange">75%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="orange"><a href="../l10n/pofiles/CD_README/CD_README-sr.tar.gz" STYLE="text-decoration: none; color: orange">75%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="orange"><a href="../l10n/pofiles/CD_README/CD_README-sv.tar.gz" STYLE="text-decoration: none; color: orange">75%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/CD_README/CD_README-en.tar.gz" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="orange"><a href="../l10n/pofiles/CD_README/CD_README-tr.tar.gz" STYLE="text-decoration: none; color: orange">75%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="orange"><a href="../l10n/pofiles/CD_README/CD_README-uk.tar.gz" STYLE="text-decoration: none; color: orange">75%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/CD_README/CD_README-en.tar.gz" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/CD_README/CD_README-en.tar.gz" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="orange"><a href="../l10n/pofiles/CD_README/CD_README-zh_TW.Big5.tar.gz" STYLE="text-decoration: none; color: orange">75%</a></font></td>
+<td BGCOLOR="#FFFFFF">CD_README</td></tr>
+<tr><td BGCOLOR="#FFFFFF">indexhtml</td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/indexhtml/indexhtml-bg.tar.gz" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/indexhtml/indexhtml-br.tar.gz" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/indexhtml/indexhtml-ca.tar.gz" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/indexhtml/indexhtml-cs.tar.gz" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/indexhtml/indexhtml-cy.tar.gz" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/indexhtml/indexhtml-da.tar.gz" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/indexhtml/indexhtml-de.tar.gz" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/indexhtml/indexhtml-en.tar.gz" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/indexhtml/indexhtml-eo.tar.gz" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/indexhtml/indexhtml-es.tar.gz" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/indexhtml/indexhtml-et.tar.gz" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/indexhtml/indexhtml-en.tar.gz" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/indexhtml/indexhtml-en.tar.gz" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/indexhtml/indexhtml-fr.tar.gz" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/indexhtml/indexhtml-ga.tar.gz" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/indexhtml/indexhtml-gl.tar.gz" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/indexhtml/indexhtml-hr.tar.gz" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/indexhtml/indexhtml-hu.tar.gz" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/indexhtml/indexhtml-en.tar.gz" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/indexhtml/indexhtml-id.tar.gz" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/indexhtml/indexhtml-is.tar.gz" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/indexhtml/indexhtml-it.tar.gz" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/indexhtml/indexhtml-ja.tar.gz" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/indexhtml/indexhtml-en.tar.gz" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/indexhtml/indexhtml-lt.tar.gz" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/indexhtml/indexhtml-lv.tar.gz" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/indexhtml/indexhtml-mk.tar.gz" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/indexhtml/indexhtml-nl.tar.gz" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/indexhtml/indexhtml-no.tar.gz" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/indexhtml/indexhtml-pl.tar.gz" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/indexhtml/indexhtml-en.tar.gz" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/indexhtml/indexhtml-pt_BR.tar.gz" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/indexhtml/indexhtml-ro.tar.gz" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/indexhtml/indexhtml-ru.tar.gz" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/indexhtml/indexhtml-sl.tar.gz" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/indexhtml/indexhtml-sk.tar.gz" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/indexhtml/indexhtml-sp.tar.gz" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/indexhtml/indexhtml-sr.tar.gz" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/indexhtml/indexhtml-sv.tar.gz" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/indexhtml/indexhtml-en.tar.gz" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/indexhtml/indexhtml-tr.tar.gz" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/indexhtml/indexhtml-uk.tar.gz" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/indexhtml/indexhtml-wa.tar.gz" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/indexhtml/indexhtml-en.tar.gz" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/indexhtml/indexhtml-en.tar.gz" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF">indexhtml</td></tr>
+<tr><td BGCOLOR="#FFFFFF">lothar_help</td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/lothar_help/lothar_help-bg.tar.gz" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/lothar_help/lothar_help-en.tar.gz" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/lothar_help/lothar_help-en.tar.gz" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/lothar_help/lothar_help-en.tar.gz" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/lothar_help/lothar_help-en.tar.gz" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/lothar_help/lothar_help-en.tar.gz" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/lothar_help/lothar_help-en.tar.gz" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/lothar_help/lothar_help-en.tar.gz" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/lothar_help/lothar_help-en.tar.gz" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/lothar_help/lothar_help-en.tar.gz" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/lothar_help/lothar_help-en.tar.gz" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/lothar_help/lothar_help-en.tar.gz" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/lothar_help/lothar_help-en.tar.gz" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/lothar_help/lothar_help-fr.tar.gz" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/lothar_help/lothar_help-en.tar.gz" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/lothar_help/lothar_help-en.tar.gz" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/lothar_help/lothar_help-en.tar.gz" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/lothar_help/lothar_help-en.tar.gz" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/lothar_help/lothar_help-en.tar.gz" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/lothar_help/lothar_help-en.tar.gz" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/lothar_help/lothar_help-en.tar.gz" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/lothar_help/lothar_help-en.tar.gz" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/lothar_help/lothar_help-en.tar.gz" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/lothar_help/lothar_help-en.tar.gz" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/lothar_help/lothar_help-lt.tar.gz" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/lothar_help/lothar_help-en.tar.gz" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/lothar_help/lothar_help-en.tar.gz" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/lothar_help/lothar_help-en.tar.gz" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/lothar_help/lothar_help-en.tar.gz" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/lothar_help/lothar_help-en.tar.gz" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/lothar_help/lothar_help-en.tar.gz" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/lothar_help/lothar_help-pt_BR.tar.gz" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/lothar_help/lothar_help-en.tar.gz" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/lothar_help/lothar_help-en.tar.gz" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/lothar_help/lothar_help-en.tar.gz" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/lothar_help/lothar_help-sk.tar.gz" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/lothar_help/lothar_help-en.tar.gz" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/lothar_help/lothar_help-en.tar.gz" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/lothar_help/lothar_help-en.tar.gz" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/lothar_help/lothar_help-en.tar.gz" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/lothar_help/lothar_help-en.tar.gz" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/lothar_help/lothar_help-en.tar.gz" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/lothar_help/lothar_help-en.tar.gz" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/lothar_help/lothar_help-en.tar.gz" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/lothar_help/lothar_help-en.tar.gz" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF">lothar_help</td></tr>
+<tr><td BGCOLOR="#FFFFFF">mandrake_desk</td>
+<td BGCOLOR="#FFFFFF"><font color="orange"><a href="../l10n/pofiles/mandrake_desk/bg.po" STYLE="text-decoration: none; color: orange">75%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="red"><a href="../l10n/pofiles/mandrake_desk/br.po" STYLE="text-decoration: none; color: red">58%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="blue"><a href="../l10n/pofiles/mandrake_desk/ca.po" STYLE="text-decoration: none; color: blue">95%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="blue"><a href="../l10n/pofiles/mandrake_desk/cs.po" STYLE="text-decoration: none; color: blue">95%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="red"><a href="../l10n/pofiles/mandrake_desk/cy.po" STYLE="text-decoration: none; color: red">4%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/mandrake_desk/da.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="orange"><a href="../l10n/pofiles/mandrake_desk/de.po" STYLE="text-decoration: none; color: orange">75%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="red"><a href="../l10n/pofiles/mandrake_desk/el.po" STYLE="text-decoration: none; color: red">20%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="red"><a href="../l10n/pofiles/mandrake_desk/eo.po" STYLE="text-decoration: none; color: red">0%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/mandrake_desk/es.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="orange"><a href="../l10n/pofiles/mandrake_desk/et.po" STYLE="text-decoration: none; color: orange">70%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="red"><a href="../l10n/pofiles/mandrake_desk/eu.po" STYLE="text-decoration: none; color: red">29%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="red"><a href="../l10n/pofiles/mandrake_desk/fi.po" STYLE="text-decoration: none; color: red">29%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="red"><a href="../l10n/pofiles/mandrake_desk/fr.po" STYLE="text-decoration: none; color: red">29%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="red"><a href="../l10n/pofiles/mandrake_desk/ga.po" STYLE="text-decoration: none; color: red">58%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="orange"><a href="../l10n/pofiles/mandrake_desk/gl.po" STYLE="text-decoration: none; color: orange">70%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="orange"><a href="../l10n/pofiles/mandrake_desk/hr.po" STYLE="text-decoration: none; color: orange">70%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="orange"><a href="../l10n/pofiles/mandrake_desk/hu.po" STYLE="text-decoration: none; color: orange">75%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="red"><a href="../l10n/pofiles/mandrake_desk/hy.po" STYLE="text-decoration: none; color: red">0%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="red"><a href="../l10n/pofiles/mandrake_desk/id.po" STYLE="text-decoration: none; color: red">62%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="red"><a href="../l10n/pofiles/mandrake_desk/is.po" STYLE="text-decoration: none; color: red">62%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="red"><a href="../l10n/pofiles/mandrake_desk/it.po" STYLE="text-decoration: none; color: red">62%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="red"><a href="../l10n/pofiles/mandrake_desk/ja.po" STYLE="text-decoration: none; color: red">33%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="red"><a href="../l10n/pofiles/mandrake_desk/ko.po" STYLE="text-decoration: none; color: red">29%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/mandrake_desk/lt.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="orange"><a href="../l10n/pofiles/mandrake_desk/lv.po" STYLE="text-decoration: none; color: orange">66%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="red"><a href="../l10n/pofiles/mandrake_desk/mk.po" STYLE="text-decoration: none; color: red">4%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/mandrake_desk/nl.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/mandrake_desk/no.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="red"><a href="../l10n/pofiles/mandrake_desk/pl.po" STYLE="text-decoration: none; color: red">29%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="red"><a href="../l10n/pofiles/mandrake_desk/pt.po" STYLE="text-decoration: none; color: red">33%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="red"><a href="../l10n/pofiles/mandrake_desk/pt_BR.po" STYLE="text-decoration: none; color: red">4%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="orange"><a href="../l10n/pofiles/mandrake_desk/ro.po" STYLE="text-decoration: none; color: orange">66%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="red"><a href="../l10n/pofiles/mandrake_desk/ru.po" STYLE="text-decoration: none; color: red">41%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/mandrake_desk/sl.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/mandrake_desk/sk.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="red"><a href="../l10n/pofiles/mandrake_desk/sp.po" STYLE="text-decoration: none; color: red">4%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="red"><a href="../l10n/pofiles/mandrake_desk/sr.po" STYLE="text-decoration: none; color: red">4%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="red"><a href="../l10n/pofiles/mandrake_desk/sv.po" STYLE="text-decoration: none; color: red">25%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="red"><a href="../l10n/pofiles/mandrake_desk/th.po" STYLE="text-decoration: none; color: red">4%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="orange"><a href="../l10n/pofiles/mandrake_desk/tr.po" STYLE="text-decoration: none; color: orange">75%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="orange"><a href="../l10n/pofiles/mandrake_desk/uk.po" STYLE="text-decoration: none; color: orange">70%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="orange"><a href="../l10n/pofiles/mandrake_desk/wa.po" STYLE="text-decoration: none; color: orange">70%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="orange"><a href="../l10n/pofiles/mandrake_desk/zh_CN.GB2312.po" STYLE="text-decoration: none; color: orange">70%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="red"><a href="../l10n/pofiles/mandrake_desk/zh_TW.Big5.po" STYLE="text-decoration: none; color: red">16%</a></font></td>
+<td BGCOLOR="#FFFFFF">mandrake_desk</td></tr>
+<tr><td BGCOLOR="#FFFFFF">DrakConf</td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/DrakConf/bg.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="red"><a href="../l10n/pofiles/DrakConf/br.po" STYLE="text-decoration: none; color: red">19%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/DrakConf/ca.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="red"><a href="../l10n/pofiles/DrakConf/cs.po" STYLE="text-decoration: none; color: red">11%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="red"><a href="../l10n/pofiles/DrakConf/cy.po" STYLE="text-decoration: none; color: red">0%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/DrakConf/da.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/DrakConf/de.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="blue"><a href="../l10n/pofiles/DrakConf/el.po" STYLE="text-decoration: none; color: blue">92%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="red"><a href="../l10n/pofiles/DrakConf/eo.po" STYLE="text-decoration: none; color: red">0%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/DrakConf/es.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/DrakConf/et.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/DrakConf/eu.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/DrakConf/fi.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/DrakConf/fr.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="red"><a href="../l10n/pofiles/DrakConf/ga.po" STYLE="text-decoration: none; color: red">57%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="red"><a href="../l10n/pofiles/DrakConf/gl.po" STYLE="text-decoration: none; color: red">3%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="blue"><a href="../l10n/pofiles/DrakConf/hr.po" STYLE="text-decoration: none; color: blue">96%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/DrakConf/hu.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="red"><a href="../l10n/pofiles/DrakConf/hy.po" STYLE="text-decoration: none; color: red">0%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="blue"><a href="../l10n/pofiles/DrakConf/id.po" STYLE="text-decoration: none; color: blue">92%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/DrakConf/is.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="blue"><a href="../l10n/pofiles/DrakConf/it.po" STYLE="text-decoration: none; color: blue">92%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="red"><a href="../l10n/pofiles/DrakConf/ja.po" STYLE="text-decoration: none; color: red">15%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/DrakConf/ko.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/DrakConf/lt.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="red"><a href="../l10n/pofiles/DrakConf/lv.po" STYLE="text-decoration: none; color: red">0%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="red"><a href="../l10n/pofiles/DrakConf/mk.po" STYLE="text-decoration: none; color: red">15%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="blue"><a href="../l10n/pofiles/DrakConf/nl.po" STYLE="text-decoration: none; color: blue">92%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/DrakConf/no.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="red"><a href="../l10n/pofiles/DrakConf/pl.po" STYLE="text-decoration: none; color: red">15%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="blue"><a href="../l10n/pofiles/DrakConf/pt.po" STYLE="text-decoration: none; color: blue">92%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/DrakConf/pt_BR.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="blue"><a href="../l10n/pofiles/DrakConf/ro.po" STYLE="text-decoration: none; color: blue">92%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/DrakConf/ru.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/DrakConf/sl.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/DrakConf/sk.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="red"><a href="../l10n/pofiles/DrakConf/sp.po" STYLE="text-decoration: none; color: red">15%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="red"><a href="../l10n/pofiles/DrakConf/sr.po" STYLE="text-decoration: none; color: red">15%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="blue"><a href="../l10n/pofiles/DrakConf/sv.po" STYLE="text-decoration: none; color: blue">96%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="red"><a href="../l10n/pofiles/DrakConf/th.po" STYLE="text-decoration: none; color: red">7%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/DrakConf/tr.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="blue"><a href="../l10n/pofiles/DrakConf/uk.po" STYLE="text-decoration: none; color: blue">92%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/DrakConf/wa.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="blue"><a href="../l10n/pofiles/DrakConf/zh_CN.GB2312.po" STYLE="text-decoration: none; color: blue">92%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="orange"><a href="../l10n/pofiles/DrakConf/zh_TW.Big5.po" STYLE="text-decoration: none; color: orange">88%</a></font></td>
+<td BGCOLOR="#FFFFFF">DrakConf</td></tr>
+<tr><td BGCOLOR="#FFFFFF">DrakX</td>
+<td BGCOLOR="#FFFFFF"><font color="blue"><a href="../l10n/pofiles/DrakX/bg.po" STYLE="text-decoration: none; color: blue">97%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="orange"><a href="../l10n/pofiles/DrakX/br.po" STYLE="text-decoration: none; color: orange">77%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="blue"><a href="../l10n/pofiles/DrakX/ca.po" STYLE="text-decoration: none; color: blue">98%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="red"><a href="../l10n/pofiles/DrakX/cs.po" STYLE="text-decoration: none; color: red">65%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/DrakX/DrakX.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="blue"><a href="../l10n/pofiles/DrakX/da.po" STYLE="text-decoration: none; color: blue">96%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="orange"><a href="../l10n/pofiles/DrakX/de.po" STYLE="text-decoration: none; color: orange">84%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="orange"><a href="../l10n/pofiles/DrakX/el.po" STYLE="text-decoration: none; color: orange">75%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="orange"><a href="../l10n/pofiles/DrakX/eo.po" STYLE="text-decoration: none; color: orange">82%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/DrakX/es.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="orange"><a href="../l10n/pofiles/DrakX/et.po" STYLE="text-decoration: none; color: orange">77%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="blue"><a href="../l10n/pofiles/DrakX/eu.po" STYLE="text-decoration: none; color: blue">91%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="orange"><a href="../l10n/pofiles/DrakX/fi.po" STYLE="text-decoration: none; color: orange">76%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="orange"><a href="../l10n/pofiles/DrakX/fr.po" STYLE="text-decoration: none; color: orange">85%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="red"><a href="../l10n/pofiles/DrakX/ga.po" STYLE="text-decoration: none; color: red">36%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="orange"><a href="../l10n/pofiles/DrakX/gl.po" STYLE="text-decoration: none; color: orange">76%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="orange"><a href="../l10n/pofiles/DrakX/hr.po" STYLE="text-decoration: none; color: orange">71%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="orange"><a href="../l10n/pofiles/DrakX/hu.po" STYLE="text-decoration: none; color: orange">82%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/DrakX/DrakX.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="orange"><a href="../l10n/pofiles/DrakX/id.po" STYLE="text-decoration: none; color: orange">76%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="orange"><a href="../l10n/pofiles/DrakX/is.po" STYLE="text-decoration: none; color: orange">81%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="orange"><a href="../l10n/pofiles/DrakX/it.po" STYLE="text-decoration: none; color: orange">85%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="blue"><a href="../l10n/pofiles/DrakX/ja.po" STYLE="text-decoration: none; color: blue">91%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="red"><a href="../l10n/pofiles/DrakX/ko.po" STYLE="text-decoration: none; color: red">13%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="orange"><a href="../l10n/pofiles/DrakX/lt.po" STYLE="text-decoration: none; color: orange">87%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/DrakX/DrakX.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/DrakX/DrakX.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="orange"><a href="../l10n/pofiles/DrakX/nl.po" STYLE="text-decoration: none; color: orange">86%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="blue"><a href="../l10n/pofiles/DrakX/no.po" STYLE="text-decoration: none; color: blue">98%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="orange"><a href="../l10n/pofiles/DrakX/pl.po" STYLE="text-decoration: none; color: orange">70%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="orange"><a href="../l10n/pofiles/DrakX/pt.po" STYLE="text-decoration: none; color: orange">82%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="orange"><a href="../l10n/pofiles/DrakX/pt_BR.po" STYLE="text-decoration: none; color: orange">82%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="red"><a href="../l10n/pofiles/DrakX/ro.po" STYLE="text-decoration: none; color: red">36%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="orange"><a href="../l10n/pofiles/DrakX/ru.po" STYLE="text-decoration: none; color: orange">82%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="red"><a href="../l10n/pofiles/DrakX/sl.po" STYLE="text-decoration: none; color: red">2%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="blue"><a href="../l10n/pofiles/DrakX/sk.po" STYLE="text-decoration: none; color: blue">95%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="orange"><a href="../l10n/pofiles/DrakX/sp.po" STYLE="text-decoration: none; color: orange">72%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="orange"><a href="../l10n/pofiles/DrakX/sr.po" STYLE="text-decoration: none; color: orange">72%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="orange"><a href="../l10n/pofiles/DrakX/sv.po" STYLE="text-decoration: none; color: orange">72%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="orange"><a href="../l10n/pofiles/DrakX/th.po" STYLE="text-decoration: none; color: orange">69%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="orange"><a href="../l10n/pofiles/DrakX/tr.po" STYLE="text-decoration: none; color: orange">83%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="blue"><a href="../l10n/pofiles/DrakX/uk.po" STYLE="text-decoration: none; color: blue">97%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="orange"><a href="../l10n/pofiles/DrakX/wa.po" STYLE="text-decoration: none; color: orange">86%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="orange"><a href="../l10n/pofiles/DrakX/zh_CN.GB2312.po" STYLE="text-decoration: none; color: orange">77%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="orange"><a href="../l10n/pofiles/DrakX/zh_TW.Big5.po" STYLE="text-decoration: none; color: orange">89%</a></font></td>
+<td BGCOLOR="#FFFFFF">DrakX</td></tr>
+<tr><td BGCOLOR="#FFFFFF">DrakeLogo</td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/DrakeLogo/bg.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/DrakeLogo/DrakeLogo.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/DrakeLogo/ca.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/DrakeLogo/DrakeLogo.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/DrakeLogo/DrakeLogo.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/DrakeLogo/da.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/DrakeLogo/de.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/DrakeLogo/DrakeLogo.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/DrakeLogo/DrakeLogo.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/DrakeLogo/es.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/DrakeLogo/DrakeLogo.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/DrakeLogo/DrakeLogo.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/DrakeLogo/DrakeLogo.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/DrakeLogo/fr.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/DrakeLogo/DrakeLogo.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/DrakeLogo/DrakeLogo.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/DrakeLogo/DrakeLogo.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/DrakeLogo/DrakeLogo.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/DrakeLogo/DrakeLogo.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/DrakeLogo/DrakeLogo.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/DrakeLogo/DrakeLogo.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/DrakeLogo/it.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/DrakeLogo/DrakeLogo.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/DrakeLogo/DrakeLogo.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/DrakeLogo/lt.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/DrakeLogo/DrakeLogo.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/DrakeLogo/DrakeLogo.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/DrakeLogo/nl.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/DrakeLogo/no.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/DrakeLogo/DrakeLogo.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/DrakeLogo/pt.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/DrakeLogo/DrakeLogo.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/DrakeLogo/DrakeLogo.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/DrakeLogo/DrakeLogo.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/DrakeLogo/DrakeLogo.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/DrakeLogo/sk.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/DrakeLogo/DrakeLogo.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/DrakeLogo/DrakeLogo.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/DrakeLogo/sv.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/DrakeLogo/DrakeLogo.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/DrakeLogo/tr.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/DrakeLogo/DrakeLogo.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/DrakeLogo/wa.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/DrakeLogo/zh_CN.GB2312.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/DrakeLogo/zh_TW.Big5.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF">DrakeLogo</td></tr>
+<tr><td BGCOLOR="#FFFFFF">MandrakeUpdate</td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/MandrakeUpdate/bg.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/MandrakeUpdate/MandrakeUpdate.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/MandrakeUpdate/ca.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/MandrakeUpdate/MandrakeUpdate.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/MandrakeUpdate/MandrakeUpdate.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/MandrakeUpdate/da.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/MandrakeUpdate/de.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/MandrakeUpdate/MandrakeUpdate.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/MandrakeUpdate/MandrakeUpdate.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/MandrakeUpdate/es.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/MandrakeUpdate/et.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/MandrakeUpdate/MandrakeUpdate.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/MandrakeUpdate/MandrakeUpdate.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="orange"><a href="../l10n/pofiles/MandrakeUpdate/fr.po" STYLE="text-decoration: none; color: orange">85%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/MandrakeUpdate/MandrakeUpdate.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/MandrakeUpdate/MandrakeUpdate.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/MandrakeUpdate/MandrakeUpdate.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/MandrakeUpdate/hu.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/MandrakeUpdate/MandrakeUpdate.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/MandrakeUpdate/id.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="red"><a href="../l10n/pofiles/MandrakeUpdate/is.po" STYLE="text-decoration: none; color: red">61%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/MandrakeUpdate/it.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/MandrakeUpdate/MandrakeUpdate.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="orange"><a href="../l10n/pofiles/MandrakeUpdate/ko.po" STYLE="text-decoration: none; color: orange">85%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/MandrakeUpdate/lt.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/MandrakeUpdate/MandrakeUpdate.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/MandrakeUpdate/MandrakeUpdate.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/MandrakeUpdate/nl.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/MandrakeUpdate/no.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="orange"><a href="../l10n/pofiles/MandrakeUpdate/pl.po" STYLE="text-decoration: none; color: orange">87%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/MandrakeUpdate/pt.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="red"><a href="../l10n/pofiles/MandrakeUpdate/pt_BR.po" STYLE="text-decoration: none; color: red">61%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="red"><a href="../l10n/pofiles/MandrakeUpdate/ro.po" STYLE="text-decoration: none; color: red">61%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/MandrakeUpdate/MandrakeUpdate.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/MandrakeUpdate/MandrakeUpdate.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/MandrakeUpdate/sk.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/MandrakeUpdate/MandrakeUpdate.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/MandrakeUpdate/MandrakeUpdate.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/MandrakeUpdate/sv.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/MandrakeUpdate/MandrakeUpdate.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/MandrakeUpdate/tr.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/MandrakeUpdate/uk.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/MandrakeUpdate/wa.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/MandrakeUpdate/zh_CN.GB2312.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/MandrakeUpdate/zh_TW.Big5.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF">MandrakeUpdate</td></tr>
+<tr><td BGCOLOR="#FFFFFF">etherconfig</td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/etherconfig/bg.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/etherconfig/etherconfig.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/etherconfig/ca.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/etherconfig/etherconfig.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/etherconfig/etherconfig.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/etherconfig/da.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/etherconfig/de.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/etherconfig/etherconfig.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/etherconfig/etherconfig.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/etherconfig/es.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/etherconfig/et.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/etherconfig/etherconfig.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/etherconfig/etherconfig.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/etherconfig/fr.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/etherconfig/etherconfig.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/etherconfig/etherconfig.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/etherconfig/etherconfig.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="orange"><a href="../l10n/pofiles/etherconfig/hu.po" STYLE="text-decoration: none; color: orange">88%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/etherconfig/etherconfig.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/etherconfig/id.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/etherconfig/etherconfig.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/etherconfig/it.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/etherconfig/etherconfig.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="red"><a href="../l10n/pofiles/etherconfig/ko.po" STYLE="text-decoration: none; color: red">14%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="red"><a href="../l10n/pofiles/etherconfig/lt.po" STYLE="text-decoration: none; color: red">28%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/etherconfig/etherconfig.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/etherconfig/etherconfig.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/etherconfig/nl.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/etherconfig/no.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/etherconfig/etherconfig.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/etherconfig/etherconfig.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="orange"><a href="../l10n/pofiles/etherconfig/pt_BR.po" STYLE="text-decoration: none; color: orange">68%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/etherconfig/etherconfig.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/etherconfig/etherconfig.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/etherconfig/etherconfig.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/etherconfig/sk.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="orange"><a href="../l10n/pofiles/etherconfig/sp.po" STYLE="text-decoration: none; color: orange">85%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="orange"><a href="../l10n/pofiles/etherconfig/sr.po" STYLE="text-decoration: none; color: orange">85%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/etherconfig/sv.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/etherconfig/etherconfig.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/etherconfig/tr.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/etherconfig/etherconfig.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="blue"><a href="../l10n/pofiles/etherconfig/wa.po" STYLE="text-decoration: none; color: blue">97%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/etherconfig/zh_CN.GB2312.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/etherconfig/zh_TW.Big5.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF">etherconfig</td></tr>
+<tr><td BGCOLOR="#FFFFFF">grpmi</td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/grpmi/bg.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/grpmi/grpmi.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/grpmi/ca.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/grpmi/grpmi.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/grpmi/grpmi.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/grpmi/da.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/grpmi/de.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/grpmi/grpmi.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/grpmi/grpmi.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/grpmi/es.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/grpmi/et.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/grpmi/grpmi.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/grpmi/grpmi.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/grpmi/fr.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/grpmi/grpmi.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/grpmi/grpmi.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/grpmi/grpmi.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/grpmi/hu.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/grpmi/grpmi.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/grpmi/id.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/grpmi/grpmi.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/grpmi/it.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/grpmi/grpmi.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/grpmi/grpmi.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/grpmi/lt.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/grpmi/grpmi.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/grpmi/grpmi.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/grpmi/nl.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/grpmi/no.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/grpmi/pl.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/grpmi/pt.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/grpmi/grpmi.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/grpmi/grpmi.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/grpmi/grpmi.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/grpmi/grpmi.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/grpmi/sk.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/grpmi/grpmi.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/grpmi/grpmi.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/grpmi/sv.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/grpmi/grpmi.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/grpmi/tr.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/grpmi/uk.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/grpmi/wa.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/grpmi/zh_CN.GB2312.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/grpmi/zh_TW.Big5.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF">grpmi</td></tr>
+<tr><td BGCOLOR="#FFFFFF">gsu</td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/gsu/bg.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/gsu/gsu.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/gsu/ca.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/gsu/gsu.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/gsu/gsu.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/gsu/da.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/gsu/de.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/gsu/gsu.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/gsu/gsu.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/gsu/es.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/gsu/et.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/gsu/gsu.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/gsu/gsu.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/gsu/fr.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/gsu/gsu.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/gsu/gsu.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/gsu/gsu.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="orange"><a href="../l10n/pofiles/gsu/hu.po" STYLE="text-decoration: none; color: orange">85%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/gsu/gsu.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/gsu/id.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/gsu/gsu.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/gsu/it.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/gsu/gsu.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/gsu/gsu.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/gsu/lt.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/gsu/gsu.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/gsu/gsu.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/gsu/nl.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/gsu/no.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/gsu/pl.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/gsu/pt.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/gsu/gsu.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/gsu/gsu.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/gsu/gsu.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/gsu/gsu.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/gsu/sk.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/gsu/gsu.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/gsu/gsu.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/gsu/sv.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/gsu/gsu.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/gsu/tr.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/gsu/uk.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/gsu/wa.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/gsu/zh_CN.GB2312.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/gsu/gsu.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF">gsu</td></tr>
+<tr><td BGCOLOR="#FFFFFF">lothar</td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/lothar/bg.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/lothar/lothar.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/lothar/ca.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/lothar/lothar.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/lothar/lothar.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/lothar/da.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/lothar/de.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/lothar/lothar.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="orange"><a href="../l10n/pofiles/lothar/eo.po" STYLE="text-decoration: none; color: orange">80%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/lothar/es.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/lothar/et.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/lothar/lothar.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/lothar/lothar.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/lothar/fr.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/lothar/lothar.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/lothar/lothar.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/lothar/lothar.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/lothar/hu.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/lothar/lothar.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="blue"><a href="../l10n/pofiles/lothar/id.po" STYLE="text-decoration: none; color: blue">95%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/lothar/lothar.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/lothar/it.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/lothar/lothar.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/lothar/lothar.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="blue"><a href="../l10n/pofiles/lothar/lt.po" STYLE="text-decoration: none; color: blue">99%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/lothar/lothar.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/lothar/lothar.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/lothar/nl.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/lothar/no.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/lothar/lothar.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/lothar/lothar.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/lothar/pt_BR.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/lothar/lothar.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="orange"><a href="../l10n/pofiles/lothar/ru.po" STYLE="text-decoration: none; color: orange">78%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/lothar/lothar.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/lothar/sk.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/lothar/lothar.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/lothar/lothar.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/lothar/sv.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/lothar/lothar.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="blue"><a href="../l10n/pofiles/lothar/tr.po" STYLE="text-decoration: none; color: blue">96%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/lothar/lothar.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/lothar/lothar.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/lothar/zh_CN.GB2312.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="blue"><a href="../l10n/pofiles/lothar/zh_TW.Big5.po" STYLE="text-decoration: none; color: blue">95%</a></font></td>
+<td BGCOLOR="#FFFFFF">lothar</td></tr>
+<tr><td BGCOLOR="#FFFFFF">mouseconfig</td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/mouseconfig/bg.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/mouseconfig/mouseconfig.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/mouseconfig/ca.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/mouseconfig/mouseconfig.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/mouseconfig/mouseconfig.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/mouseconfig/da.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/mouseconfig/de.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/mouseconfig/mouseconfig.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/mouseconfig/mouseconfig.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/mouseconfig/es.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/mouseconfig/et.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/mouseconfig/mouseconfig.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/mouseconfig/fi.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/mouseconfig/fr.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/mouseconfig/mouseconfig.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/mouseconfig/mouseconfig.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/mouseconfig/mouseconfig.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/mouseconfig/hu.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/mouseconfig/mouseconfig.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/mouseconfig/id.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/mouseconfig/mouseconfig.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/mouseconfig/it.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/mouseconfig/mouseconfig.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/mouseconfig/mouseconfig.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/mouseconfig/lt.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/mouseconfig/mouseconfig.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/mouseconfig/mouseconfig.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/mouseconfig/nl.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/mouseconfig/no.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/mouseconfig/mouseconfig.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/mouseconfig/mouseconfig.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/mouseconfig/pt_BR.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/mouseconfig/mouseconfig.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/mouseconfig/mouseconfig.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/mouseconfig/mouseconfig.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/mouseconfig/sk.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/mouseconfig/mouseconfig.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/mouseconfig/mouseconfig.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/mouseconfig/sv.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/mouseconfig/mouseconfig.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/mouseconfig/tr.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/mouseconfig/mouseconfig.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/mouseconfig/wa.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/mouseconfig/zh_CN.GB2312.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/mouseconfig/mouseconfig.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF">mouseconfig</td></tr>
+<tr><td BGCOLOR="#FFFFFF">rhinstall</td>
+<td BGCOLOR="#FFFFFF"><font color="blue"><a href="../l10n/pofiles/rhinstall/bg.po" STYLE="text-decoration: none; color: blue">93%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/rhinstall/rhinstall.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/rhinstall/ca.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="blue"><a href="../l10n/pofiles/rhinstall/cs.po" STYLE="text-decoration: none; color: blue">98%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/rhinstall/rhinstall.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/rhinstall/da.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/rhinstall/de.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/rhinstall/rhinstall.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/rhinstall/rhinstall.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/rhinstall/es.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="orange"><a href="../l10n/pofiles/rhinstall/et.po" STYLE="text-decoration: none; color: orange">75%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/rhinstall/rhinstall.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="blue"><a href="../l10n/pofiles/rhinstall/fi.po" STYLE="text-decoration: none; color: blue">98%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/rhinstall/fr.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/rhinstall/rhinstall.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/rhinstall/rhinstall.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/rhinstall/rhinstall.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="blue"><a href="../l10n/pofiles/rhinstall/hu.po" STYLE="text-decoration: none; color: blue">90%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/rhinstall/rhinstall.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="blue"><a href="../l10n/pofiles/rhinstall/id.po" STYLE="text-decoration: none; color: blue">98%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="blue"><a href="../l10n/pofiles/rhinstall/is.po" STYLE="text-decoration: none; color: blue">94%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="blue"><a href="../l10n/pofiles/rhinstall/it.po" STYLE="text-decoration: none; color: blue">98%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/rhinstall/rhinstall.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/rhinstall/rhinstall.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/rhinstall/rhinstall.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/rhinstall/rhinstall.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/rhinstall/rhinstall.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/rhinstall/rhinstall.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/rhinstall/no.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="blue"><a href="../l10n/pofiles/rhinstall/pl.po" STYLE="text-decoration: none; color: blue">98%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/rhinstall/rhinstall.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="orange"><a href="../l10n/pofiles/rhinstall/pt_BR.po" STYLE="text-decoration: none; color: orange">69%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="blue"><a href="../l10n/pofiles/rhinstall/ro.po" STYLE="text-decoration: none; color: blue">95%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="blue"><a href="../l10n/pofiles/rhinstall/ru.po" STYLE="text-decoration: none; color: blue">97%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/rhinstall/rhinstall.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/rhinstall/sk.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="orange"><a href="../l10n/pofiles/rhinstall/sp.po" STYLE="text-decoration: none; color: orange">75%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="orange"><a href="../l10n/pofiles/rhinstall/sr.po" STYLE="text-decoration: none; color: orange">74%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/rhinstall/sv.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/rhinstall/rhinstall.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/rhinstall/tr.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="blue"><a href="../l10n/pofiles/rhinstall/uk.po" STYLE="text-decoration: none; color: blue">94%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/rhinstall/rhinstall.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/rhinstall/rhinstall.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/rhinstall/rhinstall.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF">rhinstall</td></tr>
+<tr><td BGCOLOR="#FFFFFF">soundconfig</td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/soundconfig/bg.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/soundconfig/soundconfig.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/soundconfig/ca.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/soundconfig/soundconfig.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/soundconfig/soundconfig.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/soundconfig/da.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/soundconfig/de.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/soundconfig/soundconfig.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/soundconfig/soundconfig.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/soundconfig/es.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/soundconfig/et.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/soundconfig/soundconfig.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/soundconfig/fi.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="blue"><a href="../l10n/pofiles/soundconfig/fr.po" STYLE="text-decoration: none; color: blue">98%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/soundconfig/soundconfig.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/soundconfig/soundconfig.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/soundconfig/soundconfig.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="blue"><a href="../l10n/pofiles/soundconfig/hu.po" STYLE="text-decoration: none; color: blue">98%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/soundconfig/soundconfig.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="blue"><a href="../l10n/pofiles/soundconfig/id.po" STYLE="text-decoration: none; color: blue">95%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/soundconfig/soundconfig.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/soundconfig/it.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/soundconfig/soundconfig.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/soundconfig/soundconfig.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/soundconfig/lt.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/soundconfig/soundconfig.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/soundconfig/soundconfig.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/soundconfig/soundconfig.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/soundconfig/no.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="blue"><a href="../l10n/pofiles/soundconfig/pl.po" STYLE="text-decoration: none; color: blue">95%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/soundconfig/soundconfig.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="blue"><a href="../l10n/pofiles/soundconfig/pt_BR.po" STYLE="text-decoration: none; color: blue">98%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/soundconfig/soundconfig.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/soundconfig/soundconfig.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/soundconfig/soundconfig.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/soundconfig/sk.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="blue"><a href="../l10n/pofiles/soundconfig/sp.po" STYLE="text-decoration: none; color: blue">98%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="blue"><a href="../l10n/pofiles/soundconfig/sr.po" STYLE="text-decoration: none; color: blue">98%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/soundconfig/sv.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/soundconfig/soundconfig.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/soundconfig/tr.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/soundconfig/soundconfig.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/soundconfig/soundconfig.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/soundconfig/zh_CN.GB2312.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="blue"><a href="../l10n/pofiles/soundconfig/zh_TW.Big5.po" STYLE="text-decoration: none; color: blue">98%</a></font></td>
+<td BGCOLOR="#FFFFFF">soundconfig</td></tr>
+<tr><td BGCOLOR="#FFFFFF">urpmi</td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/urpmi/bg.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/urpmi/urpmi.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/urpmi/ca.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/urpmi/urpmi.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/urpmi/urpmi.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="orange"><a href="../l10n/pofiles/urpmi/da.po" STYLE="text-decoration: none; color: orange">89%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="orange"><a href="../l10n/pofiles/urpmi/de.po" STYLE="text-decoration: none; color: orange">89%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/urpmi/urpmi.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/urpmi/urpmi.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/urpmi/es.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/urpmi/et.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/urpmi/urpmi.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/urpmi/urpmi.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="orange"><a href="../l10n/pofiles/urpmi/fr.po" STYLE="text-decoration: none; color: orange">89%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/urpmi/urpmi.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/urpmi/urpmi.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/urpmi/urpmi.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="orange"><a href="../l10n/pofiles/urpmi/hu.po" STYLE="text-decoration: none; color: orange">89%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/urpmi/urpmi.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/urpmi/urpmi.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/urpmi/urpmi.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="orange"><a href="../l10n/pofiles/urpmi/it.po" STYLE="text-decoration: none; color: orange">89%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/urpmi/ja.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/urpmi/urpmi.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/urpmi/lt.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/urpmi/urpmi.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/urpmi/urpmi.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/urpmi/urpmi.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/urpmi/no.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="orange"><a href="../l10n/pofiles/urpmi/pl.po" STYLE="text-decoration: none; color: orange">89%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="orange"><a href="../l10n/pofiles/urpmi/pt.po" STYLE="text-decoration: none; color: orange">89%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/urpmi/urpmi.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/urpmi/urpmi.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/urpmi/urpmi.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/urpmi/urpmi.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/urpmi/sk.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/urpmi/urpmi.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/urpmi/urpmi.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="orange"><a href="../l10n/pofiles/urpmi/sv.po" STYLE="text-decoration: none; color: orange">89%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/urpmi/urpmi.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/urpmi/tr.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/urpmi/uk.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/urpmi/wa.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="orange"><a href="../l10n/pofiles/urpmi/zh_CN.GB2312.po" STYLE="text-decoration: none; color: orange">89%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="orange"><a href="../l10n/pofiles/urpmi/zh_TW.Big5.po" STYLE="text-decoration: none; color: orange">89%</a></font></td>
+<td BGCOLOR="#FFFFFF">urpmi</td></tr>
+<tr><td BGCOLOR="#FFFFFF">imlib</td>
+<td BGCOLOR="#FFFFFF"><font color="orange"><a href="../l10n/pofiles/imlib/bg.po" STYLE="text-decoration: none; color: orange">86%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/imlib/imlib.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/imlib/ca.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/imlib/imlib.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/imlib/imlib.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/imlib/da.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/imlib/de.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/imlib/imlib.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/imlib/imlib.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/imlib/es.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/imlib/imlib.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/imlib/imlib.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/imlib/imlib.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/imlib/fr.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/imlib/imlib.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/imlib/imlib.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/imlib/imlib.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/imlib/hu.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/imlib/imlib.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/imlib/id.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/imlib/imlib.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/imlib/it.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/imlib/imlib.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/imlib/imlib.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="orange"><a href="../l10n/pofiles/imlib/lt.po" STYLE="text-decoration: none; color: orange">84%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/imlib/imlib.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/imlib/imlib.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/imlib/nl.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/imlib/no.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/imlib/pl.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/imlib/pt.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/imlib/imlib.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/imlib/ro.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/imlib/imlib.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/imlib/imlib.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/imlib/sk.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/imlib/imlib.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/imlib/imlib.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/imlib/sv.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/imlib/imlib.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/imlib/tr.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/imlib/uk.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/imlib/wa.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/imlib/zh_CN.GB2312.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/imlib/imlib.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF">imlib</td></tr>
+<tr><td BGCOLOR="#FFFFFF">control-panel</td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/control-panel/bg.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/control-panel/br.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/control-panel/ca.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/control-panel/control-panel.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/control-panel/cy.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/control-panel/da.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/control-panel/de.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/control-panel/control-panel.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/control-panel/eo.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/control-panel/es.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/control-panel/et.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/control-panel/control-panel.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/control-panel/control-panel.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/control-panel/fr.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/control-panel/control-panel.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/control-panel/gl.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/control-panel/hr.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/control-panel/hu.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/control-panel/control-panel.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/control-panel/id.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/control-panel/control-panel.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/control-panel/it.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/control-panel/ja.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/control-panel/control-panel.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/control-panel/lt.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/control-panel/control-panel.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/control-panel/control-panel.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/control-panel/nl.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/control-panel/no.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/control-panel/pl.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/control-panel/pt.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/control-panel/control-panel.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/control-panel/ro.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/control-panel/ru.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/control-panel/sl.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/control-panel/sk.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/control-panel/sp.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/control-panel/sr.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/control-panel/sv.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/control-panel/control-panel.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/control-panel/tr.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/control-panel/uk.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/control-panel/wa.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/control-panel/zh_CN.GB2312.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/control-panel/zh_TW.Big5.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF">control-panel</td></tr>
+<tr><td BGCOLOR="#FFFFFF">xmms</td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/xmms/bg.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/xmms/xmms.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/xmms/ca.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/xmms/xmms.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/xmms/xmms.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/xmms/da.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="blue"><a href="../l10n/pofiles/xmms/de.po" STYLE="text-decoration: none; color: blue">99%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/xmms/xmms.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/xmms/xmms.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/xmms/xmms.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/xmms/xmms.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/xmms/xmms.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/xmms/xmms.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/xmms/fr.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/xmms/xmms.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/xmms/xmms.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/xmms/xmms.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/xmms/xmms.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/xmms/xmms.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/xmms/xmms.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/xmms/xmms.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/xmms/xmms.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="blue"><a href="../l10n/pofiles/xmms/ja.po" STYLE="text-decoration: none; color: blue">94%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="blue"><a href="../l10n/pofiles/xmms/ko.po" STYLE="text-decoration: none; color: blue">96%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/xmms/xmms.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/xmms/xmms.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/xmms/xmms.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="red"><a href="../l10n/pofiles/xmms/nl.po" STYLE="text-decoration: none; color: red">42%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/xmms/no.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/xmms/xmms.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/xmms/xmms.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="blue"><a href="../l10n/pofiles/xmms/pt_BR.po" STYLE="text-decoration: none; color: blue">96%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/xmms/xmms.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="orange"><a href="../l10n/pofiles/xmms/ru.po" STYLE="text-decoration: none; color: orange">80%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/xmms/xmms.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/xmms/sk.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/xmms/xmms.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/xmms/xmms.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="orange"><a href="../l10n/pofiles/xmms/sv.po" STYLE="text-decoration: none; color: orange">88%</a></font></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/xmms/xmms.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><a href="../l10n/pofiles/xmms/xmms.pot" STYLE="text-decoration: none; color: black">&nbsp;-&nbsp;</a></td>
+<td BGCOLOR="#FFFFFF"><font color="red"><a href="../l10n/pofiles/xmms/uk.po" STYLE="text-decoration: none; color: red">65%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="red"><a href="../l10n/pofiles/xmms/wa.po" STYLE="text-decoration: none; color: red">54%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="green"><a href="../l10n/pofiles/xmms/zh_CN.GB2312.po" STYLE="text-decoration: none; color: green">100%</a></font></td>
+<td BGCOLOR="#FFFFFF"><font color="orange"><a href="../l10n/pofiles/xmms/zh_TW.Big5.po" STYLE="text-decoration: none; color: orange">83%</a></font></td>
+<td BGCOLOR="#FFFFFF">xmms</td></tr>
+<tr BGCOLOR="#FFFFFF"><th>Average</th>
+<td BGCOLOR="#FFFFFF">97%</td>
+<td BGCOLOR="#FFFFFF">22%</td>
+<td BGCOLOR="#FFFFFF">94%</td>
+<td BGCOLOR="#FFFFFF">24%</td>
+<td BGCOLOR="#FFFFFF">10%</td>
+<td BGCOLOR="#FFFFFF">92%</td>
+<td BGCOLOR="#FFFFFF">91%</td>
+<td BGCOLOR="#FFFFFF">13%</td>
+<td BGCOLOR="#FFFFFF">23%</td>
+<td BGCOLOR="#FFFFFF">89%</td>
+<td BGCOLOR="#FFFFFF">74%</td>
+<td BGCOLOR="#FFFFFF">14%</td>
+<td BGCOLOR="#FFFFFF">30%</td>
+<td BGCOLOR="#FFFFFF">94%</td>
+<td BGCOLOR="#FFFFFF">15%</td>
+<td BGCOLOR="#FFFFFF">18%</td>
+<td BGCOLOR="#FFFFFF">26%</td>
+<td BGCOLOR="#FFFFFF">74%</td>
+<td BGCOLOR="#FFFFFF">0%</td>
+<td BGCOLOR="#FFFFFF">73%</td>
+<td BGCOLOR="#FFFFFF">26%</td>
+<td BGCOLOR="#FFFFFF">85%</td>
+<td BGCOLOR="#FFFFFF">28%</td>
+<td BGCOLOR="#FFFFFF">17%</td>
+<td BGCOLOR="#FFFFFF">82%</td>
+<td BGCOLOR="#FFFFFF">8%</td>
+<td BGCOLOR="#FFFFFF">6%</td>
+<td BGCOLOR="#FFFFFF">73%</td>
+<td BGCOLOR="#FFFFFF">93%</td>
+<td BGCOLOR="#FFFFFF">55%</td>
+<td BGCOLOR="#FFFFFF">49%</td>
+<td BGCOLOR="#FFFFFF">55%</td>
+<td BGCOLOR="#FFFFFF">34%</td>
+<td BGCOLOR="#FFFFFF">39%</td>
+<td BGCOLOR="#FFFFFF">21%</td>
+<td BGCOLOR="#FFFFFF">99%</td>
+<td BGCOLOR="#FFFFFF">32%</td>
+<td BGCOLOR="#FFFFFF">32%</td>
+<td BGCOLOR="#FFFFFF">86%</td>
+<td BGCOLOR="#FFFFFF">4%</td>
+<td BGCOLOR="#FFFFFF">85%</td>
+<td BGCOLOR="#FFFFFF">62%</td>
+<td BGCOLOR="#FFFFFF">68%</td>
+<td BGCOLOR="#FFFFFF">75%</td>
+<td BGCOLOR="#FFFFFF">59%</td>
+<th BGCOLOR="#FFFFFF">Average</th></tr>
+</table>
+<br><hr>
+Report last generated: Fri Mar 31 08:50:55 2000
+<? include("end1.php3"); ?>

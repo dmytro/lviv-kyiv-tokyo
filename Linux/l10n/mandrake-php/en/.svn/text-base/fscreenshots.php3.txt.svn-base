@@ -1,0 +1,17 @@
+<? include("begin1.php3"); ?>
+Linux Mandrake screenshots
+<? include("begin2.php3"); ?>
+Linux Mandrake screenshots
+<? include("begin3.php3"); ?>
+If you have a very nice desktop, please send a screenshot of your full screen (mail attachment to: <a href="mailto:screenshots@linux-mandrake.com">screenshots@linux-mandrake.com</a>). Hey! Be creative and illustrate the new features and the best of Linux-Mandrake!! 
+<br>
+<? include("fscreenshots.html"); ?>
+
+<hr>
+</center>
+<font size=1>
+<!-- Created: Tue Jun  9 09:32:32 EDT 1998 -->
+<!-- hhmts start -->
+Last modified: Fri Jun 11 00:33:18 CEST 1999
+<!-- hhmts end -->
+<? include("end1.php3"); ?>

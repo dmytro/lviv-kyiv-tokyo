@@ -1,0 +1,2 @@
+<p>
+<!--<a href="fpowerpack.php3"><img src="../images/mandrake61.gif" width=468 height=60 alt="Mandrake 6.1 ad"></a>-->

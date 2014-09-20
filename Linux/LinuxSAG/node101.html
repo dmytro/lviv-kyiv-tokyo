@@ -1,0 +1,118 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<!--Converted with LaTeX2HTML 98.1 release (February 19th, 1998)
+originally by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Тимчасова заборона користування рахунком</TITLE>
+<META NAME="description" CONTENT="Тимчасова заборона користування рахунком">
+<META NAME="keywords" CONTENT="linux,ukrainian,guide,sag">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<LINK REL="STYLESHEET" HREF="sag.css">
+<LINK REL="previous" HREF="node100.html">
+<LINK REL="up" HREF="node92.html">
+<LINK REL="next" HREF="node102.html">
+</HEAD>
+<BODY BGCOLOR=#FFFFFF>
+<!--Navigation Panel-->
+<A NAME="tex2html1739"
+ HREF="node102.html">
+<IMG WIDTH="37" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="next"
+ SRC="next_motif.gif"></A> 
+<A NAME="tex2html1735"
+ HREF="node92.html">
+<IMG WIDTH="26" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="up"
+ SRC="up_motif.gif"></A> 
+<A NAME="tex2html1731"
+ HREF="node100.html">
+<IMG WIDTH="63" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="previous"
+ SRC="previous_motif.gif"></A> 
+<A NAME="tex2html1737"
+ HREF="node7.html">
+<IMG WIDTH="65" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="contents"
+ SRC="contents_motif.gif"></A> 
+<A NAME="tex2html1738"
+ HREF="node120.html">
+<IMG WIDTH="43" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="index"
+ SRC="index_motif.gif"></A> 
+<BR>
+<B> Дал╕:</B> <A NAME="tex2html1740"
+ HREF="node102.html">Резервн╕ коп╕╖</A>
+<B> Вгору:</B> <A NAME="tex2html1736"
+ HREF="node92.html">Створення та керування рахуками</A>
+<B> Назад:</B> <A NAME="tex2html1732"
+ HREF="node100.html">Виключення користувача з╕ списку</A>
+<BR>
+<BR>
+<!--End of Navigation Panel-->
+
+<H1><A NAME="SECTION001150000000000000000">
+Тимчасова заборона користування рахунком</A>
+</H1><FONT SIZE="+1"><FONT SIZE="+1"></FONT></FONT>
+<P>
+<FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1">╤нколи бува╓ потр╕бно тимчасово зробити рахунок нед╕ючим, не
+	знищуючи його зовс╕м. Наприклад, може користувач не сплачу╓ за
+	користування рахунком, або системний адм╕н╕стратор може
+	зап╕дозрити, що пароль користувача зломаний. 
+	
+	Найкращий спос╕б заборонити користування рахунком, це зм╕нити
+	командну оболонку такого користувача на програму, яка буде
+	всього-навсього друкувати пов╕домлення. При такому п╕дход╕
+	будь-хто, пробуючи заре╓струватися в систем╕ в╕дразу ж
+	зрозум╕╓, чому в╕н не може цього зробити. Програма може
+	пов╕домляти користувачев╕, що в╕н ма╓ звернутися до системного
+	адм╕н╕стратора щоб виправити проблему. 
+	
+	Кр╕м цього можливо також зм╕нити ╕м'я користувача чи пароль,
+	але в цьому випадку користувач не знатиме, в чому
+	справа. Збити з пантелику користувача означа╓ принести б╕льше
+	клопоту самому соб╕.<A NAME="tex2html172"
+ HREF="footnode.html#foot6516"><SUP>162</SUP></A><A NAME="tex2html173"
+ HREF="footnode.html#foot6702"><SUP>163</SUP></A>
+	
+	Дуже прост╕ програмки, як╕ видають на екран пов╕домлення - це
+	скрипти `tail'<A NAME="tex2html174"
+ HREF="footnode.html#foot6715"><SUP>164</SUP></A>:
+</FONT></FONT></FONT></FONT><BLOCKQUOTE><FONT SIZE="+1"><FONT SIZE="+1"></FONT></FONT><PRE>
+#!/usr/bin/tail +2
+This account has been closed due to a security breach.
+Please call 555-1234 and wait for the men in black to arrive.
+\intnote{Цей рахунок закрито через небезпеку злому. Зателефонуйте по
+номеру 555-1234 ╕ чекайте на чолов╕ка в чорному.}
+</PRE><FONT SIZE="+1"><FONT SIZE="+1"></FONT></FONT></BLOCKQUOTE><FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1">
+	Перш╕ два символи (`<code>#!</code>') пов╕домляють ядру, що залишок
+	рядка ╓ командою, яку треба виконати над цим файлом. Команда
+	<TT>tail</TT><A NAME="6721">&#160;</A> в цьому випадку надруку╓ на стандартний вив╕д все
+	кр╕м першого рядка.
+</FONT></FONT></FONT></FONT>
+<P>
+<FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1">Якщо рахунок <TT>biilg</TT> п╕дозрю╓ться в небезпец╕ злому,
+	системному адм╕н╕стратору сл╕д зробити щось таке:
+</FONT></FONT></FONT></FONT><BLOCKQUOTE><FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1">
+<TT>
+<code>#</code> <I>chsh -s /usr/local/lib/no-login/security billg</I> <BR>
+<code>#</code> <I>su - tester</I> <BR>
+<code>This account has been closed due to a security breach.</code> <BR>
+<code>Please call 555-1234 and wait for the men in black to arrive.</code> <BR>
+<code>#</code>
+</TT></FONT></FONT></FONT></FONT></BLOCKQUOTE><FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1">
+	Команда <TT>su</TT><A NAME="6723">&#160;</A> в цьому приклад╕ звичайно ж використову╓ться
+	для перев╕рки, що все працю╓ так, як треба.
+</FONT></FONT></FONT></FONT>
+<P>
+<FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1">Так╕ скрипти треба тримати в окрем╕й директор╕╖, щоб назви
+	скрипт╕в не перем╕шувалися ╕з звичайними командами
+	користувач╕в. 
+</FONT></FONT></FONT></FONT>
+<P>
+<FONT SIZE="+1"><FONT SIZE="+1"></FONT></FONT>
+<BR><HR>
+<ADDRESS>
+<I>Dmytro Kovalev</I>
+<BR><I>1999-06-10</I>
+</ADDRESS>
+</BODY>
+</HTML>

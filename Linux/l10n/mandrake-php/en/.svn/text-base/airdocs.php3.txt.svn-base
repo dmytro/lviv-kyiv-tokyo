@@ -1,0 +1,909 @@
+<? include("begin1.php3"); ?>
+Mandrake documentation
+<? include("begin2.php3"); ?>
+Mandrake documentation
+<? include("begin3.php3"); ?>
+
+<center><table BORDER=0 CELLSPACING=0 cellpading="3" >
+<tr>
+<td VALIGN=CENTER><img SRC="../images/manuel1.png" ALT="manual" BORDER=1 height=90 width=64 align=CENTER></td>
+
+<td VALIGN=CENTER><b><font face="arial, helvetica"><font color="#666699"><font size=+4>Linux-Mandrake
+guides</font></font></font></b></td>
+</tr>
+</table></center>
+<p>
+<font face="Arial,Helvetica">You can find the <b>Mandrake documentation</b>
+on the CD-ROM in the /doc directory.</font><font face="Arial,Helvetica"></font>
+<p><font face="Arial,Helvetica">Linux HOWTOS are also very helpful, they are included on the  Mandrake CD as rpm packages. You can check the
+latest versions at:</font><font face="Arial,Helvetica"></font>
+<p><font face="Arial,Helvetica"><a href="http://www.linuxdoc.org/docs.html#howto" target="_parent">http://www.linuxdoc.org/docs.html#howto</a></font>
+<blockquote><font face="Arial,Helvetica">This documentation is provided as-is, without warranty or support. However, if you do find a problem let us know at  <a href="mailto:doc70@mandrake.com">doc70@mandrake.com</a>
+so  we can correct it for future versions.</font></blockquote>
+
+<table WIDTH="90%" >
+<tr>
+<td WIDTH="2%" BGCOLOR="#9999CC">&nbsp;</td>
+
+<td BGCOLOR="#FFCC00"><b><font face="helvetica"><font color="#666699">Available Mandrake
+Docs</font></font></b></td>
+</tr>
+</table>
+<font face="Arial,Helvetica"></font>
+<ul>
+<li>
+<font face="Arial,Helvetica">User Guide and Reference Manual</font></li>
+<li>
+<font face="Arial,Helvetica">Installation Guide</font></li>
+</ul>
+<font face="Arial,Helvetica">Mandrake's documentation is available in several formats: in <a href="#html">html for online reading</a>, in <a href="#pdf">pdf</a> ( Adobe's Portable Document Format ) and <a href="#ps">ps</a> ( postscript ) formats for printing. Please remember to <a href="http://mandrake.com/userguide/en/reference/000.html#">read the license</a> before  using them outside of your home or for non-private use.</font>
+<h1>
+<b><font face="Arial,Helvetica">Mandrake documentation</font></b></h1>
+
+<table WIDTH="90%" >
+<tr>
+<td WIDTH="2%" BGCOLOR="#9999CC">&nbsp;</td>
+<a name="html"></a>
+<td BGCOLOR="#FFCC00"><b><font face="helvetica"><font color="#666699">Mandrake
+html docs</font></font></b></td>
+</tr>
+</table>
+<p>
+<font face="Arial,Helvetica">Our "Installation Guide&quot; and
+&quot;User Guide &amp; Reference Manuals" are available in:</font>
+<br>
+<font face="Arial,Helvetica"></font>
+<font face="Arial,Helvetica"></font>
+
+<table BORDER CELLPADDING=2 COLS=4 WIDTH="100%" BGCOLOR="#FFFFFF"  >
+<tr>
+<td align="center" colspan="3" bgcolor="#ccccff"><font face="Arial,Helvetica"><b>html format version</b>
+</font>
+</td>
+</tr>
+<tr>
+<td>&nbsp;
+</td>
+<td>
+<center><b><font face="Arial,Helvetica">Installation Guide</font></b></center>
+</td>
+<td>
+<center><b><font face="Arial,Helvetica">User Guide &amp; Reference Manual</font></b></center>
+</td>
+</tr>
+<tr >
+<td align="center"><font face="Arial,Helvetica">English:</font></td>
+<td><a href="../userguide/en/install/000.html">Installation Guide</a></td>
+<td><a href="../userguide/en/reference/000.html">User Guide &amp; Reference Manual</a></td>
+</tr>
+<tr>
+<td align="center"><font face="Arial,Helvetica">Deutsch:</font></td>
+<td><a href="../userguide/de/install/000.html">Installation Guide</a></td>
+<td><a href="../userguide/de/reference/000.html">User Guide &amp; Reference Manual</a></td>
+</tr>
+<tr>
+<td align="center"><font face="Arial,Helvetica">Fran&ccedil;ais:</font></td>
+<td><a href="../userguide/fr/install/000.html">Installation Guide</a></td>
+<td><a href="../userguide/fr/reference/000.html">User Guide &amp; Reference Manual</a></td>
+</tr>
+<tr>
+<td align="center"><font face="Arial,Helvetica">Espa&ntilde;ol:</font></td>
+<td><a href="../userguide/es/install/000.html">Installation Guide</a></td>
+<td><a href="../userguide/es/reference/000.html">User Guide &amp; Reference Manual</a></td>
+</tr>
+</table>
+<p>
+<table WIDTH="90%" >
+<tr>
+<td WIDTH="2%" BGCOLOR="#9999CC">&nbsp;</td>
+<a name="pdf"></a>
+<td BGCOLOR="#FFCC00"><b><font face="helvetica"><font color="#666699">Mandrake
+pdf docs ( Portable Document Format )</font></font></b></td>
+</tr>
+</table>
+<p>
+
+<font face="Arial,Helvetica">The font sizes and margins of these files are smaller than
+in the documentation shipped with the PowerPack to allow for fewer 
+printed pages. Make sure your printer is properly setup to avoid missing
+some of the contents.</font>
+<p><font face="Arial,Helvetica">Three paper sizes are available: <a href="#a4pdf">A4</a>, <a href="#legalpdf">US legal</a> and <a href="#uspdf">US letter</a>. </font>
+<p><font face="Arial,Helvetica">
+ Files are in  compressed formats to allow for quicker  downloads. The final uncompressed size is also provided to notify you of the storage space required on a hard drive.  Files are compressed in two formats:
+
+<ul>
+<li> <b>.tar.gz</b> (gzip; default on all GNU/Linux distributions) Works with most of the decompression utilities on many platforms (Winzip, Stuffit, etc.)</li>
+<li> <b>.tar.bz2</b> (<a href="http://sourceware.cygnus.com/bzip2/index.html">bzip2</a>) Provides higher compression but doesn't work with as many  decompression utilities.</li>
+</ul>
+
+<p><font face="Arial,Helvetica">NOTE:</font>
+<ul>
+<li>
+<font face="Arial,Helvetica">The original file formats are PS. PDF was produced
+from the PS versions and the conversion process may have introduced modifications.</font></li>
+
+<li>
+<font face="Arial,Helvetica">If you cannot view PDF with your system or software, be warned that the PS
+versions are quite large (check file sizes before downloading).</font></li>
+
+<li>
+<font face="Arial,Helvetica">The page numbers and chapter titles may
+be missing in some PDF versions.</font></li>
+
+<li>
+<font face="Arial,Helvetica">On GNU/Linux, gv may not  correctly
+display some pages of the PS versions. This is a bug of gv,
+gs and lpr do work correctly.</font></li>
+</ul>
+<a name="a4pdf"></a>
+<table BORDER CELLPADDING="2" COLS="4" WIDTH="100%" BGCOLOR="#FFFFFF"  >
+<tr>
+<td align="center" colspan="4" bgcolor="#ccccff"><font face="Arial,Helvetica"><b>A4 paper format</b>
+<br>( 210 x 297 mm )</font>
+</td>
+</tr>
+<tr>
+<td><b><font face="Arial,Helvetica">&nbsp;</font></b>
+</td>
+<td>
+<center><b><font face="Arial,Helvetica">Installation Guide</font></b></center>
+</td>
+<td>
+<center><b><font face="Arial,Helvetica">User Guide &amp; Reference Manual</font></b></center>
+</td>
+<td>
+<center>
+<b><font face="Arial,Helvetica">Both docs in a single file</font></b>
+</center>
+</td>
+</tr>
+<tr>
+<td align="center"><font face="Arial,Helvetica">English:</font></td>
+<td>
+en_a4.pdf (29 Mo)
+<br>
+<a href="../guides/a4/en_a4.pdf.gz">en_a4.pdf.gz</a> (1.8 Mo)
+<br>
+<a href="../guides/a4/en_a4.pdf.bz2">en_a4.pdf.bz2</a> (1.1 Mo)
+</td>
+<td>
+En_a4.pdf (54 Mo)
+<br>
+<a href="../guides/a4/En_a4.pdf.gz">En_a4.pdf.gz</a> (2.3 Mo)
+<br>
+<a href="../guides/a4/En_a4.pdf.bz2">En_a4.pdf.bz2</a> (1.7 Mo)
+</td>
+<td>
+A4_en_pdf.tar (84 Mo)
+<br>
+<a href="../guides/a4/A4_en_pdf.tar.gz">A4_en_pdf.tar.gz</a> (4.1 Mo)
+<br>
+<a href="../guides/a4/A4_en_pdf.tar.bz2">A4_en_pdf.tar.bz2</a> (2.8 Mo)
+</td>
+</tr>
+<tr>
+<td align="center"><font face="Arial,Helvetica">Deutsch:</font></td>
+<td>
+de_a4.pdf (33 Mo)
+<br>
+<a href="../guides/a4/de_a4.pdf.gz">de_a4.pdf.gz</a> (1.2 Mo)
+<br>
+<a href="../guides/a4/de_a4.pdf.bz2">de_a4.pdf.bz2</a> (0.8 Mo)
+</td>
+<td>
+De_a4.pdf (56 Mo)
+<br>
+<a href="../guides/a4/De_a4.pdf.gz">De_a4.pdf.gz</a> (2.3 Mo)
+<br>
+<a href="../guides/a4/De_a4.pdf.bz2">De_a4.pdf.bz2</a> (1.7 Mo)
+</td>
+<td>
+A4_de_pdf.tar (89 Mo)
+<br>
+<a href="../guides/a4/A4_de_pdf.tar.gz">A4_de_pdf.tar.gz</a> (3.5 Mo)
+<br>
+<a href="../guides/a4/A4_de_pdf.tar.bz2">A4_de_pdf.tar.bz2</a> (2.5 Mo)
+</td>
+</tr>
+<tr>
+<td align="center"><font face="Arial,Helvetica">Fran&ccedil;ais:</font></td>
+<td>
+fr_a4.pdf (31 Mo)
+<br>
+<a href="../guides/a4/fr_a4.pdf.gz">fr_a4.pdf.gz</a> (1.5 Mo)
+<br>
+<a href="../guides/a4/fr_a4.pdf.bz2">fr_a4.pdf.bz2</a> (1.1 Mo)
+</td>
+<td>
+Fr_a4.pdf (40 Mo)
+<br>
+<a href="../guides/a4/Fr_a4.pdf.gz">Fr_a4.pdf.gz</a> (2.4 Mo)
+<br>
+<a href="../guides/a4/Fr_a4.pdf.bz2">Fr_a4.pdf.bz2</a> (1.8 Mo)
+</td>
+<td>
+A4_fr_pdf.tar (71 Mo)
+<br>
+<a href="../guides/a4/A4_fr_pdf.tar.gz">A4_fr_pdf.tar.gz</a> (4 Mo)
+<br>
+<a href="../guides/a4/A4_fr_pdf.tar.bz2">A4_fr_pdf.tar.bz2</a> (3 Mo)
+</td>
+</tr>
+<tr>
+<td align="center"><font face="Arial,Helvetica">Espa&ntilde;ol:</font></td>
+<td>
+es_a4.pdf (29 Mo)
+<br>
+<a href="../guides/a4/es_a4.pdf.gz">es_a4.pdf.gz</a> (1.1 Mo)
+<br>
+<a href="../guides/a4/es_a4.pdf.bz">es_a4.pdf.bz2</a> (0.7 Mo)
+</td>
+<td>
+Es_a4.pdf (60 Mo)
+<br>
+<a href="../guides/a4/Es_a4.pdf.gz">Es_a4.pdf.gz</a> (2.5 Mo)
+<br>
+<a href="../guides/a4/Es_a4.pdf.bz2">Es_a4.pdf.bz2</a> (1.8 Mo)
+</td>
+<td>
+A4_Es_pdf.tar (89 Mo)
+<br>
+<a href="../guides/a4/A4_es_pdf.tar.g">A4_es_pdf.tar.gz</a> (3.7 Mo)
+<br>
+<a href="../guides/a4/A4_es_pdf.tar.bz2">A4_es_pdf.tar.bz2</a> (2.6 Mo)
+</td>
+</tr>
+</table>
+<p>
+<a name="legalpdf"></a>
+<table BORDER CELLPADDING="2" COLS="4" WIDTH="100%" BGCOLOR="#FFFFFF"  >
+<tr>
+<td align="center" colspan="4" bgcolor="#ccccff"><font face="Arial,Helvetica"><b>US legal  format</b>
+<br>
+(8.5&quot; x 14&quot;)</font>
+</td>
+</tr>
+<tr>
+<td><b><font face="Arial,Helvetica">&nbsp;</font></b>
+</td>
+<td>
+<center><b><font face="Arial,Helvetica">Installation Guide</font></b></center>
+</td>
+<td>
+<center><b><font face="Arial,Helvetica">User Guide &amp; Reference Manual</font></b></center>
+</td>
+<td>
+<center>
+<b><font face="Arial,Helvetica">Both docs in a single file</font></b>
+</center>
+</td>
+</tr>
+<tr>
+<td align="center"><font face="Arial,Helvetica">English:</font></td>
+<td>
+en_legal.pdf (29 Mo)
+<br>
+<a href="../guides/legal/en_legal.pdf.gz">en_legal.pdf.gz</a> (1.8 Mo)
+<br>
+<a href="../guides/legal/en_legal.pdf.bz2">en_legal.pdf.bz2</a> (1.1 Mo)
+</td>
+<td>
+En_legal.pdf (54 Mo)
+<br>
+<a href="../guides/legal/En_legal.pdf.gz">En_legal.pdf.gz</a> (2.3 Mo)
+<br>
+<a href="../guides/legal/En_legal.pdf.bz2">En_legal.pdf.bz2</a> (1.7 Mo)
+</td>
+<td>
+legal_en_pdf.tar (84 Mo)
+<br>
+<a href="../guides/legal/legal_en_pdf.tar.gz">legal_en_pdf.tar.gz</a> (4.1 Mo)
+<br>
+<a href="../guides/legal/legal_en_pdf.tar.bz2">legal_en_pdf.tar.bz2</a> (2.8 Mo)
+</td>
+</tr>
+<tr>
+<td align="center"><font face="Arial,Helvetica">Deutsch:</font></td>
+<td>
+de_legal.pdf (33 Mo)
+<br>
+<a href="../guides/legal/de_legal.pdf.gz">de_legal.pdf.gz</a> (1.2 Mo)
+<br>
+<a href="../guides/legal/de_legal.pdf.bz2">de_legal.pdf.bz2</a> (0.8 Mo)
+</td>
+<td>
+De_legal.pdf (56 Mo)
+<br>
+<a href="../guides/legal/De_legal.pdf.gz">De_legal.pdf.gz</a> (2.3 Mo)
+<br>
+<a href="../guides/legal/De_legal.pdf.bz2">De_legal.pdf.bz2</a> (1.7 Mo)
+</td>
+<td>
+legal_de_pdf.tar (89 Mo)
+<br>
+<a href="../guides/legal/legal_de_pdf.tar.gz">legal_de_pdf.tar.gz</a> (3.5 Mo)
+<br>
+<a href="../guides/legal/legal_de_pdf.tar.bz2">legal_de_pdf.tar.bz2</a> (2.5 Mo)
+</td>
+</tr>
+<tr>
+<td align="center"><font face="Arial,Helvetica">Fran&ccedil;ais:</font></td>
+<td>
+fr_legal.pdf (31 Mo)
+<br>
+<a href="../guides/legal/fr_legal.pdf.gz">fr_legal.pdf.gz</a> (1.5 Mo)
+<br>
+<a href="../guides/legal/fr_legal.pdf.bz2">fr_legal.pdf.bz2</a> (1.1 Mo)
+</td>
+<td>
+Fr_legal.pdf (40 Mo)
+<br>
+<a href="../guides/legal/Fr_legal.pdf.gz">Fr_legal.pdf.gz</a> (2.4 Mo)
+<br>
+<a href="../guides/legal/Fr_legal.pdf.bz2">Fr_legal.pdf.bz2</a> (1.8 Mo)
+</td>
+<td>
+legal_fr_pdf.tar (72 Mo)
+<br>
+<a href="../guides/legal/legal_fr_pdf.tar.gz">legal_fr_pdf.tar.gz</a> (4.0 Mo)
+<br>
+<a href="../guides/legal/legal_fr_pdf.tar.bz2">legal_fr_pdf.tar.bz2</a> (3.0 Mo)
+</td>
+</tr>
+<tr>
+<td align="center"><font face="Arial,Helvetica">Espa&ntilde;ol:</font></td>
+<td>
+es_legal.pdf (29 Mo)
+<br>
+<a href="../guides/legal/es_legal.pdf.gz">es_legal.pdf.gz</a> (1.2 Mo)
+<br>
+<a href="../guides/legal/es_legal.pdf.bz">es_legal.pdf.bz2</a> (0.7 Mo)
+</td>
+<td>
+Es_legal.pdf (60 Mo)
+<br>
+<a href="../guides/legal/Es_legal.pdf.gz">Es_legal.pdf.gz</a> (2.5 Mo)
+<br>
+<a href="../guides/legal/Es_legal.pdf.bz2">Es_legal.pdf.bz2</a> (1.8 Mo)
+</td>
+<td>
+legal_es_pdf.tar (90 Mo)
+<br>
+<a href="../guides/legal/legal_es_pdf.tar.g">legal_es_pdf.tar.gz</a> (3.7 Mo)
+<br>
+<a href="../guides/legal/legal_es_pdf.tar.bz2">legal_es_pdf.tar.bz2</a> (2.6 Mo)
+</td>
+</tr>
+</table>
+<p>
+<a name="uspdf"></a>
+<table BORDER CELLPADDING="2" COLS="4" WIDTH="100%" BGCOLOR="#FFFFFF"  >
+<tr>
+<td align="center" colspan="4" bgcolor="#ccccff"><font face="Arial,Helvetica"><b>US letter format</b>
+<br>
+(8.5&quot; x 11&quot;)</font>
+</td>
+</tr>
+<tr>
+<td><b><font face="Arial,Helvetica">&nbsp;</font></b>
+</td>
+<td>
+<center><b><font face="Arial,Helvetica">Installation Guide</font></b></center>
+</td>
+<td>
+<center><b><font face="Arial,Helvetica">User Guide &amp; Reference Manual</font></b></center>
+</td>
+<td>
+<center>
+<b><font face="Arial,Helvetica">Both docs in a single file</font></b>
+</center>
+</td>
+</tr>
+<tr>
+<td align="center"><font face="Arial,Helvetica">English:</font></td>
+<td>
+en_us.pdf (29 Mo)
+<br>
+<a href="../guides/us/en_us.pdf.gz">en_us.pdf.gz</a> (1.8 Mo)
+<br>
+<a href="../guides/us/en_us.pdf.bz2">en_us.pdf.bz2</a> (1.1 Mo)
+</td>
+<td>
+En_us.pdf (54 Mo)
+<br>
+<a href="../guides/us/En_us.pdf.gz">En_us.pdf.gz</a> (2.3 Mo)
+<br>
+<a href="../guides/us/En_us.pdf.bz2">En_us.pdf.bz2</a> (1.7 Mo)
+</td>
+<td>
+us_en_pdf.tar (84 Mo)
+<br>
+<a href="../guides/us/us_en_pdf.tar.gz">us_en_pdf.tar.gz</a> (4.1 Mo)
+<br>
+<a href="../guides/us/us_en_pdf.tar.bz2">us_en_pdf.tar.bz2</a> (2.8 Mo)
+</td>
+</tr>
+<tr>
+<td align="center"><font face="Arial,Helvetica">Deutsch:</font></td>
+<td>
+de_us.pdf (33 Mo)
+<br>
+<a href="../guides/us/de_us.pdf.gz">de_us.pdf.gz</a> (1.2 Mo)
+<br>
+<a href="../guides/us/de_us.pdf.bz2">de_us.pdf.bz2</a> (0.8 Mo)
+</td>
+<td>
+De_us.pdf (56 Mo)
+<br>
+<a href="../guides/us/De_us.pdf.gz">De_us.pdf.gz</a> (2.2 Mo)
+<br>
+<a href="../guides/us/De_us.pdf.bz2">De_us.pdf.bz2</a> (1.6 Mo)
+</td>
+<td>
+us_de_pdf.tar (89 Mo)
+<br>
+<a href="../guides/us/us_de_pdf.tar.gz">us_de_pdf.tar.gz</a> (3.5 Mo)
+<br>
+<a href="../guides/us/us_de_pdf.tar.bz2">us_de_pdf.tar.bz2</a> (2.5 Mo)
+</td>
+</tr>
+<tr>
+<td align="center"><font face="Arial,Helvetica">Fran&ccedil;ais:</font></td>
+<td>
+fr_us.pdf (31 Mo)
+<br>
+<a href="../guides/us/fr_us.pdf.gz">fr_us.pdf.gz</a> (1.5 Mo)
+<br>
+<a href="../guides/us/fr_us.pdf.bz2">fr_us.pdf.bz2</a> (1.1 Mo)
+</td>
+<td>
+Fr_us.pdf (40 Mo)
+<br>
+<a href="../guides/us/Fr_us.pdf.gz">Fr_us.pdf.gz</a> (2.4 Mo)
+<br>
+<a href="../guides/us/Fr_us.pdf.bz2">Fr_us.pdf.bz2</a> (1.8 Mo)
+</td>
+<td>
+us_fr_pdf.tar (71 Mo)
+<br>
+<a href="../guides/us/us_fr_pdf.tar.gz">us_fr_pdf.tar.gz</a> (4.0 Mo)
+<br>
+<a href="../guides/us/us_fr_pdf.tar.bz2">us_fr_pdf.tar.bz2</a> (3.0 Mo)
+</td>
+</tr>
+<tr>
+<td align="center"><font face="Arial,Helvetica">Espa&ntilde;ol:</font></td>
+<td>
+es_us.pdf (29 Mo)
+<br>
+<a href="../guides/us/es_us.pdf.gz">es_us.pdf.gz</a> (1.1 Mo)
+<br>
+<a href="../guides/us/es_us.pdf.bz">es_us.pdf.bz2</a> (0.7 Mo)
+</td>
+<td>
+Es_us.pdf (60 Mo)
+<br>
+<a href="../guides/us/Es_us.pdf.gz">Es_us.pdf.gz</a> (2.4 Mo)
+<br>
+<a href="../guides/us/Es_us.pdf.bz2">Es_us.pdf.bz2</a> (1.7 Mo)
+</td>
+<td>
+us_es_pdf.tar (89 Mo)
+<br>
+<a href="../guides/us/us_es_pdf.tar.g">us_es_pdf.tar.gz</a> (3.6 Mo)
+<br>
+<a href="../guides/us/us_es_pdf.tar.bz2">us_es_pdf.tar.bz2</a> (2.5 Mo)
+</td>
+</tr>
+</table>
+<p>
+
+<table WIDTH="90%" >
+<tr>
+<td WIDTH="2%" BGCOLOR="#9999CC">&nbsp;</td>
+<a name="ps"></a>
+<td BGCOLOR="#FFCC00"><b><font face="helvetica"><font color="#666699">Mandrake
+PS docs</font></font></b></td>
+</tr>
+</table>
+<p>
+<font face="Arial,Helvetica">The font sizes and margins of these files are smaller than
+in the documentation shipped with the PowerPack to allow for fewer 
+printed pages. Make sure your printer is properly setup to avoid missing
+some of the contents.</font>
+<p><font face="Arial,Helvetica">Three paper sizes are available:  <a href="#a4ps">A4</a>, <a href="#legalps">US legal</a> and <a href="#usps">US letter</a>. </font>
+<p>
+<font face="Arial,Helvetica">
+ Files are in  compressed formats to allow for quicker  downloads. The final uncompressed size is also provided to notify you of the storage space required on a hard drive.  Files are compressed in two formats:
+
+<ul>
+<li> <b>.tar.gz</b> (gzip; default on all GNU/Linux distributions) Works with most of the decompression utilities on many platforms (Winzip, Stuffit, etc.)</li>
+<li> <b>.tar.bz2</b> (<a href="http://sourceware.cygnus.com/bzip2/index.html">bzip2</a>) Provides higher compression but doesn't work with as many  decompression utilities.</li>
+</ul>
+<p><font face="Arial,Helvetica">NOTE:</font>
+<ul>
+<li>
+<font face="Arial,Helvetica">The original file formats are PS. PDF was produced
+from the PS versions and the conversion process may have introduced modifications.</font></li>
+<li>
+<font face="Arial,Helvetica">If you cannot view PDF with your system or software, be warned that the PS
+versions are quite large (check file sizes before downloading).</font></li>
+<li>
+<font face="Arial,Helvetica">The page numbers and chapter titles may
+be missing in some PDF versions.</font></li>
+<li>
+<font face="Arial,Helvetica">On GNU/Linux, gv may not  correctly
+display some pages of the PS versions. This is a bug of gv,
+gs and lpr do work correctly.</font></li>
+</ul>
+</font>
+<p>
+<a name="a4ps"></a>
+<table BORDER CELLPADDING="2" COLS="4" WIDTH="100%" BGCOLOR="#FFFFFF"  >
+<tr>
+<td align="center" colspan="4" bgcolor="#ccccff"><font face="Arial,Helvetica"><b>A4 paper format</b>
+<br>( 210 x 297 mm )</font>
+</td>
+</tr>
+<tr>
+<td><b><font face="Arial,Helvetica">&nbsp;</font></b>
+</td>
+<td>
+<center><b><font face="Arial,Helvetica">Installation Guide</font></b></center>
+</td>
+<td>
+<center><b><font face="Arial,Helvetica">User Guide &amp; Reference Manual</font></b></center>
+</td>
+<td>
+<center>
+<b><font face="Arial,Helvetica">Both docs in a single file</font></b>
+</center>
+</td>
+</tr>
+<tr>
+<td align="center"><font face="Arial,Helvetica">English:</font></td>
+<td>
+en_a4.ps (12 Mo)
+<br>
+<a href="../guides/a4/en_a4.ps.gz">en_a4.ps.gz</a> (1.9 Mo)
+<br>
+<a href="../guides/a4/en_a4.ps.bz2">en_a4.ps.bz2</a> (1.0 Mo)
+</td>
+<td>
+En_a4.ps (15 Mo)
+<br>
+<a href="../guides/a4/En_a4.ps.gz">En_a4.ps.gz</a> (1.9 Mo)
+<br>
+<a href="../guides/a4/En_a4.ps.bz2">En_a4.ps.bz2</a> (1.4 Mo)
+</td>
+<td>
+A4_en_ps.tar (28 Mo)
+<br>
+<a href="../guides/a4/A4_en_ps.tar.gz">A4_en_ps.tar.gz</a> (3.9 Mo)
+<br>
+<a href="../guides/a4/A4_en_ps.tar.bz2">A4_en_ps.tar.bz2</a> (2.5 Mo)
+</td>
+</tr>
+<tr>
+<td align="center"><font face="Arial,Helvetica">Deutsch:</font></td>
+<td>
+de_a4.ps (7.3 Mo)
+<br>
+<a href="../guides/a4/de_a4.ps.gz">de_a4.ps.gz</a> (1.2 Mo)
+<br>
+<a href="../guides/a4/de_a4.ps.bz2">de_a4.ps.bz2</a> (0.7 Mo)
+</td>
+<td>
+De_a4.ps (15 Mo)
+<br>
+<a href="../guides/a4/De_a4.ps.gz">De_a4.ps.gz</a> (1.6 Mo)
+<br>
+<a href="../guides/a4/De_a4.ps.bz2">De_a4.ps.bz2</a> (1.1 Mo)
+</td>
+<td>
+A4_de_ps.tar (22 Mo)
+<br>
+<a href="../guides/a4/A4_de_ps.tar.gz">A4_de_ps.tar.gz</a> (2.8 Mo)
+<br>
+<a href="../guides/a4/A4_de_ps.tar.bz2">A4_de_ps.tar.bz2</a> (1.9 Mo)
+</td>
+</tr>
+<tr>
+<td align="center"><font face="Arial,Helvetica">Fran&ccedil;ais:</font></td>
+<td>
+fr_a4.ps (8 Mo)
+<br>
+<a href="../guides/a4/fr_a4.ps.gz">fr_a4.ps.gz</a> (1.5 Mo)
+<br>
+<a href="../guides/a4/fr_a4.ps.bz2">fr_a4.ps.bz2</a> (1.2 Mo)
+</td>
+<td>
+Fr_a4.ps (30 Mo)
+<br>
+<a href="../guides/a4/Fr_a4.ps.gz">Fr_a4.ps.gz</a> (2 Mo)
+<br>
+<a href="../guides/a4/Fr_a4.ps.bz2">Fr_a4.ps.bz2</a> (1.5 Mo)
+</td>
+<td>
+A4_fr_ps.tar (38 Mo)
+<br>
+<a href="../guides/a4/A4_fr_ps.tar.gz">A4_fr_ps.tar.gz</a> (3.5 Mo)
+<br>
+<a href="../guides/a4/A4_fr_ps.tar.bz2">A4_fr_ps.tar.bz2</a> (2.7 Mo)
+</td>
+</tr>
+<tr>
+<td align="center"><font face="Arial,Helvetica">Espa&ntilde;ol:</font></td>
+<td>
+es_a4.ps (7 Mo)
+<br>
+<a href="../guides/a4/es_a4.ps.gz">es_a4.ps.gz</a> (1.1 Mo)
+<br>
+<a href="../guides/a4/es_a4.ps.bz">es_a4.ps.bz2</a> (0.7 Mo)
+</td>
+<td>
+Es_a4.ps (15 Mo)
+<br>
+<a href="../guides/a4/Es_a4.ps.gz">Es_a4.ps.gz</a> (1.7 Mo)
+<br>
+<a href="../guides/a4/Es_a4.ps.bz2">Es_a4.ps.bz2</a> (1.2 Mo)
+</td>
+<td>
+A4_es_ps.tar (22 Mo)
+<br>
+<a href="../guides/a4/A4_es_ps.tar.g">A4_es_ps.tar.gz</a> (2.9 Mo)
+<br>
+<a href="../guides/a4/A4_es_ps.tar.bz2">A4_es_ps.tar.bz2</a> (1.9 Mo)
+</td>
+</tr>
+</table>
+<p>
+<a name="legalps"></a>
+<table BORDER CELLPADDING="2" COLS="4" WIDTH="100%" BGCOLOR="#FFFFFF"  >
+<tr>
+<td align="center" colspan="4" bgcolor="#ccccff"><font face="Arial,Helvetica"><b>US legal  format</b>
+<br>
+(8.5&quot; x 14&quot;) ( 215.9 x 355.6 mm )</font>
+</td>
+</tr>
+<tr>
+<td><b><font face="Arial,Helvetica">&nbsp;</font></b>
+</td>
+<td>
+<center><b><font face="Arial,Helvetica">Installation Guide</font></b></center>
+</td>
+<td>
+<center><b><font face="Arial,Helvetica">User Guide &amp; Reference Manual</font></b></center>
+</td>
+<td>
+<center>
+<b><font face="Arial,Helvetica">Both docs in a single file</font></b>
+</center>
+</td>
+</tr>
+<tr>
+<td align="center"><font face="Arial,Helvetica">English:</font></td>
+<td>
+en_legal.ps (12 Mo)
+<br>
+<a href="../guides/legal/en_legal.ps.gz">en_legal.ps.gz</a> (1.9 Mo)
+<br>
+<a href="../guides/legal/en_legal.ps.bz2">en_legal.ps.bz2</a> (1 Mo)
+</td>
+<td>
+En_legal.ps (15 Mo)
+<br>
+<a href="../guides/legal/En_legal.ps.gz">En_legal.ps.gz</a> (1.9 Mo)
+<br>
+<a href="../guides/legal/En_legal.ps.bz2">En_legal.ps.bz2</a> (1.4 Mo)
+</td>
+<td>
+legal_en_ps.tar (28 Mo)
+<br>
+<a href="../guides/legal/legal_en_ps.tar.gz">legal_en_ps.tar.gz</a> (3.9 Mo)
+<br>
+<a href="../guides/legal/legal_en_ps.tar.bz2">legal_en_ps.tar.bz2</a> (2.5 Mo)
+</td>
+</tr>
+<tr>
+<td align="center"><font face="Arial,Helvetica">Deutsch:</font></td>
+<td>
+de_legal.ps (7.3 Mo)
+<br>
+<a href="../guides/legal/de_legal.ps.gz">de_legal.ps.gz</a> (1.2 Mo)
+<br>
+<a href="../guides/legal/de_legal.ps.bz2">de_legal.ps.bz2</a> (0.7 Mo)
+</td>
+<td>
+De_legal.ps (15 Mo)
+<br>
+<a href="../guides/legal/De_legal.ps.gz">De_legal.ps.gz</a> (1.6 Mo)
+<br>
+<a href="../guides/legal/De_legal.ps.bz2">De_legal.ps.bz2</a> (1.1 Mo)
+</td>
+<td>
+legal_de_ps.tar (22 Mo)
+<br>
+<a href="../guides/legal/legal_de_ps.tar.gz">legal_de_ps.tar.gz</a> (2.8 Mo)
+<br>
+<a href="../guides/legal/legal_de_ps.tar.bz2">legal_de_ps.tar.bz2</a> (1.9 Mo)
+</td>
+</tr>
+<tr>
+<td align="center"><font face="Arial,Helvetica">Fran&ccedil;ais:</font></td>
+<td>
+fr_legal.ps (8 Mo)
+<br>
+<a href="../guides/legal/fr_legal.ps.gz">fr_legal.ps.gz</a> (1.5 Mo)
+<br>
+<a href="../guides/legal/fr_legal.ps.bz2">fr_legal.ps.bz2</a> (1.2 Mo)
+</td>
+<td>
+Fr_legal.ps (30 Mo)
+<br>
+<a href="../guides/legal/Fr_legal.ps.gz">Fr_legal.ps.gz</a> (2.0 Mo)
+<br>
+<a href="../guides/legal/Fr_legal.ps.bz2">Fr_legal.ps.bz2</a> (1.5 Mo)
+</td>
+<td>
+legal_fr_ps.tar (38 Mo)
+<br>
+<a href="../guides/legal/legal_fr_ps.tar.gz">legal_fr_ps.tar.gz</a> (3.5 Mo)
+<br>
+<a href="../guides/legal/legal_fr_ps.tar.bz2">legal_fr_ps.tar.bz2</a> (2.7 Mo)
+</td>
+</tr>
+<tr>
+<td align="center"><font face="Arial,Helvetica">Espa&ntilde;ol:</font></td>
+<td>
+es_legal.ps (7 Mo)
+<br>
+<a href="../guides/legal/es_legal.ps.gz">es_legal.ps.gz</a> (1.1 Mo)
+<br>
+<a href="../guides/legal/es_legal.ps.bz">es_legal.ps.bz2</a> (0.7 Mo)
+</td>
+<td>
+Es_legal.ps (15 Mo)
+<br>
+<a href="../guides/legal/Es_legal.ps.gz">Es_legal.ps.gz</a> (1.7 Mo)
+<br>
+<a href="../guides/legal/Es_legal.ps.bz2">Es_legal.ps.bz2</a> (1.2 Mo)
+</td>
+<td>
+legal_es_ps.tar (22 Mo)
+<br>
+<a href="../guides/legal/legal_es_ps.tar.g">legal_es_ps.tar.gz</a> (2.8 Mo)
+<br>
+<a href="../guides/legal/legal_es_ps.tar.bz2">legal_es_ps.tar.bz2</a> (1.9 Mo)
+</td>
+</tr>
+</table>
+<p>
+<a name="usps"></a>
+<table BORDER CELLPADDING="2" COLS="4" WIDTH="100%" BGCOLOR="#FFFFFF"  >
+<tr>
+<td align="center" colspan="4" bgcolor="#ccccff"><font face="Arial,Helvetica"><b>US letter format</b>
+<br>
+(8.5&quot; x 11&quot;)  ( 215.9 x 279.4 mm )</font>
+</td>
+</tr>
+<tr>
+<td><b><font face="Arial,Helvetica">&nbsp;</font></b>
+</td>
+<td>
+<center><b><font face="Arial,Helvetica">Installation Guide</font></b></center>
+</td>
+<td>
+<center><b><font face="Arial,Helvetica">User Guide &amp; Reference Manual</font></b></center>
+</td>
+<td>
+<center>
+<b><font face="Arial,Helvetica">Both docs in a single file</font></b>
+</center>
+</td>
+</tr>
+<tr>
+<td align="center"><font face="Arial,Helvetica">English:</font></td>
+<td>
+en_us.ps (12 Mo)
+<br>
+<a href="../guides/us/en_us.ps.gz">en_us.ps.gz</a> (1.9 Mo)
+<br>
+<a href="../guides/us/en_us.ps.bz2">en_us.ps.bz2</a> (1.0 Mo)
+</td>
+<td>
+En_us.ps (15 Mo)
+<br>
+<a href="../guides/us/En_us.ps.gz">En_us.ps.gz</a> (1.9 Mo)
+<br>
+<a href="../guides/us/En_us.ps.bz2">En_us.ps.bz2</a> (1.4 Mo)
+</td>
+<td>
+us_en_ps.tar (28 Mo)
+<br>
+<a href="../guides/us/us_en_ps.tar.gz">us_en_ps.tar.gz</a> (3.9 Mo)
+<br>
+<a href="../guides/us/us_en_ps.tar.bz2">us_en_ps.tar.bz2</a> (2.5 Mo)
+</td>
+</tr>
+<tr>
+<td align="center"><font face="Arial,Helvetica">Deutsch:</font></td>
+<td>
+de_us.ps (7.3 Mo)
+<br>
+<a href="../guides/us/de_us.ps.gz">de_us.ps.gz</a> (1.1 Mo)
+<br>
+<a href="../guides/us/de_us.ps.bz2">de_us.ps.bz2</a> (0.7 Mo)
+</td>
+<td>
+De_us.ps (15 Mo)
+<br>
+<a href="../guides/us/De_us.ps.gz">De_us.ps.gz</a> (4.6 Mo)
+<br>
+<a href="../guides/us/De_us.ps.bz2">De_us.ps.bz2</a> (1.1 Mo)
+</td>
+<td>
+us_de_ps.tar (22 Mo)
+<br>
+<a href="../guides/us/us_de_ps.tar.gz">us_de_ps.tar.gz</a> (2.8 Mo)
+<br>
+<a href="../guides/us/us_de_ps.tar.bz2">us_de_ps.tar.bz2</a> (1.9 Mo)
+</td>
+</tr>
+<tr>
+<td align="center"><font face="Arial,Helvetica">Fran&ccedil;ais:</font></td>
+<td>
+fr_us.ps (8 Mo)
+<br>
+<a href="../guides/us/fr_us.ps.gz">fr_us.ps.gz</a> (1.5 Mo)
+<br>
+<a href="../guides/us/fr_us.ps.bz2">fr_us.ps.bz2</a> (0.7 Mo)
+</td>
+<td>
+Fr_us.ps (30 Mo)
+<br>
+<a href="../guides/us/Fr_us.ps.gz">Fr_us.ps.gz</a> (2 Mo)
+<br>
+<a href="../guides/us/Fr_us.ps.bz2">Fr_us.ps.bz2</a> (1.5 Mo)
+</td>
+<td>
+us_fr_ps.tar (38 Mo)
+<br>
+<a href="../guides/us/us_fr_ps.tar.gz">us_fr_ps.tar.gz</a> (3.5 Mo)
+<br>
+<a href="../guides/us/us_fr_ps.tar.bz2">us_fr_ps.tar.bz2</a> (2.7 Mo)
+</td>
+</tr>
+<tr>
+<td align="center"><font face="Arial,Helvetica">Espa&ntilde;ol:</font></td>
+<td>
+es_us.ps (7 Mo)
+<br>
+<a href="../guides/us/es_us.ps.gz">es_us.ps.gz</a> (1.1 Mo)
+<br>
+<a href="../guides/us/es_us.ps.bz">es_us.ps.bz2</a> (0.7 Mo)
+</td>
+<td>
+Es_us.ps (15 Mo)
+<br>
+<a href="../guides/us/Es_us.ps.gz">Es_us.ps.gz</a> (1.7 Mo)
+<br>
+<a href="../guides/us/Es_us.ps.bz2">Es_us.ps.bz2</a> (1.2 Mo)
+</td>
+<td>
+us_es_ps.tar (22 Mo)
+<br>
+<a href="../guides/us/us_es_ps.tar.g">us_es_ps.tar.gz</a> (2.9 Mo)
+<br>
+<a href="../guides/us/us_es_ps.tar.bz2">us_es_ps.tar.bz2</a> (1.9 Mo)
+</td>
+</tr>
+</table>
+<hr><font size=1>
+<!-- Created: Wed Mar  3 00:10:30 CET 1999 -->
+<!-- hhmts start -->
+Last modified: Fri Mar 10 18:24:58 CET 2000
+<!-- hhmts end -->
+
+
+<? include("end1.php3"); ?>

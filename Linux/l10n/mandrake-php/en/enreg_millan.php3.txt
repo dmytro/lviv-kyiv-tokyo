@@ -1,0 +1,190 @@
+<html><head><title>
+Linux-Mandrake Mac Millan Pack REGISTRATION FORM</title></head>
+<body bgcolor="#FFFFFF" text="#000000" link="red" vlink="red" alink="#666699">
+<table width=100% border=0 cellpadding=0 cellspacing=0 bgcolor=white>
+  <tr> 
+<td width=100%><img src="/images/titrelogo.png" width="369" height="90" alt="Mandrake Logo">
+    </td>
+    <td width=100% valign="top" align="left"> 
+    </td>
+    <td align=left width=100% valign="bottom"> 
+    <table bgcolor=white width=100%>
+        <tr><td>&nbsp;
+        </td></tr></table>
+    </td>
+  </tr>
+  <tr> 
+<td colspan=3 align=left> 
+
+<? include("menubar.php3"); ?>
+
+</td>
+</table>
+<table border=0 width=100%>
+<tr><td width=14% valign=top>
+
+<? include("menu.php3"); ?>
+
+</td>
+<td valign=top align=center>
+<table border=0 width=90%>
+<tr>
+<td bgcolor ="#666699"> 
+<font color=white face="helvetica">
+<b>Linux-Mandrake Mac Millan Pack REGISTRATION FORM</b>
+</font>
+</td>
+</tr>
+<tr>
+<td bgcolor=white> 
+<font face="helvetica">
+<SCRIPT LANGUAGE="JavaScript"><!-- Hide script
+
+function new_Array(len) {
+  var a = new Object();
+  a.size = len;
+  for (var i = 1; i < new_Array.arguments.length; i++) a[i] = new_Array.arguments[i];
+  return a;
+}
+
+function isNumber(s) {
+  for (var i = 0; i < s.length; i++)
+    if (s.charAt(i) < "0" || s.charAt(i) > "9") { return false; }
+  return true;
+}
+
+function error(element, message) {
+  alert(message);
+
+  element.focus();
+  element.select();
+
+  return false;
+}
+
+function get_select(element) {
+  return element.options[element.selectedIndex].value;
+}
+
+function verify() {
+  var MANDATORY_PARAM = new_Array(8, 'email', 'lastname', 'firstname', 'phone', 'country', 'address', 'postcode', 'city');
+  var INT_PARAM = new_Array(2, 'processor_speed', 'graphic_mem');
+  var messages = new Object();
+  messages["email"] = 'email';
+  messages["lastname"] = 'last name';
+  messages["firstname"] = 'first name';
+  messages["phone"] = 'Phone';
+  messages["country"] = 'Country';
+  messages["address"] = 'Address';
+  messages["postcode"] = 'Zip';
+  messages["city"] = 'City';
+  messages["processor_speed"] = 'processor speed';
+  messages["graphic_mem"] = 'memory size';
+  messages["scsi_model"] = 'if so, which made and model ?';
+  var form = document.form;
+  var i;
+  
+  if (get_select(form["scsi_card"]) == "yes") MANDATORY_PARAM[++MANDATORY_PARAM.size] = "scsi_model";
+
+  for(i = 1; i <= MANDATORY_PARAM.size; i++) {
+    var element = form[MANDATORY_PARAM[i]];
+    if (element.value == "") return error(element, "The field ``" + messages[MANDATORY_PARAM[i]] + "'' is mandatory");
+  }
+  for(i = 1; i <= INT_PARAM.size; i++) {
+    var element = form[INT_PARAM[i]];
+    if (!isNumber(element.value)) return error(element, "The field ``" + messages[INT_PARAM[i]] + "'' must be a number!");
+  }
+  return true;
+}
+
+// End script hiding --></SCRIPT>
+<FORM METHOD="POST" ACTION="/cgi-bin/enreg_millan.pm" ENCTYPE="application/x-www-form-urlencoded" ONSUBMIT="return verify();" NAME="form">
+<BR><P><table width="100%" bgcolor="#ffffff">
+<tr>
+<td valign="top"><img src="../images/macmillan-s.png" width="64" height="80" alt="Mac Millan logo" align="left">
+<font face="helvetica, arial"><b>Note:</b> this form is for the Pack from <b>Mac Millan</b>
+registration, if you have a different product, please check <a
+href="enreg.php3">here</a>.<br><br>
+To help us answer any questions you may have in the future, please complete
+the form below. When all fields are filled, select the [Register]
+button at the bottom of the page to complete the registration.
+<br><br>Click on [Register] at the bottom of the document to send the form.</font>
+</td><td><img src="../images/macforlinux.png" width="174" height="150" alt="Mac Millan for Linux">
+</td>
+</tr></table></P>
+<P><CENTER><TABLE BGCOLOR="#395DA7" WIDTH="500" CELLSPACING="0" BORDER="0" CELLPADDING="1"><TR><TD COLSPAN="3"><FONT COLOR="white"><B>What Mac Millan Pack do you want to register ?</B></FONT></TD> <TD WIDTH="33%"><SELECT NAME="pack">
+<OPTION  VALUE="whatpack">Choose yours
+<OPTION  VALUE="complete">Complete
+<OPTION  VALUE="deluxe">DeLuxe
+</SELECT>
+</TD></TR>
+<TR><TD WIDTH="11%"><FONT COLOR="white"><B>First name</B></FONT></TD> <TD WIDTH="39%"><INPUT TYPE="text" NAME="firstname"  SIZE=20></TD> <TD WIDTH="17%"><FONT COLOR="white"><B>Last name</B></FONT></TD> <TD WIDTH="33%"><INPUT TYPE="text" NAME="lastname"  SIZE=20></TD></TR>
+<TR><TD WIDTH="11%"><FONT COLOR="white"><B>Address</B></FONT></TD> <TD COLSPAN="3"><INPUT TYPE="text" NAME="address"  SIZE=55></TD></TR>
+<TR><TD WIDTH="11%"><FONT COLOR="white"><B>Zip</B></FONT></TD> <TD WIDTH="39%"><INPUT TYPE="text" NAME="postcode"  SIZE=20 MAXLENGTH=7></TD> <TD WIDTH="17%"><FONT COLOR="white"><B>City</B></FONT></TD> <TD WIDTH="33%"><INPUT TYPE="text" NAME="city"  SIZE=20></TD></TR>
+<TR><TD WIDTH="11%"><FONT COLOR="white"><B>State</B></FONT></TD> <TD WIDTH="39%"><INPUT TYPE="text" NAME="state"  SIZE=20></TD> <TD WIDTH="11%"><FONT COLOR="white"><B>Country</B></FONT></TD> <TD WIDTH="39%"><INPUT TYPE="text" NAME="country"  SIZE=20></TD></TR>
+<TR><TD WIDTH="11%"><FONT COLOR="white"><B>Email</B></FONT></TD> <TD WIDTH="39%"><INPUT TYPE="text" NAME="email"  SIZE=20></TD> <TD WIDTH="17%"><FONT COLOR="white"><B>Phone</B></FONT></TD> <TD WIDTH="33%"><INPUT TYPE="text" NAME="phone"  SIZE=20></TD></TR>
+<TR><TD WIDTH="11%"><FONT COLOR="white"><B>Job</B></FONT></TD> <TD WIDTH="39%"><INPUT TYPE="text" NAME="job"  SIZE=20></TD> <TD WIDTH="17%"><FONT COLOR="white"><B>Company</B></FONT></TD> <TD WIDTH="33%"><INPUT TYPE="text" NAME="company"  SIZE=20></TD></TR>
+<TR><TD COLSPAN="3"><FONT COLOR="white"><B>Where did you get your PowerPack?</B></FONT></TD> <TD WIDTH="33%"><SELECT NAME="where">
+<OPTION  VALUE="dep_store">Department store
+<OPTION  VALUE="compu_shop">Computer shop
+<OPTION  VALUE="bookshop">Bookshop
+<OPTION  VALUE="online">Online
+<OPTION  VALUE="vpc">By mail order
+<OPTION  VALUE="gift">It was a gift
+</SELECT>
+</TD></TR>
+<TR><TD COLSPAN="3"><FONT COLOR="white"><B>How do you connect to the Internet?</B></FONT></TD> <TD WIDTH="33%"><SELECT NAME="connection">
+<OPTION  VALUE="RTC">Modem connection
+<OPTION  VALUE="ADSL">ADSL
+<OPTION  VALUE="cable_network">Cable
+<OPTION  VALUE="LS">T1
+</SELECT>
+</TD></TR></TABLE></CENTER> <P><CENTER><TABLE BGCOLOR="#C0C0C0" WIDTH="500" CELLSPACING="0" BORDER="0"><TR><TD COLSPAN="4"><FONT COLOR="black"><B>Hardware configuration :</B></FONT></TD></TR>
+<TR><TD COLSPAN="4"><FONT COLOR="white">&nbsp;</FONT></TD></TR>
+<TR><TD WIDTH="17%"><FONT COLOR="white"><B>Processor</B></FONT></TD> <TD WIDTH="35%"><SELECT NAME="processor">
+<OPTION  VALUE="Pentium">Intel Pentium
+<OPTION  VALUE="PentiumII">Intel Pentium II
+<OPTION  VALUE="PentiumIII">Intel Pentium III
+<OPTION  VALUE="Celeron">Intel Celeron
+<OPTION  VALUE="K6">AMD K6
+<OPTION  VALUE="K6-2">AMD K6-2
+<OPTION  VALUE="Athlon">AMD Athlon
+<OPTION  VALUE="Cyrix">Cyrix
+<OPTION  VALUE="other">Other
+</SELECT>
+</TD> <TD WIDTH="22%"><FONT COLOR="white"><B>Speed</B></FONT></TD> <TD WIDTH="26%"><INPUT TYPE="text" NAME="processor_speed" VALUE="300"> Mhz</TD></TR>
+<TR><TD WIDTH="17%"><FONT COLOR="white"><B>Hard drive</B></FONT></TD> <TD WIDTH="35%"><SELECT NAME="harddrive">
+<OPTION  VALUE="ide">IDE
+<OPTION  VALUE="scsi">SCSI
+</SELECT>
+</TD> <TD WIDTH="17%"><FONT COLOR="white"><B>CD-ROM drive</B></FONT></TD> <TD WIDTH="35%"><SELECT NAME="cdrom">
+<OPTION  VALUE="ide">IDE
+<OPTION  VALUE="scsi">SCSI
+<OPTION  VALUE="proprietary">Proprietary
+</SELECT>
+</TD></TR>
+<TR><TD WIDTH="17%"><FONT COLOR="white"><B>Graphic card model</B></FONT></TD> <TD WIDTH="35%"><INPUT TYPE="text" NAME="graphic" ></TD> <TD WIDTH="22%"><FONT COLOR="white"><B>Memory size</B></FONT></TD> <TD WIDTH="26%"><INPUT TYPE="text" NAME="graphic_mem" ></TD></TR>
+<TR><TD WIDTH="17%"><FONT COLOR="white"><B>Sound card</B></FONT></TD> <TD WIDTH="35%"><INPUT TYPE="text" NAME="sound" ></TD> <TD WIDTH="22%"><FONT COLOR="white"><B>Network card</B></FONT></TD> <TD WIDTH="26%"><INPUT TYPE="text" NAME="network" ></TD></TR>
+<TR><TD COLSPAN="2"><FONT COLOR="white"><B>Do you have an SCSI card? </B></FONT> <B><TABLE><TR><TD><INPUT TYPE="radio" NAME="scsi_card" VALUE="Yes" CHECKED>Yes</TD><TD><INPUT TYPE="radio" NAME="scsi_card" VALUE="No">No</TD></TR></TABLE></B></TD> <TD WIDTH="22%"><FONT COLOR="white"><B>If so, which make and model?</B></FONT></TD> <TD WIDTH="26%"><INPUT TYPE="text" NAME="scsi_model" ></TD></TR></TABLE></CENTER></P>
+ <P><CENTER><B>How did you learn about Linux-Mandrake ?</B> <SELECT NAME="youknow">
+<OPTION  VALUE="friend">By a friend or relative
+<OPTION  VALUE="onthenet">On the net
+<OPTION  VALUE="press">In a newspaper or magazine
+<OPTION  VALUE="other">Other
+</SELECT>
+</CENTER> <INPUT TYPE="hidden" NAME="language" VALUE="en"> <CENTER><INPUT TYPE="submit" NAME=".submit" VALUE="Register"> <INPUT TYPE="reset"></CENTER></P>
+ <INPUT TYPE="hidden" NAME=".cgifields" VALUE="scsi_card"> </FORM> <CENTER><FONT SIZE="-1"> </FONT></CENTER></P>
+</font>
+</td>
+</tr>
+</table>
+<table width=91%>
+<tr><td bgcolor="#666699">
+<font color=white size=3>
+<a href="/en/main.php3"><img src="../images/magic.gif" border=0 width=33 height=30></a>... Back to the main page...</td></tr></table>
+</td>
+</tr>
+</table>
+<font size=-6><p>
+<center>Linux is a registred trademark of Linus Torvalds. Mandrake and Linux-Mandrake are registred trademarks of MandrakeSoft SA and MandrakeSoft Inc. All other trademarks and copyrights are copyrighted by their respective owners.<br>All the content of these pages and all images are Copyright <a href="http://www.mandrakesoft.com">MandrakeSoft SA and MandrakeSoft Inc.</a> 1998, 1999, 2000.</center>
+</font></body></html>

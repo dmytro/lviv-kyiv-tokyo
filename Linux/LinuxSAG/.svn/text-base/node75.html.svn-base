@@ -1,0 +1,222 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<!--Converted with LaTeX2HTML 98.1 release (February 19th, 1998)
+originally by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Трохи б╕льше про вимкнення</TITLE>
+<META NAME="description" CONTENT="Трохи б╕льше про вимкнення">
+<META NAME="keywords" CONTENT="linux,ukrainian,guide,sag">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<LINK REL="STYLESHEET" HREF="sag.css">
+<LINK REL="next" HREF="node76.html">
+<LINK REL="previous" HREF="node74.html">
+<LINK REL="up" HREF="node72.html">
+<LINK REL="next" HREF="node76.html">
+</HEAD>
+<BODY BGCOLOR=#FFFFFF>
+<!--Navigation Panel-->
+<A NAME="tex2html1413"
+ HREF="node76.html">
+<IMG WIDTH="37" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="next"
+ SRC="next_motif.gif"></A> 
+<A NAME="tex2html1409"
+ HREF="node72.html">
+<IMG WIDTH="26" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="up"
+ SRC="up_motif.gif"></A> 
+<A NAME="tex2html1403"
+ HREF="node74.html">
+<IMG WIDTH="63" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="previous"
+ SRC="previous_motif.gif"></A> 
+<A NAME="tex2html1411"
+ HREF="node7.html">
+<IMG WIDTH="65" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="contents"
+ SRC="contents_motif.gif"></A> 
+<A NAME="tex2html1412"
+ HREF="node120.html">
+<IMG WIDTH="43" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="index"
+ SRC="index_motif.gif"></A> 
+<BR>
+<B> Дал╕:</B> <A NAME="tex2html1414"
+ HREF="node76.html">Перегрузка</A>
+<B> Вгору:</B> <A NAME="tex2html1410"
+ HREF="node72.html">Загрузка та вимкнення системи</A>
+<B> Назад:</B> <A NAME="tex2html1404"
+ HREF="node74.html">Старт системи зблизька</A>
+<BR>
+<BR>
+<!--End of Navigation Panel-->
+
+<H1><A NAME="SECTION00830000000000000000">
+Трохи б╕льше про вимкнення</A>
+</H1><FONT SIZE="+1"></FONT>
+<P>
+<FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1">Важливою ╓ процедура вимикання системи. П╕сля нев╕рного
+	вимкнення Ваша файлова система може в╕дправитися в см╕тник або
+	будете мати попсован╕ файли. Це в╕дбува╓ться тому, що Л╕накс
+	запису╓ дан╕ на диск не в╕дразу, а через певний ╕нтервал ╕ в╕н
+	не зможе записати дисковий кеш на диск при раптовому
+	вимененн╕. Дисковий кеш значно п╕двищу╓ швидк╕сть роботи, але
+	також п╕двищу╓ ймов╕рн╕сть помилок при нев╕рному вимкненн╕
+	живлення.
+</FONT></FONT></FONT>
+<P>
+<FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1"><A NAME="5148">&#160;</A>
+<A NAME="5149">&#160;</A>
+<A NAME="5150">&#160;</A>
+<A NAME="5151">&#160;</A>
+</FONT></FONT></FONT>
+<P>
+<FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1">╤ншим аргументом проти раптового вимкнення напруги, може бути
+	те, що в багатозадачн╕й систем╕ може бути безл╕ч процес╕в, як╕
+	в╕дбуваються одночасно в фоновому режим╕, ╕ вимкнення напруги
+	може бути катастрофою. Виконуючи визначену посл╕довн╕сть при
+	вимкненн╕ системи Ви також забезпечу╓те в╕рн╕сть вимкнення
+	вс╕х фонових задач. 
+</FONT></FONT></FONT>
+<P>
+<FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1"><A NAME="5152">&#160;</A>
+</FONT></FONT></FONT>
+<P>
+<FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1">Команда для вимикання системи в Л╕накс╕ - <TT>shutdown</TT><A NAME="5330">&#160;</A>. Нею
+	можна користуватися одним ╕з двох способ╕в. 
+</FONT></FONT></FONT>
+<P>
+<FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1"><A NAME="5154">&#160;</A>
+</FONT></FONT></FONT>
+<P>
+<FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1">В систем╕, де Ви - ╓диний користувач, користуйтеся командою
+	наступним чином. Вимкн╕ть вс╕ працююч╕ програми, вийд╕ть з
+	ус╕х робочих сес╕й (з ус╕х в╕ртуальних консол╕в),
+	заре╓струйтеся в систем╕ як <TT>root</TT> на одн╕й з консолей
+	(або залиш╕ться на одн╕й консол╕, якщо Ви працювали як
+	<TT>root</TT>, але при цьому краще перейти в кореневу
+	директор╕ю, щоб позбутися проблем з в╕дмонтуванням файлових
+	систем). П╕сля цього виконайте команду
+	<TT>shutdown&nbsp;-h&nbsp;now</TT> <A NAME="5158">&#160;</A>. Якщо Ви
+	хочете вимкнути систему з затримкою, зам╕н╕ть текст
+	<TT>now</TT> знаком плюс за яким ╕де к╕льк╕сть хвилин
+	затримки. Хоча в систем╕ з одним користувачем це навряд чи
+	потр╕бно.
+</FONT></FONT></FONT>
+<P>
+<FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1">Якщо ж Ваша система використову╓ться багатьма користувачами,
+	використовуйте команду <TT>shutdown&nbsp;-h&nbsp;<I>+час
+	пов╕домлення</I></TT>, де <I>час</I> - це час в хвилинах до зупинки
+	системи, а <I>пов╕домлення</I> - це коротке пояснення причини
+	зупинки системи. 
+</FONT></FONT></FONT><BLOCKQUOTE><FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1">
+<TT>
+# shutdown -h +10 'We will install a new disk.  System should <BR>
+&gt; be back on-line in three hours.' <BR>
+#
+</TT></FONT></FONT></FONT></BLOCKQUOTE><FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1">
+	Це пов╕домлення попередить вс╕х, хто користу╓ться системою, що
+	система вимика╓ться через десять хвилин. ╤ користувачам краще
+	б вийти з системи, якщо вони не хочуть загубити сво╖
+	дан╕. Пов╕домлення друку╓ться на кожному терм╕нал╕, на якому
+	хто-небудь заре╓струвався в систем╕, включаючи <TT>xterm</TT><A NAME="5332">&#160;</A>'и.
+</FONT></FONT></FONT><BLOCKQUOTE><FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1">
+<TT>
+Broadcast message from root (ttyp0) Wed Aug  2 01:03:25 1995... <BR>
+ <BR>
+We will install a new disk.  System should <BR>
+be back on-line in three hours. <BR>
+The system is going DOWN for system halt in 10 minutes !!
+</TT></FONT></FONT></FONT></BLOCKQUOTE><FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1">
+	Пов╕домлення повторю╓ться автоматично к╕лька раз╕в перед тим,
+	як система вимкнеться з все коротшими ╕ коротшими пром╕жками
+	м╕ж посл╕довними попередженнями.
+<A NAME="5168">&#160;</A>
+</FONT></FONT></FONT>
+<P>
+<FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1">Пот╕м почина╓ться справжн╓ вимкнення системи. В╕дмонтовуються
+	вс╕ файлов╕ системи за винятком коренево╖, вбиваються вс╕
+	процеси користувач╕в (якщо все ще хто-небудь залиша╓ться в
+	систем╕), вимикаються демони, в╕дмонтовуються вс╕ файлов╕
+	системи, ╕ зупиня╓ться все взагал╕. Коли все це зроблено,
+	<TT>init</TT><A NAME="5334">&#160;</A> друку╓ на екран╕ пов╕домлення про те, що Ви можете
+	вимкнути машину. Тод╕, <EM>╕ т╕льки тод╕</EM>, можете простягати
+	сво╖ руки до вимикача живлення.
+</FONT></FONT></FONT>
+<P>
+<FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1"><A NAME="5171">&#160;</A>
+</FONT></FONT></FONT>
+<P>
+<FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1">╤нколи, хоча на стаб╕льн╕й систем╕ дуже р╕дко, неможливо в╕рно
+	вимкнути систему. Наприклад, якщо ядро пан╕ку╓ ╕ поводить себе
+	дивно, неможливо подати йому будь-яку команду. Тож вимкнути
+	систему в╕рно дещо проблематично. ╤ практично ╓дине, що Вам
+	залиша╓ться, це спод╕ватися, що н╕чого поки-що не з╕псовано ╕
+	вимкнути напругу. Якщо Ваш╕ проблеми з системою трохи менш╕,
+	н╕ж описан╕ т╕льки що (наприклад, хтось с╕в на клав╕атуру), ╕
+	як ядро так ╕ демон <TT>update</TT><A NAME="5336">&#160;</A> все ще працюють, тод╕ варто
+	зачекати к╕лька хвилин, щоб <TT>update</TT><A NAME="5338">&#160;</A> м╕г записати вс╕
+	буфери на диск ╕ вимкнути напругу вже п╕сля цього.
+</FONT></FONT></FONT>
+<P>
+<FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1"><A NAME="5174">&#160;</A>
+<A NAME="5175">&#160;</A>
+<A NAME="5176">&#160;</A>
+<A NAME="5226">&#160;</A>
+<A NAME="5178">&#160;</A>
+<A NAME="5227">&#160;</A>
+</FONT></FONT></FONT>
+<P>
+<FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1">Дехто вимика╓ систему виконуючи команду
+	<TT>sync</TT><A NAME="5340">&#160;</A><A NAME="tex2html140"
+ HREF="footnode.html#foot5228"><SUP>132</SUP></A>
+	трич╕, чекають, поки зупиниться запис/читання з диску ╕
+	вимикають напругу п╕сля цього<A NAME="tex2html141"
+ HREF="footnode.html#foot5352"><SUP>133</SUP></A>.  Якщо в систем╕ нема╓ працюючих програм, то це майже те
+	ж саме, що ╕ користуватися <TT>shutdown</TT><A NAME="5382">&#160;</A>. Але такий процес не
+	в╕дмонтову╓ н╕яких файлових систем ╕ це може призвести до
+	деяких проблем з прапорцем ``чистоти'' файлово╖ системи
+	ext2. Отже, метод потр╕йного-sync'у <EM> не рекоменду╓ться</EM>.
+<A NAME="5188">&#160;</A>
+</FONT></FONT></FONT>
+<P>
+<FONT SIZE="+1"><FONT SIZE="+1"><FONT SIZE="+1">(Якщо Вас це ц╕кавить: причина <EM> потр╕йного</EM> sync'у в
+	тому, що на початку ╕стор╕╖ Юн╕кса це давало досить часу, щоб
+	зак╕нчилися вс╕ операц╕╖ вводу/виводу.)
+</FONT></FONT></FONT>
+<P>
+<FONT SIZE="+1"></FONT><HR>
+<!--Navigation Panel-->
+<A NAME="tex2html1413"
+ HREF="node76.html">
+<IMG WIDTH="37" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="next"
+ SRC="next_motif.gif"></A> 
+<A NAME="tex2html1409"
+ HREF="node72.html">
+<IMG WIDTH="26" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="up"
+ SRC="up_motif.gif"></A> 
+<A NAME="tex2html1403"
+ HREF="node74.html">
+<IMG WIDTH="63" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="previous"
+ SRC="previous_motif.gif"></A> 
+<A NAME="tex2html1411"
+ HREF="node7.html">
+<IMG WIDTH="65" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="contents"
+ SRC="contents_motif.gif"></A> 
+<A NAME="tex2html1412"
+ HREF="node120.html">
+<IMG WIDTH="43" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="index"
+ SRC="index_motif.gif"></A> 
+<BR>
+<B> Дал╕:</B> <A NAME="tex2html1414"
+ HREF="node76.html">Перегрузка</A>
+<B> Вгору:</B> <A NAME="tex2html1410"
+ HREF="node72.html">Загрузка та вимкнення системи</A>
+<B> Назад:</B> <A NAME="tex2html1404"
+ HREF="node74.html">Старт системи зблизька</A>
+<!--End of Navigation Panel-->
+<ADDRESS>
+<I>Dmytro Kovalev</I>
+<BR><I>1999-06-10</I>
+</ADDRESS>
+</BODY>
+</HTML>

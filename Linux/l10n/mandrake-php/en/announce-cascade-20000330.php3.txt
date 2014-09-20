@@ -1,0 +1,125 @@
+<? include("begin1.php3"); ?>
+Two major Europeen Open Source developers join forces
+<? include("begin2.php3"); ?>
+Two major Europeen Open Source developers join forces to offer a coplete solution for 3D Modeling application developpement
+<? include("begin3.php3"); ?>
+<table border="0" width="100%"><tr><td align="left">
+<b><font face="helvetica, arial">Matra Datavision Open CASCADE (Aerospatiale Matra subsidiary) and MandrakeSoft announce tactical and technical partnership</font></b>
+</td>
+<td width="209">
+<img src="../images/matra.jpg" width="209" height="50" border="0" alt="Matra logo">
+</td>
+</tr></table>
+<p align="justify">
+<b>Paris, France - March 30, 2000</b> - As a first step in a global partnership, Matra Datavision and MandrakeSoft, two European Open
+Source pioneers, have announced a technical agreement involving Open CASCADE, the set of Open Source C++ components for 3D
+applications, and Linux-Mandrake, one of the most popular distributions of Linux worldwide.
+<p align="justify">
+Under the terms of this agreement, Open CASCADE supports the Linux-Mandrake Operating System as its preferred Linux platform; Open
+CASCADE is referenced by MandrakeSoft as the solution provider for developing specific 3D modeling applications on
+Linux-Mandrake.
+<p align="justify">
+The purpose of this partnership is to offer developers of technical and scientific graphic applications a complete solution for
+developing their applications on Linux using market-tested Open Source modeling components. This suite offers an excellent cost
+effective and highly flexible alternative to proprietary modeling kernels.
+<p align="justify">
+Discussions are under way to extend this partnership in the near future.
+<p align="justify">
+Says Marc Gainette, Director of the Open CASCADE Department at Matra Datavision: "We believe this partnership is the first step
+towards building a Linux for 3D solution which will become a standard tool for developers of Linux-based graphic modeling
+applications." Yann de Pontbriand, COO of MandrakeSoft adds: "This agreement is in line with our policy for developing strategic
+partnerships in various fields based on our Linux products, this agreement allows us to build a strong partnership with a leading
+international industrial participant such as Aerospatiale Matra."
+<p align="justify">
+MandrakeSoft produces and publishes the Open Source Linux-Mandrake operating system and provides free access to source code
+published in accordance with the General Public License (GPL). Several hundred developers throughout the world contribute to the
+constant improvement of the product directly over the
+Internet. Linux-Mandrake is a complete system with choices of several powerful, pre-configured graphic interfaces (notably the
+leaders KDE and Gnome), as well as more than 2000 applications including Netscape Communicator, the StarOffice suite, and the
+Apache web server.
+<p align="justify">
+In a testament to its success, MandrakeSoft received the awards for "Best Product of the Year" and "Best
+Linux-Distribution/Server" at LinuxWorld Expo 1999. The company has signed a strategic partnership with the American publisher
+MacMillan and a distribution agreement with Kasper.  In the months of July and August 1999, Linux-MandrakeSoft held the number one
+spot for Linux sales in all of North American with the MacMillan Edition.
+<p align="justify">
+"Born on the Internet", MandrakeSoft established its headquarters in Paris, France and maintains offices in the United States.
+<p align="justify">
+<img src="../images/cascade.jpg" width="126" height="50" border="0" alt="Open Cascade" align="left">Open CASCADE, available for free downloading since December 20 1999, is the established 3D modeling components from Matra
+Datavision dedicated to the development of trade-specific technical and scientific applications ranging from mechanical
+CAD/CAM/CAE to metrology and measuring machines, biomedical
+software, 3D geological mapping, optical simulation, product design and styling. The Open CASCADE Department of Matra Datavision
+offers a complete range of services for training and support of Open CASCADE users as well as a highly qualified team for turn key
+application development.  Matra Datavision, a wholly owned subsidiary of Aerospatiale Matra, is a leading international supplier
+of engineering solutions and services to companies looking for competitive advantage from continuous improvement of
+design-to-manufacturing processes.
+<p align="justify">
+Obtain details of the MandrakeSoft offer by visiting the web site <a href="http://www.linux-mandrake.com">www.linux-mandrake.com</a>. 
+<br>To learn more about Open CASCADE, see <a href="http://www.opencascade.com">www.opencascade.com</a> and <a href="http://www.opencascade.org">www.opencascade.org</a>.
+<p align="justify">
+<u>MandrakeSoft, Inc.</u> : 2400 N. Lincoln Ave - Altadena, CA 91001 - USA
+<br><u>MandrakeSoft S.A.</u> : 43, rue d'Aboukir - 75002 Paris - France
+<p>
+<u>Matra Datavision:</u> 31 Avenue de la Baltique - 91954 Les Ulis France
+<p>
+<u>Press contact</u> :<br> Parabole Communication,  Cathy Cherbit
+<br><a href="mailto:carineH@parabole.com">Carine Homsy</a>
+<br><a href="mailto:veroniqueL@parabole.com">Véronique Loquet</a>
+<br>Tél. : 01 53 60 88 88, Fax : 01 53 60 88 80
+<p>
+<font size="-1">Open CASCADE is a registered trademark of Matra Datavision.</font>
+<p>
+<? include("end1.php3"); ?>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

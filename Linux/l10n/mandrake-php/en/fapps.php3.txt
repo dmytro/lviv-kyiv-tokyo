@@ -1,0 +1,35 @@
+<? include("begin1.php3"); ?>
+Linux Mandrake - Applications
+<? include("begin2.php3"); ?>
+Linux Mandrake - Applications
+<? include("begin3.php3"); ?>
+<table>
+<tr>
+<td width="75%>
+<font size="-1" face="Arial, helvetica">
+<b>Linux-Mandrake is 99% compatible with RedHat.</b> So most applications packaged for RedHat as RPM packages (.rpm file) should run under Mandrake.<p>
+
+Such apps can be found on: <p>
+
+<ul>
+<li> <a href="http://www.linux-mandrake.com"></a>The very well organized 'rufus.w3.org' server on <a href="http://rufus.w3.org/linux/RPM/contrib/libc6/i386/">http://rufus.w3.org/linux/RPM/contrib/libc6/i386/</a><p>
+<li> The Linux Center where all application are listed <a href="http://www.linux-center.org/" target="_parent">http://www.linux-center.org</a><p>
+<li> Freshmeat quickfinder on  <a href="http://news.freshmeat.net/" target="_parent">http://news.freshmeat.net/</a> that allows you to find the lastest versions.<p>
+<li> AppWatch at  <a href="http://appwatch.com/linux"> http://appwatch.com/Linux</a> which does the same efficiently. You can see the latest applications on the right column.<p>
+<li> Another applications source is the <a href="cookerdevel.php3">Cooker</A> from Mandrakesoft.<p>
+</ul>
+ 
+<p> Anyways, <b>try avoiding upgrading Mandrake specific packages (those that can be found in the Mandrake distribution) with RedHat's ones.</b> You could lose Mandrake's benefits.
+</font>
+</td>
+<td>
+<? include("appswatch-box.php3"); ?>
+</td>
+</tr>
+</table>
+<hr><font size=1>
+<!-- Created: Thu Oct 22 09:02:01 EDT 1998 -->
+<!-- hhmts start -->
+Last modified: Fri Nov 19 16:59:10 CET 1999
+<!-- hhmts end -->
+<? include("end1.php3"); ?>

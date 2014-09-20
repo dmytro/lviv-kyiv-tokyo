@@ -1,0 +1,136 @@
+# Ukrainian translation of kwm
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# Dmytro Kovalov <kov@tokyo.email.ne.jp>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: kwm VERSION\n"
+"POT-Creation-Date: 1999-04-05 01:20+0200\n"
+"PO-Revision-Date: 2000-04-26 20:49+09:00\n"
+"Last-Translator: Dmytro Kovalov <kov@tokyo.email.ne.jp>\n"
+"Language-Team: Ukrainian <linux@linux.org.ua>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=koi8-u\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "&DeIconify"
+msgstr "З&б╕льшити"
+
+msgid "&Iconify"
+msgstr "&М╕н╕м╕зувати"
+
+msgid "&Maximize"
+msgstr "Ма&ксимальний розм╕р"
+
+msgid "&Onto current desktop"
+msgstr "&На даний робочий ст╕л"
+
+msgid "&Restore"
+msgstr "&В╕дновити"
+
+msgid "&Sticky"
+msgstr "При&л╕пити"
+
+msgid "&To desktop"
+msgstr "На &ст╕л"
+
+msgid "&UnSticky"
+msgstr "В╕д&л╕пити"
+
+msgid "*** No Tasks ***"
+msgstr "*** Н╕яких завдань ***"
+
+msgid "Command:"
+msgstr "Команда:"
+
+msgid "Copyright (C) 1997 Matthias Ettrich (ettrich@kde.org)\n"
+msgstr "Права застережен╕ (C) 1997 Matthias Ettrich (ettrich@kde.org)\n"
+
+msgid "Current session"
+msgstr "Даний сеанс"
+
+msgid "Eight"
+msgstr "В╕с╕м"
+
+msgid "Five"
+msgstr "П'ять"
+
+msgid "Four"
+msgstr "Чотири"
+
+msgid "Logout"
+msgstr "Вийти"
+
+msgid "Mo&ve"
+msgstr "Пере&м╕стити"
+
+msgid "One"
+msgstr "Один"
+
+msgid "Ooops!"
+msgstr "Ой!"
+
+msgid "Preparing session ... "
+msgstr "Готую сеанс ... "
+
+msgid "Resi&ze"
+msgstr "Зм╕нити &розм╕р"
+
+msgid "Session prepared for logout"
+msgstr "П╕дготовлено до виходу з сеансу"
+
+msgid "Seven"
+msgstr "С╕м"
+
+msgid "Six"
+msgstr "Ш╕сть"
+
+msgid "Some pixmaps are not valid: GimmickMode dissabled\n"
+msgstr "Деяк╕ з в╕зерунк╕в з╕псован╕: Режим Gimmick в╕дключено\n"
+
+msgid "Some pixmaps are not valid: ShapeMode dissabled\n"
+msgstr "Деяк╕ з в╕зерунк╕в з╕псован╕: Режим Snap в╕дключено\n"
+
+msgid "Switch to"
+msgstr "Перейти на"
+
+msgid ""
+"The following applications are not X11-aware and though cannot be restored\n"
+"in your next session. Make sure they do not contain important unsaved data."
+msgstr ""
+"Ц╕ програми не сп╕впрацюють з X11 ╕ тому не можуть бути в╕дновленими в\n"
+"Вашому наступному сеанс╕. Переконайтеся, що вони не мають н╕яких\n"
+"незбережених даних."
+
+msgid ""
+"The following applications cannot be restored in your next session,\n"
+"only restarted. Make sure they do not contain important unsaved data."
+msgstr ""
+"Ц╕ програми не можуть бути в╕дновленими в наступному сеанс╕, вони\n"
+"можуть бути т╕льки перезапущеними. Переконайтеся, що вони не мають\n"
+"н╕яких незбережених даних."
+
+msgid ""
+"The following applications contain unsaved data which\n"
+"will be lost in your next session."
+msgstr ""
+"Ц╕ програми мають незбережен╕ дан╕, як╕ можуть бути втрачен╕ в\n"
+"наступному сеанс╕."
+
+msgid "Three"
+msgstr "Три"
+
+msgid "Two"
+msgstr "Два"
+
+msgid "Unnamed Desktop"
+msgstr "Ст╕л без назви"
+
+msgid "Usage: "
+msgstr "Використання:"
+
+msgid "kwm: failure during initialisation; aborting\n"
+msgstr "kwm: помилка п╕д час ╕н╕ц╕ал╕зац╕╖; зак╕нчую\n"
+
+msgid "kwm: it looks like there's already a window manager running.  kwm not started\n"
+msgstr "kwm: зда╓ться, що ╕нший менеджер в╕кон вже запущено. kwm не запущено\n"

@@ -1,0 +1,161 @@
+<? include("begin1.php3"); ?>
+Using the CVS
+<? include("begin2.php3"); ?>
+Using the CVS
+<? include("begin3.php3"); ?>
+
+<!-- ============================== CONTENTS =============================== -->
+
+<TABLE BORDER=0 WIDTH="100%" >
+
+<TR>
+<TD BGCOLOR="#F9B353"><B><FONT FACE="helvetica"><FONT COLOR="#FFFFFF">
+What is CVS ?
+</FONT></FONT></B></TD>
+</TR>
+
+<TR>
+<TD BGCOLOR="#FFFFFF">
+<br>
+<b>CVS</b> stands for <i>Concurrent Versions System</i>; it is a system
+to keep in sync a set of files, put in a hierarchical directory tree.
+People can update their local copy of the hierarchy tree from the
+CVS server, and send back modifications or new files; or also
+delete old files.<br>
+Its client-server based behaviour makes it multi-user,
+and network enabled. That characteristic makes CVS the tool of choice
+for projects where several people from distan places have to work together
+on data files, specially programs source code.<br>
+All important free software projects use CVS as the central point between
+the programmers to integrate their improvements and changes: Gnome, KDE,
+The GIMP, Wine, etc.<br>
+And of course so does MandrakeSoft too for its own developments.
+
+<br>
+<br>
+</TD>
+</TR>
+
+<TR>
+<TD BGCOLOR="#F9B353"><B><FONT FACE="helvetica"><FONT COLOR="#FFFFFF">
+How to use the Mandrake Linux' CVS server
+</FONT></FONT></B></TD>
+</TR>
+ 
+<TR>
+<TD BGCOLOR="#FFFFFF">
+<br>
+
+To use the CVS you need to connect to the server, and make a local copy
+of the CVS module you want. The next times you would need only to do
+an update to get the differences from your last connection.<br>
+It is easy. You only need the <b>cvs</b> package (which comes with the
+standard Mandrake distribution) and enough disk space for what you want
+to get.
+<P>
+To tell <b>cvs</b> to which server you want to connect, under which
+identity, and what CVS head you want; you have to define the
+<b>CVSROOT</b> variable, like this:<br>
+<pre>
+export CVSROOT=:pserver:anoncvs@linux-mandrake.com:/home/cvs/cooker
+</pre>
+if you want to connect to server <b>linux-mandrake.com</b>, identify
+yourself to server as <b>anoncvs</b> with password <b>cvs</b>, and make the requests relatives
+to the CVS head <b>/home/cvs/cooker</b> (there can be more than one
+on a given server).
+<P>
+Once you have set that variable you can connect yoursel; that is done
+by the <b>cvs login</b> command.
+You then will be prompted for your password, and voilà! your are connected.
+<P>
+The next step is only necessary the first time; you need to create
+a fresh copy of the hierarchy you want. Say you want to get the
+<b>po</b> hierarchy tree, you can type:<br>
+<pre>
+cvs -z3 checkout po
+</pre>
+(the -zX means to use compression; as what is exchanged are mainly plain
+text files it is useful; you can use a bigger number to get more compression,
+or a lower one to get less. Note however that more compressions means also
+that your cpu and the one on the server will be more loaded)
+You will see a lot of messages on stdout, as files are get and copied
+on your local disc.
+<P>
+The next time you don't need to do a cvs checkout anymore; just a cvs login
+(don't forget the CVSROOT environment variable), then a cvs upgrade, like
+this:<br>
+<pre>
+cd po
+cvs -z3 upgrade -d
+</pre>
+Note that I changed to the <b>po</b> directory; the I find it easier that way.
+the -d means to create and get any new directory that the CVS server could
+have created since your last visit. The -zX has the same meaning as in
+cvs checkout
+<P>
+Now with those simple commands you can allways get the lastest snapshots
+of any project that you have read CVS access to.
+Don't abuse of it however; it uses a lot of bandwith and server ressources
+to put such a service in place; if you don't have any use to get the
+program sources don't do it. On the other hand, if you are serious at
+contributing back to the free software world (and you don't need to be
+a programmer for that; there is currently cruel need fro translators, writers,
+graphic artistsc,...) you have the tools needed to get the files before
+their official release and the possibility to send your suggestions,
+improvements, etc.
+<P>
+If you have a write access to the CVS you can also directly send your 
+changes up.
+<br>
+There three kind of modifications you can do:<br>
+<ul>
+<li><b>modifications of existing files:</b>just change the file (edit it,
+	or copy another one over it etc). 
+<li><b>add new files/dirs:</b>You need to copy them (or create them for
+	directories) then call <b>cvs add newfileordir</b> to tell
+	you want to add a new entry.
+<li><b>remove files/dirs:</b>You need to first remove them locally, then
+	call <b>cvs delete removedfileordir</b> (yes, it is a little annoying,
+	as you can't use completion or shell special chars *? in the
+	cvs delete command line (as you can do with cvs add for exemple)
+</ul>
+Then, you type <b>cvs -z3 commit</b> (again the -zX has the habitual meaning)
+and only then the changes you made will be commited to the server.
+You will be faced to your favorite editor (defined with the EDITOR
+environment variable) to write som description of what your modifications
+are about (that will be kept on the CVS server logs and would allow
+easier fallback in case of problems)
+<br>
+Note that if the server has newer version of files than you try to commit
+an error will happen; so it is recommended that you do a cvs update
+prior of anything.
+<P>
+<h3>Currently available CVS modules at mandrake-linux.com</h3>
+
+<ul>
+<li>po: which gives access to the translations of the descriptions used
+	for the rpm packages (you can connect anonymously with login anoncvs
+	and password cvs; if you want a write access ask to 
+	<A HREF="mailto:chmouel@mandrakesoft.com?CVS">Chmouel Boudjna</A>)
+<li>.... (this page isn't finished yet :) )
+</ul>
+
+<br>
+<br>
+</TD>
+</TR>
+
+
+
+</TABLE>
+<BR>
+
+
+<!-- ============================== MDK_PHP3_END =========================== --><hr><font size=1>
+<!-- Created: Wed Mar  3 00:10:30 CET 1999 -->
+<!-- hhmts start -->
+Last modified: Sun Jun  6 23:45:36 CEST 1999
+<!-- hhmts end -->
+<? include("end1.php3"); ?>
+
+

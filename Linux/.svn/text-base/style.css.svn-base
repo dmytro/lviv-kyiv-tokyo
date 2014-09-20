@@ -1,0 +1,23 @@
+BODY { 
+     background : #FFFFFF ; 
+      
+     }
+
+A:link, 
+A:visited, 
+A:active 
+         { 
+        text-decoration: none ;
+        font-family: "sans-serif";
+	color: "#000000";
+        } 
+/* TH { color: #FFFFFF; text-align: left; }  */
+TABLE { border: 1px solid black; }
+P { border: 1px solid black; }
+/* H1 { border: 1px solid red; } */ 
+/* P { margin-left: 0; text-indent: 1.5em; margin-top: 0} */
+
+
+
+
+

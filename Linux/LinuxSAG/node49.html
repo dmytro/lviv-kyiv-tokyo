@@ -1,0 +1,215 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<!--Converted with LaTeX2HTML 98.1 release (February 19th, 1998)
+originally by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Галоп по файловиx системаx</TITLE>
+<META NAME="description" CONTENT="Галоп по файловиx системаx">
+<META NAME="keywords" CONTENT="linux,ukrainian,guide,sag">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<LINK REL="STYLESHEET" HREF="sag.css">
+<LINK REL="next" HREF="node50.html">
+<LINK REL="previous" HREF="node48.html">
+<LINK REL="up" HREF="node47.html">
+<LINK REL="next" HREF="node50.html">
+</HEAD>
+<BODY BGCOLOR=#FFFFFF>
+<!--Navigation Panel-->
+<A NAME="tex2html1092"
+ HREF="node50.html">
+<IMG WIDTH="37" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="next"
+ SRC="next_motif.gif"></A> 
+<A NAME="tex2html1088"
+ HREF="node47.html">
+<IMG WIDTH="26" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="up"
+ SRC="up_motif.gif"></A> 
+<A NAME="tex2html1082"
+ HREF="node48.html">
+<IMG WIDTH="63" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="previous"
+ SRC="previous_motif.gif"></A> 
+<A NAME="tex2html1090"
+ HREF="node7.html">
+<IMG WIDTH="65" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="contents"
+ SRC="contents_motif.gif"></A> 
+<A NAME="tex2html1091"
+ HREF="node120.html">
+<IMG WIDTH="43" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="index"
+ SRC="index_motif.gif"></A> 
+<BR>
+<B> Дал╕:</B> <A NAME="tex2html1093"
+ HREF="node50.html">Якою файловою системою користуватися?</A>
+<B> Вгору:</B> <A NAME="tex2html1089"
+ HREF="node47.html">Файлов╕ системи</A>
+<B> Назад:</B> <A NAME="tex2html1083"
+ HREF="node48.html">Що таке файлов╕ системи?</A>
+<BR>
+<BR>
+<!--End of Navigation Panel-->
+
+<H2><A NAME="SECTION00682000000000000000">
+Галоп по файловиx системаx</A>
+</H2>
+<P>
+<FONT SIZE="+1"><FONT SIZE="+1">Л╕накс п╕дтриму╓ к╕лька файлових систем, серед яких
+	найважлив╕шими ╓:
+	</FONT></FONT><DL>
+<DT><STRONG>minix</STRONG>
+<DD><P>
+Найстар╕ша з ус╕х ╕ вважа╓ться найб╕льш
+заслуговуючою на дов╕ру. В той же час, вона досить
+		обмежена за можливостями (в╕дсутн╕ деяк╕ часов╕
+		в╕дбитки<A NAME="tex2html83"
+ HREF="footnode.html#foot3366"><SUP>78</SUP></A>, довжина назви файлу
+		обмежена 30-ма л╕терами , може мати максимум 64&nbsp;МБайти
+		на файлову систему).
+
+<P>
+<DT><STRONG>xia</STRONG>
+<DD><P>
+Видозм╕нена верс╕я файлово╖ системи minix, яка
+		розширила меж╕ довжин назви файлу та розм╕р файлово╖
+		системи, але не додала нових можливостей до
+		системи. Це - не дуже популярна файлова система, але,
+		як  пов╕домлялося, працю╓ досить гарно. 
+
+<P>
+<DT><STRONG>ext2</STRONG>
+<DD><P>
+Найб╕льш багата можливостями р╕дна файлова система
+		Л╕накса, на даний момент - найб╕льш вживана, була
+		спроектована таким чином, щоб ╖╖ легко можна було
+		розширювати та доповнювати новими можливостями, тобто
+		нов╕ верс╕╖ коду файлових систем не будуть вимагати
+		перебудови ╕снуючих файлових систем.
+
+<P>
+<DT><STRONG>ext</STRONG>
+<DD><P>
+Стар╕ша верс╕я - попередниця <TT>ext2</TT>, яка була
+		спроектована без думок про розширення. ╥╖ практично
+		вже нема╓ в нових системах, ╕ т╕ хто мав ╖╖ в старих,
+		вже зам╕нили ╖╖ новою верс╕╓ю.
+
+<P>
+</DL><FONT SIZE="+1"><FONT SIZE="+1">
+	Додатково до цього, ╕сну╓ п╕дтримка для деяких ``╕ноземних''
+	файлових систем, що робить прост╕шим обм╕н файлами з ╕ншими
+	системами. Вс╕ ц╕ ╕ноземн╕ системи працюють практично так
+	само, як ╕ р╕дн╕ файлов╕ системи Л╕накса, але можливо вони не
+	мають тих чи ╕нших можливостей, як╕ присутн╕ в Юн╕ксах, або
+	мають деяк╕ см╕шн╕ обмеження або ще що.
+	</FONT></FONT><DL>
+<DT><STRONG>msdos</STRONG>
+<DD><P>
+Сум╕сн╕сть з DOS (а також з OS/2 та Windows NT) -
+файлов╕ системи FAT. 
+
+<P>
+<DT><STRONG>umsdos</STRONG>
+<DD>Розширення файлово╖ системи <TT>msdos</TT> для Л╕накса
+		- для вживання довгих назв файл╕в, з можлив╕стю
+		присво╓ння власник╕в файлам,
+		дозвол╕в, ссилок та файл╕в пристро╖в. Це розширення
+		дозволя╓ користуватися звичайною файловою системою
+		<TT>msdos</TT>, так як н╕бито це - файлова система
+		Л╕накс, ╕ таким чином в╕дпада╓ необх╕дн╕сть
+		користуватися спец╕альною системою для Л╕накса при
+		наявност╕ комп'ютера з встановленим DOS'ом.
+
+<P>
+<DT><STRONG>iso9660</STRONG>
+<DD>Стандартна файлова система компакт-диск╕в, ма╓
+		популярне розширення ``Рок Р╕дж'', яке дозволя╓
+		вживати довг╕ назви файл╕в. Розширення Рок Р╕дж при
+		необх╕дност╕ п╕дключа╓ться автоматично.
+
+<P>
+<DT><STRONG>nfs</STRONG>
+<DD>Файлова система мереж╕ <A NAME="tex2html84"
+ HREF="footnode.html#foot3371"><SUP>79</SUP></A> - файлова система, яка дозволя╓ сп╕льно на багатьох комп'ютерах
+в мереж╕ користуватися файлами ╕ дозволя╓ простий доступ до них з
+будь-якого з комп'ютер╕в мереж╕.
+			
+	<DT><STRONG>hpfs</STRONG>
+<DD>Файлова система OS/2.
+	<DT><STRONG>sysv</STRONG>
+<DD>Файлов╕ системи SystemV/386, Coherent та Xenix.
+	</DL><FONT SIZE="+1"><FONT SIZE="+1">
+	<A NAME="tex2html85"
+ HREF="footnode.html#foot3383"><SUP>80</SUP></A>
+</FONT></FONT>
+<P>
+<FONT SIZE="+1"><FONT SIZE="+1">Виб╕р файлово╖ системи залежить в╕д ситуац╕╖. Якщо Ви хочете
+	 мати доступ до одних ╕ тих же файл╕в з Л╕накса та з яко╖сь
+	 ╕ншо╖ операц╕йно╖ системи (встановлено╖ на цьому ж
+	 комп'ютер╕), то повинна використовуватися файлова система
+	 саме ц╕╓╖ операц╕йно╖ системи. Якщо ж Ви ма╓те в╕льний виб╕р,
+	 тод╕ найкращим вибором буде файлова система ext2, оск╕льки
+	 вона ма╓ вс╕ необх╕дн╕ функц╕╖ ╕ достатньо швидка.
+</FONT></FONT>
+<P>
+<FONT SIZE="+1"><FONT SIZE="+1">Кр╕м згаданих вище файлових систем в Л╕накс╕ ╓ також файлова
+	система <TT>proc</TT>, змонтована в директор╕╖ <TT>proc</TT><A NAME="3393">&#160;</A>, яка
+	насправд╕ не ╓ файловою системою, хоча ╕ дуже на не╖
+	схожа. Файлова система <TT>proc</TT> полегшу╓ доступ структур
+	даних всередин╕ ядра ╕ процес╕в (зв╕дки ╕ назва). Вона пода╓
+	користувачев╕ ц╕ структури у вигляд╕ файлово╖ системи, ╕ до
+	даних в такому вигляд╕ можна застосовувати звичайн╕ засоби для
+	роботи з файлами. Наприклад, для того, щоб отримати список
+	вс╕х процес╕в в систем╕ можна скористуватися командою
+</FONT></FONT>
+<P>
+<BLOCKQUOTE><FONT SIZE="+1"><FONT SIZE="+1">
+<TT>
+<code>$</code> <I>ls -l /proc</I> <BR>
+<code>total 0</code> <BR>
+<code>dr-xr-xr-x   4 root     root            0 Jan 31 20:37 1</code> <BR>
+<code>dr-xr-xr-x   4 liw      users           0 Jan 31 20:37 63</code> <BR>
+<code>dr-xr-xr-x   4 liw      users           0 Jan 31 20:37 94</code> <BR>
+<code>dr-xr-xr-x   4 liw      users           0 Jan 31 20:37 95</code> <BR>
+<code>dr-xr-xr-x   4 root     users           0 Jan 31 20:37 98</code> <BR>
+<code>dr-xr-xr-x   4 liw      users           0 Jan 31 20:37 99</code> <BR>
+<code>-r--r--r--   1 root     root            0 Jan 31 20:37 devices</code> <BR>
+<code>-r--r--r--   1 root     root            0 Jan 31 20:37 dma</code> <BR>
+<code>-r--r--r--   1 root     root            0 Jan 31 20:37 filesystems</code> <BR>
+<code>-r--r--r--   1 root     root            0 Jan 31 20:37 interrupts</code> <BR>
+<code>-r--------   1 root     root      8654848 Jan 31 20:37 kcore</code> <BR>
+<code>-r--r--r--   1 root     root            0 Jan 31 11:50 kmsg</code> <BR>
+<code>-r--r--r--   1 root     root            0 Jan 31 20:37 ksyms</code> <BR>
+<code>-r--r--r--   1 root     root            0 Jan 31 11:51 loadavg</code> <BR>
+<code>-r--r--r--   1 root     root            0 Jan 31 20:37 meminfo</code> <BR>
+<code>-r--r--r--   1 root     root            0 Jan 31 20:37 modules</code> <BR>
+<code>dr-xr-xr-x   2 root     root            0 Jan 31 20:37 net</code> <BR>
+<code>dr-xr-xr-x   4 root     root            0 Jan 31 20:37 self</code> <BR>
+<code>-r--r--r--   1 root     root            0 Jan 31 20:37 stat</code> <BR>
+<code>-r--r--r--   1 root     root            0 Jan 31 20:37 uptime</code> <BR>
+<code>-r--r--r--   1 root     root            0 Jan 31 20:37 version</code> <BR>
+<code>$</code>
+		</TT></FONT></FONT></BLOCKQUOTE>
+<P>
+<FONT SIZE="+1"><FONT SIZE="+1">(Кр╕м наведених тут буде ще к╕лька додаткових файл╕в, як╕ не
+	мають в╕дпов╕дних процес╕в. Приклад, наведений тут, трохи
+	скорочений пор╕вняно з реальною ситуац╕╓ю.)
+</FONT></FONT>
+<P>
+<FONT SIZE="+1"><FONT SIZE="+1">Хоча <TT>/proc</TT> ╕ назива╓ться файловою системою, жодна ╖╖
+	частина нав╕ть ╕ не торка╓ться диску. Вона вся ╕сну╓ т╕льки
+	в уяв╕ ядра. Коли будь-хто намага╓ться звернутися до будь-яко╖
+	з частин файлово╖ системи <TT>proc</TT>, ядро пода╓ ╖╖ так,
+	н╕би то вона справд╕ ╕сну╓ десь. Отже, нав╕ть якщо Ви власними
+	очима бачите тут багато-мегабайтний файл <TT>/proc/kcore</TT><A NAME="3395">&#160;</A>, в╕н
+	не займа╓ жодного байту пам'ят╕ н╕ на диску, н╕ в пам'ят╕ (до
+	того часу, поки Ви не почнете його коп╕ювати куди-небудь).
+</FONT></FONT>
+<P>
+<BR><HR>
+<ADDRESS>
+<I>Dmytro Kovalev</I>
+<BR><I>1999-06-10</I>
+</ADDRESS>
+</BODY>
+</HTML>

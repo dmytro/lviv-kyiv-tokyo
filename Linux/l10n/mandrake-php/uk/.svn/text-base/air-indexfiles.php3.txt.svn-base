@@ -1,0 +1,14 @@
+<? include("begin1.php3"); ?>
+Повний список файл╕в в ус╕х RPM Contribs
+<? include("begin2.php3"); ?>
+Повний список файл╕в в ус╕х RPM Contribs
+<? include("begin3.php3"); ?>
+</font><pre>
+<? include("../en/air-indexfiles.txt"); ?>
+</pre>
+ <hr><font size=1>
+<!-- Created: Thu Oct 15 05:47:05 EDT 1998 -->
+<!-- hhmts start -->
+│З│м│╕│н│и │в│н│е│с│е│н│╕: Tue Apr  4 18:18:18 JST 2000
+<!-- hhmts end -->
+<? include("end1.php3"); ?>
