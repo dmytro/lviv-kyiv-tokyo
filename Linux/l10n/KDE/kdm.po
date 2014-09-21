@@ -14,49 +14,49 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "(Enter Root Password)"
-msgstr "(введ╕ть пароль користувача root)"
+msgstr "(п╡п╡п╣п╢я√я┌я▄ п©п╟я─п╬п╩я▄ п╨п╬я─п╦я│я┌я┐п╡п╟я┤п╟ root)"
 
 msgid "Go!"
-msgstr "Вперед!"
+msgstr "п▓п©п╣я─п╣п╢!"
 
 msgid "Home directory not available"
-msgstr "Нема╓ домашнього каталогу"
+msgstr "п²п╣п╪п╟я■ п╢п╬п╪п╟я┬п╫я▄п╬пЁп╬ п╨п╟я┌п╟п╩п╬пЁя┐"
 
 msgid "Login failed!"
-msgstr "Ре╓страц╕я в систем╕ не вдалася!"
+msgstr "п═п╣я■я│я┌я─п╟я├я√я▐ п╡ я│п╦я│я┌п╣п╪я√ п╫п╣ п╡п╢п╟п╩п╟я│я▐!"
 
 msgid "Login:"
-msgstr "╤м'я:"
+msgstr "п├п╪'я▐:"
 
 msgid "Logins not available right now."
-msgstr "Зараз ре╓страц╕я неможлива."
+msgstr "п≈п╟я─п╟п╥ я─п╣я■я│я┌я─п╟я├я√я▐ п╫п╣п╪п╬п╤п╩п╦п╡п╟."
 
 msgid "Password:"
-msgstr "Пароль:"
+msgstr "п÷п╟я─п╬п╩я▄:"
 
 msgid "Restart X Server"
-msgstr "Перезапустити X сервер"
+msgstr "п÷п╣я─п╣п╥п╟п©я┐я│я┌п╦я┌п╦ X я│п╣я─п╡п╣я─"
 
 msgid "Session Type:"
-msgstr "Тип сеансу:"
+msgstr "п╒п╦п© я│п╣п╟п╫я│я┐:"
 
 msgid "Shutdown"
-msgstr "Вимкнути"
+msgstr "п▓п╦п╪п╨п╫я┐я┌п╦"
 
 msgid "Shutdown and restart"
-msgstr "Перевантажити"
+msgstr "п÷п╣я─п╣п╡п╟п╫я┌п╟п╤п╦я┌п╦"
 
 msgid "Shutdown or restart?"
-msgstr "Вимкнути чи перевантажити?"
+msgstr "п▓п╦п╪п╨п╫я┐я┌п╦ я┤п╦ п©п╣я─п╣п╡п╟п╫я┌п╟п╤п╦я┌п╦?"
 
 msgid "Shutdown..."
-msgstr "Вимкнути..."
+msgstr "п▓п╦п╪п╨п╫я┐я┌п╦..."
 
 msgid "Sorry -- your account has expired."
-msgstr "Перепрошую -- Ваш рахунок б╕льше не д╕йсний."
+msgstr "п÷п╣я─п╣п©я─п╬я┬я┐я▌ -- п▓п╟я┬ я─п╟я┘я┐п╫п╬п╨ п╠я√п╩я▄я┬п╣ п╫п╣ п╢я√п╧я│п╫п╦п╧."
 
 msgid "Warning: your account expires on %s"
-msgstr "Попередження: п╕сля %s Ваш рахунок буде нед╕йсним."
+msgstr "п÷п╬п©п╣я─п╣п╢п╤п╣п╫п╫я▐: п©я√я│п╩я▐ %s п▓п╟я┬ я─п╟я┘я┐п╫п╬п╨ п╠я┐п╢п╣ п╫п╣п╢я√п╧я│п╫п╦п╪."
 
 msgid "login_getcapstr() failed."
 msgstr "login_getcapstr() failed."

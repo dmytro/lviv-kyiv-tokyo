@@ -14,86 +14,86 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "About KDE..."
-msgstr "Про KDE..."
+msgstr "п÷я─п╬ KDE..."
 
 msgid "Arrange Window Maker icons"
-msgstr "Упорядкувати п╕ктограми Window Maker"
+msgstr "пёп©п╬я─я▐п╢п╨я┐п╡п╟я┌п╦ п©я√п╨я┌п╬пЁя─п╟п╪п╦ Window Maker"
 
 msgid "Arrange icons"
-msgstr "Упорядкувати п╕ктограми"
+msgstr "пёп©п╬я─я▐п╢п╨я┐п╡п╟я┌п╦ п©я√п╨я┌п╬пЁя─п╟п╪п╦"
 
 msgid "Bookmarks"
-msgstr "Закладки"
+msgstr "п≈п╟п╨п╩п╟п╢п╨п╦"
 
 msgid "Cascade windows"
-msgstr "В╕кна уступом"
+msgstr "п▓я√п╨п╫п╟ я┐я│я┌я┐п©п╬п╪"
 
 msgid "Copyright (C) 1997 Matthias Ettrich (ettrich@kde.org)\n"
-msgstr "Права застережен╕ (C) 1997 Matthias Ettrich (ettrich@kde.org)\n"
+msgstr "п÷я─п╟п╡п╟ п╥п╟я│я┌п╣я─п╣п╤п╣п╫я√ (C) 1997 Matthias Ettrich (ettrich@kde.org)\n"
 
 msgid "Could not create folder"
-msgstr "Не можу створити теку"
+msgstr "п²п╣ п╪п╬п╤я┐ я│я┌п╡п╬я─п╦я┌п╦ я┌п╣п╨я┐"
 
 msgid "Desk"
-msgstr "Ст╕л"
+msgstr "п║я┌я√п╩"
 
 msgid "Display properties"
-msgstr "Властивост╕ дисплея"
+msgstr "п▓п╩п╟я│я┌п╦п╡п╬я│я┌я√ п╢п╦я│п©п╩п╣я▐"
 
 msgid "ERROR: Template does not exist '%s'"
-msgstr "ПОМИЛКА: Шаблон не ╕сну╓ '%s'"
+msgstr "п÷п·п°п≤п⌡п п░: п╗п╟п╠п╩п╬п╫ п╫п╣ я√я│п╫я┐я■ '%s'"
 
 msgid "Edit Bookmarks"
-msgstr "Редагувати закладки"
+msgstr "п═п╣п╢п╟пЁя┐п╡п╟я┌п╦ п╥п╟п╨п╩п╟п╢п╨п╦"
 
 msgid "Execute command"
-msgstr "Виконати команду"
+msgstr "п▓п╦п╨п╬п╫п╟я┌п╦ п╨п╬п╪п╟п╫п╢я┐"
 
 msgid "Exit"
-msgstr "Вийти"
+msgstr "п▓п╦п╧я┌п╦"
 
 msgid "Folder"
-msgstr "Тека"
+msgstr "п╒п╣п╨п╟"
 
 msgid "Help on desktop"
-msgstr "П╕дказка по робочому столу"
+msgstr "п÷я√п╢п╨п╟п╥п╨п╟ п©п╬ я─п╬п╠п╬я┤п╬п╪я┐ я│я┌п╬п╩я┐"
 
 msgid "Hide other"
-msgstr "Сховати ╕нш╕"
+msgstr "п║я┘п╬п╡п╟я┌п╦ я√п╫я┬я√"
 
 msgid "Lock screen"
-msgstr "Замкнути екран"
+msgstr "п≈п╟п╪п╨п╫я┐я┌п╦ п╣п╨я─п╟п╫"
 
 msgid "Logout"
-msgstr "Вийти"
+msgstr "п▓п╦п╧я┌п╦"
 
 msgid "New"
-msgstr "Новий"
+msgstr "п²п╬п╡п╦п╧"
 
 msgid "Refresh desktop"
-msgstr "Поновити робочий ст╕л"
+msgstr "п÷п╬п╫п╬п╡п╦я┌п╦ я─п╬п╠п╬я┤п╦п╧ я│я┌я√п╩"
 
 msgid "Restart"
-msgstr "Перезапустити"
+msgstr "п÷п╣я─п╣п╥п╟п©я┐я│я┌п╦я┌п╦"
 
 msgid "Show all"
-msgstr "Показати все"
+msgstr "п÷п╬п╨п╟п╥п╟я┌п╦ п╡я│п╣"
 
 msgid "Show info panel"
-msgstr "Показати панель ╕нформац╕╖"
+msgstr "п÷п╬п╨п╟п╥п╟я┌п╦ п©п╟п╫п╣п╩я▄ я√п╫я└п╬я─п╪п╟я├я√я≈"
 
 msgid "Show legal panel"
-msgstr "Показати панель з правами"
+msgstr "п÷п╬п╨п╟п╥п╟я┌п╦ п©п╟п╫п╣п╩я▄ п╥ п©я─п╟п╡п╟п╪п╦"
 
 msgid "Unclutter windows"
-msgstr "Розташувати в╕кна"
+msgstr "п═п╬п╥я┌п╟я┬я┐п╡п╟я┌п╦ п╡я√п╨п╫п╟"
 
 msgid "Usage:"
-msgstr "Вживання:"
+msgstr "п▓п╤п╦п╡п╟п╫п╫я▐:"
 
 msgid "Window Maker"
 msgstr "Window Maker"
 
 msgid "Windows"
-msgstr "В╕кна"
+msgstr "п▓я√п╨п╫п╟"
 

@@ -14,335 +14,335 @@ msgstr ""
 
 #: kde-i18n/af/messages/entry.desktop:1
 msgid "Name=Afrikkans"
-msgstr "Name=Африканська"
+msgstr "Name=п░я└я─п╦п╨п╟п╫я│я▄п╨п╟"
 
 #: kde-i18n/bg/messages/entry.desktop:1
 msgid "Name=Bulgarian"
-msgstr "Name=Болгалська"
+msgstr "Name=п▒п╬п╩пЁп╟п╩я│я▄п╨п╟"
 
 #: kde-i18n/br/messages/entry.desktop:1
 msgid "Name=Breton"
-msgstr "Name=Бретонська"
+msgstr "Name=п▒я─п╣я┌п╬п╫я│я▄п╨п╟"
 
 #: kde-i18n/ca/messages/entry.desktop:1
 msgid "Name=Catalan"
-msgstr "Name=Каталонська"
+msgstr "Name=п п╟я┌п╟п╩п╬п╫я│я▄п╨п╟"
 
 #: kde-i18n/cs/messages/entry.desktop:1
 msgid "Name=Czech"
-msgstr "Name=Чеська"
+msgstr "Name=п╖п╣я│я▄п╨п╟"
 
 #: kde-i18n/da/messages/entry.desktop:1
 msgid "Name=Danish"
-msgstr "Name=Датська"
+msgstr "Name=п■п╟я┌я│я▄п╨п╟"
 
 #: kde-i18n/de/messages/entry.desktop:1
 msgid "Name=German"
-msgstr "Name=Н╕мецька"
+msgstr "Name=п²я√п╪п╣я├я▄п╨п╟"
 
 #: kde-i18n/el/messages/entry.desktop:1
 msgid "Name=Greek"
-msgstr "Name=Грецька"
+msgstr "Name=п⌠я─п╣я├я▄п╨п╟"
 
 #: kde-i18n/en_GB/messages/entry.desktop:1
 msgid "Name=English - UK"
-msgstr "Name=Англ╕йська - Великобритан╕я"
+msgstr "Name=п░п╫пЁп╩я√п╧я│я▄п╨п╟ - п▓п╣п╩п╦п╨п╬п╠я─п╦я┌п╟п╫я√я▐"
 
 #: kde-i18n/eo/messages/entry.desktop:1
 msgid "Name=Esperanto"
-msgstr "Name=Есперанто"
+msgstr "Name=п∙я│п©п╣я─п╟п╫я┌п╬"
 
 #: kde-i18n/es/messages/entry.desktop:1
 msgid "Name=Spanish"
-msgstr "Name=╤спанська"
+msgstr "Name=п├я│п©п╟п╫я│я▄п╨п╟"
 
 #: kde-i18n/et/messages/entry.desktop:1
 msgid "Name=Estonian"
-msgstr "Name=Естонська"
+msgstr "Name=п∙я│я┌п╬п╫я│я▄п╨п╟"
 
 #: kde-i18n/eu/messages/entry.desktop:1
 msgid "Name=Basque"
-msgstr "Name=Бакська"
+msgstr "Name=п▒п╟п╨я│я▄п╨п╟"
 
 #: kde-i18n/fi/messages/entry.desktop:1
 msgid "Name=Finnish"
-msgstr "Name=Ф╕нська"
+msgstr "Name=п╓я√п╫я│я▄п╨п╟"
 
 #: kde-i18n/fr/messages/entry.desktop:1
 msgid "Name=French"
-msgstr "Name=Французська"
+msgstr "Name=п╓я─п╟п╫я├я┐п╥я│я▄п╨п╟"
 
 #: kde-i18n/ga/messages/entry.desktop:1
 msgid "Name=Irish"
-msgstr "Name=╤рландська"
+msgstr "Name=п├я─п╩п╟п╫п╢я│я▄п╨п╟"
 
 #: kde-i18n/he/messages/entry.desktop:1
 msgid "Name=Hebrew"
-msgstr "Name=╤вр╕т"
+msgstr "Name=п├п╡я─я√я┌"
 
 #: kde-i18n/hr/messages/entry.desktop:1
 msgid "Name=Croatian"
-msgstr "Name=Хорватська"
+msgstr "Name=п╔п╬я─п╡п╟я┌я│я▄п╨п╟"
 
 #: kde-i18n/hu/messages/entry.desktop:1
 msgid "Name=Hungarian"
-msgstr "Name=Угорська"
+msgstr "Name=пёпЁп╬я─я│я▄п╨п╟"
 
 #: kde-i18n/is/messages/entry.desktop:1
 msgid "Name=Icelandic"
-msgstr "Name=╤сландська"
+msgstr "Name=п├я│п╩п╟п╫п╢я│я▄п╨п╟"
 
 #: kde-i18n/it/messages/entry.desktop:1
 msgid "Name=Italian"
-msgstr "Name=╤тал╕йська"
+msgstr "Name=п├я┌п╟п╩я√п╧я│я▄п╨п╟"
 
 #: kde-i18n/ja/messages/entry.desktop:1
 msgid "Name=Japanese"
-msgstr "Name=Японська"
+msgstr "Name=п╞п©п╬п╫я│я▄п╨п╟"
 
 #: kde-i18n/ko/messages/entry.desktop:1
 msgid "Name=Korean"
-msgstr "Name=Корейська"
+msgstr "Name=п п╬я─п╣п╧я│я▄п╨п╟"
 
 #: kde-i18n/mi/messages/entry.desktop:1
 msgid "Name=Maori"
-msgstr "Name=Маор╕"
+msgstr "Name=п°п╟п╬я─я√"
 
 #: kde-i18n/mk/messages/entry.desktop:1
 msgid "Name=Macedonian"
-msgstr "Name=Македонська"
+msgstr "Name=п°п╟п╨п╣п╢п╬п╫я│я▄п╨п╟"
 
 #: kde-i18n/nl/messages/entry.desktop:1
 msgid "Name=Dutch"
-msgstr "Name=Голанська"
+msgstr "Name=п⌠п╬п╩п╟п╫я│я▄п╨п╟"
 
 #: kde-i18n/no/messages/entry.desktop:1
-msgid "Name=Norwegian (Bokmц╔l)"
-msgstr "Name=Норвезька (Bokmц╔l)"
+msgid "Name=Norwegian (Bokmя├Б∙■l)"
+msgstr "Name=п²п╬я─п╡п╣п╥я▄п╨п╟ (Bokmя├Б∙■l)"
 
 #: kde-i18n/no_NY/messages/entry.desktop:1
 msgid "Name=Norwegian (Nynorsk)"
-msgstr "Name=Норвезька (Nynorsk)"
+msgstr "Name=п²п╬я─п╡п╣п╥я▄п╨п╟ (Nynorsk)"
 
 #: kde-i18n/pl/messages/entry.desktop:1
 msgid "Name=Polish"
-msgstr "Name=Польська"
+msgstr "Name=п÷п╬п╩я▄я│я▄п╨п╟"
 
 #: kde-i18n/pt/messages/entry.desktop:1
 msgid "Name=Portuguese"
-msgstr "Name=Португальська"
+msgstr "Name=п÷п╬я─я┌я┐пЁп╟п╩я▄я│я▄п╨п╟"
 
 #: kde-i18n/pt_BR/messages/entry.desktop:1
 msgid "Name=Brazil portuguese"
-msgstr "Name=Бразильська португальська"
+msgstr "Name=п▒я─п╟п╥п╦п╩я▄я│я▄п╨п╟ п©п╬я─я┌я┐пЁп╟п╩я▄я│я▄п╨п╟"
 
 #: kde-i18n/ro/messages/entry.desktop:1
 msgid "Name=Romanian"
-msgstr "Name=Румунська"
+msgstr "Name=п═я┐п╪я┐п╫я│я▄п╨п╟"
 
 #: kde-i18n/ru/messages/entry.desktop:1
 msgid "Name=Russian"
-msgstr "Name=Рос╕йська"
+msgstr "Name=п═п╬я│я√п╧я│я▄п╨п╟"
 
 #: kde-i18n/sk/messages/entry.desktop:1
 msgid "Name=Slovak"
-msgstr "Name=Словацька"
+msgstr "Name=п║п╩п╬п╡п╟я├я▄п╨п╟"
 
 #: kde-i18n/sl/messages/entry.desktop:1
 msgid "Name=Slovenian"
-msgstr "Name=Словенська"
+msgstr "Name=п║п╩п╬п╡п╣п╫я│я▄п╨п╟"
 
 #: kde-i18n/sr/messages/entry.desktop:1
 msgid "Name=Serbian"
-msgstr "Name=Сербська"
+msgstr "Name=п║п╣я─п╠я│я▄п╨п╟"
 
 #: kde-i18n/sv/messages/entry.desktop:1
 msgid "Name=Swedish"
-msgstr "Name=Шведська"
+msgstr "Name=п╗п╡п╣п╢я│я▄п╨п╟"
 
 #: kde-i18n/ta/messages/entry.desktop:1
 msgid "Name=Tamil"
-msgstr "Name=Там╕льська"
+msgstr "Name=п╒п╟п╪я√п╩я▄я│я▄п╨п╟"
 
 #: kde-i18n/th/messages/entry.desktop:1
 msgid "Name=Thai"
-msgstr "Name=Тайська"
+msgstr "Name=п╒п╟п╧я│я▄п╨п╟"
 
 #: kde-i18n/tr/messages/entry.desktop:1
 msgid "Name=Turkish"
-msgstr "Name=Турецька"
+msgstr "Name=п╒я┐я─п╣я├я▄п╨п╟"
 
 #: kde-i18n/wa/messages/entry.desktop:1
 msgid "Name=Walloon"
-msgstr "Name=Валонська"
+msgstr "Name=п▓п╟п╩п╬п╫я│я▄п╨п╟"
 
 #: kde-i18n/zh_CN.GB2312/messages/entry.desktop:1
 msgid "Name=Simplified Chinese"
-msgstr "Name=Спрощена к╕тайська"
+msgstr "Name=п║п©я─п╬я┴п╣п╫п╟ п╨я√я┌п╟п╧я│я▄п╨п╟"
 
 #: kde-i18n/zh_TW.Big5/messages/entry.desktop:1
 msgid "Name=Chinese"
-msgstr "Name=К╕тайська"
+msgstr "Name=п я√я┌п╟п╧я│я▄п╨п╟"
 
 #: kdeadmin/kcron/kcron.desktop:1
 msgid "Name=Task Scheduler"
-msgstr "Name=Планування виконання задач"
+msgstr "Name=п÷п╩п╟п╫я┐п╡п╟п╫п╫я▐ п╡п╦п╨п╬п╫п╟п╫п╫я▐ п╥п╟п╢п╟я┤"
 
 #: kdeadmin/kcron/kcron.desktop:2
 msgid "Comment=Schedule programs to run in the background"
-msgstr "Comment=Плану╓ програми для виконання у фоновому режим╕"
+msgstr "Comment=п÷п╩п╟п╫я┐я■ п©я─п╬пЁя─п╟п╪п╦ п╢п╩я▐ п╡п╦п╨п╬п╫п╟п╫п╫я▐ я┐ я└п╬п╫п╬п╡п╬п╪я┐ я─п╣п╤п╦п╪я√"
 
 #: kdeadmin/kdat/kdat.desktop:1
 msgid "Name=Tape Backup Tool"
-msgstr "Name=Зас╕б арх╕вування на стр╕чку"
+msgstr "Name=п≈п╟я│я√п╠ п╟я─я┘я√п╡я┐п╡п╟п╫п╫я▐ п╫п╟ я│я┌я─я√я┤п╨я┐"
 
 #: kdeadmin/kdat/kdat.desktop:2
 msgid "Comment=A tar based archiver"
-msgstr "Comment=Арх╕ватор, що базу╓ться на tar"
+msgstr "Comment=п░я─я┘я√п╡п╟я┌п╬я─, я┴п╬ п╠п╟п╥я┐я■я┌я▄я│я▐ п╫п╟ tar"
 
 #: kdeadmin/kpackage/kpackage.desktop:1
 msgid "Name=Package Manager"
-msgstr "Name=Менеджер пакет╕в"
+msgstr "Name=п°п╣п╫п╣п╢п╤п╣я─ п©п╟п╨п╣я┌я√п╡"
 
 #: kdeadmin/kpackage/kpackage.desktop:2
 msgid "Comment=kpackage RPM and DEB manager"
-msgstr "Comment=Менеджер пакет╕в RPM та DEB"
+msgstr "Comment=п°п╣п╫п╣п╢п╤п╣я─ п©п╟п╨п╣я┌я√п╡ RPM я┌п╟ DEB"
 
 #: kdeadmin/kpackage/mimetypes/x-debian-package.kdelnk:2
 msgid "Comment=Debian Package"
-msgstr "Comment=Пакет Debian "
+msgstr "Comment=п÷п╟п╨п╣я┌ Debian "
 
 #: kdeadmin/kpackage/mimetypes/x-rpm.kdelnk:2
 msgid "Comment=RPM Package"
-msgstr "Comment=Пакет RPM"
+msgstr "Comment=п÷п╟п╨п╣я┌ RPM"
 
 #: kdeadmin/ksysctrl/ksysctrl/ksysctrl.desktop:1
 msgid "Name=KDE System Control"
-msgstr "Name=Системн╕ настройки KDE"
+msgstr "Name=п║п╦я│я┌п╣п╪п╫я√ п╫п╟я│я┌я─п╬п╧п╨п╦ KDE"
 
 #: kdeadmin/ksysctrl/ksysctrl/ksysctrl.desktop:2
 msgid "Comment=Windows-like hardware configuration tool"
-msgstr "Comment=Windows-под╕бний засоб настройки апаратного забезпечення"
+msgstr "Comment=Windows-п©п╬п╢я√п╠п╫п╦п╧ п╥п╟я│п╬п╠ п╫п╟я│я┌я─п╬п╧п╨п╦ п╟п©п╟я─п╟я┌п╫п╬пЁп╬ п╥п╟п╠п╣п╥п©п╣я┤п╣п╫п╫я▐"
 
 #: kdeadmin/ksysv/ksysv.desktop:1
 msgid "Name=SysV Init Editor"
-msgstr "Name=Радактор SysV Init"
+msgstr "Name=п═п╟п╢п╟п╨я┌п╬я─ SysV Init"
 
 #: kdeadmin/ksysv/ksysv.desktop:2
 msgid "Comment=An Editor for System V Init schemes"
-msgstr "Comment=Редактор для конф╕гурац╕╖ System V Init"
+msgstr "Comment=п═п╣п╢п╟п╨я┌п╬я─ п╢п╩я▐ п╨п╬п╫я└я√пЁя┐я─п╟я├я√я≈ System V Init"
 
 #: kdeadmin/kuser/kuser.desktop:1
 msgid "Name=User Manager"
-msgstr "Name=Менеджер користувач╕в"
+msgstr "Name=п°п╣п╫п╣п╢п╤п╣я─ п╨п╬я─п╦я│я┌я┐п╡п╟я┤я√п╡"
 
 #: kdeadmin/kuser/kuser.desktop:2
 msgid "Comment=Full Featured User Manager"
-msgstr "Comment=Повнофункц╕ональний менеджер користувач╕в"
+msgstr "Comment=п÷п╬п╡п╫п╬я└я┐п╫п╨я├я√п╬п╫п╟п╩я▄п╫п╦п╧ п╪п╣п╫п╣п╢п╤п╣я─ п╨п╬я─п╦я│я┌я┐п╡п╟я┤я√п╡"
 
 #: kdeadmin/kwuftpd/kwuftpd.desktop:1
 msgid "Name=FTPD Editor"
-msgstr "Name=Редактор FTPD"
+msgstr "Name=п═п╣п╢п╟п╨я┌п╬я─ FTPD"
 
 #: kdeadmin/kwuftpd/kwuftpd.desktop:2
 msgid "Comment=KDE front-end to wu-ftpd config files"
-msgstr "Comment=KDE-оболонка для конф╕гурац╕╖ wu-ftpd"
+msgstr "Comment=KDE-п╬п╠п╬п╩п╬п╫п╨п╟ п╢п╩я▐ п╨п╬п╫я└я√пЁя┐я─п╟я├я√я≈ wu-ftpd"
 
 #: kdebase/applnk/.directory:1
 msgid "Name=Default"
-msgstr "Name=Типовий"
+msgstr "Name=п╒п╦п©п╬п╡п╦п╧"
 
 #: kdebase/applnk/Applications/.directory:1
 msgid "Name=Applications"
-msgstr "Name=Програми"
+msgstr "Name=п÷я─п╬пЁя─п╟п╪п╦"
 
 #: kdebase/applnk/Control/.directory:1
 msgid "Name=System Control"
-msgstr "Name=Настройки системи"
+msgstr "Name=п²п╟я│я┌я─п╬п╧п╨п╦ я│п╦я│я┌п╣п╪п╦"
 
 #: kdebase/applnk/Control/SysInfo.desktop:1
 msgid "Name=System Information"
-msgstr "Name=╤нформац╕я про систему"
+msgstr "Name=п├п╫я└п╬я─п╪п╟я├я√я▐ п©я─п╬ я│п╦я│я┌п╣п╪я┐"
 
 #: kdebase/applnk/Control/System.desktop:1
 msgid "Name=System Settings"
-msgstr "Name=Установки системи"
+msgstr "Name=пёя│я┌п╟п╫п╬п╡п╨п╦ я│п╦я│я┌п╣п╪п╦"
 
 #: kdebase/applnk/Control/User.desktop:1
 msgid "Name=User Preferences"
-msgstr "Name=Настройки користувача"
+msgstr "Name=п²п╟я│я┌я─п╬п╧п╨п╦ п╨п╬я─п╦я│я┌я┐п╡п╟я┤п╟"
 
 #: kdebase/applnk/Games/.directory:1
 msgid "Name=Games"
-msgstr "Name=╤гри"
+msgstr "Name=п├пЁя─п╦"
 
 #: kdebase/applnk/Graphics/.directory:1
 msgid "Name=Graphics"
-msgstr "Name=Граф╕ка"
+msgstr "Name=п⌠я─п╟я└я√п╨п╟"
 
 #: kdebase/applnk/Help.desktop:1
 msgid "Name=Help Center"
-msgstr "Name=Центр дов╕док"
+msgstr "Name=п╕п╣п╫я┌я─ п╢п╬п╡я√п╢п╬п╨"
 
 #: kdebase/applnk/Help.desktop:2
 msgid "Comment=Comprehensive on-line help"
-msgstr "Comment=Дотепна он-лайн дов╕дка"
+msgstr "Comment=п■п╬я┌п╣п©п╫п╟ п╬п╫-п╩п╟п╧п╫ п╢п╬п╡я√п╢п╨п╟"
 
 #: kdebase/applnk/Home.desktop:1
 msgid "Name=Home Directory"
-msgstr "Name=Домашн╕й каталог"
+msgstr "Name=п■п╬п╪п╟я┬п╫я√п╧ п╨п╟я┌п╟п╩п╬пЁ"
 
 #: kdebase/applnk/Home.desktop:2
 msgid "Comment=This folder contains all your personal files"
-msgstr "Comment=Цей каталог м╕стить вс╕ ваш╕ персональн╕ файли"
+msgstr "Comment=п╕п╣п╧ п╨п╟я┌п╟п╩п╬пЁ п╪я√я│я┌п╦я┌я▄ п╡я│я√ п╡п╟я┬я√ п©п╣я─я│п╬п╫п╟п╩я▄п╫я√ я└п╟п╧п╩п╦"
 
 #: kdebase/applnk/Internet/.directory:1
 msgid "Name=Internet"
-msgstr "Name=╤нтернет"
+msgstr "Name=п├п╫я┌п╣я─п╫п╣я┌"
 
 #: kdebase/applnk/Multimedia/.directory:1
 msgid "Name=Multimedia"
-msgstr "Name=Мульт╕медиа"
+msgstr "Name=п°я┐п╩я▄я┌я√п╪п╣п╢п╦п╟"
 
 #: kdebase/applnk/ScreenSavers/.directory:1
 msgid "Name=Screen Savers"
-msgstr "Name=Збер╕гач екрану"
+msgstr "Name=п≈п╠п╣я─я√пЁп╟я┤ п╣п╨я─п╟п╫я┐"
 
 #: kdebase/applnk/ScreenSavers/.directory:2
 msgid "Comment=Screen saver demos"
-msgstr "Comment=Демонстрац╕я збер╕гачу екрану"
+msgstr "Comment=п■п╣п╪п╬п╫я│я┌я─п╟я├я√я▐ п╥п╠п╣я─я√пЁп╟я┤я┐ п╣п╨я─п╟п╫я┐"
 
 #: kdebase/applnk/ScreenSavers/KAttration.desktop:1
 msgid "Name=Attraction"
-msgstr "Name=Притягнення"
+msgstr "Name=п÷я─п╦я┌я▐пЁп╫п╣п╫п╫я▐"
 
 #: kdebase/applnk/ScreenSavers/KAttration.desktop:1
 msgid "Name=Setup..."
-msgstr "Name=Настро╖ти..."
+msgstr "Name=п²п╟я│я┌я─п╬я≈я┌п╦..."
 
 #: kdebase/applnk/ScreenSavers/KAttration.desktop:1
 msgid "Name=Display in specified window"
-msgstr "Name=В╕добразити у вказаному в╕кн╕"
+msgstr "Name=п▓я√п╢п╬п╠я─п╟п╥п╦я┌п╦ я┐ п╡п╨п╟п╥п╟п╫п╬п╪я┐ п╡я√п╨п╫я√"
 
 #: kdebase/applnk/ScreenSavers/KAttration.desktop:1
 msgid "Name=Display in root window"
-msgstr "Name=В╕добразити на тл╕ екрану"
+msgstr "Name=п▓я√п╢п╬п╠я─п╟п╥п╦я┌п╦ п╫п╟ я┌п╩я√ п╣п╨я─п╟п╫я┐"
 
 #: kdebase/applnk/ScreenSavers/KBanner.desktop:1
 msgid "Name=Banner"
-msgstr "Name=Банер"
+msgstr "Name=п▒п╟п╫п╣я─"
 
 #: kdebase/applnk/ScreenSavers/KBat.desktop:1
 msgid "Name=Bat"
-msgstr "Name=Литюча миша"
+msgstr "Name=п⌡п╦я┌я▌я┤п╟ п╪п╦я┬п╟"
 
 #: kdebase/applnk/ScreenSavers/KBlankscreen.desktop:1
 msgid "Name=Blank Screen"
-msgstr "Name=Пустий екран"
+msgstr "Name=п÷я┐я│я┌п╦п╧ п╣п╨я─п╟п╫"
 
 #: kdebase/applnk/ScreenSavers/KBlob.desktop:1
 msgid "Name=Blob"
-msgstr "Name=Клякса"
+msgstr "Name=п п╩я▐п╨я│п╟"
 
 #: kdebase/applnk/ScreenSavers/KBouboule.desktop:1
 msgid "Name=Bouboule"
@@ -350,15 +350,15 @@ msgstr "Name=Bouboule"
 
 #: kdebase/applnk/ScreenSavers/KBsod.desktop:1
 msgid "Name=Blue Screen of Death"
-msgstr "Name=Син╕й екран мертвих"
+msgstr "Name=п║п╦п╫я√п╧ п╣п╨я─п╟п╫ п╪п╣я─я┌п╡п╦я┘"
 
 #: kdebase/applnk/ScreenSavers/KFlame.desktop:1
 msgid "Name=Flame"
-msgstr "Name=Полум'я"
+msgstr "Name=п÷п╬п╩я┐п╪'я▐"
 
 #: kdebase/applnk/ScreenSavers/KForest.desktop:1
 msgid "Name=Forest"
-msgstr "Name=Л╕с"
+msgstr "Name=п⌡я√я│"
 
 #: kdebase/applnk/ScreenSavers/KHop.desktop:1
 msgid "Name=Hop"
@@ -366,393 +366,393 @@ msgstr ""
 
 #: kdebase/applnk/ScreenSavers/KLaser.desktop:1
 msgid "Name=Laser"
-msgstr "Name=Лазер"
+msgstr "Name=п⌡п╟п╥п╣я─"
 
 #: kdebase/applnk/ScreenSavers/KLines.desktop:1
 msgid "Name=Lines"
-msgstr "Name=Л╕н╕╖"
+msgstr "Name=п⌡я√п╫я√я≈"
 
 #: kdebase/applnk/ScreenSavers/KLissie.desktop:1
 msgid "Name=Lissie"
-msgstr "Name=Л╕ссажу"
+msgstr "Name=п⌡я√я│я│п╟п╤я┐"
 
 #: kdebase/applnk/ScreenSavers/KMatrix.desktop:1
 msgid "Name=The Matrix"
-msgstr "Name=Матриця"
+msgstr "Name=п°п╟я┌я─п╦я├я▐"
 
 #: kdebase/applnk/ScreenSavers/KMorph3D.desktop:1
 msgid "Name=Morph3D (GL)"
-msgstr "Name=Трим╕рн╕ перетворення (GL)"
+msgstr "Name=п╒я─п╦п╪я√я─п╫я√ п©п╣я─п╣я┌п╡п╬я─п╣п╫п╫я▐ (GL)"
 
 #: kdebase/applnk/ScreenSavers/KPipes.desktop:1
 msgid "Name=Pipes (GL)"
-msgstr "Name=Труби (GL)"
+msgstr "Name=п╒я─я┐п╠п╦ (GL)"
 
 #: kdebase/applnk/ScreenSavers/KPolygon.desktop:1
 msgid "Name=Polygons"
-msgstr "Name=Багатокутники"
+msgstr "Name=п▒п╟пЁп╟я┌п╬п╨я┐я┌п╫п╦п╨п╦"
 
 #: kdebase/applnk/ScreenSavers/KPyro.desktop:1
 msgid "Name=Pyro"
-msgstr "Name=П╕ро"
+msgstr "Name=п÷я√я─п╬"
 
 #: kdebase/applnk/ScreenSavers/KRandom.desktop:1
 msgid "Name=Random"
-msgstr "Name=Випадковий"
+msgstr "Name=п▓п╦п©п╟п╢п╨п╬п╡п╦п╧"
 
 #: kdebase/applnk/ScreenSavers/KRock.desktop:1
 msgid "Name=Rock"
-msgstr "Name=Уламки"
+msgstr "Name=пёп╩п╟п╪п╨п╦"
 
 #: kdebase/applnk/ScreenSavers/KScience.desktop:1
 msgid "Name=Science"
-msgstr "Name=Науковий"
+msgstr "Name=п²п╟я┐п╨п╬п╡п╦п╧"
 
 #: kdebase/applnk/ScreenSavers/KSlidescreen.desktop:1
 msgid "Name=Slide Screen"
-msgstr "Name=Зсув екрану"
+msgstr "Name=п≈я│я┐п╡ п╣п╨я─п╟п╫я┐"
 
 #: kdebase/applnk/ScreenSavers/KSlideshow.desktop:1
 msgid "Name=Slide Show"
-msgstr "Name=Слайди"
+msgstr "Name=п║п╩п╟п╧п╢п╦"
 
 #: kdebase/applnk/ScreenSavers/KSlip.desktop:1
 msgid "Name=Slip"
-msgstr "Name=Скольз╕ння"
+msgstr "Name=п║п╨п╬п╩я▄п╥я√п╫п╫я▐"
 
 #: kdebase/applnk/ScreenSavers/KSpace.desktop:1
 msgid "Name=Space (GL)"
-msgstr "Name=Всесв╕т (GL)"
+msgstr "Name=п▓я│п╣я│п╡я√я┌ (GL)"
 
 #: kdebase/applnk/ScreenSavers/KSwarm.desktop:1
 msgid "Name=Swarm"
-msgstr "Name=Р╕й"
+msgstr "Name=п═я√п╧"
 
 #: kdebase/applnk/Settings/.directory:1
 msgid "Name=Preferences"
-msgstr "Name=Настройки"
+msgstr "Name=п²п╟я│я┌я─п╬п╧п╨п╦"
 
 #: kdebase/applnk/Settings/Applications/kcmkonq.desktop:1
 msgid "Name=File Manager"
-msgstr "Name=Менеджер файл╕в"
+msgstr "Name=п°п╣п╫п╣п╢п╤п╣я─ я└п╟п╧п╩я√п╡"
 
 #: kdebase/applnk/Settings/Applications/kcmkonq.desktop:2
 msgid "Comment=You can configure the look and feel of the Konqueror here"
-msgstr "Comment=Тут Ви можете настро╖ти вигляд та повед╕нку Konqueror"
+msgstr "Comment=п╒я┐я┌ п▓п╦ п╪п╬п╤п╣я┌п╣ п╫п╟я│я┌я─п╬я≈я┌п╦ п╡п╦пЁп╩я▐п╢ я┌п╟ п©п╬п╡п╣п╢я√п╫п╨я┐ Konqueror"
 
 msgid ""
 "Keywords=konqueror,filemanager,kfm,removing,trash,colours,colors,files,icons"
 msgstr ""
-"Keywords=konqueror,менеджер файл╕в,kfm,видалення,см╕тник,кольори,файли,"
-"п╕ктограми"
+"Keywords=konqueror,п╪п╣п╫п╣п╢п╤п╣я─ я└п╟п╧п╩я√п╡,kfm,п╡п╦п╢п╟п╩п╣п╫п╫я▐,я│п╪я√я┌п╫п╦п╨,п╨п╬п╩я▄п╬я─п╦,я└п╟п╧п╩п╦,"
+"п©я√п╨я┌п╬пЁя─п╟п╪п╦"
 
 #: kdebase/applnk/Settings/Applications/kdm.desktop:1
 msgid "Name=Login Manager"
-msgstr "Name=Менеджер ре╓страц╕╖"
+msgstr "Name=п°п╣п╫п╣п╢п╤п╣я─ я─п╣я■я│я┌я─п╟я├я√я≈"
 
 #: kdebase/applnk/Settings/Applications/kdm.desktop:2
 msgid "Comment=All KDM settings"
-msgstr "Comment=Вс╕ настройки KDM"
+msgstr "Comment=п▓я│я√ п╫п╟я│я┌я─п╬п╧п╨п╦ KDM"
 
 #: kdebase/applnk/Settings/Applications/kdm.desktop:4
 msgid "Keywords=kdm,display manager,xdm,users,login"
-msgstr "Keywords=kdm,менеджер д╕спле╖в,xdm,користувач╕,ре╓страц╕я"
+msgstr "Keywords=kdm,п╪п╣п╫п╣п╢п╤п╣я─ п╢я√я│п©п╩п╣я≈п╡,xdm,п╨п╬я─п╦я│я┌я┐п╡п╟я┤я√,я─п╣я■я│я┌я─п╟я├я√я▐"
 
 #: kdebase/applnk/Settings/Applications/khelpcenter.desktop:
 msgid "Name=KDE Helpcenter"
-msgstr "Name=Центр дов╕док KDE"
+msgstr "Name=п╕п╣п╫я┌я─ п╢п╬п╡я√п╢п╬п╨ KDE"
 
 #: kdebase/applnk/Settings/Applications/khelpcenter.desktop:2
 msgid "Comment=You can configure the look and feel of the KDE Helpcenter here"
-msgstr "Comment=Тут Ви можете настро╖ти вигляд та повед╕нку Konqueror"
+msgstr "Comment=п╒я┐я┌ п▓п╦ п╪п╬п╤п╣я┌п╣ п╫п╟я│я┌я─п╬я≈я┌п╦ п╡п╦пЁп╩я▐п╢ я┌п╟ п©п╬п╡п╣п╢я√п╫п╨я┐ Konqueror"
 
 #: kdebase/applnk/Settings/Applications/khelpcenter.desktop:4
 msgid "Keywords=help,helpcenter,khc"
-msgstr "Keywords=дов╕дка,центр дов╕док,khc"
+msgstr "Keywords=п╢п╬п╡я√п╢п╨п╟,я├п╣п╫я┌я─ п╢п╬п╡я√п╢п╬п╨,khc"
 
 #: kdebase/applnk/Settings/Applications/konqhtml.desktop:1
 msgid "Name=Konqueror Browser"
-msgstr "Name=Переглядач Konqueror"
+msgstr "Name=п÷п╣я─п╣пЁп╩я▐п╢п╟я┤ Konqueror"
 
 msgid ""
 "Comment=Configure the look and feel of the Internet Browser called Konqueror"
 msgstr ""
-"Comment=Настро╖ти вигляд та повед╕нку ╤нтернет переглядача Konqueror"
+"Comment=п²п╟я│я┌я─п╬я≈я┌п╦ п╡п╦пЁп╩я▐п╢ я┌п╟ п©п╬п╡п╣п╢я√п╫п╨я┐ п├п╫я┌п╣я─п╫п╣я┌ п©п╣я─п╣пЁп╩я▐п╢п╟я┤п╟ Konqueror"
 
 msgid ""
 "Keywords=konqueror,kfm,browser,html,web,www,fonts,colours,colors,java,javascr"
 "ipt"
 msgstr ""
-"Keywords=konqueror,kfm,переглядач,html,web,www,шрифти,кольори,java,javascript"
+"Keywords=konqueror,kfm,п©п╣я─п╣пЁп╩я▐п╢п╟я┤,html,web,www,я┬я─п╦я└я┌п╦,п╨п╬п╩я▄п╬я─п╦,java,javascript"
 
 #: kdebase/applnk/Settings/Applications/konsole.desktop:1
 msgid "Name=Console"
-msgstr "Name=Консоль"
+msgstr "Name=п п╬п╫я│п╬п╩я▄"
 
 #: kdebase/applnk/Settings/Applications/konsole.desktop:2
 msgid "Comment=All Konsole Settings"
-msgstr "Comment=Вс╕ настройки консол╕"
+msgstr "Comment=п▓я│я√ п╫п╟я│я┌я─п╬п╧п╨п╦ п╨п╬п╫я│п╬п╩я√"
 
 #: kdebase/applnk/Settings/Applications/konsole.desktop:4
 msgid "Keywords=konsole,console,terminal"
-msgstr "Keywords=konsole,консоль,терм╕нал"
+msgstr "Keywords=konsole,п╨п╬п╫я│п╬п╩я▄,я┌п╣я─п╪я√п╫п╟п╩"
 
 #: kdebase/applnk/Settings/Applications/panel.desktop:1
 msgid "Name=Panel"
-msgstr "Name=Панель"
+msgstr "Name=п÷п╟п╫п╣п╩я▄"
 
 #: kdebase/applnk/Settings/Applications/panel.desktop:2
 msgid "Comment=You can configure the appearance of the panel here"
-msgstr "Comment=Тут Ви можете настро╖ти вигляд панел╕"
+msgstr "Comment=п╒я┐я┌ п▓п╦ п╪п╬п╤п╣я┌п╣ п╫п╟я│я┌я─п╬я≈я┌п╦ п╡п╦пЁп╩я▐п╢ п©п╟п╫п╣п╩я√"
 
 #: kdebase/applnk/Settings/Applications/panel.desktop:4
 msgid "Keywords=kicker,panel,kpanel,taskbar,startbar,launchbar"
 msgstr ""
-"Keywords=kicker,панель,панель настройок,kpanel,смужка задач,панель запуску"
+"Keywords=kicker,п©п╟п╫п╣п╩я▄,п©п╟п╫п╣п╩я▄ п╫п╟я│я┌я─п╬п╧п╬п╨,kpanel,я│п╪я┐п╤п╨п╟ п╥п╟п╢п╟я┤,п©п╟п╫п╣п╩я▄ п╥п╟п©я┐я│п╨я┐"
 
 #: kdebase/applnk/Settings/Desktop/.directory:1
 msgid "Name=Desktop"
-msgstr "Name=Робоч╕й ст╕л"
+msgstr "Name=п═п╬п╠п╬я┤я√п╧ я│я┌я√п╩"
 
 #: kdebase/applnk/Settings/Desktop/advanced.desktop:1
 msgid "Name=Advanced"
-msgstr "Name=Розширене"
+msgstr "Name=п═п╬п╥я┬п╦я─п╣п╫п╣"
 
 #: kdebase/applnk/Settings/Desktop/advanced.desktop:2
 msgid "Comment=Advanced display settings"
-msgstr "Comment=Розширен╕ настройки д╕сплею"
+msgstr "Comment=п═п╬п╥я┬п╦я─п╣п╫я√ п╫п╟я│я┌я─п╬п╧п╨п╦ п╢я√я│п©п╩п╣я▌"
 
 #: kdebase/applnk/Settings/Desktop/advanced.desktop:4
 msgid "Keywords=background,cache,transparency"
-msgstr "Keywords=тло,кеш,прозор╕сть"
+msgstr "Keywords=я┌п╩п╬,п╨п╣я┬,п©я─п╬п╥п╬я─я√я│я┌я▄"
 
 #: kdebase/applnk/Settings/Desktop/background.desktop:1
 msgid "Name=Background"
-msgstr "Name=Тло"
+msgstr "Name=п╒п╩п╬"
 
 #: kdebase/applnk/Settings/Desktop/background.desktop:2
 msgid "Comment=Background settings"
-msgstr "Comment=Настройк╕ тла"
+msgstr "Comment=п²п╟я│я┌я─п╬п╧п╨я√ я┌п╩п╟"
 
 #: kdebase/applnk/Settings/Desktop/background.desktop:4
 msgid "Keywords=background,desktops,color,colour,image"
-msgstr "Keywords=тло,робочий ст╕л,desktop,кольор,зображення"
+msgstr "Keywords=я┌п╩п╬,я─п╬п╠п╬я┤п╦п╧ я│я┌я√п╩,desktop,п╨п╬п╩я▄п╬я─,п╥п╬п╠я─п╟п╤п╣п╫п╫я▐"
 
 #: kdebase/applnk/Settings/Desktop/borders.desktop:1
 msgid "Name=Borders"
-msgstr "Name=Рамки"
+msgstr "Name=п═п╟п╪п╨п╦"
 
 #: kdebase/applnk/Settings/Desktop/borders.desktop:2
 msgid "Comment=Desktop Border Options"
-msgstr "Comment=Параметри рамки робочого столу"
+msgstr "Comment=п÷п╟я─п╟п╪п╣я┌я─п╦ я─п╟п╪п╨п╦ я─п╬п╠п╬я┤п╬пЁп╬ я│я┌п╬п╩я┐"
 
 #: kdebase/applnk/Settings/Desktop/borders.desktop:4
 msgid "Keywords=borders,warp,desktops"
-msgstr "Keywords=границ╕,обвол╕кати,робочий ст╕л,desktop"
+msgstr "Keywords=пЁя─п╟п╫п╦я├я√,п╬п╠п╡п╬п╩я√п╨п╟я┌п╦,я─п╬п╠п╬я┤п╦п╧ я│я┌я√п╩,desktop"
 
 #: kdebase/applnk/Settings/Desktop/colors.desktop:1
 msgid "Name=Colors"
-msgstr "Name=Кольори"
+msgstr "Name=п п╬п╩я▄п╬я─п╦"
 
 #: kdebase/applnk/Settings/Desktop/colors.desktop:2
 msgid "Comment=Color settings"
-msgstr "Comment=Настройки кольор╕в"
+msgstr "Comment=п²п╟я│я┌я─п╬п╧п╨п╦ п╨п╬п╩я▄п╬я─я√п╡"
 
 #: kdebase/applnk/Settings/Desktop/colors.desktop:4
 msgid "Keywords=colors,colours,scheme,contrast"
-msgstr "Keywords=кольори,схема,котраст"
+msgstr "Keywords=п╨п╬п╩я▄п╬я─п╦,я│я┘п╣п╪п╟,п╨п╬я┌я─п╟я│я┌"
 
 #: kdebase/applnk/Settings/Desktop/desktop.desktop:2
 msgid "Comment=You can customize the desktop here"
-msgstr "Comment=Тут Ви можете настро╖ти ваш робоч╕й ст╕л"
+msgstr "Comment=п╒я┐я┌ п▓п╦ п╪п╬п╤п╣я┌п╣ п╫п╟я│я┌я─п╬я≈я┌п╦ п╡п╟я┬ я─п╬п╠п╬я┤я√п╧ я│я┌я√п╩"
 
 msgid ""
 "Keywords=icons,desktop,colors,colors,font,font"
 "size,files,filenames,menu,popupmenu,k-menu,startmenu,windowlist,windows,deskt"
 "ops"
 msgstr ""
-"Keywords=п╕ктограми,робочий ст╕л,desktop,кольори,шрифт"
-"розм╕р,файли,╕мена файл╕в,меню,вспливаюче меню,k-menu,меню запуску,список в╕кон,"
-"в╕кна,робоч╕ столи"
+"Keywords=п©я√п╨я┌п╬пЁя─п╟п╪п╦,я─п╬п╠п╬я┤п╦п╧ я│я┌я√п╩,desktop,п╨п╬п╩я▄п╬я─п╦,я┬я─п╦я└я┌"
+"я─п╬п╥п╪я√я─,я└п╟п╧п╩п╦,я√п╪п╣п╫п╟ я└п╟п╧п╩я√п╡,п╪п╣п╫я▌,п╡я│п©п╩п╦п╡п╟я▌я┤п╣ п╪п╣п╫я▌,k-menu,п╪п╣п╫я▌ п╥п╟п©я┐я│п╨я┐,я│п©п╦я│п╬п╨ п╡я√п╨п╬п╫,"
+"п╡я√п╨п╫п╟,я─п╬п╠п╬я┤я√ я│я┌п╬п╩п╦"
 
 #: kdebase/applnk/Settings/Desktop/energy.desktop:1
 msgid "Name=Energy"
-msgstr "Name=Живлення"
+msgstr "Name=п√п╦п╡п╩п╣п╫п╫я▐"
 
 #: kdebase/applnk/Settings/Desktop/energy.desktop:2
 msgid "Comment=General energy settings"
-msgstr "Comment=Загальн╕ настройки живлення"
+msgstr "Comment=п≈п╟пЁп╟п╩я▄п╫я√ п╫п╟я│я┌я─п╬п╧п╨п╦ п╤п╦п╡п╩п╣п╫п╫я▐"
 
 #: kdebase/applnk/Settings/Desktop/energy.desktop:4
 msgid "Keywords=energy,saver,apm,acpi,timeout,blanking"
-msgstr "Keywords=живлення,збер╕гач,apm,acpi,таймаут,timeout,гас╕ння"
+msgstr "Keywords=п╤п╦п╡п╩п╣п╫п╫я▐,п╥п╠п╣я─я√пЁп╟я┤,apm,acpi,я┌п╟п╧п╪п╟я┐я┌,timeout,пЁп╟я│я√п╫п╫я▐"
 
 #: kdebase/applnk/Settings/Desktop/fonts.desktop:1
 msgid "Name=Fonts"
-msgstr "Name=Шрифти"
+msgstr "Name=п╗я─п╦я└я┌п╦"
 
 #: kdebase/applnk/Settings/Desktop/fonts.desktop:2
 msgid "Comment=Font settings"
-msgstr "Comment=Настройки шрифт╕в"
+msgstr "Comment=п²п╟я│я┌я─п╬п╧п╨п╦ я┬я─п╦я└я┌я√п╡"
 
 #: kdebase/applnk/Settings/Desktop/fonts.desktop:4
 msgid "Keywords=fonts,font,font size,style,charset,panel,kicker,control panel"
-msgstr "Keywords=шрифти,шрифт,розм╕р шрифту,стиль,наб╕р символ╕в,панель,"
-"kicker,conrol panel,панель настройок"
+msgstr "Keywords=я┬я─п╦я└я┌п╦,я┬я─п╦я└я┌,я─п╬п╥п╪я√я─ я┬я─п╦я└я┌я┐,я│я┌п╦п╩я▄,п╫п╟п╠я√я─ я│п╦п╪п╡п╬п╩я√п╡,п©п╟п╫п╣п╩я▄,"
+"kicker,conrol panel,п©п╟п╫п╣п╩я▄ п╫п╟я│я┌я─п╬п╧п╬п╨"
 
 #: kdebase/applnk/Settings/Desktop/icons.desktop:1
 msgid "Name=Icons"
-msgstr "Name=П╕ктограми"
+msgstr "Name=п÷я√п╨я┌п╬пЁя─п╟п╪п╦"
 
 #: kdebase/applnk/Settings/Desktop/icons.desktop:2
 msgid "Comment=Customize KDE Icons"
-msgstr "Comment=Настро╖ти п╕ктограми KDE"
+msgstr "Comment=п²п╟я│я┌я─п╬я≈я┌п╦ п©я√п╨я┌п╬пЁя─п╟п╪п╦ KDE"
 
 #: kdebase/applnk/Settings/Desktop/icons.desktop:4
 msgid "Keywords=icons,effects,size,hicolor,locolor"
-msgstr "Keywords=п╕ктограми,icons,ефекти,розм╕р,кольори"
+msgstr "Keywords=п©я√п╨я┌п╬пЁя─п╟п╪п╦,icons,п╣я└п╣п╨я┌п╦,я─п╬п╥п╪я√я─,п╨п╬п╩я▄п╬я─п╦"
 
 #: kdebase/applnk/Settings/Desktop/language.desktop:1
 msgid "Name=Language"
-msgstr "Name=Мова"
+msgstr "Name=п°п╬п╡п╟"
 
 #: kdebase/applnk/Settings/Desktop/language.desktop:2
 msgid "Comment=Language settings"
-msgstr "Comment=Настройки мови"
+msgstr "Comment=п²п╟я│я┌я─п╬п╧п╨п╦ п╪п╬п╡п╦"
 
 #: kdebase/applnk/Settings/Desktop/language.desktop:4
 msgid "Keywords=language,translation,numbers,currency,time,date,formats"
-msgstr "Keywords=мова,переклад,номери,валюта,час,дата,формати"
+msgstr "Keywords=п╪п╬п╡п╟,п©п╣я─п╣п╨п╩п╟п╢,п╫п╬п╪п╣я─п╦,п╡п╟п╩я▌я┌п╟,я┤п╟я│,п╢п╟я┌п╟,я└п╬я─п╪п╟я┌п╦"
 
 #: kdebase/applnk/Settings/Desktop/screensaver.desktop:1
 msgid "Name=Screensaver"
-msgstr "Name=Збер╕гач екрану"
+msgstr "Name=п≈п╠п╣я─я√пЁп╟я┤ п╣п╨я─п╟п╫я┐"
 
 #: kdebase/applnk/Settings/Desktop/screensaver.desktop:2
 msgid "Comment=Screensaver settings"
-msgstr "Comment=Настройки збер╕гачу екрану"
+msgstr "Comment=п²п╟я│я┌я─п╬п╧п╨п╦ п╥п╠п╣я─я√пЁп╟я┤я┐ п╣п╨я─п╟п╫я┐"
 
 #: kdebase/applnk/Settings/Desktop/screensaver.desktop:4
 msgid "Keywords=screensavers"
-msgstr "Keywords=збер╕гач╕ екрану"
+msgstr "Keywords=п╥п╠п╣я─я√пЁп╟я┤я√ п╣п╨я─п╟п╫я┐"
 
 #: kdebase/applnk/Settings/Desktop/style.desktop:1
 msgid "Name=Style"
-msgstr "Name=Стиль"
+msgstr "Name=п║я┌п╦п╩я▄"
 
 #: kdebase/applnk/Settings/Desktop/style.desktop:2
 msgid "Comment=General style settings"
-msgstr "Comment=Загальн╕ настройки стилю"
+msgstr "Comment=п≈п╟пЁп╟п╩я▄п╫я√ п╫п╟я│я┌я─п╬п╧п╨п╦ я│я┌п╦п╩я▌"
 
 #: kdebase/applnk/Settings/Desktop/style.desktop:4
 msgid "Keywords=style,stykes,theme,themes,look"
-msgstr "Keywords=стиль,дизайн,тем,теми,вигляд,schema"
+msgstr "Keywords=я│я┌п╦п╩я▄,п╢п╦п╥п╟п╧п╫,я┌п╣п╪,я┌п╣п╪п╦,п╡п╦пЁп╩я▐п╢,schema"
 
 #: kdebase/applnk/Settings/Information/.directory:1
 msgid "Name=Information"
-msgstr "Name=╤нформац╕я"
+msgstr "Name=п├п╫я└п╬я─п╪п╟я├я√я▐"
 
 #: kdebase/applnk/Settings/Information/devices.desktop:1
 msgid "Name=Devices"
-msgstr "Name=Пристро╖"
+msgstr "Name=п÷я─п╦я│я┌я─п╬я≈"
 
 #: kdebase/applnk/Settings/Information/devices.desktop:2
 msgid "Comment=Attached devices information"
-msgstr "Comment=╤нформац╕я щодо доданих пристро╖в"
+msgstr "Comment=п├п╫я└п╬я─п╪п╟я├я√я▐ я┴п╬п╢п╬ п╢п╬п╢п╟п╫п╦я┘ п©я─п╦я│я┌я─п╬я≈п╡"
 
 #: kdebase/applnk/Settings/Information/devices.desktop:4
 msgid "Keywords=dev,Devices,System Information,Information"
-msgstr "Keywords=пристро╖,╕нформац╕я,dev,devices,system-information,information"
+msgstr "Keywords=п©я─п╦я│я┌я─п╬я≈,я√п╫я└п╬я─п╪п╟я├я√я▐,dev,devices,system-information,information"
 
 #: kdebase/applnk/Settings/Information/dma.desktop:1
 msgid "Name=DMA-Channels"
-msgstr "Name=DMA-канали"
+msgstr "Name=DMA-п╨п╟п╫п╟п╩п╦"
 
 #: kdebase/applnk/Settings/Information/dma.desktop:2
 msgid "Comment=DMA information"
-msgstr "Comment=╤нформац╕я щодо DMA"
+msgstr "Comment=п├п╫я└п╬я─п╪п╟я├я√я▐ я┴п╬п╢п╬ DMA"
 
 #: kdebase/applnk/Settings/Information/dma.desktop:4
 msgid "Keywords=dma,DMA-Channels,System Information"
-msgstr "Keywords=dma,канал DMA,╕нформац╕я,system-information,information"
+msgstr "Keywords=dma,п╨п╟п╫п╟п╩ DMA,я√п╫я└п╬я─п╪п╟я├я√я▐,system-information,information"
 
 #: kdebase/applnk/Settings/Information/interrupts.desktop:1
 msgid "Name=Interrupts"
-msgstr "Name=Переривання"
+msgstr "Name=п÷п╣я─п╣я─п╦п╡п╟п╫п╫я▐"
 
 #: kdebase/applnk/Settings/Information/interrupts.desktop:2
 msgid "Comment=Interrupt information"
-msgstr "Comment=╤нформац╕я щодо перериваннь"
+msgstr "Comment=п├п╫я└п╬я─п╪п╟я├я√я▐ я┴п╬п╢п╬ п©п╣я─п╣я─п╦п╡п╟п╫п╫я▄"
 
 #: kdebase/applnk/Settings/Information/interrupts.desktop:4
 msgid "Keywords=Interrupts,IRQ,System Information"
-msgstr "Keywords=переривання,interrupts,irq,system-information"
+msgstr "Keywords=п©п╣я─п╣я─п╦п╡п╟п╫п╫я▐,interrupts,irq,system-information"
 
 #: kdebase/applnk/Settings/Information/ioports.desktop:1
 msgid "Name=IO-Ports"
-msgstr "Name=Порти вводу/виводу"
+msgstr "Name=п÷п╬я─я┌п╦ п╡п╡п╬п╢я┐/п╡п╦п╡п╬п╢я┐"
 
 #: kdebase/applnk/Settings/Information/ioports.desktop:2
 msgid "Comment=IO-port information"
-msgstr "Comment=╤нформац╕я щодо порт╕в вводу/виводу"
+msgstr "Comment=п├п╫я└п╬я─п╪п╟я├я√я▐ я┴п╬п╢п╬ п©п╬я─я┌я√п╡ п╡п╡п╬п╢я┐/п╡п╦п╡п╬п╢я┐"
 
 msgid ""
 "Keywords=IO,I/O,IO-Ports,I/O-Ports,Ports,IO-Range,I/O-Range,System "
 "Information"
 msgstr ""
-"Keywords=порти вводу/виводу,io,i/o,io-ports,i/p-ports,ports,"
+"Keywords=п©п╬я─я┌п╦ п╡п╡п╬п╢я┐/п╡п╦п╡п╬п╢я┐,io,i/o,io-ports,i/p-ports,ports,"
 "system information"
 
 #: kdebase/applnk/Settings/Information/memory.desktop:1
 msgid "Name=Memory"
-msgstr "Name=Пам'ять"
+msgstr "Name=п÷п╟п╪'я▐я┌я▄"
 
 #: kdebase/applnk/Settings/Information/memory.desktop:2
 msgid "Comment=Memory information"
-msgstr "Comment=╤нформац╕я щодо пам'ят╕"
+msgstr "Comment=п├п╫я└п╬я─п╪п╟я├я√я▐ я┴п╬п╢п╬ п©п╟п╪'я▐я┌я√"
 
 msgid ""
 "Keywords=Memory,RAM,Virtual memory,Physical memory,Shared memory,Swap,System "
 "Information"
 msgstr ""
-"Keywords=пам'ять,RAM,в╕ртуальна пам'ять,ф╕зична пам'ять,розпод╕льна "
-"пам'ять,своп╕нг,swap,╕нформац╕я,система"
+"Keywords=п©п╟п╪'я▐я┌я▄,RAM,п╡я√я─я┌я┐п╟п╩я▄п╫п╟ п©п╟п╪'я▐я┌я▄,я└я√п╥п╦я┤п╫п╟ п©п╟п╪'я▐я┌я▄,я─п╬п╥п©п╬п╢я√п╩я▄п╫п╟ "
+"п©п╟п╪'я▐я┌я▄,я│п╡п╬п©я√п╫пЁ,swap,я√п╫я└п╬я─п╪п╟я├я√я▐,я│п╦я│я┌п╣п╪п╟"
 
 #: kdebase/applnk/Settings/Information/partitions.desktop:1
 msgid "Name=Partitions"
-msgstr "Name=Розд╕ли диску"
+msgstr "Name=п═п╬п╥п╢я√п╩п╦ п╢п╦я│п╨я┐"
 
 #: kdebase/applnk/Settings/Information/partitions.desktop:2
 msgid "Comment=Partition information"
-msgstr "Comment=╤нформац╕я щодо розд╕л╕в диску"
+msgstr "Comment=п├п╫я└п╬я─п╪п╟я├я√я▐ я┴п╬п╢п╬ я─п╬п╥п╢я√п╩я√п╡ п╢п╦я│п╨я┐"
 
 #: kdebase/applnk/Settings/Information/partitions.desktop:4
 msgid "Keywords=Partitions,Harddrive,HD,System Information"
-msgstr "Keywords=розд╕ли диску,жорсткий диск,HD,системна ╕нформац╕я"
+msgstr "Keywords=я─п╬п╥п╢я√п╩п╦ п╢п╦я│п╨я┐,п╤п╬я─я│я┌п╨п╦п╧ п╢п╦я│п╨,HD,я│п╦я│я┌п╣п╪п╫п╟ я√п╫я└п╬я─п╪п╟я├я√я▐"
 
 #: kdebase/applnk/Settings/Information/pci.desktop:1
 msgid "Name=PCI"
-msgstr "Name=Шина PCI"
+msgstr "Name=п╗п╦п╫п╟ PCI"
 
 #: kdebase/applnk/Settings/Information/pci.desktop:2
 msgid "Comment=PCI information"
-msgstr "Comment=╤нформац╕я щодо шини PCI"
+msgstr "Comment=п├п╫я└п╬я─п╪п╟я├я√я▐ я┴п╬п╢п╬ я┬п╦п╫п╦ PCI"
 
 #: kdebase/applnk/Settings/Information/pci.desktop:4
 msgid "Keywords=PCI,PCI-Devices,PCI-Bus,System Information"
-msgstr "Keywords=PCI,пристро╖ PCI,шина PCI,системна ╕нформац╕я"
+msgstr "Keywords=PCI,п©я─п╦я│я┌я─п╬я≈ PCI,я┬п╦п╫п╟ PCI,я│п╦я│я┌п╣п╪п╫п╟ я√п╫я└п╬я─п╪п╟я├я√я▐"
 
 #: kdebase/applnk/Settings/Information/processor.desktop:1
 msgid "Name=Processor"
-msgstr "Name=Процесор"
+msgstr "Name=п÷я─п╬я├п╣я│п╬я─"
 
 #: kdebase/applnk/Settings/Information/processor.desktop:2
 msgid "Comment=Processor information"
-msgstr "Comment=╤нформац╕я щодо процесора"
+msgstr "Comment=п├п╫я└п╬я─п╪п╟я├я√я▐ я┴п╬п╢п╬ п©я─п╬я├п╣я│п╬я─п╟"
 
 #: kdebase/applnk/Settings/Information/processor.desktop:4
 msgid "Keywords=Processor,CPU,FPU,MHz,System Information"
-msgstr "Keywords=процесор,CPU,FPU,МГц,системна ╕нформац╕я"
+msgstr "Keywords=п©я─п╬я├п╣я│п╬я─,CPU,FPU,п°п⌠я├,я│п╦я│я┌п╣п╪п╫п╟ я√п╫я└п╬я─п╪п╟я├я√я▐"
 
 #: kdebase/applnk/Settings/Information/scsi.desktop:1
 msgid "Name=SCSI"
@@ -760,35 +760,35 @@ msgstr "Name=SCSI"
 
 #: kdebase/applnk/Settings/Information/scsi.desktop:2
 msgid "Comment=SCSI information"
-msgstr "Comment=╤нформац╕я щодо SCSI"
+msgstr "Comment=п├п╫я└п╬я─п╪п╟я├я√я▐ я┴п╬п╢п╬ SCSI"
 
 #: kdebase/applnk/Settings/Information/scsi.desktop:4
 msgid "Keywords=SCSI,SCSI-Bus,System Information"
-msgstr "Keywords=SCSI,шина SCSI,системна ╕нформац╕я"
+msgstr "Keywords=SCSI,я┬п╦п╫п╟ SCSI,я│п╦я│я┌п╣п╪п╫п╟ я√п╫я└п╬я─п╪п╟я├я√я▐"
 
 #: kdebase/applnk/Settings/Information/smbstatus.desktop:1
 msgid "Name=Samba Status"
-msgstr "Name=Стан Samba"
+msgstr "Name=п║я┌п╟п╫ Samba"
 
 #: kdebase/applnk/Settings/Information/smbstatus.desktop:2
 msgid "Comment=Samba status monitor"
-msgstr "Comment=Мон╕тор стану Samba"
+msgstr "Comment=п°п╬п╫я√я┌п╬я─ я│я┌п╟п╫я┐ Samba"
 
 #: kdebase/applnk/Settings/Information/smbstatus.desktop:4
 msgid "Keywords=SMB,SAMBA,Windows network,LAN,System Information"
-msgstr "Keywords=smb,samba,мережа Windows,lan,ЛОМ,системна ╕нформац╕я"
+msgstr "Keywords=smb,samba,п╪п╣я─п╣п╤п╟ Windows,lan,п⌡п·п°,я│п╦я│я┌п╣п╪п╫п╟ я√п╫я└п╬я─п╪п╟я├я√я▐"
 
 #: kdebase/applnk/Settings/Information/sound.desktop:1
 msgid "Name=Sound"
-msgstr "Name=Звукова карта"
+msgstr "Name=п≈п╡я┐п╨п╬п╡п╟ п╨п╟я─я┌п╟"
 
 #: kdebase/applnk/Settings/Information/sound.desktop:2
 msgid "Comment=Sound information"
-msgstr "Comment=╤нформац╕я щодо звуково╖ карти"
+msgstr "Comment=п├п╫я└п╬я─п╪п╟я├я√я▐ я┴п╬п╢п╬ п╥п╡я┐п╨п╬п╡п╬я≈ п╨п╟я─я┌п╦"
 
 #: kdebase/applnk/Settings/Information/sound.desktop:4
 msgid "Keywords=Sound,Audio,Soundcard,Midi,OSS,System Information"
-msgstr "Keywords=звук,ауд╕о,sound,audio,звукова карта,midi,oss,системна ╕нформац╕я"
+msgstr "Keywords=п╥п╡я┐п╨,п╟я┐п╢я√п╬,sound,audio,п╥п╡я┐п╨п╬п╡п╟ п╨п╟я─я┌п╟,midi,oss,я│п╦я│я┌п╣п╪п╫п╟ я√п╫я└п╬я─п╪п╟я├я√я▐"
 
 #: kdebase/applnk/Settings/Information/xserver.desktop:1
 msgid "Name=X-Server"
@@ -796,86 +796,86 @@ msgstr "Name=X-Server"
 
 #: kdebase/applnk/Settings/Information/xserver.desktop:2
 msgid "Comment=X-Server information"
-msgstr "Comment=╤нформац╕я щодо X-Server"
+msgstr "Comment=п├п╫я└п╬я─п╪п╟я├я√я▐ я┴п╬п╢п╬ X-Server"
 
 #: kdebase/applnk/Settings/Information/xserver.desktop:4
 msgid "Keywords=X,X-Server,XServer,XFree86,Display,System Information"
-msgstr "Keywords=x,x11,x-server,xserver,xfree86,display,системна ╕нформац╕я"
+msgstr "Keywords=x,x11,x-server,xserver,xfree86,display,я│п╦я│я┌п╣п╪п╫п╟ я√п╫я└п╬я─п╪п╟я├я√я▐"
 
 #: kdebase/applnk/Settings/Input_Devices/.directory:1
 msgid "Name=Input Devices"
-msgstr "Name=Пристро╖ вводу"
+msgstr "Name=п÷я─п╦я│я┌я─п╬я≈ п╡п╡п╬п╢я┐"
 
 #: kdebase/applnk/Settings/Input_Devices/keyboard.desktop:1
 msgid "Name=Keyboard"
-msgstr "Name=Клав╕атура"
+msgstr "Name=п п╩п╟п╡я√п╟я┌я┐я─п╟"
 
 #: kdebase/applnk/Settings/Input_Devices/keyboard.desktop:2
 msgid "Comment=Keyboard settings"
-msgstr "Comment=Настройки клав╕атури"
+msgstr "Comment=п²п╟я│я┌я─п╬п╧п╨п╦ п╨п╩п╟п╡я√п╟я┌я┐я─п╦"
 
 #: kdebase/applnk/Settings/Input_Devices/keyboard.desktop:4
 msgid "Keywords=Keyboard,Keyboard repeat,Click volume,Input Devices"
-msgstr "Keywords=клав╕атура,повтор клав╕ш,гучн╕сть клацань,вх╕дн╕ пристро╖"
+msgstr "Keywords=п╨п╩п╟п╡я√п╟я┌я┐я─п╟,п©п╬п╡я┌п╬я─ п╨п╩п╟п╡я√я┬,пЁя┐я┤п╫я√я│я┌я▄ п╨п╩п╟я├п╟п╫я▄,п╡я┘я√п╢п╫я√ п©я─п╦я│я┌я─п╬я≈"
 
 #: kdebase/applnk/Settings/Input_Devices/kikbd.desktop:1
 msgid "Name=Keyboard Layout"
-msgstr "Name=Розкладка клав╕атури"
+msgstr "Name=п═п╬п╥п╨п╩п╟п╢п╨п╟ п╨п╩п╟п╡я√п╟я┌я┐я─п╦"
 
 #: kdebase/applnk/Settings/Input_Devices/kikbd.desktop:2
 msgid "Comment=International keyboard layout"
-msgstr "Comment=М╕жнародна розкладка клав╕атури"
+msgstr "Comment=п°я√п╤п╫п╟я─п╬п╢п╫п╟ я─п╬п╥п╨п╩п╟п╢п╨п╟ п╨п╩п╟п╡я√п╟я┌я┐я─п╦"
 
 #: kdebase/applnk/Settings/Input_Devices/kikbd.desktop:4
 msgid "Keywords=Keyboard,Keyboard layout,Input Devices"
-msgstr "Keywords=клав╕атура,розкладка клав╕атури,вх╕дн╕ пристро╖"
+msgstr "Keywords=п╨п╩п╟п╡я√п╟я┌я┐я─п╟,я─п╬п╥п╨п╩п╟п╢п╨п╟ п╨п╩п╟п╡я√п╟я┌я┐я─п╦,п╡я┘я√п╢п╫я√ п©я─п╦я│я┌я─п╬я≈"
 
 #: kdebase/applnk/Settings/Input_Devices/mouse.desktop:1
 msgid "Name=Mouse"
-msgstr "Name=Миша"
+msgstr "Name=п°п╦я┬п╟"
 
 #: kdebase/applnk/Settings/Input_Devices/mouse.desktop:2
 msgid "Comment=Mouse settings"
-msgstr "Comment=Настройки миши"
+msgstr "Comment=п²п╟я│я┌я─п╬п╧п╨п╦ п╪п╦я┬п╦"
 
 msgid ""
 "Keywords=Mouse,Mouse acceleration,Mouse threshold,Mouse "
 "buttons,Selection,Cursor Shape,Input Devices"
 msgstr ""
-"Keywords=Миша,Mouse,прискорення миши,пор╕г миши,кнопки "
-"миши,виб╕р,форма курсору,вх╕дн╕ пристро╖"
+"Keywords=п°п╦я┬п╟,Mouse,п©я─п╦я│п╨п╬я─п╣п╫п╫я▐ п╪п╦я┬п╦,п©п╬я─я√пЁ п╪п╦я┬п╦,п╨п╫п╬п©п╨п╦ "
+"п╪п╦я┬п╦,п╡п╦п╠я√я─,я└п╬я─п╪п╟ п╨я┐я─я│п╬я─я┐,п╡я┘я√п╢п╫я√ п©я─п╦я│я┌я─п╬я≈"
 
 #: kdebase/applnk/Settings/Keys/.directory:1
 msgid "Name=Key Bindings"
-msgstr "Name=Прив'язка клав╕ш"
+msgstr "Name=п÷я─п╦п╡'я▐п╥п╨п╟ п╨п╩п╟п╡я√я┬"
 
 #: kdebase/applnk/Settings/Keys/global.desktop:1
 msgid "Name=Global Keys"
-msgstr "Name=Глобальн╕ клав╕ши"
+msgstr "Name=п⌠п╩п╬п╠п╟п╩я▄п╫я√ п╨п╩п╟п╡я√я┬п╦"
 
 #: kdebase/applnk/Settings/Keys/global.desktop:2
 msgid "Comment=Configuration of global keybindings"
-msgstr "Comment=Настройка глобальних прив'язок клав╕ш"
+msgstr "Comment=п²п╟я│я┌я─п╬п╧п╨п╟ пЁп╩п╬п╠п╟п╩я▄п╫п╦я┘ п©я─п╦п╡'я▐п╥п╬п╨ п╨п╩п╟п╡я√я┬"
 
 #: kdebase/applnk/Settings/Keys/global.desktop:4
 msgid "Keywords=Keys,Global key bindings,Key sheme,Key bindings"
-msgstr "Keywords=клав╕ши,глобальн╕ прив'язки клав╕ш,схема клав╕ш,прив'язка клав╕ш"
+msgstr "Keywords=п╨п╩п╟п╡я√я┬п╦,пЁп╩п╬п╠п╟п╩я▄п╫я√ п©я─п╦п╡'я▐п╥п╨п╦ п╨п╩п╟п╡я√я┬,я│я┘п╣п╪п╟ п╨п╩п╟п╡я√я┬,п©я─п╦п╡'я▐п╥п╨п╟ п╨п╩п╟п╡я√я┬"
 
 #: kdebase/applnk/Settings/Keys/standard.desktop:1
 msgid "Name=Standard Keys"
-msgstr "Name=Стандартн╕ клавиши"
+msgstr "Name=п║я┌п╟п╫п╢п╟я─я┌п╫я√ п╨п╩п╟п╡п╦я┬п╦"
 
 #: kdebase/applnk/Settings/Keys/standard.desktop:2
 msgid "Comment=Configuration of standard keys"
-msgstr "Comment=Настройка стандартних клав╕ш"
+msgstr "Comment=п²п╟я│я┌я─п╬п╧п╨п╟ я│я┌п╟п╫п╢п╟я─я┌п╫п╦я┘ п╨п╩п╟п╡я√я┬"
 
 #: kdebase/applnk/Settings/Keys/standard.desktop:4
 msgid "Keywords=Keys,Standard key bindings,Key bindings"
-msgstr "Keywords=клав╕ши,стандартн╕ клав╕ши,прив'язка клав╕ш"
+msgstr "Keywords=п╨п╩п╟п╡я√я┬п╦,я│я┌п╟п╫п╢п╟я─я┌п╫я√ п╨п╩п╟п╡я√я┬п╦,п©я─п╦п╡'я▐п╥п╨п╟ п╨п╩п╟п╡я√я┬"
 
 #: kdebase/applnk/Settings/Network/.directory:1
 msgid "Name=Network"
-msgstr "Name=Мережа"
+msgstr "Name=п°п╣я─п╣п╤п╟"
 
 #: kdebase/applnk/Settings/Network/cookies.desktop:1
 msgid "Name=Cookies"
@@ -891,30 +891,30 @@ msgstr ""
 
 #: kdebase/applnk/Settings/Network/ebrowsing.desktop:1
 msgid "Name=Enhanced Browsing"
-msgstr "Name=Перегляд з розширеними можливостями"
+msgstr "Name=п÷п╣я─п╣пЁп╩я▐п╢ п╥ я─п╬п╥я┬п╦я─п╣п╫п╦п╪п╦ п╪п╬п╤п╩п╦п╡п╬я│я┌я▐п╪п╦"
 
 #: kdebase/applnk/Settings/Network/ebrowsing.desktop:2
 msgid "Comment=You can configure Enhanced Browsing here"
-msgstr "Comment=Тут ви можете настро╖ти перегляд з розширеними можливостями"
+msgstr "Comment=п╒я┐я┌ п╡п╦ п╪п╬п╤п╣я┌п╣ п╫п╟я│я┌я─п╬я≈я┌п╦ п©п╣я─п╣пЁп╩я▐п╢ п╥ я─п╬п╥я┬п╦я─п╣п╫п╦п╪п╦ п╪п╬п╤п╩п╦п╡п╬я│я┌я▐п╪п╦"
 
 msgid ""
 "Keywords=Enhanced Browsing,Browsing,WWW,Internet,Internet Keywords,Internet "
 "Filters,Network"
 msgstr ""
-"Keywords=розширений перегляд,пергляд,Browsing,WWW,╤нтернет,Internet,"
-"ключов╕ слова ╤нтернет,ф╕льтри,мережа"
+"Keywords=я─п╬п╥я┬п╦я─п╣п╫п╦п╧ п©п╣я─п╣пЁп╩я▐п╢,п©п╣я─пЁп╩я▐п╢,Browsing,WWW,п├п╫я┌п╣я─п╫п╣я┌,Internet,"
+"п╨п╩я▌я┤п╬п╡я√ я│п╩п╬п╡п╟ п├п╫я┌п╣я─п╫п╣я┌,я└я√п╩я▄я┌я─п╦,п╪п╣я─п╣п╤п╟"
 
 #: kdebase/applnk/Settings/Network/proxy.desktop:1
 msgid "Name=Proxies"
-msgstr "Name=Прокс╕-сервери"
+msgstr "Name=п÷я─п╬п╨я│я√-я│п╣я─п╡п╣я─п╦"
 
 #: kdebase/applnk/Settings/Network/proxy.desktop:2
 msgid "Comment=You can configure your proxy server configuration here"
-msgstr "Comment=Тут Ви можете настро╖ти Ваш проскс╕-сервер"
+msgstr "Comment=п╒я┐я┌ п▓п╦ п╪п╬п╤п╣я┌п╣ п╫п╟я│я┌я─п╬я≈я┌п╦ п▓п╟я┬ п©я─п╬я│п╨я│я√-я│п╣я─п╡п╣я─"
 
 #: kdebase/applnk/Settings/Network/proxy.desktop:4
 msgid "Keywords=Proxy,Proxy server,WWW,Internet,Browsing,HTTP,FTP,Network"
-msgstr "Keywords=прокс╕,прокс╕-сервер,www,╤нтернет,перегдядати,http,ftp,мережа"
+msgstr "Keywords=п©я─п╬п╨я│я√,п©я─п╬п╨я│я√-я│п╣я─п╡п╣я─,www,п├п╫я┌п╣я─п╫п╣я┌,п©п╣я─п╣пЁп╢я▐п╢п╟я┌п╦,http,ftp,п╪п╣я─п╣п╤п╟"
 
 #: kdebase/applnk/Settings/Network/smb.desktop:1
 msgid "Name=SMB"
@@ -922,106 +922,106 @@ msgstr "Name=SMB"
 
 #: kdebase/applnk/Settings/Network/smb.desktop:2
 msgid "Comment=You can configure your SMB configuration here"
-msgstr "Comment=Тут Ви можете настро╖ти Ваш SMB-сервер"
+msgstr "Comment=п╒я┐я┌ п▓п╦ п╪п╬п╤п╣я┌п╣ п╫п╟я│я┌я─п╬я≈я┌п╦ п▓п╟я┬ SMB-я│п╣я─п╡п╣я─"
 
 #: kdebase/applnk/Settings/Network/smb.desktop:4
 msgid "Keywords=SMB,SAMBA,SMB client,Windows network,LAN,Network"
-msgstr "Keywords=smb,samba,кл╕╓нт smb,мережа windows,ЛОМ,LAN,мережа"
+msgstr "Keywords=smb,samba,п╨п╩я√я■п╫я┌ smb,п╪п╣я─п╣п╤п╟ windows,п⌡п·п°,LAN,п╪п╣я─п╣п╤п╟"
 
 #: kdebase/applnk/Settings/Network/useragent.desktop:1
 msgid "Name=User Agent"
-msgstr "Name=Агент користувача"
+msgstr "Name=п░пЁп╣п╫я┌ п╨п╬я─п╦я│я┌я┐п╡п╟я┤п╟"
 
 msgid ""
 "Comment=You can control what your Browser's \"User Agent\" is reported as "
 "here"
 msgstr ""
-"Comment=Ви можете настро╖ти як зв╕ту╓ Агент користувача для Переглядача"
+"Comment=п▓п╦ п╪п╬п╤п╣я┌п╣ п╫п╟я│я┌я─п╬я≈я┌п╦ я▐п╨ п╥п╡я√я┌я┐я■ п░пЁп╣п╫я┌ п╨п╬я─п╦я│я┌я┐п╡п╟я┤п╟ п╢п╩я▐ п÷п╣я─п╣пЁп╩я▐п╢п╟я┤п╟"
 
 #: kdebase/applnk/Settings/Network/useragent.desktop:4
 msgid "Keywords=User Agent,Browser,Internet,WWW,Network"
-msgstr "Keywords=агент користувача,переглядач,програма ╤нтернет,browser,"
-"internet,www,мережа"
+msgstr "Keywords=п╟пЁп╣п╫я┌ п╨п╬я─п╦я│я┌я┐п╡п╟я┤п╟,п©п╣я─п╣пЁп╩я▐п╢п╟я┤,п©я─п╬пЁя─п╟п╪п╟ п├п╫я┌п╣я─п╫п╣я┌,browser,"
+"internet,www,п╪п╣я─п╣п╤п╟"
 
 #: kdebase/applnk/Settings/Sound/arts.desktop:1
 msgid "Name=Soundserver"
-msgstr "Name=Сервер звуку"
+msgstr "Name=п║п╣я─п╡п╣я─ п╥п╡я┐п╨я┐"
 
 #: kdebase/applnk/Settings/Sound/arts.desktop:2
 msgid "Comment=Soundserver Configuration"
-msgstr "Comment=Конф╕гурац╕я сервер╕в звуку"
+msgstr "Comment=п п╬п╫я└я√пЁя┐я─п╟я├я√я▐ я│п╣я─п╡п╣я─я√п╡ п╥п╡я┐п╨я┐"
 
 #: kdebase/applnk/Settings/Sound/arts.desktop:4
 msgid "Keywords=aRts,Soundserver,artsd,Audio,Sound"
-msgstr "Keywords=aRts,soundserver,сервер звуку,artsd,ауд╕о,звук,audio,sound"
+msgstr "Keywords=aRts,soundserver,я│п╣я─п╡п╣я─ п╥п╡я┐п╨я┐,artsd,п╟я┐п╢я√п╬,п╥п╡я┐п╨,audio,sound"
 
 #: kdebase/applnk/Settings/Sound/knotify.desktop:1
 msgid "Name=System Notifications"
-msgstr "Name=Системн╕ пов╕домлення"
+msgstr "Name=п║п╦я│я┌п╣п╪п╫я√ п©п╬п╡я√п╢п╬п╪п╩п╣п╫п╫я▐"
 
 #: kdebase/applnk/Settings/Sound/knotify.desktop:2
 msgid "Comment=System Notification Configuration"
-msgstr "Comment=Конф╕гурац╕я системних пов╕домлень"
+msgstr "Comment=п п╬п╫я└я√пЁя┐я─п╟я├я√я▐ я│п╦я│я┌п╣п╪п╫п╦я┘ п©п╬п╡я√п╢п╬п╪п╩п╣п╫я▄"
 
 #: kdebase/applnk/Settings/Sound/knotify.desktop:4
 msgid "Keywords=System sounds,Audio,Sound,Notify,Alerts,Notification"
-msgstr "Keywords=системн╕ звуки,ауд╕о,audio,звук,sound,пов╕домлення,попередження"
+msgstr "Keywords=я│п╦я│я┌п╣п╪п╫я√ п╥п╡я┐п╨п╦,п╟я┐п╢я√п╬,audio,п╥п╡я┐п╨,sound,п©п╬п╡я√п╢п╬п╪п╩п╣п╫п╫я▐,п©п╬п©п╣я─п╣п╢п╤п╣п╫п╫я▐"
 
 #: kdebase/applnk/Settings/Sound/syssound.desktop:1
 msgid "Name=System Sounds"
-msgstr "Name=Системн╕ звуки"
+msgstr "Name=п║п╦я│я┌п╣п╪п╫я√ п╥п╡я┐п╨п╦"
 
 #: kdebase/applnk/Settings/Sound/syssound.desktop:2
 msgid "Comment=System Sound Configuration"
-msgstr "Comment=Настройка системних звук╕в"
+msgstr "Comment=п²п╟я│я┌я─п╬п╧п╨п╟ я│п╦я│я┌п╣п╪п╫п╦я┘ п╥п╡я┐п╨я√п╡"
 
 #: kdebase/applnk/Settings/Sound/syssound.desktop:4
 msgid "Keywords=System sounds,Audio,Sound"
-msgstr "Keywords=системн╕ звуки,ауд╕о,звук,audio,sound"
+msgstr "Keywords=я│п╦я│я┌п╣п╪п╫я√ п╥п╡я┐п╨п╦,п╟я┐п╢я√п╬,п╥п╡я┐п╨,audio,sound"
 
 #: kdebase/applnk/Settings/System/.directory:1
 msgid "Name=System"
-msgstr "Name=Система"
+msgstr "Name=п║п╦я│я┌п╣п╪п╟"
 
 #: kdebase/applnk/Settings/System/clock.desktop:1
 msgid "Name=Date & Time"
-msgstr "Name=Дата ╕ час"
+msgstr "Name=п■п╟я┌п╟ я√ я┤п╟я│"
 
 #: kdebase/applnk/Settings/System/clock.desktop:2
 msgid "Comment=Date and time settings"
-msgstr "Comment=Настройки дати ╕ часу"
+msgstr "Comment=п²п╟я│я┌я─п╬п╧п╨п╦ п╢п╟я┌п╦ я√ я┤п╟я│я┐"
 
 #: kdebase/applnk/Settings/System/clock.desktop:4
 msgid "Keywords=date,time"
-msgstr "Keywords=дата,час"
+msgstr "Keywords=п╢п╟я┌п╟,я┤п╟я│"
 
 #: kdebase/applnk/Settings/System/email.desktop:1
 msgid "Name=E-mail"
-msgstr "Name=Електронна пошта"
+msgstr "Name=п∙п╩п╣п╨я┌я─п╬п╫п╫п╟ п©п╬я┬я┌п╟"
 
 #: kdebase/applnk/Settings/System/email.desktop:2
 msgid "Comment=Configure your identity, e-mail addresses, mail servers, etc."
-msgstr "Comment=Настройте Ваше ╕м'я, адресу електронно╖ пошти, поштов╕ сервери ╕ т.╕."
+msgstr "Comment=п²п╟я│я┌я─п╬п╧я┌п╣ п▓п╟я┬п╣ я√п╪'я▐, п╟п╢я─п╣я│я┐ п╣п╩п╣п╨я┌я─п╬п╫п╫п╬я≈ п©п╬я┬я┌п╦, п©п╬я┬я┌п╬п╡я√ я│п╣я─п╡п╣я─п╦ я√ я┌.я√."
 
 msgid ""
 "Keywords=EMail,Mail,E-Mail,Address,Email server,IMAP,POP3,Local "
 "mailbox,mailbox"
 msgstr ""
-"Keywords=email,електронна пошта,e-mail,адреса,сервер електронно╖ пошти,"
-"email-server,imap,pop3,локальний,поштова скринька,mailbox"
+"Keywords=email,п╣п╩п╣п╨я┌я─п╬п╫п╫п╟ п©п╬я┬я┌п╟,e-mail,п╟п╢я─п╣я│п╟,я│п╣я─п╡п╣я─ п╣п╩п╣п╨я┌я─п╬п╫п╫п╬я≈ п©п╬я┬я┌п╦,"
+"email-server,imap,pop3,п╩п╬п╨п╟п╩я▄п╫п╦п╧,п©п╬я┬я┌п╬п╡п╟ я│п╨я─п╦п╫я▄п╨п╟,mailbox"
 
 #: kdebase/applnk/Settings/System/filetypes.desktop:1
 msgid "Name=File Associations"
-msgstr "Name=Асоц╕ац╕╖ файл╕в"
+msgstr "Name=п░я│п╬я├я√п╟я├я√я≈ я└п╟п╧п╩я√п╡"
 
 #: kdebase/applnk/Settings/System/filetypes.desktop:2
 msgid "Comment=File Association Configuration"
-msgstr "Comment=Настройка асоц╕ац╕╖ файл╕в"
+msgstr "Comment=п²п╟я│я┌я─п╬п╧п╨п╟ п╟я│п╬я├я√п╟я├я√я≈ я└п╟п╧п╩я√п╡"
 
 #: kdebase/applnk/Settings/System/filetypes.desktop:4
 msgid "Keywords=Filetypes,File Assosciations,Mime Types,File Patterns,Files"
 msgstr ""
-"Keywords=типи файл╕в,ассоц╕ац╕╖ файл╕в,типи MIME,MIME,шаблони файл╕в,файли"
+"Keywords=я┌п╦п©п╦ я└п╟п╧п╩я√п╡,п╟я│я│п╬я├я√п╟я├я√я≈ я└п╟п╧п╩я√п╡,я┌п╦п©п╦ MIME,MIME,я┬п╟п╠п╩п╬п╫п╦ я└п╟п╧п╩я√п╡,я└п╟п╧п╩п╦"
 
 #: kdebase/applnk/Settings/System/odbc.desktop:1
 msgid "Name=ODBC"
@@ -1029,151 +1029,151 @@ msgstr "Name=ODBC"
 
 #: kdebase/applnk/Settings/System/odbc.desktop:2
 msgid "Comment=ODBC database interface configuration"
-msgstr "Comment=Настройка ╕нтерфейс╕в ODBC"
+msgstr "Comment=п²п╟я│я┌я─п╬п╧п╨п╟ я√п╫я┌п╣я─я└п╣п╧я│я√п╡ ODBC"
 
 #: kdebase/applnk/Settings/System/odbc.desktop:4
 msgid "Keywords=ODBC,Database"
-msgstr "Keywords=ODBC,база даних"
+msgstr "Keywords=ODBC,п╠п╟п╥п╟ п╢п╟п╫п╦я┘"
 
 #: kdebase/applnk/Settings/System/passwords.desktop:1
 msgid "Name=Passwords"
-msgstr "Name=Парол╕"
+msgstr "Name=п÷п╟я─п╬п╩я√"
 
 #: kdebase/applnk/Settings/System/passwords.desktop:2
 msgid "Comment=Password settings"
-msgstr "Comment=Настройк╕ парол╕в"
+msgstr "Comment=п²п╟я│я┌я─п╬п╧п╨я√ п©п╟я─п╬п╩я√п╡"
 
 #: kdebase/applnk/Settings/System/passwords.desktop:4
 msgid "Keywords=Passwords,kdesu"
-msgstr "Keywords=Парол╕,kdesu"
+msgstr "Keywords=п÷п╟я─п╬п╩я√,kdesu"
 
 #: kdebase/applnk/Settings/Windows/.directory:1
 msgid "Name=Window Behavior"
-msgstr "Name=Повед╕нка в╕кон"
+msgstr "Name=п÷п╬п╡п╣п╢я√п╫п╨п╟ п╡я√п╨п╬п╫"
 
 #: kdebase/applnk/Settings/Windows/actions.desktop:1
 msgid "Name=Actions"
-msgstr "Name=Д╕╖"
+msgstr "Name=п■я√я≈"
 
 #: kdebase/applnk/Settings/Windows/actions.desktop:2
 msgid "Comment=Configure window manager actions"
-msgstr "Comment=Настро╖ти повед╕нку менеджера в╕кон"
+msgstr "Comment=п²п╟я│я┌я─п╬я≈я┌п╦ п©п╬п╡п╣п╢я√п╫п╨я┐ п╪п╣п╫п╣п╢п╤п╣я─п╟ п╡я√п╨п╬п╫"
 
 #: kdebase/applnk/Settings/Windows/advanced.desktop:2
 msgid "Comment=Advanced window properties"
-msgstr "Comment=Розширен╕ властивост╕ в╕кон"
+msgstr "Comment=п═п╬п╥я┬п╦я─п╣п╫я√ п╡п╩п╟я│я┌п╦п╡п╬я│я┌я√ п╡я√п╨п╬п╫"
 
 #: kdebase/applnk/Settings/Windows/buttons.desktop:1
 msgid "Name=Buttons"
-msgstr "Name=Кнопки"
+msgstr "Name=п п╫п╬п©п╨п╦"
 
 #: kdebase/applnk/Settings/Windows/buttons.desktop:2
 msgid "Comment=Arrangement of window buttons"
-msgstr "Comment=Розташування кнопок на в╕кнах"
+msgstr "Comment=п═п╬п╥я┌п╟я┬я┐п╡п╟п╫п╫я▐ п╨п╫п╬п©п╬п╨ п╫п╟ п╡я√п╨п╫п╟я┘"
 
 #: kdebase/applnk/Settings/Windows/mouse.desktop:2
 msgid "Comment=Configure mouse bindings"
-msgstr "Comment=Настройка миши"
+msgstr "Comment=п²п╟я│я┌я─п╬п╧п╨п╟ п╪п╦я┬п╦"
 
 #: kdebase/applnk/Settings/Windows/titlebar.desktop:1
 msgid "Name=Titlebar"
-msgstr "Name=Титульна смужка"
+msgstr "Name=п╒п╦я┌я┐п╩я▄п╫п╟ я│п╪я┐п╤п╨п╟"
 
 #: kdebase/applnk/Settings/Windows/titlebar.desktop:2
 msgid "Comment=Titlebar appearance"
-msgstr "Comment=Вигляд титульно╖ смужки"
+msgstr "Comment=п▓п╦пЁп╩я▐п╢ я┌п╦я┌я┐п╩я▄п╫п╬я≈ я│п╪я┐п╤п╨п╦"
 
 #: kdebase/applnk/System/Arrange.desktop:1
 msgid "Name=Cleanup Icons"
-msgstr "Name=Очистити п╕ктограми"
+msgstr "Name=п·я┤п╦я│я┌п╦я┌п╦ п©я√п╨я┌п╬пЁя─п╟п╪п╦"
 
 #: kdebase/applnk/System/Arrange.desktop:2
 msgid "Comment=Neatly arrange desktop icons"
-msgstr "Comment=Розташувати п╕ктограми робочого столу"
+msgstr "Comment=п═п╬п╥я┌п╟я┬я┐п╡п╟я┌п╦ п©я√п╨я┌п╬пЁя─п╟п╪п╦ я─п╬п╠п╬я┤п╬пЁп╬ я│я┌п╬п╩я┐"
 
 #: kdebase/applnk/System/Kfontmanager.desktop:1
 msgid "Name=Font Manager"
-msgstr "Name=Менджер шрифт╕в"
+msgstr "Name=п°п╣п╫п╢п╤п╣я─ я┬я─п╦я└я┌я√п╡"
 
 #: kdebase/applnk/System/Kfontmanager.desktop:2
 msgid "Comment=Choose which fonts are available to KDE"
-msgstr "Comment=Вибер╕ть шрифти дозволен╕ для KDE"
+msgstr "Comment=п▓п╦п╠п╣я─я√я┌я▄ я┬я─п╦я└я┌п╦ п╢п╬п╥п╡п╬п╩п╣п╫я√ п╢п╩я▐ KDE"
 
 #: kdebase/applnk/System/kappfinder.desktop:1
 msgid "Name=Appfinder"
-msgstr "Name=Пошук програм"
+msgstr "Name=п÷п╬я┬я┐п╨ п©я─п╬пЁя─п╟п╪"
 
 #: kdebase/applnk/System/kappfinder.desktop:2
 msgid "Comment=Find and integrate 3rd party (non-KDE) applications"
-msgstr "Comment=Знайти та ╕нтегрувати програми 3╖ сторони (не-KDE)"
+msgstr "Comment=п≈п╫п╟п╧я┌п╦ я┌п╟ я√п╫я┌п╣пЁя─я┐п╡п╟я┌п╦ п©я─п╬пЁя─п╟п╪п╦ 3я≈ я│я┌п╬я─п╬п╫п╦ (п╫п╣-KDE)"
 
 #: kdebase/applnk/System/konquerorsu.desktop:1
 msgid "Name=File Manager (Super User Mode)"
-msgstr "Name=Менеджер файл╕в (режим адм╕н╕стратора)"
+msgstr "Name=п°п╣п╫п╣п╢п╤п╣я─ я└п╟п╧п╩я√п╡ (я─п╣п╤п╦п╪ п╟п╢п╪я√п╫я√я│я┌я─п╟я┌п╬я─п╟)"
 
 #: kdebase/applnk/System/konquerorsu.desktop:2
 msgid "Comment=File manager with root privileges"
-msgstr "Comment=Менеджер файл╕в з пр╕велег╕ями адм╕стратора"
+msgstr "Comment=п°п╣п╫п╣п╢п╤п╣я─ я└п╟п╧п╩я√п╡ п╥ п©я─я√п╡п╣п╩п╣пЁя√я▐п╪п╦ п╟п╢п╪я√я│я┌я─п╟я┌п╬я─п╟"
 
 #: kdebase/applnk/System/konsole.desktop:1
 msgid "Name=Terminal"
-msgstr "Name=Терм╕нал"
+msgstr "Name=п╒п╣я─п╪я√п╫п╟п╩"
 
 #: kdebase/applnk/System/konsole.desktop:2
 msgid "Comment=Terminal emulator window"
-msgstr "Comment=Емуляц╕я терм╕налу"
+msgstr "Comment=п∙п╪я┐п╩я▐я├я√я▐ я┌п╣я─п╪я√п╫п╟п╩я┐"
 
 #: kdebase/applnk/System/konsolesu.desktop:1
 msgid "Name=Terminal (Super User Mode)"
-msgstr "Name=Терм╕нал (режим адм╕н╕стратора)"
+msgstr "Name=п╒п╣я─п╪я√п╫п╟п╩ (я─п╣п╤п╦п╪ п╟п╢п╪я√п╫я√я│я┌я─п╟я┌п╬я─п╟)"
 
 #: kdebase/applnk/System/konsolesu.desktop:2
 msgid "Comment=Terminal window with root privileges"
-msgstr "Comment=В╕кно терм╕налу з пр╕велег╕ями адм╕стратора"
+msgstr "Comment=п▓я√п╨п╫п╬ я┌п╣я─п╪я√п╫п╟п╩я┐ п╥ п©я─я√п╡п╣п╩п╣пЁя√я▐п╪п╦ п╟п╢п╪я√я│я┌я─п╟я┌п╬я─п╟"
 
 #: kdebase/applnk/Trash.desktop:1
 msgid "Name=Trashcan"
-msgstr "Name=См╕тник"
+msgstr "Name=п║п╪я√я┌п╫п╦п╨"
 
 #: kdebase/applnk/Trash.desktop:2
 msgid "Comment=This folder contains files to be deleted"
-msgstr "Comment=Цей каталог м╕стить файли, що будуть витерт╕"
+msgstr "Comment=п╕п╣п╧ п╨п╟я┌п╟п╩п╬пЁ п╪я√я│я┌п╦я┌я▄ я└п╟п╧п╩п╦, я┴п╬ п╠я┐п╢я┐я┌я▄ п╡п╦я┌п╣я─я┌я√"
 
 #: kdebase/applnk/Utilities/.directory:1
 msgid "Name=Utilities"
-msgstr "Name=Утил╕ти"
+msgstr "Name=пёя┌п╦п╩я√я┌п╦"
 
 #: kdebase/applnk/Utilities/.directory:2
 msgid "Comment=Utilities"
-msgstr "Comment=Утил╕ти"
+msgstr "Comment=пёя┌п╦п╩я√я┌п╦"
 
 #: kdebase/applnk/Utilities/kinfobrowser.desktop:1
 msgid "Name=Info Browser"
-msgstr "Name=╤нфо-переглядач"
+msgstr "Name=п├п╫я└п╬-п©п╣я─п╣пЁп╩я▐п╢п╟я┤"
 
 #: kdebase/applnk/Utilities/kinfobrowser.desktop:2
 msgid "Comment=Browse GNU \"info\" formatted files"
-msgstr "Comment=Переглянути GNU \"info\" файли"
+msgstr "Comment=п÷п╣я─п╣пЁп╩я▐п╫я┐я┌п╦ GNU \"info\" я└п╟п╧п╩п╦"
 
 #: kdebase/debian/debian.desktop:1
 msgid "Name=Debian Applications"
-msgstr "Name=Програми Debian"
+msgstr "Name=п÷я─п╬пЁя─п╟п╪п╦ Debian"
 
 #: kdebase/kappfinder/apps/.directory:1
 msgid "Name=Non-KDE Apps"
-msgstr "Name=Програми не з KDE"
+msgstr "Name=п÷я─п╬пЁя─п╟п╪п╦ п╫п╣ п╥ KDE"
 
 #: kdebase/kappfinder/apps/Development/.directory:1
 msgid "Name=Development"
-msgstr "Name=Розробка"
+msgstr "Name=п═п╬п╥я─п╬п╠п╨п╟"
 
 #: kdebase/kappfinder/apps/Development/ddd.desktop:1
 msgid "Name=DDD"
-msgstr "Name=DDD (В╕дладчик)"
+msgstr "Name=DDD (п▓я√п╢п╩п╟п╢я┤п╦п╨)"
 
 #: kdebase/kappfinder/apps/Development/ddd.desktop:2
 msgid "Comment=Data Display Debugger"
-msgstr "Comment=В╕дладчик \"Data Display Debugger\""
+msgstr "Comment=п▓я√п╢п╩п╟п╢я┤п╦п╨ \"Data Display Debugger\""
 
 #: kdebase/kappfinder/apps/Development/dlgedit.desktop:1
 msgid "Name=DlgEdit"
@@ -1181,11 +1181,11 @@ msgstr "Name=DlgEdit"
 
 #: kdebase/kappfinder/apps/Development/dlgedit.desktop:2
 msgid "Comment=Qt Dialog Editor"
-msgstr "Comment=Редактор д╕алог╕в для Qt"
+msgstr "Comment=п═п╣п╢п╟п╨я┌п╬я─ п╢я√п╟п╩п╬пЁя√п╡ п╢п╩я▐ Qt"
 
 #: kdebase/kappfinder/apps/Editors/.directory:1
 msgid "Name=Editors"
-msgstr "Name=Редактори"
+msgstr "Name=п═п╣п╢п╟п╨я┌п╬я─п╦"
 
 #: kdebase/kappfinder/apps/Editors/emacs.desktop:1
 msgid "Name=Emacs"
@@ -1201,7 +1201,7 @@ msgstr "Name=Vi IMproved"
 
 #: kdebase/kappfinder/apps/Editors/gvim.desktop:2
 msgid "Comment=Powerful vi editor"
-msgstr "Comment=Потужний редактор vi"
+msgstr "Comment=п÷п╬я┌я┐п╤п╫п╦п╧ я─п╣п╢п╟п╨я┌п╬я─ vi"
 
 #: kdebase/kappfinder/apps/Editors/lemacs.desktop:1
 msgid "Name=LEmacs"
@@ -1241,7 +1241,7 @@ msgstr "Name=Acrobat Reader"
 
 #: kdebase/kappfinder/apps/Graphics/acroread.desktop:2
 msgid "Comment=PDF document viewer"
-msgstr "Comment=Переглядач документ╕в PDF"
+msgstr "Comment=п÷п╣я─п╣пЁп╩я▐п╢п╟я┤ п╢п╬п╨я┐п╪п╣п╫я┌я√п╡ PDF"
 
 #: kdebase/kappfinder/apps/Graphics/gimp.desktop:1
 msgid "Name=Gimp"
@@ -1249,7 +1249,7 @@ msgstr "Name=GIMP"
 
 #: kdebase/kappfinder/apps/Graphics/gimp.desktop:2
 msgid "Comment=The GNU Image Manipulation Program"
-msgstr "Comment=GNU-програма для редагування зображень"
+msgstr "Comment=GNU-п©я─п╬пЁя─п╟п╪п╟ п╢п╩я▐ я─п╣п╢п╟пЁя┐п╡п╟п╫п╫я▐ п╥п╬п╠я─п╟п╤п╣п╫я▄"
 
 #: kdebase/kappfinder/apps/Graphics/xfig.desktop:1
 msgid "Name=Xfig"
@@ -1257,7 +1257,7 @@ msgstr "Name=Xfig"
 
 #: kdebase/kappfinder/apps/Graphics/xfig.desktop:2
 msgid "Comment=Xfig drawing application"
-msgstr "Comment=Програма для утворення зображень Xfig"
+msgstr "Comment=п÷я─п╬пЁя─п╟п╪п╟ п╢п╩я▐ я┐я┌п╡п╬я─п╣п╫п╫я▐ п╥п╬п╠я─п╟п╤п╣п╫я▄ Xfig"
 
 #: kdebase/kappfinder/apps/Graphics/xpaint.desktop:1
 msgid "Name=X Paint"
@@ -1265,7 +1265,7 @@ msgstr "Name=X Paint"
 
 #: kdebase/kappfinder/apps/Graphics/xpaint.desktop:2
 msgid "Comment=Xpaint painting application"
-msgstr "Comment=Програма для утворення зображень Xpaint"
+msgstr "Comment=п÷я─п╬пЁя─п╟п╪п╟ п╢п╩я▐ я┐я┌п╡п╬я─п╣п╫п╫я▐ п╥п╬п╠я─п╟п╤п╣п╫я▄ Xpaint"
 
 #: kdebase/kappfinder/apps/Graphics/xv.desktop:1
 msgid "Name=XV"
@@ -1273,7 +1273,7 @@ msgstr "Name=XV"
 
 #: kdebase/kappfinder/apps/Graphics/xv.desktop:2
 msgid "Comment=Advanced Picture Viewer"
-msgstr "Comment=Потужний переглядач зображень"
+msgstr "Comment=п÷п╬я┌я┐п╤п╫п╦п╧ п©п╣я─п╣пЁп╩я▐п╢п╟я┤ п╥п╬п╠я─п╟п╤п╣п╫я▄"
 
 #: kdebase/kappfinder/apps/Internet/arena.desktop:1
 msgid "Name=Arena"
@@ -1281,7 +1281,7 @@ msgstr "Name=Arena"
 
 #: kdebase/kappfinder/apps/Internet/arena.desktop:2
 msgid "Comment=Arena WWW Browser"
-msgstr "Comment=Arena переглядач WWW"
+msgstr "Comment=Arena п©п╣я─п╣пЁп╩я▐п╢п╟я┤ WWW"
 
 #: kdebase/kappfinder/apps/Internet/coolmail.desktop:1
 msgid "Name=Coolmail"
@@ -1297,7 +1297,7 @@ msgstr "Name=Netscape"
 
 #: kdebase/kappfinder/apps/Internet/netscape.desktop:2
 msgid "Comment=Netscape Navigator"
-msgstr "Comment=╤нтернет переглядач Netscape Navigator"
+msgstr "Comment=п├п╫я┌п╣я─п╫п╣я┌ п©п╣я─п╣пЁп╩я▐п╢п╟я┤ Netscape Navigator"
 
 #: kdebase/kappfinder/apps/Internet/pine.desktop:1
 msgid "Name=Pine"
@@ -1305,7 +1305,7 @@ msgstr "Name=Pine"
 
 #: kdebase/kappfinder/apps/Internet/pine.desktop:2
 msgid "Comment=PINE is not ELM"
-msgstr "Comment=Програма електронно╖ пошти PINE"
+msgstr "Comment=п÷я─п╬пЁя─п╟п╪п╟ п╣п╩п╣п╨я┌я─п╬п╫п╫п╬я≈ п©п╬я┬я┌п╦ PINE"
 
 #: kdebase/kappfinder/apps/Internet/xbiff.desktop:1
 msgid "Name=X Biff"
@@ -1313,7 +1313,7 @@ msgstr "Name=X-Biff"
 
 #: kdebase/kappfinder/apps/Internet/xbiff.desktop:2
 msgid "Comment=Mail notification"
-msgstr "Comment=Спов╕щення про нову пошту"
+msgstr "Comment=п║п©п╬п╡я√я┴п╣п╫п╫я▐ п©я─п╬ п╫п╬п╡я┐ п©п╬я┬я┌я┐"
 
 #: kdebase/kappfinder/apps/Internet/xfmail.desktop:1
 msgid "Name=XFMail"
@@ -1321,7 +1321,7 @@ msgstr "Name=XFMail"
 
 #: kdebase/kappfinder/apps/Internet/xfmail.desktop:2
 msgid "Comment=XFMail Mailer"
-msgstr "Comment=Програма електронно╖ пошти XFMail"
+msgstr "Comment=п÷я─п╬пЁя─п╟п╪п╟ п╣п╩п╣п╨я┌я─п╬п╫п╫п╬я≈ п©п╬я┬я┌п╦ XFMail"
 
 #: kdebase/kappfinder/apps/Internet/xftp.desktop:1
 msgid "Name=X FTP"
@@ -1329,7 +1329,7 @@ msgstr "Name=X-FTP"
 
 #: kdebase/kappfinder/apps/Internet/xftp.desktop:2
 msgid "Comment=Graphical FTP Client"
-msgstr "Comment=Граф╕чний FTP-кл╕╓нт"
+msgstr "Comment=п⌠я─п╟я└я√я┤п╫п╦п╧ FTP-п╨п╩я√я■п╫я┌"
 
 #: kdebase/kappfinder/apps/Multimedia/xmms.desktop:1
 msgid "Name=XMMS"
@@ -1337,11 +1337,11 @@ msgstr "Name=XMMS"
 
 #: kdebase/kappfinder/apps/Multimedia/xmms.desktop:2
 msgid "Comment=X Multimedia System"
-msgstr "Comment=Мультимед╕а система для X"
+msgstr "Comment=п°я┐п╩я▄я┌п╦п╪п╣п╢я√п╟ я│п╦я│я┌п╣п╪п╟ п╢п╩я▐ X"
 
 #: kdebase/kappfinder/apps/Office/.directory:1
 msgid "Name=Office"
-msgstr "Name=Оф╕с"
+msgstr "Name=п·я└я√я│"
 
 #: kdebase/kappfinder/apps/Office/Applix.desktop:1
 msgid "Name=Applix"
@@ -1349,7 +1349,7 @@ msgstr "Name=Applix"
 
 #: kdebase/kappfinder/apps/Office/Applix.desktop:2
 msgid "Comment=ApplixWare Office Suite"
-msgstr "Comment=Оф╕сний пакет програм ApplixWare"
+msgstr "Comment=п·я└я√я│п╫п╦п╧ п©п╟п╨п╣я┌ п©я─п╬пЁя─п╟п╪ ApplixWare"
 
 #: kdebase/kappfinder/apps/Office/XAcc.desktop:1
 msgid "Name=xacc"
@@ -1357,7 +1357,7 @@ msgstr "Name=xacc"
 
 #: kdebase/kappfinder/apps/Office/XAcc.desktop:2
 msgid "Comment=Quicken Clone"
-msgstr "Comment=Вар╕ант Quicken"
+msgstr "Comment=п▓п╟я─я√п╟п╫я┌ Quicken"
 
 #: kdebase/kappfinder/apps/Office/XsLite.desktop:1
 msgid "Name=XsLite"
@@ -1365,7 +1365,7 @@ msgstr "Name=XsLite"
 
 #: kdebase/kappfinder/apps/Office/XsLite.desktop:2
 msgid "Comment=Spread Sheet"
-msgstr "Comment=Електронна таблиця"
+msgstr "Comment=п∙п╩п╣п╨я┌я─п╬п╫п╫п╟ я┌п╟п╠п╩п╦я├я▐"
 
 #: kdebase/kappfinder/apps/Office/plan.desktop:1
 msgid "Name=Plan"
@@ -1373,15 +1373,15 @@ msgstr "Name=Plan"
 
 #: kdebase/kappfinder/apps/Office/plan.desktop:2
 msgid "Comment=Calendar Manager"
-msgstr "Comment=Менеджер календаря"
+msgstr "Comment=п°п╣п╫п╣п╢п╤п╣я─ п╨п╟п╩п╣п╫п╢п╟я─я▐"
 
 #: kdebase/kappfinder/apps/ScreenSavers/.directory:1
 msgid "Name=ScreenSavers"
-msgstr "Name=Збер╕гач╕ екрану"
+msgstr "Name=п≈п╠п╣я─я√пЁп╟я┤я√ п╣п╨я─п╟п╫я┐"
 
 #: kdebase/kappfinder/apps/ScreenSavers/Ant.desktop:1
 msgid "Name=Ant"
-msgstr "Name=Т╕тка"
+msgstr "Name=п╒я√я┌п╨п╟"
 
 #: kdebase/kappfinder/apps/ScreenSavers/Atlantis.desktop:1
 msgid "Name=Atlantis (GL)"
@@ -1397,55 +1397,55 @@ msgstr "Name=Blasen 3D (GL)"
 
 #: kdebase/kappfinder/apps/ScreenSavers/Bubbles.desktop:1
 msgid "Name=Bubbles"
-msgstr "Name=Бульбашки"
+msgstr "Name=п▒я┐п╩я▄п╠п╟я┬п╨п╦"
 
 #: kdebase/kappfinder/apps/ScreenSavers/Cage.desktop:1
 msgid "Name=Cage (GL)"
-msgstr "Name=Кл╕тка (GL)"
+msgstr "Name=п п╩я√я┌п╨п╟ (GL)"
 
 #: kdebase/kappfinder/apps/ScreenSavers/Compass.desktop:1
 msgid "Name=Compass"
-msgstr "Name=Компас"
+msgstr "Name=п п╬п╪п©п╟я│"
 
 #: kdebase/kappfinder/apps/ScreenSavers/Coral.desktop:1
 msgid "Name=Coral"
-msgstr "Name=Корал"
+msgstr "Name=п п╬я─п╟п╩"
 
 #: kdebase/kappfinder/apps/ScreenSavers/Crystal.desktop:1
 msgid "Name=Crystal"
-msgstr "Name=Кристал"
+msgstr "Name=п я─п╦я│я┌п╟п╩"
 
 #: kdebase/kappfinder/apps/ScreenSavers/Cynosure.desktop:1
 msgid "Name=Cynosure"
-msgstr "Name=Пров╕дна з╕рка"
+msgstr "Name=п÷я─п╬п╡я√п╢п╫п╟ п╥я√я─п╨п╟"
 
 #: kdebase/kappfinder/apps/ScreenSavers/Drift.desktop:1
 msgid "Name=Drift"
-msgstr "Name=Дрейф"
+msgstr "Name=п■я─п╣п╧я└"
 
 #: kdebase/kappfinder/apps/ScreenSavers/Fadeplot.desktop:1
 msgid "Name=Fade Plot"
-msgstr "Name=Зибуч╕ п╕ски"
+msgstr "Name=п≈п╦п╠я┐я┤я√ п©я√я│п╨п╦"
 
 #: kdebase/kappfinder/apps/ScreenSavers/Flag.desktop:1
 msgid "Name=Flag"
-msgstr "Name=Прапор"
+msgstr "Name=п÷я─п╟п©п╬я─"
 
 #: kdebase/kappfinder/apps/ScreenSavers/Flow.desktop:1
 msgid "Name=Flow"
-msgstr "Name=Пот╕к"
+msgstr "Name=п÷п╬я┌я√п╨"
 
 #: kdebase/kappfinder/apps/ScreenSavers/GLPlanet.desktop:1
 msgid "Name=GL Planet (GL)"
-msgstr "Name=Планета (GL)"
+msgstr "Name=п÷п╩п╟п╫п╣я┌п╟ (GL)"
 
 #: kdebase/kappfinder/apps/ScreenSavers/Galaxy.desktop:1
 msgid "Name=Galaxy"
-msgstr "Name=Галактика"
+msgstr "Name=п⌠п╟п╩п╟п╨я┌п╦п╨п╟"
 
 #: kdebase/kappfinder/apps/ScreenSavers/Gears.desktop:1
 msgid "Name=Gears (GL)"
-msgstr "Name=Пристро╖ (GL)"
+msgstr "Name=п÷я─п╦я│я┌я─п╬я≈ (GL)"
 
 #: kdebase/kappfinder/apps/ScreenSavers/Goop.desktop:1
 msgid "Name=Goop"
@@ -1453,7 +1453,7 @@ msgstr ""
 
 #: kdebase/kappfinder/apps/ScreenSavers/Grav.desktop:1
 msgid "Name=Gravity"
-msgstr "Name=Притягнення"
+msgstr "Name=п÷я─п╦я┌я▐пЁп╫п╣п╫п╫я▐"
 
 #: kdebase/kappfinder/apps/ScreenSavers/Hopalong.desktop:1
 msgid "Name=Hopalong"
@@ -1461,7 +1461,7 @@ msgstr ""
 
 #: kdebase/kappfinder/apps/ScreenSavers/Hypercube.desktop:1
 msgid "Name=Hypercube"
-msgstr "Name=Г╕перкуб"
+msgstr "Name=п⌠я√п©п╣я─п╨я┐п╠"
 
 #: kdebase/kappfinder/apps/ScreenSavers/Ifs.desktop:1
 msgid "Name=Iterated-function-system Images"
@@ -1469,59 +1469,59 @@ msgstr ""
 
 #: kdebase/kappfinder/apps/ScreenSavers/Imsmap.desktop:1
 msgid "Name=Fractal Maps"
-msgstr "Name=Фрактали"
+msgstr "Name=п╓я─п╟п╨я┌п╟п╩п╦"
 
 #: kdebase/kappfinder/apps/ScreenSavers/Interference.desktop:1
 msgid "Name=Interference"
-msgstr "Name=╤нтерференц╕я"
+msgstr "Name=п├п╫я┌п╣я─я└п╣я─п╣п╫я├я√я▐"
 
 #: kdebase/kappfinder/apps/ScreenSavers/Julia.desktop:1
 msgid "Name=Julia"
-msgstr "Name=Юл╕я"
+msgstr "Name=п╝п╩я√я▐"
 
 #: kdebase/kappfinder/apps/ScreenSavers/Kaleidescope.desktop:1
 msgid "Name=Kaleidescope"
-msgstr "Name=Калейдоскоп"
+msgstr "Name=п п╟п╩п╣п╧п╢п╬я│п╨п╬п©"
 
 #: kdebase/kappfinder/apps/ScreenSavers/Kumppa.desktop:1
 msgid "Name=Kumppa"
-msgstr "Name=Кумппа"
+msgstr "Name=п я┐п╪п©п©п╟"
 
 #: kdebase/kappfinder/apps/ScreenSavers/LMorph.desktop:1
 msgid "Name=Morphing Lines"
-msgstr "Name=Аморфн╕ л╕н╕╖"
+msgstr "Name=п░п╪п╬я─я└п╫я√ п╩я√п╫я√я≈"
 
 #: kdebase/kappfinder/apps/ScreenSavers/Lament.desktop:1
 msgid "Name=Lament (GL)"
-msgstr "Name=Ламент (GL)"
+msgstr "Name=п⌡п╟п╪п╣п╫я┌ (GL)"
 
 #: kdebase/kappfinder/apps/ScreenSavers/Lightning.desktop:1
 msgid "Name=Lightning"
-msgstr "Name=Блискавка"
+msgstr "Name=п▒п╩п╦я│п╨п╟п╡п╨п╟"
 
 #: kdebase/kappfinder/apps/ScreenSavers/Moenius.desktop:1
 msgid "Name=Moebius (GL)"
-msgstr "Name=Мьоб╕ус (GL)"
+msgstr "Name=п°я▄п╬п╠я√я┐я│ (GL)"
 
 #: kdebase/kappfinder/apps/ScreenSavers/Penrose.desktop:1
 msgid "Name=Penrose"
-msgstr "Name=Пенроуз"
+msgstr "Name=п÷п╣п╫я─п╬я┐п╥"
 
 #: kdebase/kappfinder/apps/ScreenSavers/Phosphor.desktop:1
 msgid "Name=Phosphor"
-msgstr "Name=Фосфор"
+msgstr "Name=п╓п╬я│я└п╬я─"
 
 #: kdebase/kappfinder/apps/ScreenSavers/Pulsar.desktop:1
 msgid "Name=Pulsar (GL)"
-msgstr "Name=Пульсар (GL)"
+msgstr "Name=п÷я┐п╩я▄я│п╟я─ (GL)"
 
 #: kdebase/kappfinder/apps/ScreenSavers/Rubik.desktop:1
 msgid "Name=Rubik Cube (GL)"
-msgstr "Name=Куб╕к Руб╕ка (GL)"
+msgstr "Name=п я┐п╠я√п╨ п═я┐п╠я√п╨п╟ (GL)"
 
 #: kdebase/kappfinder/apps/ScreenSavers/Sonar.desktop:1
 msgid "Name=Sonar"
-msgstr "Name=Ехолот"
+msgstr "Name=п∙я┘п╬п╩п╬я┌"
 
 #: kdebase/kappfinder/apps/ScreenSavers/Sproingies.desktop:1
 msgid "Name=Sproingies (GL)"
@@ -1529,39 +1529,39 @@ msgstr ""
 
 #: kdebase/kappfinder/apps/ScreenSavers/Stairs.desktop:1
 msgid "Name=Stairs (GL)"
-msgstr "Name=Сходинки (GL)"
+msgstr "Name=п║я┘п╬п╢п╦п╫п╨п╦ (GL)"
 
 #: kdebase/kappfinder/apps/ScreenSavers/Starfish.desktop:1
 msgid "Name=Starfish"
-msgstr "Name=Морська з╕рка"
+msgstr "Name=п°п╬я─я│я▄п╨п╟ п╥я√я─п╨п╟"
 
 #: kdebase/kappfinder/apps/ScreenSavers/Strange.desktop:1
 msgid "Name=Strange"
-msgstr "Name=Дивина"
+msgstr "Name=п■п╦п╡п╦п╫п╟"
 
 #: kdebase/kappfinder/apps/ScreenSavers/Superquadrics.desktop:1
 msgid "Name=Superquadrics (GL)"
-msgstr "Name=Суперквадрат (GL)"
+msgstr "Name=п║я┐п©п╣я─п╨п╡п╟п╢я─п╟я┌ (GL)"
 
 #: kdebase/kappfinder/apps/ScreenSavers/Swirl.desktop:1
 msgid "Name=Swirl"
-msgstr "Name=Журчання"
+msgstr "Name=п√я┐я─я┤п╟п╫п╫я▐"
 
 #: kdebase/kappfinder/apps/ScreenSavers/T3d.desktop:1
 msgid "Name=Time 3D"
-msgstr "Name=Трим╕рний час"
+msgstr "Name=п╒я─п╦п╪я√я─п╫п╦п╧ я┤п╟я│"
 
 #: kdebase/kappfinder/apps/ScreenSavers/Triangle.desktop:1
 msgid "Name=Triangle"
-msgstr "Name=Трикутник"
+msgstr "Name=п╒я─п╦п╨я┐я┌п╫п╦п╨"
 
 #: kdebase/kappfinder/apps/ScreenSavers/Vines.desktop:1
 msgid "Name=Vines"
-msgstr "Name=Л╕ани"
+msgstr "Name=п⌡я√п╟п╫п╦"
 
 #: kdebase/kappfinder/apps/ScreenSavers/Worm.desktop:1
 msgid "Name=Worm"
-msgstr "Name=Черв'як"
+msgstr "Name=п╖п╣я─п╡'я▐п╨"
 
 #: kdebase/kappfinder/apps/ScreenSavers/XFlame.desktop:1
 msgid "Name=XFlame"
@@ -1573,15 +1573,15 @@ msgstr "Name=XJack"
 
 #: kdebase/kappfinder/apps/ScreenSavers/XPipes.desktop:1
 msgid "Name=Pipes - another (GL)"
-msgstr "Name=╤нш╕ труби (GL)"
+msgstr "Name=п├п╫я┬я√ я┌я─я┐п╠п╦ (GL)"
 
 #: kdebase/kappfinder/apps/System/sam.desktop:1
 msgid "Name=SAM System-Administration"
-msgstr "Name=Менеджер системи SAM"
+msgstr "Name=п°п╣п╫п╣п╢п╤п╣я─ я│п╦я│я┌п╣п╪п╦ SAM"
 
 #: kdebase/kappfinder/apps/System/sam.desktop:2
 msgid "Comment=System Administration Manager for HP-UX"
-msgstr "Comment=Менеджер системи HP-UX"
+msgstr "Comment=п°п╣п╫п╣п╢п╤п╣я─ я│п╦я│я┌п╣п╪п╦ HP-UX"
 
 #: kdebase/kappfinder/apps/System/xosview.desktop:1
 msgid "Name=X osview"
@@ -1589,19 +1589,19 @@ msgstr "Name=X osview"
 
 #: kdebase/kappfinder/apps/System/xosview.desktop:2
 msgid "Comment=System Monitor"
-msgstr "Comment=Мон╕тор системи"
+msgstr "Comment=п°п╬п╫я√я┌п╬я─ я│п╦я│я┌п╣п╪п╦"
 
 #: kdebase/kappfinder/apps/Toys/.directory:1
 msgid "Name=Toys"
-msgstr "Name=╤грашки"
+msgstr "Name=п├пЁя─п╟я┬п╨п╦"
 
 #: kdebase/kappfinder/apps/Toys/xeyes.desktop:1
 msgid "Name=X Eyes"
-msgstr "Name=Оч╕ X"
+msgstr "Name=п·я┤я√ X"
 
 #: kdebase/kappfinder/apps/Toys/xeyes.desktop:2
 msgid "Comment=X Eyes"
-msgstr "Comment=Оч╕ X"
+msgstr "Comment=п·я┤я√ X"
 
 #: kdebase/kappfinder/apps/Toys/xpinguin.desktop:1
 msgid "Name=Tux"
@@ -1609,23 +1609,23 @@ msgstr "Name=Tux"
 
 #: kdebase/kappfinder/apps/Toys/xpinguin.desktop:2
 msgid "Comment=Tux, the Linux mascot"
-msgstr "Comment=Tux, логотип Linux"
+msgstr "Comment=Tux, п╩п╬пЁп╬я┌п╦п© Linux"
 
 #: kdebase/kappfinder/apps/Utilities/jar.desktop:1
 msgid "Name=Java Archiver"
-msgstr "Name=Арх╕ватор Java"
+msgstr "Name=п░я─я┘я√п╡п╟я┌п╬я─ Java"
 
 #: kdebase/kappfinder/apps/Utilities/jar.desktop:2
 msgid "Comment=Runs java archives files"
-msgstr "Comment=Запуска╓ файли Java-арх╕в╕в"
+msgstr "Comment=п≈п╟п©я┐я│п╨п╟я■ я└п╟п╧п╩п╦ Java-п╟я─я┘я√п╡я√п╡"
 
 #: kdebase/kappfinder/apps/Utilities/passwd.desktop:1
 msgid "Name=Password"
-msgstr "Name=Пароль"
+msgstr "Name=п÷п╟я─п╬п╩я▄"
 
 #: kdebase/kappfinder/apps/Utilities/passwd.desktop:2
 msgid "Comment=Changes your password"
-msgstr "Comment=Зм╕ню╓ Ваш пароль"
+msgstr "Comment=п≈п╪я√п╫я▌я■ п▓п╟я┬ п©п╟я─п╬п╩я▄"
 
 #: kdebase/kappfinder/apps/Utilities/xcalc.desktop:1
 msgid "Name=X Calc"
@@ -1633,15 +1633,15 @@ msgstr "Name=X Calc"
 
 #: kdebase/kappfinder/apps/Utilities/xcalc.desktop:2
 msgid "Comment=Simple Calculator"
-msgstr "Comment=Простий калькулятор"
+msgstr "Comment=п÷я─п╬я│я┌п╦п╧ п╨п╟п╩я▄п╨я┐п╩я▐я┌п╬я─"
 
 #: kdebase/kappfinder/apps/Utilities/xclipboard.desktop:1
 msgid "Name=X Clipboard"
-msgstr "Name=Буфер обм╕ну X"
+msgstr "Name=п▒я┐я└п╣я─ п╬п╠п╪я√п╫я┐ X"
 
 #: kdebase/kappfinder/apps/Utilities/xclipboard.desktop:2
 msgid "Comment=View contents of X clipboard"
-msgstr "Comment=Переглянути зм╕ст буфер обм╕ну X"
+msgstr "Comment=п÷п╣я─п╣пЁп╩я▐п╫я┐я┌п╦ п╥п╪я√я│я┌ п╠я┐я└п╣я─ п╬п╠п╪я√п╫я┐ X"
 
 #: kdebase/kappfinder/apps/Utilities/xclock.desktop:1
 msgid "Name=X Clock"
@@ -1649,7 +1649,7 @@ msgstr "Name=X Clock"
 
 #: kdebase/kappfinder/apps/Utilities/xclock.desktop:2
 msgid "Comment=The X clock"
-msgstr "Comment=Годинник для X"
+msgstr "Comment=п⌠п╬п╢п╦п╫п╫п╦п╨ п╢п╩я▐ X"
 
 #: kdebase/kappfinder/apps/Utilities/xconsole.desktop:1
 msgid "Name=X Console"
@@ -1657,7 +1657,7 @@ msgstr "Name=X Console"
 
 #: kdebase/kappfinder/apps/Utilities/xconsole.desktop:2
 msgid "Comment=View console messages"
-msgstr "Comment=Переглянути пов╕домлення консол╕"
+msgstr "Comment=п÷п╣я─п╣пЁп╩я▐п╫я┐я┌п╦ п©п╬п╡я√п╢п╬п╪п╩п╣п╫п╫я▐ п╨п╬п╫я│п╬п╩я√"
 
 #: kdebase/kappfinder/apps/Utilities/xload.desktop:1
 msgid "Name=X Load"
@@ -1665,7 +1665,7 @@ msgstr "Name=X Load"
 
 #: kdebase/kappfinder/apps/Utilities/xload.desktop:2
 msgid "Comment=Monitors system load"
-msgstr "Comment=Стежить за завантаженням системи"
+msgstr "Comment=п║я┌п╣п╤п╦я┌я▄ п╥п╟ п╥п╟п╡п╟п╫я┌п╟п╤п╣п╫п╫я▐п╪ я│п╦я│я┌п╣п╪п╦"
 
 #: kdebase/kappfinder/apps/Utilities/xterm.desktop:1
 msgid "Name=X Terminal"
@@ -1673,11 +1673,11 @@ msgstr "Name=X Terminal"
 
 #: kdebase/kappfinder/apps/Utilities/xterm.desktop:2
 msgid "Comment=X Terminal"
-msgstr "Comment=X-Терм╕нал"
+msgstr "Comment=X-п╒п╣я─п╪я√п╫п╟п╩"
 
 #: kdebase/kappfinder/apps/WordProcessing/.directory:1
 msgid "Name=Word Processing"
-msgstr "Name=Текстовий процесор"
+msgstr "Name=п╒п╣п╨я│я┌п╬п╡п╦п╧ п©я─п╬я├п╣я│п╬я─"
 
 #: kdebase/kappfinder/apps/WordProcessing/WordPerfect.desktop:1
 msgid "Name=WordPerfect"
@@ -1685,11 +1685,11 @@ msgstr "Name=WordPerfect"
 
 #: kdebase/kappfinder/apps/WordProcessing/WordPerfect.desktop:2
 msgid "Comment=WordPerfect Word Processor"
-msgstr "Comment=Текстовий процесор WordPerfect"
+msgstr "Comment=п╒п╣п╨я│я┌п╬п╡п╦п╧ п©я─п╬я├п╣я│п╬я─ WordPerfect"
 
 #: kdebase/kappfinder/apps/WordProcessing/acroread.desktop:2
 msgid "Comment=Reader for Acrobat documents"
-msgstr "Comment=Читач файл╕в Acrobat-PDF"
+msgstr "Comment=п╖п╦я┌п╟я┤ я└п╟п╧п╩я√п╡ Acrobat-PDF"
 
 #: kdebase/kappfinder/apps/WordProcessing/ghostview.desktop:1
 msgid "Name=GhostView"
@@ -1697,7 +1697,7 @@ msgstr "Name=GhostView"
 
 #: kdebase/kappfinder/apps/WordProcessing/ghostview.desktop:2
 msgid "Comment=Postscript Viewer"
-msgstr "Comment=Переглядач PostScript"
+msgstr "Comment=п÷п╣я─п╣пЁп╩я▐п╢п╟я┤ PostScript"
 
 #: kdebase/kappfinder/apps/WordProcessing/gv.desktop:1
 msgid "Name=GV"
@@ -1709,7 +1709,7 @@ msgstr "Name=Lyx"
 
 #: kdebase/kappfinder/apps/WordProcessing/lyx.desktop:2
 msgid "Comment=The lyx text processor"
-msgstr "Comment=Текстовий процесор LyX"
+msgstr "Comment=п╒п╣п╨я│я┌п╬п╡п╦п╧ п©я─п╬я├п╣я│п╬я─ LyX"
 
 #: kdebase/kappfinder/apps/WordProcessing/xdvi.desktop:1
 msgid "Name=X DVI"
@@ -1717,7 +1717,7 @@ msgstr "Name=X DVI"
 
 #: kdebase/kappfinder/apps/WordProcessing/xdvi.desktop:2
 msgid "Comment=DVI Viewer"
-msgstr "Comment=Переглядач DVI"
+msgstr "Comment=п÷п╣я─п╣пЁп╩я▐п╢п╟я┤ DVI"
 
 #: kdebase/kappfinder/apps/WordProcessing/xpdf.desktop:1
 msgid "Name=X PDF"
@@ -1725,23 +1725,23 @@ msgstr "Name=X PDF"
 
 #: kdebase/kappfinder/apps/WordProcessing/xpdf.desktop:2
 msgid "Comment=PDF Viewer"
-msgstr "Comment=Переглядач PDF"
+msgstr "Comment=п÷п╣я─п╣пЁп╩я▐п╢п╟я┤ PDF"
 
 #: kdebase/kcontrol/locale/default/entry.desktop:1
 msgid "Name=English US"
-msgstr "Name=Англ╕йська (США)"
+msgstr "Name=п░п╫пЁп╩я√п╧я│я▄п╨п╟ (п║п╗п░)"
 
 #: kdebase/kcontrol/themes/kthememgr.desktop:1
 msgid "Name=Theme Manager"
-msgstr "Name=Менеджер тем"
+msgstr "Name=п°п╣п╫п╣п╢п╤п╣я─ я┌п╣п╪"
 
 #: kdebase/kcontrol/themes/kthememgr.desktop:2
 msgid "Comment=Manager for Desktop Themes"
-msgstr "Comment=Менеджер для тем робочого столу"
+msgstr "Comment=п°п╣п╫п╣п╢п╤п╣я─ п╢п╩я▐ я┌п╣п╪ я─п╬п╠п╬я┤п╬пЁп╬ я│я┌п╬п╩я┐"
 
 #: kdebase/kdesktop/init/Templates/Device.desktop:1
 msgid "Name=File System Device"
-msgstr "Name=Пристр╕й файлово╖ системи"
+msgstr "Name=п÷я─п╦я│я┌я─я√п╧ я└п╟п╧п╩п╬п╡п╬я≈ я│п╦я│я┌п╣п╪п╦"
 
 #: kdebase/kdesktop/init/Templates/FtpURL.desktop:1
 msgid "Name=FTP URL"
@@ -1749,15 +1749,15 @@ msgstr "Name=FTP URL"
 
 #: kdebase/kdesktop/init/Templates/MimeType.desktop:1
 msgid "Name=Mime Type"
-msgstr "Name=Тип MIME"
+msgstr "Name=п╒п╦п© MIME"
 
 #: kdebase/kdesktop/init/Templates/Program.desktop:1
 msgid "Name=Application"
-msgstr "Name=Програма"
+msgstr "Name=п÷я─п╬пЁя─п╟п╪п╟"
 
 #: kdebase/kdesktop/init/Templates/URL.desktop:1
 msgid "Name=Internet Address (URL)"
-msgstr "Name=Адреса в ╤нтернет (URL)"
+msgstr "Name=п░п╢я─п╣я│п╟ п╡ п├п╫я┌п╣я─п╫п╣я┌ (URL)"
 
 #: kdebase/kdesktop/init/Templates/WWWURL.desktop:1
 msgid "Name=World Wide Web URL"
@@ -1765,15 +1765,15 @@ msgstr "Name=World Wide Web URL"
 
 #: kdebase/kdesktop/patterns/fish.desktop:2
 msgid "Comment=Fish Net"
-msgstr "Comment=Рибальська с╕тка"
+msgstr "Comment=п═п╦п╠п╟п╩я▄я│я▄п╨п╟ я│я√я┌п╨п╟"
 
 #: kdebase/kdesktop/patterns/flowers.desktop:2
 msgid "Comment=Flowers"
-msgstr "Comment=Кв╕ти"
+msgstr "Comment=п п╡я√я┌п╦"
 
 #: kdebase/kdesktop/patterns/night-rock.desktop:2
 msgid "Comment=Night Rock by Tigert"
-msgstr "Name=Н╕чн╕ скел╕ Тай╜ерта"
+msgstr "Name=п²я√я┤п╫я√ я│п╨п╣п╩я√ п╒п╟п╧р▒п╣я─я┌п╟"
 
 #: kdebase/kdesktop/patterns/pavement.desktop:2
 msgid "Comment=Pavement"
@@ -1785,19 +1785,19 @@ msgstr ""
 
 #: kdebase/kdesktop/patterns/stonewall2.desktop:2
 msgid "Comment=Stonewall 2 by Tigert"
-msgstr "Name=Кам'яна ст╕на 2 Тай╜ерта"
+msgstr "Name=п п╟п╪'я▐п╫п╟ я│я┌я√п╫п╟ 2 п╒п╟п╧р▒п╣я─я┌п╟"
 
 #: kdebase/kdesktop/patterns/triangles.desktop:2
 msgid "Comment=Triangles"
-msgstr "Comment=Трикутники"
+msgstr "Comment=п╒я─п╦п╨я┐я┌п╫п╦п╨п╦"
 
 #: kdebase/kdesktop/programs/xearth.desktop:2
 msgid "Comment=XEarth by Kirk Johnson"
-msgstr "Comment=XEarth К╕рка Джонсона"
+msgstr "Comment=XEarth п я√я─п╨п╟ п■п╤п╬п╫я│п╬п╫п╟"
 
 #: kdebase/kdesktop/programs/xglobe.desktop:2
 msgid "Comment=XGlobe by Thorsten Scheuermann"
-msgstr "Comment=XGlobe Торстена Шо╓рмана"
+msgstr "Comment=XGlobe п╒п╬я─я│я┌п╣п╫п╟ п╗п╬я■я─п╪п╟п╫п╟"
 
 #: kdebase/kdewizard/data/kdedevel.desktop:1
 msgid "Name=developer.kde.org"
@@ -1813,11 +1813,11 @@ msgstr "Name=www.kde.org"
 
 #: kdebase/kdewizard/data/printer.desktop:1
 msgid "Name=Printer"
-msgstr "Name=Принтер"
+msgstr "Name=п÷я─п╦п╫я┌п╣я─"
 
 #: kdebase/kdewizard/kdewizard.desktop:1
 msgid "Name=KDE Configuration Wizard"
-msgstr "Name=Майстер конф╕гурац╕╖ KDE"
+msgstr "Name=п°п╟п╧я│я┌п╣я─ п╨п╬п╫я└я√пЁя┐я─п╟я├я√я≈ KDE"
 
 #: kdebase/kdewizard/kdewizard.desktop:2
 msgid "Comment="
@@ -1825,39 +1825,39 @@ msgstr "Comment="
 
 #: kdebase/khelpcenter/khelpcenter.desktop:2
 msgid "Comment=The KDE Help Center"
-msgstr "Comment=Центр дов╕док KDE"
+msgstr "Comment=п╕п╣п╫я┌я─ п╢п╬п╡я√п╢п╬п╨ KDE"
 
 #: kdebase/khelpcenter/plugins/Tutorials/.directory:1
 msgid "Name=Tutorials"
-msgstr "Name=П╕дручники"
+msgstr "Name=п÷я√п╢я─я┐я┤п╫п╦п╨п╦"
 
 #: kdebase/khelpcenter/plugins/Tutorials/.directory:2
 msgid "Comment=Tutorial and introduction documents."
-msgstr "Comment=П╕дручники та ознайомч╕ документи"
+msgstr "Comment=п÷я√п╢я─я┐я┤п╫п╦п╨п╦ я┌п╟ п╬п╥п╫п╟п╧п╬п╪я┤я√ п╢п╬п╨я┐п╪п╣п╫я┌п╦"
 
 #: kdebase/khelpcenter/plugins/Tutorials/quickstart.kdelnk:1
 msgid "Name=Quickstart Guide"
-msgstr "Name=Вказ╕вки для швидкого старту"
+msgstr "Name=п▓п╨п╟п╥я√п╡п╨п╦ п╢п╩я▐ я┬п╡п╦п╢п╨п╬пЁп╬ я│я┌п╟я─я┌я┐"
 
 #: kdebase/khelpcenter/plugins/Tutorials/quickstart.kdelnk:2
 msgid "Comment=KDE quickstart guid."
-msgstr "Comment=Вказ╕вки для швидкого старту."
+msgstr "Comment=п▓п╨п╟п╥я√п╡п╨п╦ п╢п╩я▐ я┬п╡п╦п╢п╨п╬пЁп╬ я│я┌п╟я─я┌я┐."
 
 #: kdebase/kicker/applets/kpager/kpagerapplet.desktop:1
 msgid "Name=Desktop Pager"
-msgstr "Name=Перемикач робочих стол╕в"
+msgstr "Name=п÷п╣я─п╣п╪п╦п╨п╟я┤ я─п╬п╠п╬я┤п╦я┘ я│я┌п╬п╩я√п╡"
 
 #: kdebase/kicker/applets/kpager/kpagerapplet.desktop:2
 msgid "Comment=Manage your windows"
-msgstr "Comment=Настройте Ваш╕ в╕кна"
+msgstr "Comment=п²п╟я│я┌я─п╬п╧я┌п╣ п▓п╟я┬я√ п╡я√п╨п╫п╟"
 
 #: kdebase/kicker/browserapplnk/Home.desktop:1
 msgid "Name=Home"
-msgstr "Name=Д╕м"
+msgstr "Name=п■я√п╪"
 
 #: kdebase/kicker/browserapplnk/Home.desktop:2
 msgid "Comment=Personal Files"
-msgstr "Comment=Особист╕ файли"
+msgstr "Comment=п·я│п╬п╠п╦я│я┌я√ я└п╟п╧п╩п╦"
 
 #: kdebase/kicker/browserapplnk/KDE.desktop:1
 msgid "Name=KDE"
@@ -1865,19 +1865,19 @@ msgstr "Name=KDE"
 
 #: kdebase/kicker/browserapplnk/KDE.desktop:2
 msgid "Comment=KDE Installation Folder"
-msgstr "Comment=Тека ╕нсталяц╕╖ KDE"
+msgstr "Comment=п╒п╣п╨п╟ я√п╫я│я┌п╟п╩я▐я├я√я≈ KDE"
 
 #: kdebase/kicker/browserapplnk/Root.desktop:1
 msgid "Name=Root"
-msgstr "Name=Кор╕нь"
+msgstr "Name=п п╬я─я√п╫я▄"
 
 #: kdebase/kicker/browserapplnk/Root.desktop:2
 msgid "Comment=Root Folder"
-msgstr "Comment=Корнева тека"
+msgstr "Comment=п п╬я─п╫п╣п╡п╟ я┌п╣п╨п╟"
 
 #: kdebase/kicker/internalplugin/date/kdateapplet.desktop:1
 msgid "Name=Kicker Date Applet"
-msgstr "Name=Kicker: м╕н╕програма ман╕пулювання датою"
+msgstr "Name=Kicker: п╪я√п╫я√п©я─п╬пЁя─п╟п╪п╟ п╪п╟п╫я√п©я┐п╩я▌п╡п╟п╫п╫я▐ п╢п╟я┌п╬я▌"
 
 #: kdebase/kicker/internalplugin/kasbar/kasbarapplet.desktop:1
 msgid "Name=Kasbar Applet"
@@ -1897,300 +1897,300 @@ msgstr ""
 
 #: kdebase/kicker/personal.desktop:1
 msgid "Name=Personal"
-msgstr "Name=Особистий"
+msgstr "Name=п·я│п╬п╠п╦я│я┌п╦п╧"
 
 #: kdebase/kikbd/i18nkeyb.desktop:1
 msgid "Name=International Keyboard"
-msgstr "Name=М╕жнародна клав╕атура"
+msgstr "Name=п°я√п╤п╫п╟я─п╬п╢п╫п╟ п╨п╩п╟п╡я√п╟я┌я┐я─п╟"
 
 #: kdebase/kikbd/i18nkeyb.desktop:2
 msgid "Comment=International Keyboard"
-msgstr "Comment=М╕жнародна клав╕атура"
+msgstr "Comment=п°я√п╤п╫п╟я─п╬п╢п╫п╟ п╨п╩п╟п╡я√п╟я┌я┐я─п╟"
 
 #: kdebase/kikbd/maps/af.kimap:3
 msgid "Language=Afrikaans (on a US keyboard)"
-msgstr "Language=Африканська (на клав╕атур╕ США)"
+msgstr "Language=п░я└я─п╦п╨п╟п╫я│я▄п╨п╟ (п╫п╟ п╨п╩п╟п╡я√п╟я┌я┐я─я√ п║п╗п░)"
 
 #: kdebase/kikbd/maps/ar.kimap:1
 msgid "Name=Arabic"
-msgstr "Name=Арабська"
+msgstr "Name=п░я─п╟п╠я│я▄п╨п╟"
 
 #: kdebase/kikbd/maps/be.kimap:3
 msgid "Language=Belgian(Dutch)"
-msgstr "Language=Бельг╕йська (Голландська)"
+msgstr "Language=п▒п╣п╩я▄пЁя√п╧я│я▄п╨п╟ (п⌠п╬п╩п╩п╟п╫п╢я│я▄п╨п╟)"
 
 #: kdebase/kikbd/maps/bg-bds.kimap:2
 msgid "Comment=Phonetic layout. Has English characters as alternate symbols."
-msgstr "Comment=Фонетичний розклад. Англ╕йськ╕ символи як альтернативн╕."
+msgstr "Comment=п╓п╬п╫п╣я┌п╦я┤п╫п╦п╧ я─п╬п╥п╨п╩п╟п╢. п░п╫пЁп╩я√п╧я│я▄п╨я√ я│п╦п╪п╡п╬п╩п╦ я▐п╨ п╟п╩я▄я┌п╣я─п╫п╟я┌п╦п╡п╫я√."
 
 #: kdebase/kikbd/maps/bg-bds.kimap:3
 msgid "Language=Bulgarian"
-msgstr "Language=Болгарська"
+msgstr "Language=п▒п╬п╩пЁп╟я─я│я▄п╨п╟"
 
 #: kdebase/kikbd/maps/cf.kimap:1
 msgid "Name=Canadian French"
-msgstr "Name=Канадська французька"
+msgstr "Name=п п╟п╫п╟п╢я│я▄п╨п╟ я└я─п╟п╫я├я┐п╥я▄п╨п╟"
 
 #: kdebase/kikbd/maps/csp.kimap:2
 msgid "Comment=Programmers Keyboard"
-msgstr "Comment=Програмерська клав╕атура"
+msgstr "Comment=п÷я─п╬пЁя─п╟п╪п╣я─я│я▄п╨п╟ п╨п╩п╟п╡я√п╟я┌я┐я─п╟"
 
 #: kdebase/kikbd/maps/csy.kimap:2
 msgid "Comment=Typewriter Keyboard (QWERTY)"
-msgstr "Comment=Клав╕атура дукарсько╖ машинки (QWERTY)"
+msgstr "Comment=п п╩п╟п╡я√п╟я┌я┐я─п╟ п╢я┐п╨п╟я─я│я▄п╨п╬я≈ п╪п╟я┬п╦п╫п╨п╦ (QWERTY)"
 
 #: kdebase/kikbd/maps/csz.kimap:2
 msgid "Comment=Typewriter Keyboard (QWERTZ)"
-msgstr "Comment=Клав╕атура дукарсько╖ машинки (QWERTZ)"
+msgstr "Comment=п п╩п╟п╡я√п╟я┌я┐я─п╟ п╢я┐п╨п╟я─я│я▄п╨п╬я≈ п╪п╟я┬п╦п╫п╨п╦ (QWERTZ)"
 
 #: kdebase/kikbd/maps/de.kimap:2
 msgid "Comment=German Keyboard (Germany)"
-msgstr "Comment=Н╕мецька Клав╕атура (Н╕меччина)"
+msgstr "Comment=п²я√п╪п╣я├я▄п╨п╟ п п╩п╟п╡я√п╟я┌я┐я─п╟ (п²я√п╪п╣я┤я┤п╦п╫п╟)"
 
 #: kdebase/kikbd/maps/de_ch.kimap:1
 msgid "Name=German (Switzerland)"
-msgstr "Name=Н╕мецька (Швейцар╕я)"
+msgstr "Name=п²я√п╪п╣я├я▄п╨п╟ (п╗п╡п╣п╧я├п╟я─я√я▐)"
 
 #: kdebase/kikbd/maps/de_ch.kimap:2
 msgid "Comment=German Keyboard (Switzerland)"
-msgstr "Comment=Н╕мецька клав╕атура (Швейцар╕я)"
+msgstr "Comment=п²я√п╪п╣я├я▄п╨п╟ п╨п╩п╟п╡я√п╟я┌я┐я─п╟ (п╗п╡п╣п╧я├п╟я─я√я▐)"
 
 #: kdebase/kikbd/maps/dk.kimap:2
 msgid "Comment=Normal layout"
-msgstr "Comment=Нормальний розклад"
+msgstr "Comment=п²п╬я─п╪п╟п╩я▄п╫п╦п╧ я─п╬п╥п╨п╩п╟п╢"
 
 #: kdebase/kikbd/maps/dv.kimap:1
 msgid "Name=English/Dvorak"
-msgstr "Name=Англ╕йська/Dvorak-розклад"
+msgstr "Name=п░п╫пЁп╩я√п╧я│я▄п╨п╟/Dvorak-я─п╬п╥п╨п╩п╟п╢"
 
 #: kdebase/kikbd/maps/dva.kimap:1
 msgid "Name=English-Dvorak with accents"
-msgstr "Name=Англ╕йська/Dvorak-розклад з акцентами"
+msgstr "Name=п░п╫пЁп╩я√п╧я│я▄п╨п╟/Dvorak-я─п╬п╥п╨п╩п╟п╢ п╥ п╟п╨я├п╣п╫я┌п╟п╪п╦"
 
 msgid ""
 "Comment=Hellenic Keyboard (Latin-1 keysyms corresponding to ISO8859-7 "
 "indexes)"
-msgstr "Comment=Гальська клав╕атура (Клав╕атура типу Latin-1 яка в╕дпов╕да╓ ╕ндексам ISO8859-7)"
+msgstr "Comment=п⌠п╟п╩я▄я│я▄п╨п╟ п╨п╩п╟п╡я√п╟я┌я┐я─п╟ (п п╩п╟п╡я√п╟я┌я┐я─п╟ я┌п╦п©я┐ Latin-1 я▐п╨п╟ п╡я√п╢п©п╬п╡я√п╢п╟я■ я√п╫п╢п╣п╨я│п╟п╪ ISO8859-7)"
 
 #: kdebase/kikbd/maps/el7.kimap:2
 msgid "Comment=Hellenic Keyboard (standard ISO8859-7 keysyms)"
-msgstr "Comment=Гальська клав╕атура (стандартн╕ ISO8859-7 коди)"
+msgstr "Comment=п⌠п╟п╩я▄я│я▄п╨п╟ п╨п╩п╟п╡я√п╟я┌я┐я─п╟ (я│я┌п╟п╫п╢п╟я─я┌п╫я√ ISO8859-7 п╨п╬п╢п╦)"
 
 #: kdebase/kikbd/maps/en.kimap:1
 msgid "Name=English"
-msgstr "Name=Англ╕йська"
+msgstr "Name=п░п╫пЁп╩я√п╧я│я▄п╨п╟"
 
 #: kdebase/kikbd/maps/et-nodeadkeys.kimap:2
 msgid "Comment=Estonian layout without dead keys"
-msgstr "Comment=Естонський розклад без умляут╕в"
+msgstr "Comment=п∙я│я┌п╬п╫я│я▄п╨п╦п╧ я─п╬п╥п╨п╩п╟п╢ п╠п╣п╥ я┐п╪п╩я▐я┐я┌я√п╡"
 
 #: kdebase/kikbd/maps/et-nodeadkeys.kimap:3
 msgid "Language=Estonian"
-msgstr "Language=Естонська"
+msgstr "Language=п∙я│я┌п╬п╫я│я▄п╨п╟"
 
 #: kdebase/kikbd/maps/et.kimap:2
 msgid "Comment=Estonian layout"
-msgstr "Comment=Естонський розклад"
+msgstr "Comment=п∙я│я┌п╬п╫я│я▄п╨п╦п╧ я─п╬п╥п╨п╩п╟п╢"
 
 #: kdebase/kikbd/maps/fr_ch.kimap:1
 msgid "Name=French (Switzerland)"
-msgstr "Name=Французька (Швейцар╕я)"
+msgstr "Name=п╓я─п╟п╫я├я┐п╥я▄п╨п╟ (п╗п╡п╣п╧я├п╟я─я√я▐)"
 
 #: kdebase/kikbd/maps/fr_ch.kimap:2
 msgid "Comment=French Keyboard (Switzerland)"
-msgstr "Comment=Французький розклад (Швейцар╕я)"
+msgstr "Comment=п╓я─п╟п╫я├я┐п╥я▄п╨п╦п╧ я─п╬п╥п╨п╩п╟п╢ (п╗п╡п╣п╧я├п╟я─я√я▐)"
 
 #: kdebase/kikbd/maps/hr.kimap:2
 msgid "Comment=Croatian keyboard layout"
-msgstr "Comment=Хорватський розклад клав╕атури"
+msgstr "Comment=п╔п╬я─п╡п╟я┌я│я▄п╨п╦п╧ я─п╬п╥п╨п╩п╟п╢ п╨п╩п╟п╡я√п╟я┌я┐я─п╦"
 
 #: kdebase/kikbd/maps/hu-101.kimap:2
 msgid "Comment=Hungarian keyboard layout for keyboards with 101 keys."
-msgstr "Comment=Угорський розклад для клав╕атур з 101 клав╕шею."
+msgstr "Comment=пёпЁп╬я─я│я▄п╨п╦п╧ я─п╬п╥п╨п╩п╟п╢ п╢п╩я▐ п╨п╩п╟п╡я√п╟я┌я┐я─ п╥ 101 п╨п╩п╟п╡я√я┬п╣я▌."
 
 msgid ""
 "Comment=Hungarian _ALT_ keyboard layout. Basically the original UK layout "
 "plus hungarian accented characters via the ALT key."
 msgstr ""
-"Comment=Угорський _ALT_ розклад клав╕атури. Базу╓ться на розкладу UK "
-"плюс угорськ╕ акцентован╕ символи через клав╕шу ALT."
+"Comment=пёпЁп╬я─я│я▄п╨п╦п╧ _ALT_ я─п╬п╥п╨п╩п╟п╢ п╨п╩п╟п╡я√п╟я┌я┐я─п╦. п▒п╟п╥я┐я■я┌я▄я│я▐ п╫п╟ я─п╬п╥п╨п╩п╟п╢я┐ UK "
+"п©п╩я▌я│ я┐пЁп╬я─я│я▄п╨я√ п╟п╨я├п╣п╫я┌п╬п╡п╟п╫я√ я│п╦п╪п╡п╬п╩п╦ я┤п╣я─п╣п╥ п╨п╩п╟п╡я√я┬я┐ ALT."
 
 #: kdebase/kikbd/maps/hu-alt.kimap:3
 msgid "Language=Hungarian"
-msgstr "Language=Угорська"
+msgstr "Language=пёпЁп╬я─я│я▄п╨п╟"
 
 msgid ""
 "Comment=Hungarian QWERTY keyboard layout. It's recomended the use of the "
 "Caps Lock emulation."
 msgstr ""
-"Comment=Угорський розклад клав╕атури QWERTY. Бажано використовувати "
-"емуляц╕ю Caps Lock."
+"Comment=пёпЁп╬я─я│я▄п╨п╦п╧ я─п╬п╥п╨п╩п╟п╢ п╨п╩п╟п╡я√п╟я┌я┐я─п╦ QWERTY. п▒п╟п╤п╟п╫п╬ п╡п╦п╨п╬я─п╦я│я┌п╬п╡я┐п╡п╟я┌п╦ "
+"п╣п╪я┐п╩я▐я├я√я▌ Caps Lock."
 
 #: kdebase/kikbd/maps/it.kimap:2
 msgid "Comment=Italian Keyboard (Italy)"
-msgstr "Comment=╤тал╕йська клав╕атура (╤тал╕я)"
+msgstr "Comment=п├я┌п╟п╩я√п╧я│я▄п╨п╟ п╨п╩п╟п╡я√п╟я┌я┐я─п╟ (п├я┌п╟п╩я√я▐)"
 
 #: kdebase/kikbd/maps/la.kimap:1
 msgid "Name=Spanish-Latin American"
-msgstr "Name=╤спанська (Латинська америка)"
+msgstr "Name=п├я│п©п╟п╫я│я▄п╨п╟ (п⌡п╟я┌п╦п╫я│я▄п╨п╟ п╟п╪п╣я─п╦п╨п╟)"
 
 #: kdebase/kikbd/maps/lt.kimap:1
 msgid "Name=Lithuanian"
-msgstr "Name=Л╕товська"
+msgstr "Name=п⌡я√я┌п╬п╡я│я▄п╨п╟"
 
 #: kdebase/kikbd/maps/lt_w.kimap:3
 msgid "Language=Lithuanian"
-msgstr "Language=Л╕товська"
+msgstr "Language=п⌡я√я┌п╬п╡я│я▄п╨п╟"
 
 #: kdebase/kikbd/maps/no.kimap:1
 msgid "Name=Norwegian"
-msgstr "Name=Норвезька"
+msgstr "Name=п²п╬я─п╡п╣п╥я▄п╨п╟"
 
 #: kdebase/kikbd/maps/obsolete/el.kimap:3
 msgid "Language=Greek"
-msgstr "Language=Грецька"
+msgstr "Language=п⌠я─п╣я├я▄п╨п╟"
 
 #: kdebase/kikbd/maps/pl.kimap:2
 msgid "Comment=Polish 'programmers' Keyboard"
-msgstr "Comment=Польська 'програмерська' клав╕атура"
+msgstr "Comment=п÷п╬п╩я▄я│я▄п╨п╟ 'п©я─п╬пЁя─п╟п╪п╣я─я│я▄п╨п╟' п╨п╩п╟п╡я√п╟я┌я┐я─п╟"
 
 #: kdebase/kikbd/maps/plnew.kimap:2
 msgid "Comment=New \"programmer's\" keyboard"
-msgstr "Comment=Нова програмерська клав╕атура"
+msgstr "Comment=п²п╬п╡п╟ п©я─п╬пЁя─п╟п╪п╣я─я│я▄п╨п╟ п╨п╩п╟п╡я√п╟я┌я┐я─п╟"
 
 #: kdebase/kikbd/maps/pt-acc.kimap:1
 msgid "Name=Portugues Acentos Minusculas"
-msgstr "Name=Португальска \"Acentos Minusculas\""
+msgstr "Name=п÷п╬я─я┌я┐пЁп╟п╩я▄я│п╨п╟ \"Acentos Minusculas\""
 
 #: kdebase/kikbd/maps/pt.kimap:1
 msgid "Name=Portugues"
-msgstr "Name=Португальска"
+msgstr "Name=п÷п╬я─я┌я┐пЁп╟п╩я▄я│п╨п╟"
 
 msgid ""
 "Comment=Romanian keyboard layout \t(diacriticele sunt mapate pe "
 "ALTGR+[q,a,s,t,i] )"
 msgstr ""
-"Comment=Румунський розклад клав╕атури \t(diacriticele sunt mapate pe "
+"Comment=п═я┐п╪я┐п╫я│я▄п╨п╦п╧ я─п╬п╥п╨п╩п╟п╢ п╨п╩п╟п╡я√п╟я┌я┐я─п╦ \t(diacriticele sunt mapate pe "
 "ALTGR+[q,a,s,t,i] )"
 
 msgid ""
 "Comment=The normal romanian keyboard layout. It's recomended the use of the "
 "Caps Lock emulation."
 msgstr ""
-"Comment=Стандартна румунська клав╕атура.  Бажано використовувати "
-"емуляц╕ю Caps Lock."
+"Comment=п║я┌п╟п╫п╢п╟я─я┌п╫п╟ я─я┐п╪я┐п╫я│я▄п╨п╟ п╨п╩п╟п╡я√п╟я┌я┐я─п╟.  п▒п╟п╤п╟п╫п╬ п╡п╦п╨п╬я─п╦я│я┌п╬п╡я┐п╡п╟я┌п╦ "
+"п╣п╪я┐п╩я▐я├я√я▌ Caps Lock."
 
 #: kdebase/kikbd/maps/ru.kimap:2
 msgid "Comment=Has latin characters as alternate symbols."
-msgstr "Comment=Ма╓ латинськ╕ символи як альтернативн╕."
+msgstr "Comment=п°п╟я■ п╩п╟я┌п╦п╫я│я▄п╨я√ я│п╦п╪п╡п╬п╩п╦ я▐п╨ п╟п╩я▄я┌п╣я─п╫п╟я┌п╦п╡п╫я√."
 
 #: kdebase/kikbd/maps/rum.kimap:2
 msgid "Comment=Microsoft layout. Has English characters as alternate symbols."
-msgstr "Comment=Розкладка Microsoft. Ма╓ англ╕йськ╕ символи як альтернативн╕."
+msgstr "Comment=п═п╬п╥п╨п╩п╟п╢п╨п╟ Microsoft. п°п╟я■ п╟п╫пЁп╩я√п╧я│я▄п╨я√ я│п╦п╪п╡п╬п╩п╦ я▐п╨ п╟п╩я▄я┌п╣я─п╫п╟я┌п╦п╡п╫я√."
 
 #: kdebase/kikbd/maps/ruw.kimap:2
 msgid "Comment=Has English characters as alternate symbols."
-msgstr "Comment=Ма╓ англ╕йськ╕ символи як альтернативн╕."
+msgstr "Comment=п°п╟я■ п╟п╫пЁп╩я√п╧я│я▄п╨я√ я│п╦п╪п╡п╬п╩п╦ я▐п╨ п╟п╩я▄я┌п╣я─п╫п╟я┌п╦п╡п╫я√."
 
 #: kdebase/kikbd/maps/sl.kimap:2
 msgid "Comment=Slovenian keyboard"
-msgstr "Comment=Словенська клав╕атура"
+msgstr "Comment=п║п╩п╬п╡п╣п╫я│я▄п╨п╟ п╨п╩п╟п╡я√п╟я┌я┐я─п╟"
 
 #: kdebase/kikbd/maps/sr.kimap:2
 msgid "Comment=Serbian keyboard layout (cyrillic)"
-msgstr "Comment=Сербський розклад клав╕атури (кириллиця)"
+msgstr "Comment=п║п╣я─п╠я│я▄п╨п╦п╧ я─п╬п╥п╨п╩п╟п╢ п╨п╩п╟п╡я√п╟я┌я┐я─п╦ (п╨п╦я─п╦п╩п╩п╦я├я▐)"
 
 #: kdebase/kikbd/maps/sr.kimap:3
 msgid "Language=Serbian"
-msgstr "Language=Сербська"
+msgstr "Language=п║п╣я─п╠я│я▄п╨п╟"
 
 #: kdebase/kikbd/maps/sr_YU.kimap:2
 msgid "Comment=Serbian (latin) keyboard layout"
-msgstr "Comment=Серьський (латинський) розклад клав╕атури"
+msgstr "Comment=п║п╣я─я▄я│я▄п╨п╦п╧ (п╩п╟я┌п╦п╫я│я▄п╨п╦п╧) я─п╬п╥п╨п╩п╟п╢ п╨п╩п╟п╡я√п╟я┌я┐я─п╦"
 
 #: kdebase/kikbd/maps/ta.kimap:2
 msgid "Comment=This is a Tamil language keymap. Last update March 11, 2000."
-msgstr "Comment=Це там╕льський розклад клав╕ш. Останн╓ поновлювання 11 Березня 2000 р."
+msgstr "Comment=п╕п╣ я┌п╟п╪я√п╩я▄я│я▄п╨п╦п╧ я─п╬п╥п╨п╩п╟п╢ п╨п╩п╟п╡я√я┬. п·я│я┌п╟п╫п╫я■ п©п╬п╫п╬п╡п╩я▌п╡п╟п╫п╫я▐ 11 п▒п╣я─п╣п╥п╫я▐ 2000 я─."
 
 #: kdebase/kikbd/maps/ta.kimap:3
 msgid "Language=Tamil"
-msgstr "Language=Там╕льська"
+msgstr "Language=п╒п╟п╪я√п╩я▄я│я▄п╨п╟"
 
 #: kdebase/kikbd/maps/th.kimap:2
 msgid "Comment=This is a Thai language keymap. Last update March 14, 1999."
-msgstr "Comment=Це тайський розклад клав╕ш. Останн╓ поновлювання 14 Березня 1999 р."
+msgstr "Comment=п╕п╣ я┌п╟п╧я│я▄п╨п╦п╧ я─п╬п╥п╨п╩п╟п╢ п╨п╩п╟п╡я√я┬. п·я│я┌п╟п╫п╫я■ п©п╬п╫п╬п╡п╩я▌п╡п╟п╫п╫я▐ 14 п▒п╣я─п╣п╥п╫я▐ 1999 я─."
 
 #: kdebase/kikbd/maps/trf.kimap:2
 msgid "Comment=Turkish F Keyboard (Turkey)"
-msgstr "Comment=Турецька F-клав╕атура (Туреччина)"
+msgstr "Comment=п╒я┐я─п╣я├я▄п╨п╟ F-п╨п╩п╟п╡я√п╟я┌я┐я─п╟ (п╒я┐я─п╣я┤я┤п╦п╫п╟)"
 
 #: kdebase/kikbd/maps/trf.kimap:3
 msgid "Language=Turkish"
-msgstr "Language=Турецька"
+msgstr "Language=п╒я┐я─п╣я├я▄п╨п╟"
 
 #: kdebase/kikbd/maps/trq.kimap:2
 msgid "Comment=Turkish Q Keyboard (Turkey)"
-msgstr "Comment=Турецька Q-клав╕атура (Туреччина)"
+msgstr "Comment=п╒я┐я─п╣я├я▄п╨п╟ Q-п╨п╩п╟п╡я√п╟я┌я┐я─п╟ (п╒я┐я─п╣я┤я┤п╦п╫п╟)"
 
 #: kdebase/kikbd/maps/ua.kimap:1
 msgid "Name=Ukrainian"
-msgstr "Name=Укра╖нська"
+msgstr "Name=пёп╨я─п╟я≈п╫я│я▄п╨п╟"
 
 #: kdebase/kikbd/maps/weu.kimap:1
 msgid "Name=European (west) on a US keyboard."
-msgstr "Name=Зах╕дно╓вропейська на клав╕атур╕ США."
+msgstr "Name=п≈п╟я┘я√п╢п╫п╬я■п╡я─п╬п©п╣п╧я│я▄п╨п╟ п╫п╟ п╨п╩п╟п╡я√п╟я┌я┐я─я√ п║п╗п░."
 
 #: kdebase/konqueror/dirtree/.directory:1
 msgid "Name=FTP Servers"
-msgstr "Name=FTP-Сервери"
+msgstr "Name=FTP-п║п╣я─п╡п╣я─п╦"
 
 #: kdebase/konqueror/dirtree/dirtree_profile.desktop:1
 msgid "Name=A Directory Tree and an Icon View"
-msgstr "Name=Вигляд структури каталог╕в з п╕ктограммами"
+msgstr "Name=п▓п╦пЁп╩я▐п╢ я│я┌я─я┐п╨я┌я┐я─п╦ п╨п╟я┌п╟п╩п╬пЁя√п╡ п╥ п©я√п╨я┌п╬пЁя─п╟п╪п╪п╟п╪п╦"
 
 #: kdebase/konqueror/dirtree/kde_ftp.desktop:1
 msgid "Name=KDE's FTP Server"
-msgstr "Name=FTP-сервер KDE"
+msgstr "Name=FTP-я│п╣я─п╡п╣я─ KDE"
 
 #: kdebase/konqueror/dirtree/konq_dirtree.desktop:2
 msgid "Comment=Directory Tree"
-msgstr "Comment=Структура каталог╕в"
+msgstr "Comment=п║я┌я─я┐п╨я┌я┐я─п╟ п╨п╟я┌п╟п╩п╬пЁя√п╡"
 
 #: kdebase/konqueror/iconview/konq_iconview.desktop:2
 msgid "Comment=Icon View"
-msgstr "Comment=Вигляд п╕ктограммами"
+msgstr "Comment=п▓п╦пЁп╩я▐п╢ п©я√п╨я┌п╬пЁя─п╟п╪п╪п╟п╪п╦"
 
 #: kdebase/konqueror/konq_metaview.desktop:2
 msgid "Comment=Meta View"
-msgstr "Comment=Мета-вигляд"
+msgstr "Comment=п°п╣я┌п╟-п╡п╦пЁп╩я▐п╢"
 
 #: kdebase/konqueror/konq_plugin.desktop:1
 msgid "Name=Konqueror Plugin"
-msgstr "Name=Модуль Konqueror"
+msgstr "Name=п°п╬п╢я┐п╩я▄ Konqueror"
 
 #: kdebase/konqueror/konqueror.desktop:2
 msgid "Comment=KDE File Manager & Web Browser"
-msgstr "Comment=KDE менеджер файл╕в та Web-переглядач"
+msgstr "Comment=KDE п╪п╣п╫п╣п╢п╤п╣я─ я└п╟п╧п╩я√п╡ я┌п╟ Web-п©п╣я─п╣пЁп╩я▐п╢п╟я┤"
 
 #: kdebase/konqueror/listview/konq_detailedlistview.desktop:2
 msgid "Comment=Detailed List View"
-msgstr "Comment=Детальний вигляд списком"
+msgstr "Comment=п■п╣я┌п╟п╩я▄п╫п╦п╧ п╡п╦пЁп╩я▐п╢ я│п©п╦я│п╨п╬п╪"
 
 #: kdebase/konqueror/listview/konq_textview.desktop:2
 msgid "Comment=Text View"
-msgstr "Comment=Текстовий вигляд"
+msgstr "Comment=п╒п╣п╨я│я┌п╬п╡п╦п╧ п╡п╦пЁп╩я▐п╢"
 
 #: kdebase/konqueror/listview/konq_treeview.desktop:2
 msgid "Comment=Tree View"
-msgstr "Comment=Вигляд структури каталог╕в"
+msgstr "Comment=п▓п╦пЁп╩я▐п╢ я│я┌я─я┐п╨я┌я┐я─п╦ п╨п╟я┌п╟п╩п╬пЁя√п╡"
 
 #: kdebase/konsole/other/linux.desktop:1
 msgid "Name=Linux"
-msgstr "Name=Л╕нукс"
+msgstr "Name=п⌡я√п╫я┐п╨я│"
 
 #: kdebase/konsole/other/linux.desktop:2
 msgid "Comment=Linux Console"
-msgstr "Comment=Консоль Linux"
+msgstr "Comment=п п╬п╫я│п╬п╩я▄ Linux"
 
 #: kdebase/konsole/other/mc.desktop:1
 msgid "Name=MC"
@@ -2206,19 +2206,19 @@ msgstr "Name=Shell"
 
 #: kdebase/konsole/other/shell.desktop:2
 msgid "Comment=Shell"
-msgstr "Comment=Командна стр╕чка"
+msgstr "Comment=п п╬п╪п╟п╫п╢п╫п╟ я│я┌я─я√я┤п╨п╟"
 
 #: kdebase/konsole/other/su.desktop:1
 msgid "Name=Administrator"
-msgstr "Name=Системний адм╕н╕стратор"
+msgstr "Name=п║п╦я│я┌п╣п╪п╫п╦п╧ п╟п╢п╪я√п╫я√я│я┌я─п╟я┌п╬я─"
 
 #: kdebase/konsole/other/su.desktop:2
 msgid "Comment=Root Console"
-msgstr "Comment=Консоль системного адм╕н╕стратора"
+msgstr "Comment=п п╬п╫я│п╬п╩я▄ я│п╦я│я┌п╣п╪п╫п╬пЁп╬ п╟п╢п╪я√п╫я√я│я┌я─п╟я┌п╬я─п╟"
 
 #: kdebase/konsole/src/x-konsole.desktop:2
 msgid "Comment=File to open a shell"
-msgstr "Comment=Файл, для в╕дкривання програмно╖ оболонки"
+msgstr "Comment=п╓п╟п╧п╩, п╢п╩я▐ п╡я√п╢п╨я─п╦п╡п╟п╫п╫я▐ п©я─п╬пЁя─п╟п╪п╫п╬я≈ п╬п╠п╬п╩п╬п╫п╨п╦"
 
 #: kdebase/kwin/clients/b2/b2.desktop:1
 msgid "Name=B II"
@@ -2230,143 +2230,143 @@ msgstr "Name=KStep"
 
 #: kdebase/kwin/clients/kwmtheme/kwmtheme.desktop:1
 msgid "Name=KWM Theme"
-msgstr "Name=Тема KWM"
+msgstr "Name=п╒п╣п╪п╟ KWM"
 
 #: kdebase/kwin/clients/laptop/laptop.desktop:1
 msgid "Name=Laptop"
-msgstr "Name=Моб╕льний компутер (лептоп)"
+msgstr "Name=п°п╬п╠я√п╩я▄п╫п╦п╧ п╨п╬п╪п©я┐я┌п╣я─ (п╩п╣п©я┌п╬п©)"
 
 #: kdebase/kwin/clients/riscos/riscos.desktop:1
 msgid "Name=RISC OS"
-msgstr "Name=RISC ОС"
+msgstr "Name=RISC п·п║"
 
 #: kdebase/l10n/at/entry.desktop:1
 msgid "Name=Austria"
-msgstr "Name=Австр╕я"
+msgstr "Name=п░п╡я│я┌я─я√я▐"
 
 #: kdebase/l10n/au/entry.desktop:1
 msgid "Name=Australia"
-msgstr "Name=Австрал╕я"
+msgstr "Name=п░п╡я│я┌я─п╟п╩я√я▐"
 
 #: kdebase/l10n/be/entry.desktop:1
 msgid "Name=Belgium"
-msgstr "Name=Бельг╕я"
+msgstr "Name=п▒п╣п╩я▄пЁя√я▐"
 
 #: kdebase/l10n/bg/entry.desktop:1
 msgid "Name=Bulgaria"
-msgstr "Name=Болгар╕я"
+msgstr "Name=п▒п╬п╩пЁп╟я─я√я▐"
 
 #: kdebase/l10n/br/entry.desktop:1
 msgid "Name=Brazil"
-msgstr "Name=Браз╕л╕я"
+msgstr "Name=п▒я─п╟п╥я√п╩я√я▐"
 
 #: kdebase/l10n/ch/entry.desktop:1
 msgid "Name=Switzerland"
-msgstr "Name=Швейцар╕я"
+msgstr "Name=п╗п╡п╣п╧я├п╟я─я√я▐"
 
 #: kdebase/l10n/cs/entry.desktop:1
 msgid "Name=Czechia"
-msgstr "Name=Чех╕я"
+msgstr "Name=п╖п╣я┘я√я▐"
 
 #: kdebase/l10n/de/entry.desktop:1
 msgid "Name=Germany"
-msgstr "Name=Н╕меччина"
+msgstr "Name=п²я√п╪п╣я┤я┤п╦п╫п╟"
 
 #: kdebase/l10n/dk/entry.desktop:1
 msgid "Name=Denmark"
-msgstr "Name=Дан╕я"
+msgstr "Name=п■п╟п╫я√я▐"
 
 #: kdebase/l10n/ee/entry.desktop:1
 msgid "Name=Estonia"
-msgstr "Name=Естон╕я"
+msgstr "Name=п∙я│я┌п╬п╫я√я▐"
 
 #: kdebase/l10n/eo/entry.desktop:1
 msgid "Name=Esperantoland"
-msgstr "Name=Есперанто"
+msgstr "Name=п∙я│п©п╣я─п╟п╫я┌п╬"
 
 #: kdebase/l10n/es/entry.desktop:1
 msgid "Name=Spain"
-msgstr "Name=╤спан╕я"
+msgstr "Name=п├я│п©п╟п╫я√я▐"
 
 #: kdebase/l10n/fi/entry.desktop:1
 msgid "Name=Finland"
-msgstr "Name=Ф╕нлянд╕я"
+msgstr "Name=п╓я√п╫п╩я▐п╫п╢я√я▐"
 
 #: kdebase/l10n/fr/entry.desktop:1
 msgid "Name=France"
-msgstr "Name=Франц╕я"
+msgstr "Name=п╓я─п╟п╫я├я√я▐"
 
 #: kdebase/l10n/gb/entry.desktop:1
 msgid "Name=United Kingdom"
-msgstr "Name=Великобритан╕я"
+msgstr "Name=п▓п╣п╩п╦п╨п╬п╠я─п╦я┌п╟п╫я√я▐"
 
 #: kdebase/l10n/hu/entry.desktop:1
 msgid "Name=Hungary"
-msgstr "Name=Угорщина"
+msgstr "Name=пёпЁп╬я─я┴п╦п╫п╟"
 
 #: kdebase/l10n/ie/entry.desktop:1
 msgid "Name=Ireland"
-msgstr "Name=╤рланд╕я"
+msgstr "Name=п├я─п╩п╟п╫п╢я√я▐"
 
 #: kdebase/l10n/il/entry.desktop:1
 msgid "Name=Israel"
-msgstr "Name=╤зра╕ль"
+msgstr "Name=п├п╥я─п╟я√п╩я▄"
 
 #: kdebase/l10n/it/entry.desktop:1
 msgid "Name=Italy"
-msgstr "Name=╤тал╕я"
+msgstr "Name=п├я┌п╟п╩я√я▐"
 
 #: kdebase/l10n/jp/entry.desktop:1
 msgid "Name=Japan"
-msgstr "Name=Япон╕я"
+msgstr "Name=п╞п©п╬п╫я√я▐"
 
 #: kdebase/l10n/ko/entry.desktop:1
 msgid "Name=Korea"
-msgstr "Name=Корея"
+msgstr "Name=п п╬я─п╣я▐"
 
 #: kdebase/l10n/nl/entry.desktop:1
 msgid "Name=Netherlands"
-msgstr "Name=Голланд╕я"
+msgstr "Name=п⌠п╬п╩п╩п╟п╫п╢я√я▐"
 
 #: kdebase/l10n/no/entry.desktop:1
 msgid "Name=Norway"
-msgstr "Name=Норвег╕я"
+msgstr "Name=п²п╬я─п╡п╣пЁя√я▐"
 
 #: kdebase/l10n/nz/entry.desktop:1
 msgid "Name=New Zealand"
-msgstr "Name=Нова зеланд╕я"
+msgstr "Name=п²п╬п╡п╟ п╥п╣п╩п╟п╫п╢я√я▐"
 
 #: kdebase/l10n/pl/entry.desktop:1
 msgid "Name=Poland"
-msgstr "Name=Польща"
+msgstr "Name=п÷п╬п╩я▄я┴п╟"
 
 #: kdebase/l10n/pt/entry.desktop:1
 msgid "Name=Portugal"
-msgstr "Name=Португал╕я"
+msgstr "Name=п÷п╬я─я┌я┐пЁп╟п╩я√я▐"
 
 #: kdebase/l10n/ro/entry.desktop:1
 msgid "Name=Romania"
-msgstr "Name=Румун╕я"
+msgstr "Name=п═я┐п╪я┐п╫я√я▐"
 
 #: kdebase/l10n/ru/entry.desktop:1
 msgid "Name=Russia"
-msgstr "Name=Рос╕я"
+msgstr "Name=п═п╬я│я√я▐"
 
 #: kdebase/l10n/se/entry.desktop:1
 msgid "Name=Sweden"
-msgstr "Name=Швец╕я"
+msgstr "Name=п╗п╡п╣я├я√я▐"
 
 #: kdebase/l10n/si/entry.desktop:1
 msgid "Name=Slovenia"
-msgstr "Name=Словен╕я"
+msgstr "Name=п║п╩п╬п╡п╣п╫я√я▐"
 
 #: kdebase/l10n/tw/entry.desktop:1
 msgid "Name=Taiwan"
-msgstr "Name=Тайвань"
+msgstr "Name=п╒п╟п╧п╡п╟п╫я▄"
 
 #: kdebase/l10n/us/entry.desktop:1
 msgid "Name=United States of America"
-msgstr "Name=США"
+msgstr "Name=п║п╗п░"
 
 #: kdegames/kabalone/kabalone.desktop:1
 msgid "Name=Abalone"
@@ -2378,7 +2378,7 @@ msgstr ""
 
 #: kdegames/kasteroids/kasteroids.desktop:1
 msgid "Name=Asteroids"
-msgstr "Name=Астеро╖ди"
+msgstr "Name=п░я│я┌п╣я─п╬я≈п╢п╦"
 
 #: kdegames/kasteroids/kasteroids.desktop:2
 msgid "Comment=A little arcade game"
@@ -2390,39 +2390,39 @@ msgstr ""
 
 #: kdegames/katomic/katomic.desktop:2
 msgid "Comment=Build molecules in fewer moves possible"
-msgstr "Comment=Збудуйте молекули за найменшу к╕льк╕сть ход╕в"
+msgstr "Comment=п≈п╠я┐п╢я┐п╧я┌п╣ п╪п╬п╩п╣п╨я┐п╩п╦ п╥п╟ п╫п╟п╧п╪п╣п╫я┬я┐ п╨я√п╩я▄п╨я√я│я┌я▄ я┘п╬п╢я√п╡"
 
 #: kdegames/kblackbox/kblackbox.desktop:1
 msgid "Name=BlackBox"
-msgstr "Name=Чорна коробка"
+msgstr "Name=п╖п╬я─п╫п╟ п╨п╬я─п╬п╠п╨п╟"
 
 #: kdegames/kblackbox/kblackbox.desktop:2
 msgid "Comment=A little logical game"
-msgstr "Comment=Маленька лог╕чна гра"
+msgstr "Comment=п°п╟п╩п╣п╫я▄п╨п╟ п╩п╬пЁя√я┤п╫п╟ пЁя─п╟"
 
 #: kdegames/kjumpingcube/kjumpingcube.desktop:1
 msgid "Name=KJumpingCube"
-msgstr "Name=Стрибаюч╕й куб"
+msgstr "Name=п║я┌я─п╦п╠п╟я▌я┤я√п╧ п╨я┐п╠"
 
 #: kdegames/kjumpingcube/kjumpingcube.desktop:2
 msgid "Comment=Tactical Game"
-msgstr "Comment=Тактична гра"
+msgstr "Comment=п╒п╟п╨я┌п╦я┤п╫п╟ пЁя─п╟"
 
 #: kdegames/kmahjongg/kmahjongg.desktop:1
 msgid "Name=Mahjongg"
-msgstr "Name=Махжонг"
+msgstr "Name=п°п╟я┘п╤п╬п╫пЁ"
 
 #: kdegames/kmahjongg/kmahjongg.desktop:2
 msgid "Comment=Smart mahjongg game"
-msgstr "Comment=Ц╕кава гра махжонг"
+msgstr "Comment=п╕я√п╨п╟п╡п╟ пЁя─п╟ п╪п╟я┘п╤п╬п╫пЁ"
 
 #: kdegames/kmines/data/kmines.desktop:1
 msgid "Name=Minesweeper"
-msgstr "Name=Сапер"
+msgstr "Name=п║п╟п©п╣я─"
 
 #: kdegames/kmines/data/kmines.desktop:2
 msgid "Comment=KDE replacement for xbombs"
-msgstr "Comment=KDE-верс╕я \"xbombs\""
+msgstr "Comment=KDE-п╡п╣я─я│я√я▐ \"xbombs\""
 
 #: kdegames/konquest/konquest.desktop:1
 msgid "Name=Konquest"
@@ -2430,47 +2430,47 @@ msgstr ""
 
 #: kdegames/konquest/konquest.desktop:2
 msgid "Comment=A game of galactic conquest"
-msgstr "Comment=Гра галактичного завоювання"
+msgstr "Comment=п⌠я─п╟ пЁп╟п╩п╟п╨я┌п╦я┤п╫п╬пЁп╬ п╥п╟п╡п╬я▌п╡п╟п╫п╫я▐"
 
 #: kdegames/kpat/kpat.desktop:1
 msgid "Name=Patience"
-msgstr "Name=Терп╕ння"
+msgstr "Name=п╒п╣я─п©я√п╫п╫я▐"
 
 #: kdegames/kpat/kpat.desktop:2
 msgid "Comment=Several nice card games"
-msgstr "Comment=К╕лька ц╕кавих карточних ╕гор"
+msgstr "Comment=п я√п╩я▄п╨п╟ я├я√п╨п╟п╡п╦я┘ п╨п╟я─я┌п╬я┤п╫п╦я┘ я√пЁп╬я─"
 
 #: kdegames/kpoker/kpoker.desktop:1
 msgid "Name=Poker"
-msgstr "Name=Покер"
+msgstr "Name=п÷п╬п╨п╣я─"
 
 #: kdegames/kpoker/kpoker.desktop:2
 msgid "Comment=A simple video poker clone"
-msgstr "Comment=Простий вар╕ант в╕део-покеру"
+msgstr "Comment=п÷я─п╬я│я┌п╦п╧ п╡п╟я─я√п╟п╫я┌ п╡я√п╢п╣п╬-п©п╬п╨п╣я─я┐"
 
 #: kdegames/kreversi/kreversi.desktop:1
 msgid "Name=Reversi"
-msgstr "Name=Реверс╕"
+msgstr "Name=п═п╣п╡п╣я─я│я√"
 
 #: kdegames/kreversi/kreversi.desktop:2
 msgid "Comment=Play Reversi against the computer"
-msgstr "Comment=З╕грайте у реверс╕ проти комп'ютера"
+msgstr "Comment=п≈я√пЁя─п╟п╧я┌п╣ я┐ я─п╣п╡п╣я─я│я√ п©я─п╬я┌п╦ п╨п╬п╪п©'я▌я┌п╣я─п╟"
 
 #: kdegames/ksame/ksame.desktop:1
 msgid "Name=SameGame"
-msgstr "Name=Така соб╕ гра"
+msgstr "Name=п╒п╟п╨п╟ я│п╬п╠я√ пЁя─п╟"
 
 #: kdegames/ksame/ksame.desktop:2
 msgid "Comment=A little board game"
-msgstr "Comment=Маленька гра на дошц╕"
+msgstr "Comment=п°п╟п╩п╣п╫я▄п╨п╟ пЁя─п╟ п╫п╟ п╢п╬я┬я├я√"
 
 #: kdegames/kshisen/kshisen.desktop:1
 msgid "Name=Shisen-Sho"
-msgstr "Name=Ш╕сон-Шо"
+msgstr "Name=п╗я√я│п╬п╫-п╗п╬"
 
 #: kdegames/kshisen/kshisen.desktop:2
 msgid "Comment=Shisen-Sho, a game similar to Mahjongg"
-msgstr "Comment=Ш╕сон-Шо схожа на Махжонг"
+msgstr "Comment=п╗я√я│п╬п╫-п╗п╬ я│я┘п╬п╤п╟ п╫п╟ п°п╟я┘п╤п╬п╫пЁ"
 
 #: kdegames/ksirtet/data/kfouleggs.desktop:1
 msgid "Name=Foul Eggs"
@@ -2478,127 +2478,127 @@ msgstr ""
 
 #: kdegames/ksirtet/data/kfouleggs.desktop:2
 msgid "Comment=A game also known as Puyo Puyo"
-msgstr "Comment=Гра ще в╕дома як \"Пуйо Пуйо\""
+msgstr "Comment=п⌠я─п╟ я┴п╣ п╡я√п╢п╬п╪п╟ я▐п╨ \"п÷я┐п╧п╬ п÷я┐п╧п╬\""
 
 #: kdegames/ksirtet/data/ksirtet.desktop:1
 msgid "Name=Sirtet"
-msgstr "Name=З╕ртет"
+msgstr "Name=п≈я√я─я┌п╣я┌"
 
 #: kdegames/ksirtet/data/ksirtet.desktop:2
 msgid "Comment=One more Tetris clone"
-msgstr "Comment=Ще один вар╕ант тетр╕су"
+msgstr "Comment=п╘п╣ п╬п╢п╦п╫ п╡п╟я─я√п╟п╫я┌ я┌п╣я┌я─я√я│я┐"
 
 #: kdegames/ksmiletris/ksmiletris.desktop:1
 msgid "Name=Smiletris"
-msgstr "Name=См╕летр╕с"
+msgstr "Name=п║п╪я√п╩п╣я┌я─я√я│"
 
 #: kdegames/ksmiletris/ksmiletris.desktop:2
 msgid "Comment=Another Tetris-like game"
-msgstr "Comment=Ще один вар╕ант тетр╕су"
+msgstr "Comment=п╘п╣ п╬п╢п╦п╫ п╡п╟я─я√п╟п╫я┌ я┌п╣я┌я─я√я│я┐"
 
 #: kdegames/ksnake/ksnake.desktop:1
 msgid "Name=Snake Race"
-msgstr "Name=Зм╕╖н╕ перегони"
+msgstr "Name=п≈п╪я√я≈п╫я√ п©п╣я─п╣пЁп╬п╫п╦"
 
 #: kdegames/ksnake/ksnake.desktop:2
 msgid "Comment=Eat all items before the computer"
-msgstr "Comment=З'╖жте все скор╕ш н╕ж коп'ютер"
+msgstr "Comment=п≈'я≈п╤я┌п╣ п╡я│п╣ я│п╨п╬я─я√я┬ п╫я√п╤ п╨п╬п©'я▌я┌п╣я─"
 
 #: kdegames/ksokoban/data/ksokoban.desktop:1
 msgid "Name=Sokoban"
-msgstr "Name=Сокобан"
+msgstr "Name=п║п╬п╨п╬п╠п╟п╫"
 
 #: kdegames/ksokoban/data/ksokoban.desktop:2
 msgid "Comment=The japanese warehouse keeper game"
-msgstr "Comment=Японська гра в охоронця сховища"
+msgstr "Comment=п╞п©п╬п╫я│я▄п╨п╟ пЁя─п╟ п╡ п╬я┘п╬я─п╬п╫я├я▐ я│я┘п╬п╡п╦я┴п╟"
 
 #: kdegames/kspaceduel/kspaceduel.desktop:1
 msgid "Name=SpaceDuel"
-msgstr "Name=Косм╕чна дуель"
+msgstr "Name=п п╬я│п╪я√я┤п╫п╟ п╢я┐п╣п╩я▄"
 
 #: kdegames/kspaceduel/kspaceduel.desktop:2
 msgid "Comment=A two player arcade game"
-msgstr "Comment=Аркад для двох гравц╕в"
+msgstr "Comment=п░я─п╨п╟п╢ п╢п╩я▐ п╢п╡п╬я┘ пЁя─п╟п╡я├я√п╡"
 
 #: kdegames/ktron/ktron.desktop:1
 msgid "Name=Tron"
-msgstr "Name=Трон"
+msgstr "Name=п╒я─п╬п╫"
 
 #: kdegames/ktron/ktron.desktop:2
 msgid "Comment=A race in the hyperspace"
-msgstr "Comment=Перегони у всесв╕т╕"
+msgstr "Comment=п÷п╣я─п╣пЁп╬п╫п╦ я┐ п╡я│п╣я│п╡я√я┌я√"
 
 #: kdegames/ktuberling/ktuberling.desktop:1
 msgid "Name=Potato Guy"
-msgstr "Name=Картопляний хлопець"
+msgstr "Name=п п╟я─я┌п╬п©п╩я▐п╫п╦п╧ я┘п╩п╬п©п╣я├я▄"
 
 #: kdegames/ktuberling/ktuberling.desktop:2
 msgid "Comment=A Potato Editor"
-msgstr "Comment=Редактор для весело╖ картопл╕"
+msgstr "Comment=п═п╣п╢п╟п╨я┌п╬я─ п╢п╩я▐ п╡п╣я│п╣п╩п╬я≈ п╨п╟я─я┌п╬п©п╩я√"
 
 #: kdegames/ktuberling/mimetypes/x-tuberling.kdelnk:2
 msgid "Comment=Funny Potato"
-msgstr "Comment=Весела картопля"
+msgstr "Comment=п▓п╣я│п╣п╩п╟ п╨п╟я─я┌п╬п©п╩я▐"
 
 #: kdegraphics/katalog/katalog.desktop:1
 msgid "Name=Katalog"
-msgstr "Name=Каталог"
+msgstr "Name=п п╟я┌п╟п╩п╬пЁ"
 
 #: kdegraphics/katalog/katalog.desktop:2
 msgid "Comment=Image Catalog"
-msgstr "Comment=Каталог образ╕в"
+msgstr "Comment=п п╟я┌п╟п╩п╬пЁ п╬п╠я─п╟п╥я√п╡"
 
 #: kdegraphics/kdvi/kdvi.desktop:1
 msgid "Name=DVI Viewer"
-msgstr "Name=Переглядач DVI"
+msgstr "Name=п÷п╣я─п╣пЁп╩я▐п╢п╟я┤ DVI"
 
 #: kdegraphics/kdvi/kdvi.desktop:2
 msgid "Comment=TeX DVI File Viewer"
-msgstr "Comment=Переглядач файл╕в TeX-DVI"
+msgstr "Comment=п÷п╣я─п╣пЁп╩я▐п╢п╟я┤ я└п╟п╧п╩я√п╡ TeX-DVI"
 
 #: kdegraphics/kfax/fax-g3.desktop:2
 msgid "Comment=CCITT g3 fax"
-msgstr "Comment=Факс CCITT G3"
+msgstr "Comment=п╓п╟п╨я│ CCITT G3"
 
 #: kdegraphics/kfax/kfax.desktop:1
 msgid "Name=Fax Viewer"
-msgstr "Name=Переглядач Факс╕в"
+msgstr "Name=п÷п╣я─п╣пЁп╩я▐п╢п╟я┤ п╓п╟п╨я│я√п╡"
 
 #: kdegraphics/kfax/kfax.desktop:2
 msgid "Comment=A Fax Viewer"
-msgstr "Comment=Переглядач Факс╕в"
+msgstr "Comment=п÷п╣я─п╣пЁп╩я▐п╢п╟я┤ п╓п╟п╨я│я√п╡"
 
 #: kdegraphics/kfract/kfract.desktop:1
 msgid "Name=Fractals Generator"
-msgstr "Name=Генератор фрактал╕в"
+msgstr "Name=п⌠п╣п╫п╣я─п╟я┌п╬я─ я└я─п╟п╨я┌п╟п╩я√п╡"
 
 #: kdegraphics/kfract/kfract.desktop:2
 msgid "Comment=Generator for fractals"
-msgstr "Comment=Генератор фрактал╕в"
+msgstr "Comment=п⌠п╣п╫п╣я─п╟я┌п╬я─ я└я─п╟п╨я┌п╟п╩я√п╡"
 
 #: kdegraphics/kghostview/kghostview.desktop:1
 msgid "Name=PS/PDF Viewer"
-msgstr "Name=Переглядач PS/PDF"
+msgstr "Name=п÷п╣я─п╣пЁп╩я▐п╢п╟я┤ PS/PDF"
 
 #: kdegraphics/kghostview/kghostview.desktop:2
 msgid "Comment=PostScript/PDF document viewer"
-msgstr "Comment=Переглядач документ╕в PostScript/PDF"
+msgstr "Comment=п÷п╣я─п╣пЁп╩я▐п╢п╟я┤ п╢п╬п╨я┐п╪п╣п╫я┌я√п╡ PostScript/PDF"
 
 #: kdegraphics/kiconedit/kiconedit.desktop:1
 msgid "Name=Icon Editor"
-msgstr "Name=Редактор п╕ктограм"
+msgstr "Name=п═п╣п╢п╟п╨я┌п╬я─ п©я√п╨я┌п╬пЁя─п╟п╪"
 
 #: kdegraphics/kiconedit/kiconedit.desktop:2
 msgid "Comment=An icon editor for creating KDE icons"
-msgstr "Comment=Редактор для створення п╕кторграм KDE"
+msgstr "Comment=п═п╣п╢п╟п╨я┌п╬я─ п╢п╩я▐ я│я┌п╡п╬я─п╣п╫п╫я▐ п©я√п╨я┌п╬я─пЁя─п╟п╪ KDE"
 
 #: kdegraphics/kpaint/kpaint.desktop:1
 msgid "Name=Paint"
-msgstr "Name=Граф╕чний редактор Paint"
+msgstr "Name=п⌠я─п╟я└я√я┤п╫п╦п╧ я─п╣п╢п╟п╨я┌п╬я─ Paint"
 
 #: kdegraphics/kpaint/kpaint.desktop:2
 msgid "Comment=A Simple Paint Program"
-msgstr "Comment=Простенька програма для малювання"
+msgstr "Comment=п÷я─п╬я│я┌п╣п╫я▄п╨п╟ п©я─п╬пЁя─п╟п╪п╟ п╢п╩я▐ п╪п╟п╩я▌п╡п╟п╫п╫я▐"
 
 #: kdegraphics/kpixmap2bitmap/kpixmap2bitmap.desktop:1
 msgid "Name=KDE Pixmap2Bitmap"
@@ -2606,55 +2606,55 @@ msgstr "Name=KDE Pixmap2Bitmap"
 
 #: kdegraphics/kpixmap2bitmap/kpixmap2bitmap.desktop:2
 msgid "Comment=Separates color images into several mono bitmaps"
-msgstr "Comment=Розд╕ля╓ кольоров╕ образи у дек╕лька чорно-б╕лих"
+msgstr "Comment=п═п╬п╥п╢я√п╩я▐я■ п╨п╬п╩я▄п╬я─п╬п╡я√ п╬п╠я─п╟п╥п╦ я┐ п╢п╣п╨я√п╩я▄п╨п╟ я┤п╬я─п╫п╬-п╠я√п╩п╦я┘"
 
 #: kdegraphics/ksnapshot/ksnapshot.desktop:1
 msgid "Name=Screen Capture"
-msgstr "Name=Захоплювач екрану"
+msgstr "Name=п≈п╟я┘п╬п©п╩я▌п╡п╟я┤ п╣п╨я─п╟п╫я┐"
 
 #: kdegraphics/ksnapshot/ksnapshot.desktop:2
 msgid "Comment=An applet for taking snapshots of the desktop"
-msgstr "Comment=Аплет для зн╕мк╕в робочого столу"
+msgstr "Comment=п░п©п╩п╣я┌ п╢п╩я▐ п╥п╫я√п╪п╨я√п╡ я─п╬п╠п╬я┤п╬пЁп╬ я│я┌п╬п╩я┐"
 
 #: kdegraphics/kview/kview.desktop:1
 msgid "Name=Image Viewer"
-msgstr "Name=Переглядач образ╕в"
+msgstr "Name=п÷п╣я─п╣пЁп╩я▐п╢п╟я┤ п╬п╠я─п╟п╥я√п╡"
 
 #: kdegraphics/kview/kview.desktop:2
 msgid "Comment=KDE Image Viewer"
-msgstr "Comment=Переглядач образ╕в KDE"
+msgstr "Comment=п÷п╣я─п╣пЁп╩я▐п╢п╟я┤ п╬п╠я─п╟п╥я√п╡ KDE"
 
 #: kdegraphics/pixie/pixie.desktop:1
 msgid "Name=Pixie Image Viewer"
-msgstr "Name=Переглядач образ╕в Pixie"
+msgstr "Name=п÷п╣я─п╣пЁп╩я▐п╢п╟я┤ п╬п╠я─п╟п╥я√п╡ Pixie"
 
 #: kdegraphics/pixie/pixie.desktop:2
 msgid "Comment=Pixie Image Viewer/Editor"
-msgstr "Comment=Переглядач та редактор образ╕в Pixie"
+msgstr "Comment=п÷п╣я─п╣пЁп╩я▐п╢п╟я┤ я┌п╟ я─п╣п╢п╟п╨я┌п╬я─ п╬п╠я─п╟п╥я√п╡ Pixie"
 
 #: kdegraphics/pixie/plugins/kde/kdeeffects.desktop:1
 msgid "Name=ImageForge KDE effects"
-msgstr "Name=Еффекти ImageForge (KDE)"
+msgstr "Name=п∙я└я└п╣п╨я┌п╦ ImageForge (KDE)"
 
 #: kdegraphics/pixie/plugins/magick/magick.desktop:1
 msgid "Name=ImageForge ImageMagick effects"
-msgstr "Name=Еффекти ImageForge (ImageMagick)"
+msgstr "Name=п∙я└я└п╣п╨я┌п╦ ImageForge (ImageMagick)"
 
 #: kdelibs/khtml/khtml.desktop:2
 msgid "Comment=Embeddable HTML viewing component"
-msgstr "Comment=Встро╓ний копмонент-переглядач HTML"
+msgstr "Comment=п▓я│я┌я─п╬я■п╫п╦п╧ п╨п╬п©п╪п╬п╫п╣п╫я┌-п©п╣я─п╣пЁп╩я▐п╢п╟я┤ HTML"
 
 #: kdelibs/kio/http/http_cache_cleaner.desktop:2
 msgid "Comment=Cleans up old entries from the HTTP cache"
-msgstr "Comment=Вичища╓ страр╕ елементи з кешу HTTP"
+msgstr "Comment=п▓п╦я┤п╦я┴п╟я■ я│я┌я─п╟я─я√ п╣п╩п╣п╪п╣п╫я┌п╦ п╥ п╨п╣я┬я┐ HTTP"
 
 #: kdelibs/kio/kio_uiserver.desktop:2
 msgid "Comment=KDE's Progress Info UI server"
-msgstr "Comment=Сервер граф╕чного ╕нтерфейсу ╕нформац╕╖ про розвиток KDE"
+msgstr "Comment=п║п╣я─п╡п╣я─ пЁя─п╟я└я√я┤п╫п╬пЁп╬ я√п╫я┌п╣я─я└п╣п╧я│я┐ я√п╫я└п╬я─п╪п╟я├я√я≈ п©я─п╬ я─п╬п╥п╡п╦я┌п╬п╨ KDE"
 
 #: kdelibs/kparts/kpart.desktop:2
 msgid "Comment=KDE Component"
-msgstr "Comment=Компонент KDE"
+msgstr "Comment=п п╬п╪п©п╬п╫п╣п╫я┌ KDE"
 
 #: kdelibs/kstyles/themes/b2.themerc:1
 msgid "Name=B2/KDE"
@@ -2662,7 +2662,7 @@ msgstr "Name=B2/KDE"
 
 #: kdelibs/kstyles/themes/b2.themerc:2
 msgid "Comment=B2/KDE unthemed style"
-msgstr "Comment=B2/KDE (стиль без теми)"
+msgstr "Comment=B2/KDE (я│я┌п╦п╩я▄ п╠п╣п╥ я┌п╣п╪п╦)"
 
 #: kdelibs/kstyles/themes/b3.themerc:1
 msgid "Name=B3/KDE"
@@ -2670,7 +2670,7 @@ msgstr "Name=B3/KDE"
 
 #: kdelibs/kstyles/themes/b3.themerc:2
 msgid "Comment=B3/Modification of B2"
-msgstr "Comment=B3 - модиф╕кац╕я B2"
+msgstr "Comment=B3 - п╪п╬п╢п╦я└я√п╨п╟я├я√я▐ B2"
 
 #: kdelibs/kstyles/themes/beos.themerc:1
 msgid "Name=Beos"
@@ -2678,23 +2678,23 @@ msgstr "Name=Beos"
 
 #: kdelibs/kstyles/themes/beos.themerc:2
 msgid "Comment=Unthemed Beos-like style"
-msgstr "Comment=Стиль BeOS (без теми)"
+msgstr "Comment=п║я┌п╦п╩я▄ BeOS (п╠п╣п╥ я┌п╣п╪п╦)"
 
 #: kdelibs/kstyles/themes/coldions.themerc:1
 msgid "Name=Cold Ions"
-msgstr "Name=Холодн╕ ╕они"
+msgstr "Name=п╔п╬п╩п╬п╢п╫я√ я√п╬п╫п╦"
 
 #: kdelibs/kstyles/themes/coldions.themerc:2
 msgid "Comment=Cold Ions unthemed style"
-msgstr "Comment=Стиль \"холодн╕ ╕они\" без теми"
+msgstr "Comment=п║я┌п╦п╩я▄ \"я┘п╬п╩п╬п╢п╫я√ я√п╬п╫п╦\" п╠п╣п╥ я┌п╣п╪п╦"
 
 #: kdelibs/kstyles/themes/highcolor.themerc:1
 msgid "Name=HighColor B2"
-msgstr "Name=B2 (64K кольор╕в)"
+msgstr "Name=B2 (64K п╨п╬п╩я▄п╬я─я√п╡)"
 
 #: kdelibs/kstyles/themes/highcolor.themerc:2
 msgid "Comment=B2/KDE highcolor style"
-msgstr "Comment=Стиль B2/KDE (64K кольор╕в)"
+msgstr "Comment=п║я┌п╦п╩я▄ B2/KDE (64K п╨п╬п╩я▄п╬я─я√п╡)"
 
 #: kdelibs/kstyles/themes/kstep.themerc:1
 msgid "Name=KDE Step"
@@ -2702,15 +2702,15 @@ msgstr "Name=KDE Step"
 
 #: kdelibs/kstyles/themes/kstep.themerc:2
 msgid "Comment=Unthemed Next-like style"
-msgstr "Comment=Стиль NeXT (без теми)"
+msgstr "Comment=п║я┌п╦п╩я▄ NeXT (п╠п╣п╥ я┌п╣п╪п╦)"
 
 #: kdelibs/kstyles/themes/marble.themerc:1
 msgid "Name=Marble"
-msgstr "Name=Мармур"
+msgstr "Name=п°п╟я─п╪я┐я─"
 
 #: kdelibs/kstyles/themes/marble.themerc:2
 msgid "Comment=Light marble themed style"
-msgstr "Comment=Стиль св╕тлого мармуру"
+msgstr "Comment=п║я┌п╦п╩я▄ я│п╡я√я┌п╩п╬пЁп╬ п╪п╟я─п╪я┐я─я┐"
 
 #: kdelibs/kstyles/themes/pillbox.themerc:1
 msgid "Name=Pillbox"
@@ -2726,7 +2726,7 @@ msgstr "Name=Qt CDE"
 
 #: kdelibs/kstyles/themes/qtcde.themerc:2
 msgid "Comment=Built-in unthemed CDE style"
-msgstr "Comment=Встро╓ний стиль CDE без теми"
+msgstr "Comment=п▓я│я┌я─п╬я■п╫п╦п╧ я│я┌п╦п╩я▄ CDE п╠п╣п╥ я┌п╣п╪п╦"
 
 #: kdelibs/kstyles/themes/qtmotif.themerc:1
 msgid "Name=Qt Motif"
@@ -2734,7 +2734,7 @@ msgstr "Name=Qt Motif"
 
 #: kdelibs/kstyles/themes/qtmotif.themerc:2
 msgid "Comment=Built-in unthemed Motif style"
-msgstr "Comment=Вбудований стиль Motif без теми"
+msgstr "Comment=п▓п╠я┐п╢п╬п╡п╟п╫п╦п╧ я│я┌п╦п╩я▄ Motif п╠п╣п╥ я┌п╣п╪п╦"
 
 #: kdelibs/kstyles/themes/qtplatinum.themerc:1
 msgid "Name=Qt Platinum"
@@ -2742,7 +2742,7 @@ msgstr "Name=Qt Platin"
 
 #: kdelibs/kstyles/themes/qtplatinum.themerc:2
 msgid "Comment=Built-in unthemed Platinum style"
-msgstr "Comment=Вбудований стиль Platin без теми"
+msgstr "Comment=п▓п╠я┐п╢п╬п╡п╟п╫п╦п╧ я│я┌п╦п╩я▄ Platin п╠п╣п╥ я┌п╣п╪п╦"
 
 #: kdelibs/kstyles/themes/qtwindows.themerc:1
 msgid "Name=Qt Windows"
@@ -2750,151 +2750,151 @@ msgstr "Name=Qt Windows"
 
 #: kdelibs/kstyles/themes/qtwindows.themerc:2
 msgid "Comment=Built-in unthemed Windows 9x style"
-msgstr "Comment=Вбудований стиль Windows 9x Platin без теми"
+msgstr "Comment=п▓п╠я┐п╢п╬п╡п╟п╫п╦п╧ я│я┌п╦п╩я▄ Windows 9x Platin п╠п╣п╥ я┌п╣п╪п╦"
 
 #: kdelibs/kstyles/themes/system.themerc:2
 msgid "Comment=System themed style"
-msgstr "Comment=Системний стиль"
+msgstr "Comment=п║п╦я│я┌п╣п╪п╫п╦п╧ я│я┌п╦п╩я▄"
 
 #: kdelibs/kstyles/themes/systemalt.themerc:1
 msgid "Name=System-Series"
-msgstr "Name=Родина системних стилей"
+msgstr "Name=п═п╬п╢п╦п╫п╟ я│п╦я│я┌п╣п╪п╫п╦я┘ я│я┌п╦п╩п╣п╧"
 
 #: kdelibs/kstyles/themes/systemalt.themerc:2
 msgid "Comment=System Style 001"
-msgstr "Comment=Системний стиль 001"
+msgstr "Comment=п║п╦я│я┌п╣п╪п╫п╦п╧ я│я┌п╦п╩я▄ 001"
 
 #: kdelibs/kstyles/themes/systemtest.themerc:1
 msgid "Name=Testing"
-msgstr "Name=Тест"
+msgstr "Name=п╒п╣я│я┌"
 
 #: kdelibs/kstyles/themes/systemtest.themerc:2
 msgid "Comment=Unstable development style"
-msgstr "Comment=Незавершений стиль"
+msgstr "Comment=п²п╣п╥п╟п╡п╣я─я┬п╣п╫п╦п╧ я│я┌п╦п╩я▄"
 
 #: kdelibs/kwrite/kwrite_part.desktop:2
 msgid "Comment=A powerful text editor component"
-msgstr "Comment=Потужний компонент текстового редактору"
+msgstr "Comment=п÷п╬я┌я┐п╤п╫п╦п╧ п╨п╬п╪п©п╬п╫п╣п╫я┌ я┌п╣п╨я│я┌п╬п╡п╬пЁп╬ я─п╣п╢п╟п╨я┌п╬я─я┐"
 
 #: kdelibs/mimetypes/application/gzip.desktop:2
 msgid "Comment=Gzip file"
-msgstr "Comment=Файл GZip"
+msgstr "Comment=п╓п╟п╧п╩ GZip"
 
 #: kdelibs/mimetypes/application/msexcel.desktop:2
 msgid "Comment=Microsoft Excel spreadsheet"
-msgstr "Comment=Таблиця MS Excel"
+msgstr "Comment=п╒п╟п╠п╩п╦я├я▐ MS Excel"
 
 #: kdelibs/mimetypes/application/mspowerpoint.desktop:2
 msgid "Comment=Microsoft PowerPoint document"
-msgstr "Comment=Документ MS PowerPoint"
+msgstr "Comment=п■п╬п╨я┐п╪п╣п╫я┌ MS PowerPoint"
 
 #: kdelibs/mimetypes/application/msword.desktop:2
 msgid "Comment=Microsoft Word document"
-msgstr "Comment=Документ MS Word"
+msgstr "Comment=п■п╬п╨я┐п╪п╣п╫я┌ MS Word"
 
 #: kdelibs/mimetypes/application/octet-stream.desktop:2
 msgid "Comment=Unknown"
-msgstr "Comment=Нев╕домий"
+msgstr "Comment=п²п╣п╡я√п╢п╬п╪п╦п╧"
 
 #: kdelibs/mimetypes/application/pdf.desktop:2
 msgid "Comment=Pdf Document"
-msgstr "Comment=Документ PDF"
+msgstr "Comment=п■п╬п╨я┐п╪п╣п╫я┌ PDF"
 
 #: kdelibs/mimetypes/application/postscript.desktop:2
 msgid "Comment=PostScript Document"
-msgstr "Comment=Документ PostScript"
+msgstr "Comment=п■п╬п╨я┐п╪п╣п╫я┌ PostScript"
 
 #: kdelibs/mimetypes/application/smil.desktop:2
 msgid "Comment=Synchronized Multimedia Integration Language"
-msgstr "Comment=Мова для синхронного сп╕лкування мультимед╕а"
+msgstr "Comment=п°п╬п╡п╟ п╢п╩я▐ я│п╦п╫я┘я─п╬п╫п╫п╬пЁп╬ я│п©я√п╩п╨я┐п╡п╟п╫п╫я▐ п╪я┐п╩я▄я┌п╦п╪п╣п╢я√п╟"
 
 #: kdelibs/mimetypes/application/wordperfect.desktop:2
 msgid "Comment=WordPerfect document"
-msgstr "Comment=Документ WordPerfect"
+msgstr "Comment=п■п╬п╨я┐п╪п╣п╫я┌ WordPerfect"
 
 #: kdelibs/mimetypes/application/x-ar.desktop:2
 msgid "Comment=Ar Archives"
-msgstr "Comment=Арх╕ви AR"
+msgstr "Comment=п░я─я┘я√п╡п╦ AR"
 
 #: kdelibs/mimetypes/application/x-awk.desktop:2
 msgid "Comment=AWK script"
-msgstr "Comment=Скрипт AWK"
+msgstr "Comment=п║п╨я─п╦п©я┌ AWK"
 
 #: kdelibs/mimetypes/application/x-bzip.desktop:2
 msgid "Comment=Bzip file"
-msgstr "Comment=Файл Bzip"
+msgstr "Comment=п╓п╟п╧п╩ Bzip"
 
 #: kdelibs/mimetypes/application/x-bzip2.desktop:2
 msgid "Comment=Bzip2 file"
-msgstr "Comment=Файл Bzip"
+msgstr "Comment=п╓п╟п╧п╩ Bzip"
 
 #: kdelibs/mimetypes/application/x-compress.desktop:2
 msgid "Comment=UNIX compressed file"
-msgstr "Comment=Стистнутий файл UNIX"
+msgstr "Comment=п║я┌п╦я│я┌п╫я┐я┌п╦п╧ я└п╟п╧п╩ UNIX"
 
 #: kdelibs/mimetypes/application/x-core.desktop:2
 msgid "Comment=Program crash data"
-msgstr "Comment=Дан╕ щодо авар╕йного завершення програми"
+msgstr "Comment=п■п╟п╫я√ я┴п╬п╢п╬ п╟п╡п╟я─я√п╧п╫п╬пЁп╬ п╥п╟п╡п╣я─я┬п╣п╫п╫я▐ п©я─п╬пЁя─п╟п╪п╦"
 
 #: kdelibs/mimetypes/application/x-cpio.desktop:2
 msgid "Comment=CPIO archive"
-msgstr "Comment=Арх╕в CPIO"
+msgstr "Comment=п░я─я┘я√п╡ CPIO"
 
 #: kdelibs/mimetypes/application/x-desktop.desktop:2
 msgid "Comment=Desktop config file"
-msgstr "Comment=Файл конф╕гурац╕╖ робочого столу"
+msgstr "Comment=п╓п╟п╧п╩ п╨п╬п╫я└я√пЁя┐я─п╟я├я√я≈ я─п╬п╠п╬я┤п╬пЁп╬ я│я┌п╬п╩я┐"
 
 #: kdelibs/mimetypes/application/x-dvi.desktop:2
 msgid "Comment=TeX Device Independent file"
-msgstr "Comment=Файл TeX-DVI"
+msgstr "Comment=п╓п╟п╧п╩ TeX-DVI"
 
 #: kdelibs/mimetypes/application/x-executable.desktop:2
 msgid "Comment=Executable"
-msgstr "Comment=Програма"
+msgstr "Comment=п÷я─п╬пЁя─п╟п╪п╟"
 
 #: kdelibs/mimetypes/application/x-font.desktop:2
 msgid "Comment=Fonts"
-msgstr "Comment=Шрифти"
+msgstr "Comment=п╗я─п╦я└я┌п╦"
 
 #: kdelibs/mimetypes/application/x-jar.desktop:2
 msgid "Comment=Java Archive"
-msgstr "Comment=Арх╕в Java"
+msgstr "Comment=п░я─я┘я√п╡ Java"
 
 #: kdelibs/mimetypes/application/x-java.desktop:2
 msgid "Comment=Java Class"
-msgstr "Comment=Клас Java"
+msgstr "Comment=п п╩п╟я│ Java"
 
 #: kdelibs/mimetypes/application/x-lha.desktop:2
 msgid "Comment=Lha Archives"
-msgstr "Comment=Арх╕в LHA"
+msgstr "Comment=п░я─я┘я√п╡ LHA"
 
 #: kdelibs/mimetypes/application/x-lzop.desktop:2
 msgid "Comment=Lzopped File"
-msgstr "Comment=Файл Lzopp"
+msgstr "Comment=п╓п╟п╧п╩ Lzopp"
 
 #: kdelibs/mimetypes/application/x-object.desktop:2
 msgid "Comment=Object Code"
-msgstr "Comment=Об'╓ктний код"
+msgstr "Comment=п·п╠'я■п╨я┌п╫п╦п╧ п╨п╬п╢"
 
 #: kdelibs/mimetypes/application/x-perl.desktop:2
 msgid "Comment=PERL program"
-msgstr "Comment=Програма Perl"
+msgstr "Comment=п÷я─п╬пЁя─п╟п╪п╟ Perl"
 
 #: kdelibs/mimetypes/application/x-python-bytecode.desktop:2
 msgid "Comment=Python bytecode"
-msgstr "Comment=Байткод Python"
+msgstr "Comment=п▒п╟п╧я┌п╨п╬п╢ Python"
 
 #: kdelibs/mimetypes/application/x-python.desktop:2
 msgid "Comment=Python program"
-msgstr "Comment=Програма Python"
+msgstr "Comment=п÷я─п╬пЁя─п╟п╪п╟ Python"
 
 #: kdelibs/mimetypes/application/x-rar.desktop:2
 msgid "Comment=Rar archive"
-msgstr "Comment=Арх╕в Rar"
+msgstr "Comment=п░я─я┘я√п╡ Rar"
 
 #: kdelibs/mimetypes/application/x-rpm.desktop:2
 msgid "Comment=RPM package file"
-msgstr "Comment=Пакет RPM"
+msgstr "Comment=п÷п╟п╨п╣я┌ RPM"
 
 #: kdelibs/mimetypes/application/x-sharedlib.desktop:2
 msgid "Comment=Shared library"
@@ -2902,179 +2902,179 @@ msgstr ""
 
 #: kdelibs/mimetypes/application/x-shellscript.desktop:2
 msgid "Comment=shell script"
-msgstr "Comment=Скрипт Shell"
+msgstr "Comment=п║п╨я─п╦п©я┌ Shell"
 
 #: kdelibs/mimetypes/application/x-tar.desktop:2
 msgid "Comment=Tar archive"
-msgstr "Comment=Арх╕в Tar"
+msgstr "Comment=п░я─я┘я√п╡ Tar"
 
 #: kdelibs/mimetypes/application/x-tbz.desktop:2
 msgid "Comment=Bzipped Tar Archives"
-msgstr "Comment=Арх╕в Tar, стиснутий bzip"
+msgstr "Comment=п░я─я┘я√п╡ Tar, я│я┌п╦я│п╫я┐я┌п╦п╧ bzip"
 
 #: kdelibs/mimetypes/application/x-tex-gf.desktop:2
 msgid "Comment=Generic Font files"
-msgstr "Comment=Загальн╕ файли шрифт╕в"
+msgstr "Comment=п≈п╟пЁп╟п╩я▄п╫я√ я└п╟п╧п╩п╦ я┬я─п╦я└я┌я√п╡"
 
 #: kdelibs/mimetypes/application/x-tex-pk.desktop:2
 msgid "Comment=Packed Font file"
-msgstr "Comment=Упакований файл шрифту"
+msgstr "Comment=пёп©п╟п╨п╬п╡п╟п╫п╦п╧ я└п╟п╧п╩ я┬я─п╦я└я┌я┐"
 
 #: kdelibs/mimetypes/application/x-tgz.desktop:2
 msgid "Comment=Gzipped Tar Archive"
-msgstr "Comment=Арх╕в tar стиснутий gzip"
+msgstr "Comment=п░я─я┘я√п╡ tar я│я┌п╦я│п╫я┐я┌п╦п╧ gzip"
 
 #: kdelibs/mimetypes/application/x-trash.desktop:2
 msgid "Comment=Backup file"
-msgstr "Comment=Файл резервно╖ коп╕╖"
+msgstr "Comment=п╓п╟п╧п╩ я─п╣п╥п╣я─п╡п╫п╬я≈ п╨п╬п©я√я≈"
 
 #: kdelibs/mimetypes/application/x-troff-man.desktop:2
 msgid "Comment=Troff document with manpage macros"
-msgstr "Comment=Документ Troff з макросом стор╕нки дов╕дки"
+msgstr "Comment=п■п╬п╨я┐п╪п╣п╫я┌ Troff п╥ п╪п╟п╨я─п╬я│п╬п╪ я│я┌п╬я─я√п╫п╨п╦ п╢п╬п╡я√п╢п╨п╦"
 
 #: kdelibs/mimetypes/application/x-troff.desktop:2
 msgid "Comment=Troff document"
-msgstr "Comment=Документ Troff"
+msgstr "Comment=п■п╬п╨я┐п╪п╣п╫я┌ Troff"
 
 #: kdelibs/mimetypes/application/x-tzo.desktop:2
 msgid "Comment=Lzopped Tar Archive"
-msgstr "Comment=Арх╕в tar стистнутий lzop"
+msgstr "Comment=п░я─я┘я√п╡ tar я│я┌п╦я│я┌п╫я┐я┌п╦п╧ lzop"
 
 #: kdelibs/mimetypes/application/x-zip.desktop:2
 msgid "Comment=Zip archive"
-msgstr "Comment=Арх╕в Zip"
+msgstr "Comment=п░я─я┘я√п╡ Zip"
 
 #: kdelibs/mimetypes/application/x-zoo.desktop:2
 msgid "Comment=Zoo archive"
-msgstr "Comment=Арх╕в Zoo"
+msgstr "Comment=п░я─я┘я√п╡ Zoo"
 
 #: kdelibs/mimetypes/audio/basic.desktop:2
 msgid "Comment=ULAW (Sun) audio"
-msgstr "Comment=Ауд╕о-дан╕ ULAW (Sun)"
+msgstr "Comment=п░я┐п╢я√п╬-п╢п╟п╫я√ ULAW (Sun)"
 
 #: kdelibs/mimetypes/audio/vnd.rn-realaudio.desktop:2
 msgid "Comment=RealAudio broadcast"
-msgstr "Comment=Трансляц╕я RealAudio"
+msgstr "Comment=п╒я─п╟п╫я│п╩я▐я├я√я▐ RealAudio"
 
 #: kdelibs/mimetypes/audio/x-adpcm.desktop:2
 msgid "Comment=PCM audio"
-msgstr "Comment=PCM-ауд╕о"
+msgstr "Comment=PCM-п╟я┐п╢я√п╬"
 
 #: kdelibs/mimetypes/audio/x-aiff.desktop:2
 msgid "Comment=AIFF/Amiga audio"
-msgstr "Comment=AIFF/Amiga-ауд╕о"
+msgstr "Comment=AIFF/Amiga-п╟я┐п╢я√п╬"
 
 #: kdelibs/mimetypes/audio/x-midi.desktop:2
 msgid "Comment=MIDI audio"
-msgstr "Comment=MIDI-ауд╕о"
+msgstr "Comment=MIDI-п╟я┐п╢я√п╬"
 
 #: kdelibs/mimetypes/audio/x-mod.desktop:2
 msgid "Comment=Amiga soundtracker audio"
-msgstr "Comment=Amiga Soundtracker-ауд╕о"
+msgstr "Comment=Amiga Soundtracker-п╟я┐п╢я√п╬"
 
 #: kdelibs/mimetypes/audio/x-mp3.desktop:2
 msgid "Comment=MPEG layer 3 audio"
-msgstr "Comment=MPEG Layer-3-ауд╕о"
+msgstr "Comment=MPEG Layer-3-п╟я┐п╢я√п╬"
 
 #: kdelibs/mimetypes/audio/x-mpegurl.desktop:2
 msgid "Comment=Streaming MPEG layer 3 audio"
-msgstr "Comment=MPEG Layer-3-ауд╕о"
+msgstr "Comment=MPEG Layer-3-п╟я┐п╢я√п╬"
 
 #: kdelibs/mimetypes/audio/x-scpls.desktop:2
 msgid "Comment=MP3 ShoutCast Playlist"
-msgstr "Comment=MP3-ShoutCast список"
+msgstr "Comment=MP3-ShoutCast я│п©п╦я│п╬п╨"
 
 #: kdelibs/mimetypes/audio/x-wav.desktop:2
 msgid "Comment=WAV audio"
-msgstr "Comment=WAV-ауд╕о"
+msgstr "Comment=WAV-п╟я┐п╢я√п╬"
 
 #: kdelibs/mimetypes/image/cgm.desktop:2
 msgid "Comment=Computer Graphics Metafile"
-msgstr "Comment=Метафайл \"Computer Graphics\""
+msgstr "Comment=п°п╣я┌п╟я└п╟п╧п╩ \"Computer Graphics\""
 
 #: kdelibs/mimetypes/image/gif.desktop:2
 msgid "Comment=GIF image"
-msgstr "Comment=GIF-образ"
+msgstr "Comment=GIF-п╬п╠я─п╟п╥"
 
 #: kdelibs/mimetypes/image/jpeg.desktop:2
 msgid "Comment=JPEG image"
-msgstr "Comment=JPEG-образ"
+msgstr "Comment=JPEG-п╬п╠я─п╟п╥"
 
 #: kdelibs/mimetypes/image/png.desktop:2
 msgid "Comment=PNG image"
-msgstr "Comment=PNG-образ"
+msgstr "Comment=PNG-п╬п╠я─п╟п╥"
 
 #: kdelibs/mimetypes/image/tiff.desktop:2
 msgid "Comment=TIFF Image"
-msgstr "Comment=TIFF-образ"
+msgstr "Comment=TIFF-п╬п╠я─п╟п╥"
 
 #: kdelibs/mimetypes/image/x-bmp.desktop:2
 msgid "Comment=Windows BMP image"
-msgstr "Comment=Windows BMP-образ"
+msgstr "Comment=Windows BMP-п╬п╠я─п╟п╥"
 
 #: kdelibs/mimetypes/image/x-eps.desktop:2
 msgid "Comment=Encapsulated PostScript image"
-msgstr "Comment=Документ вбудованого PostScript"
+msgstr "Comment=п■п╬п╨я┐п╪п╣п╫я┌ п╡п╠я┐п╢п╬п╡п╟п╫п╬пЁп╬ PostScript"
 
 #: kdelibs/mimetypes/image/x-photo-cd.desktop:2
 msgid "Comment=PhotoCD image"
-msgstr "Comment=Photo-CD-образ"
+msgstr "Comment=Photo-CD-п╬п╠я─п╟п╥"
 
 #: kdelibs/mimetypes/image/x-xbm.desktop:2
 msgid "Comment=X BitMap image"
-msgstr "Comment=Образ X Bitmaps"
+msgstr "Comment=п·п╠я─п╟п╥ X Bitmaps"
 
 #: kdelibs/mimetypes/image/x-xpm.desktop:2
 msgid "Comment=X PixMap image"
-msgstr "Comment=Образ X-Bitmaps"
+msgstr "Comment=п·п╠я─п╟п╥ X-Bitmaps"
 
 #: kdelibs/mimetypes/inode/block.desktop:2
 msgid "Comment=Block Device"
-msgstr "Comment=Блочний пристр╕й"
+msgstr "Comment=п▒п╩п╬я┤п╫п╦п╧ п©я─п╦я│я┌я─я√п╧"
 
 #: kdelibs/mimetypes/inode/chardevice.desktop:2
 msgid "Comment=Character Device"
-msgstr "Comment=Символьний пристр╕й"
+msgstr "Comment=п║п╦п╪п╡п╬п╩я▄п╫п╦п╧ п©я─п╦я│я┌я─я√п╧"
 
 #: kdelibs/mimetypes/inode/directory-locked.desktop:2
 msgid "Comment=Locked Directory"
-msgstr "Comment=Закритий каталог"
+msgstr "Comment=п≈п╟п╨я─п╦я┌п╦п╧ п╨п╟я┌п╟п╩п╬пЁ"
 
 #: kdelibs/mimetypes/inode/directory.desktop:2
 msgid "Comment=Directory"
-msgstr "Comment=Каталог"
+msgstr "Comment=п п╟я┌п╟п╩п╬пЁ"
 
 #: kdelibs/mimetypes/inode/fifo.desktop:2
 msgid "Comment=Pipe"
-msgstr "Comment=Канал (Pipe)"
+msgstr "Comment=п п╟п╫п╟п╩ (Pipe)"
 
 #: kdelibs/mimetypes/inode/socket.desktop:2
 msgid "Comment=Socket"
-msgstr "Comment=Сокет"
+msgstr "Comment=п║п╬п╨п╣я┌"
 
 #: kdelibs/mimetypes/message/news.desktop:2
 msgid "Comment=Usenet news message"
-msgstr "Comment=Пов╕домлення новин Usenet"
+msgstr "Comment=п÷п╬п╡я√п╢п╬п╪п╩п╣п╫п╫я▐ п╫п╬п╡п╦п╫ Usenet"
 
 #: kdelibs/mimetypes/message/rfc822.desktop:2
 msgid "Comment=E-Mail message"
-msgstr "Comment=Пов╕домлення Email"
+msgstr "Comment=п÷п╬п╡я√п╢п╬п╪п╩п╣п╫п╫я▐ Email"
 
 #: kdelibs/mimetypes/text/css.desktop:2
 msgid "Comment=Context Style Sheet"
-msgstr "Comment=Таблиця контекстного стилю (CSS)"
+msgstr "Comment=п╒п╟п╠п╩п╦я├я▐ п╨п╬п╫я┌п╣п╨я│я┌п╫п╬пЁп╬ я│я┌п╦п╩я▌ (CSS)"
 
 #: kdelibs/mimetypes/text/english.desktop:2
 msgid "Comment=English Text"
-msgstr "Comment=Англ╕йський Тескт"
+msgstr "Comment=п░п╫пЁп╩я√п╧я│я▄п╨п╦п╧ п╒п╣я│п╨я┌"
 
 #: kdelibs/mimetypes/text/html.desktop:2
 msgid "Comment=HTML Page"
-msgstr "Comment=Стор╕нка HTML"
+msgstr "Comment=п║я┌п╬я─я√п╫п╨п╟ HTML"
 
 #: kdelibs/mimetypes/text/plain.desktop:2
 msgid "Comment=Plain Text"
-msgstr "Comment=Текст"
+msgstr "Comment=п╒п╣п╨я│я┌"
 
 #: kdelibs/mimetypes/text/rtf.desktop:2
 msgid "Comment=Rich Text Format"
@@ -3086,23 +3086,23 @@ msgstr "Comment=SGML"
 
 #: kdelibs/mimetypes/text/x-c++hdr.desktop:2
 msgid "Comment=C++ headers"
-msgstr "Comment=Заголовки C++"
+msgstr "Comment=п≈п╟пЁп╬п╩п╬п╡п╨п╦ C++"
 
 #: kdelibs/mimetypes/text/x-c++src.desktop:2
 msgid "Comment=C++ sources"
-msgstr "Comment=Вих╕дний файл C++"
+msgstr "Comment=п▓п╦я┘я√п╢п╫п╦п╧ я└п╟п╧п╩ C++"
 
 #: kdelibs/mimetypes/text/x-chdr.desktop:2
 msgid "Comment=C headers"
-msgstr "Comment=Заголовки C"
+msgstr "Comment=п≈п╟пЁп╬п╩п╬п╡п╨п╦ C"
 
 #: kdelibs/mimetypes/text/x-csrc.desktop:2
 msgid "Comment=C sources"
-msgstr "Comment=Вих╕дний файл C"
+msgstr "Comment=п▓п╦я┘я√п╢п╫п╦п╧ я└п╟п╧п╩ C"
 
 #: kdelibs/mimetypes/text/x-java.desktop:2
 msgid "Comment=Java sources"
-msgstr "Comment=Вих╕дний файл Java"
+msgstr "Comment=п▓п╦я┘я√п╢п╫п╦п╧ я└п╟п╧п╩ Java"
 
 #: kdelibs/mimetypes/text/x-makefile.desktop:2
 msgid "Comment=Makefile"
@@ -3110,55 +3110,55 @@ msgstr "Comment=Makefile"
 
 #: kdelibs/mimetypes/text/x-moc.desktop:2
 msgid "Comment=Qt Meta Object File"
-msgstr "Comment=Файл з мета об'╓ктами Qt"
+msgstr "Comment=п╓п╟п╧п╩ п╥ п╪п╣я┌п╟ п╬п╠'я■п╨я┌п╟п╪п╦ Qt"
 
 #: kdelibs/mimetypes/text/x-objcsrc.desktop:2
 msgid "Comment=Objective-C sources"
-msgstr "Comment=Вих╕дний файл Objective-C"
+msgstr "Comment=п▓п╦я┘я√п╢п╫п╦п╧ я└п╟п╧п╩ Objective-C"
 
 #: kdelibs/mimetypes/text/x-pascal.desktop:2
 msgid "Comment=Pascal sources"
-msgstr "Comment=Вих╕дний файл Pascal"
+msgstr "Comment=п▓п╦я┘я√п╢п╫п╦п╧ я└п╟п╧п╩ Pascal"
 
 #: kdelibs/mimetypes/text/x-tcl.desktop:2
 msgid "Comment=Tcl file"
-msgstr "Comment=Файл Tcl"
+msgstr "Comment=п╓п╟п╧п╩ Tcl"
 
 #: kdelibs/mimetypes/text/x-tex.desktop:2
 msgid "Comment=TeX file"
-msgstr "Comment=Документ TeX"
+msgstr "Comment=п■п╬п╨я┐п╪п╣п╫я┌ TeX"
 
 #: kdelibs/mimetypes/text/x-vcard.desktop:2
 msgid "Comment=Electronic Business Card"
-msgstr "Comment=Електронна в╕зитна картка"
+msgstr "Comment=п∙п╩п╣п╨я┌я─п╬п╫п╫п╟ п╡я√п╥п╦я┌п╫п╟ п╨п╟я─я┌п╨п╟"
 
 #: kdelibs/mimetypes/text/xml.desktop:2
 msgid "Comment=eXtended Markup Language document"
-msgstr "Comment=Документ XML"
+msgstr "Comment=п■п╬п╨я┐п╪п╣п╫я┌ XML"
 
 #: kdelibs/mimetypes/video/mpeg.desktop:2
 msgid "Comment=MPEG Video"
-msgstr "Comment=MPEG-В╕део"
+msgstr "Comment=MPEG-п▓я√п╢п╣п╬"
 
 #: kdelibs/mimetypes/video/quicktime.desktop:2
 msgid "Comment=Quicktime Video"
-msgstr "Comment=Quicktime-В╕део"
+msgstr "Comment=Quicktime-п▓я√п╢п╣п╬"
 
 #: kdelibs/mimetypes/video/x-flic.desktop:2
 msgid "Comment=Autodesk's FLIC files"
-msgstr "Comment=Файли FLIC (Autodesk)"
+msgstr "Comment=п╓п╟п╧п╩п╦ FLIC (Autodesk)"
 
 #: kdelibs/mimetypes/video/x-msvideo.desktop:2
 msgid "Comment=Microsoft AVI Video"
-msgstr "Comment=AVI-в╕део (Microsoft)"
+msgstr "Comment=AVI-п╡я√п╢п╣п╬ (Microsoft)"
 
 #: kdelibs/pics/hicolor/index.desktop:1
 msgid "Name=KDE-HiColor"
-msgstr "Name=KDE (64К кольор╕в)"
+msgstr "Name=KDE (64п  п╨п╬п╩я▄п╬я─я√п╡)"
 
 #: kdelibs/pics/locolor/index.desktop:1
 msgid "Name=KDE-LoColor"
-msgstr "Name=KDE: обмежен╕ кольори"
+msgstr "Name=KDE: п╬п╠п╪п╣п╤п╣п╫я√ п╨п╬п╩я▄п╬я─п╦"
 
 #: kdemultimedia/aktion/aktion.desktop:1
 msgid "Name=aKtion!"
@@ -3166,31 +3166,31 @@ msgstr "Name=aKtion!"
 
 #: kdemultimedia/aktion/aktion.desktop:2
 msgid "Comment=Video Player"
-msgstr "Comment=Програвач в╕део-файл╕в"
+msgstr "Comment=п÷я─п╬пЁя─п╟п╡п╟я┤ п╡я√п╢п╣п╬-я└п╟п╧п╩я√п╡"
 
 #: kdemultimedia/arts/tools/artscontrol.desktop:1
 msgid "Name=aRts control"
-msgstr "Name=Настройка aRts"
+msgstr "Name=п²п╟я│я┌я─п╬п╧п╨п╟ aRts"
 
 #: kdemultimedia/arts/tools/artscontrol.desktop:2
 msgid "Comment=Soundserver control tool"
-msgstr "Comment=Зас╕б настройки серверу звуку"
+msgstr "Comment=п≈п╟я│я√п╠ п╫п╟я│я┌я─п╬п╧п╨п╦ я│п╣я─п╡п╣я─я┐ п╥п╡я┐п╨я┐"
 
 #: kdemultimedia/kautorun/kautorun.desktop:1
 msgid "Name=CD AutoRun"
-msgstr "Name=Автозапуск з CD"
+msgstr "Name=п░п╡я┌п╬п╥п╟п©я┐я│п╨ п╥ CD"
 
 #: kdemultimedia/kmid/kmid.desktop:1
 msgid "Name=Midi/Karaoke Player"
-msgstr "Name=Програвач файл╕в Midi/Karaoke"
+msgstr "Name=п÷я─п╬пЁя─п╟п╡п╟я┤ я└п╟п╧п╩я√п╡ Midi/Karaoke"
 
 #: kdemultimedia/kmid/kmid.desktop:2
 msgid "Comment=A midi / karaoke file player"
-msgstr "Comment=Програвач файл╕в Midi/Karaoke"
+msgstr "Comment=п÷я─п╬пЁя─п╟п╡п╟я┤ я└п╟п╧п╩я√п╡ Midi/Karaoke"
 
 #: kdemultimedia/kmid/x-karaoke.desktop:2
 msgid "Comment=Karaoke file"
-msgstr "Comment=Файл Karaoke"
+msgstr "Comment=п╓п╟п╧п╩ Karaoke"
 
 #: kdemultimedia/kmidi/TIMIDITY/timidity.desktop:1
 msgid "Name=TiMidity synth"
@@ -3198,31 +3198,31 @@ msgstr ""
 
 #: kdemultimedia/kmidi/TIMIDITY/timidity.desktop:2
 msgid "Comment=A Midi Player"
-msgstr "Comment=Програвач Midi"
+msgstr "Comment=п÷я─п╬пЁя─п╟п╡п╟я┤ Midi"
 
 #: kdemultimedia/kmidi/kmidi.desktop:1
 msgid "Name=Midi synth"
-msgstr "Name=Синтезатор MIDI"
+msgstr "Name=п║п╦п╫я┌п╣п╥п╟я┌п╬я─ MIDI"
 
 #: kdemultimedia/kmix/kmix.desktop:1
 msgid "Name=Sound Mixer Panel"
-msgstr "Name=Панель м╕кшеру"
+msgstr "Name=п÷п╟п╫п╣п╩я▄ п╪я√п╨я┬п╣я─я┐"
 
 #: kdemultimedia/kmix/kmix.desktop:2
 msgid "Comment=Controls the volume of the Sound channels"
-msgstr "Comment=Керу╓ гучн╕стю канал╕в звуку"
+msgstr "Comment=п п╣я─я┐я■ пЁя┐я┤п╫я√я│я┌я▌ п╨п╟п╫п╟п╩я√п╡ п╥п╡я┐п╨я┐"
 
 #: kdemultimedia/kscd/kscd.desktop:1
 msgid "Name=CD Player"
-msgstr "Name=Програвач CD"
+msgstr "Name=п÷я─п╬пЁя─п╟п╡п╟я┤ CD"
 
 #: kdemultimedia/kscd/kscd.desktop:2
 msgid "Comment=A CD Player"
-msgstr "Comment=Програвач копмакт диск╕в"
+msgstr "Comment=п÷я─п╬пЁя─п╟п╡п╟я┤ п╨п╬п©п╪п╟п╨я┌ п╢п╦я│п╨я√п╡"
 
 #: kdemultimedia/kscd/xmcd.desktop:2
 msgid "Comment=CD Database File"
-msgstr "Comment=Файл бази даних CD"
+msgstr "Comment=п╓п╟п╧п╩ п╠п╟п╥п╦ п╢п╟п╫п╦я┘ CD"
 
 #: kdenetwork/caitoo/caitoo.desktop:1
 msgid "Name=Caitoo Internet Downloader"
@@ -3234,67 +3234,67 @@ msgstr ""
 
 #: kdenetwork/columbo/colfind/colfind.desktop:1
 msgid "Name=Search files"
-msgstr "Name=Пошук файл╕в"
+msgstr "Name=п÷п╬я┬я┐п╨ я└п╟п╧п╩я√п╡"
 
 #: kdenetwork/columbo/colfind/colfind.desktop:2
 msgid "Comment=Search Files"
-msgstr "Comment=Пошук файл╕в"
+msgstr "Comment=п÷п╬я┬я┐п╨ я└п╟п╧п╩я√п╡"
 
 #: kdenetwork/columbo/colftp/colftp.desktop:1
 msgid "Name=Search FTP"
-msgstr "Name=Пошук по FTP"
+msgstr "Name=п÷п╬я┬я┐п╨ п©п╬ FTP"
 
 #: kdenetwork/columbo/colftp/colftp.desktop:2
 msgid "Comment=Search FTP"
-msgstr "Comment=Пошук по FTP"
+msgstr "Comment=п÷п╬я┬я┐п╨ п©п╬ FTP"
 
 #: kdenetwork/columbo/colnews/colnews.desktop:1
 msgid "Name=Search News"
-msgstr "Name=Пошук в новинах (news)"
+msgstr "Name=п÷п╬я┬я┐п╨ п╡ п╫п╬п╡п╦п╫п╟я┘ (news)"
 
 #: kdenetwork/columbo/colnews/colnews.desktop:2
 msgid "Comment=Search news"
-msgstr "Comment=Пошук в новинах (news)"
+msgstr "Comment=п÷п╬я┬я┐п╨ п╡ п╫п╬п╡п╦п╫п╟я┘ (news)"
 
 #: kdenetwork/columbo/colweb/colweb.desktop:1
 msgid "Name=Search on the Web"
-msgstr "Name=Web-пошук"
+msgstr "Name=Web-п©п╬я┬я┐п╨"
 
 #: kdenetwork/columbo/colweb/colweb.desktop:2
 msgid "Comment=Search the Web"
-msgstr "Comment=Пошук на Web"
+msgstr "Comment=п÷п╬я┬я┐п╨ п╫п╟ Web"
 
 #: kdenetwork/columbo/colwhois/colwhois.desktop:1
 msgid "Name=Search NIC database"
-msgstr "Name=Пошук у баз╕ даних NIC"
+msgstr "Name=п÷п╬я┬я┐п╨ я┐ п╠п╟п╥я√ п╢п╟п╫п╦я┘ NIC"
 
 #: kdenetwork/columbo/colwhois/colwhois.desktop:2
 msgid "Comment=Search NIC Database"
-msgstr "Comment=Пошук у баз╕ даних NIC"
+msgstr "Comment=п÷п╬я┬я┐п╨ я┐ п╠п╟п╥я√ п╢п╟п╫п╦я┘ NIC"
 
 #: kdenetwork/karchie/karchie.desktop:1
 msgid "Name=Archie client"
-msgstr "Name=Кл╕╓нт Archie"
+msgstr "Name=п п╩я√я■п╫я┌ Archie"
 
 #: kdenetwork/karchie/karchie.desktop:2
 msgid "Comment=Find and access files on ftp-servers"
-msgstr "Comment=Знайти та перев╕рити файли на FTP-серверах"
+msgstr "Comment=п≈п╫п╟п╧я┌п╦ я┌п╟ п©п╣я─п╣п╡я√я─п╦я┌п╦ я└п╟п╧п╩п╦ п╫п╟ FTP-я│п╣я─п╡п╣я─п╟я┘"
 
 #: kdenetwork/kbiff/kbiff.desktop:1
 msgid "Name=Email Notifier (biff)"
-msgstr "Name=Спов╕щувач електронно╖ пошти (biff)"
+msgstr "Name=п║п©п╬п╡я√я┴я┐п╡п╟я┤ п╣п╩п╣п╨я┌я─п╬п╫п╫п╬я≈ п©п╬я┬я┌п╦ (biff)"
 
 #: kdenetwork/kbiff/kbiff.desktop:2
 msgid "Comment=Mail notification utility"
-msgstr "Comment=Ут╕л╕та спов╕щування про надходження пошти"
+msgstr "Comment=пёя┌я√п╩я√я┌п╟ я│п©п╬п╡я√я┴я┐п╡п╟п╫п╫я▐ п©я─п╬ п╫п╟п╢я┘п╬п╢п╤п╣п╫п╫я▐ п©п╬я┬я┌п╦"
 
 #: kdenetwork/kfinger/kfinger.desktop:1
 msgid "Name=User information"
-msgstr "Name=╤нформац╕я щодо користувач╕в"
+msgstr "Name=п├п╫я└п╬я─п╪п╟я├я√я▐ я┴п╬п╢п╬ п╨п╬я─п╦я│я┌я┐п╡п╟я┤я√п╡"
 
 #: kdenetwork/kfinger/kfinger.desktop:2
 msgid "Comment=User information lookup tool"
-msgstr "Comment=Ут╕л╕та перегляду ╕нформац╕╖ про користувач╕в"
+msgstr "Comment=пёя┌я√п╩я√я┌п╟ п©п╣я─п╣пЁп╩я▐п╢я┐ я√п╫я└п╬я─п╪п╟я├я√я≈ п©я─п╬ п╨п╬я─п╦я│я┌я┐п╡п╟я┤я√п╡"
 
 #: kdenetwork/kmail/KMail.desktop:1
 msgid "Name=KMail"
@@ -3302,63 +3302,63 @@ msgstr "Name=KMail"
 
 #: kdenetwork/kmail/KMail.desktop:2
 msgid "Comment=Mail Client"
-msgstr "Comment=Кл╕╓нт електронно╖ пошти"
+msgstr "Comment=п п╩я√я■п╫я┌ п╣п╩п╣п╨я┌я─п╬п╫п╫п╬я≈ п©п╬я┬я┌п╦"
 
 #: kdenetwork/knu/knu.desktop:1
 msgid "Name=Network utilities"
-msgstr "Name=Мережев╕ ут╕л╕ти"
+msgstr "Name=п°п╣я─п╣п╤п╣п╡я√ я┐я┌я√п╩я√я┌п╦"
 
 #: kdenetwork/knu/knu.desktop:2
 msgid "Comment=ping, traceroute and host resolution"
-msgstr "Comment=ping, traceroute та host resolution"
+msgstr "Comment=ping, traceroute я┌п╟ host resolution"
 
 #: kdenetwork/korn/KOrn.desktop:1
 msgid "Name=Mail monitor"
-msgstr "Name=KOrn: мон╕тор електронно╖ пошти"
+msgstr "Name=KOrn: п╪п╬п╫я√я┌п╬я─ п╣п╩п╣п╨я┌я─п╬п╫п╫п╬я≈ п©п╬я┬я┌п╦"
 
 #: kdenetwork/korn/KOrn.desktop:2
 msgid "Comment=Multi-folder new mail monitor"
-msgstr "Comment=Структурований мон╕тор електронно╖ пошти"
+msgstr "Comment=п║я┌я─я┐п╨я┌я┐я─п╬п╡п╟п╫п╦п╧ п╪п╬п╫я√я┌п╬я─ п╣п╩п╣п╨я┌я─п╬п╫п╫п╬я≈ п©п╬я┬я┌п╦"
 
 #: kdenetwork/kppp/Kppp.desktop:1
 msgid "Name=Internet Dialer"
-msgstr "Name=Дозвон в ╤нтернет"
+msgstr "Name=п■п╬п╥п╡п╬п╫ п╡ п├п╫я┌п╣я─п╫п╣я┌"
 
 #: kdenetwork/kppp/Kppp.desktop:2
 msgid "Comment=Internet dial-up tool"
-msgstr "Comment=Зас╕б дозвону в ╤нтернет"
+msgstr "Comment=п≈п╟я│я√п╠ п╢п╬п╥п╡п╬п╫я┐ п╡ п├п╫я┌п╣я─п╫п╣я┌"
 
 #: kdenetwork/kppp/logview/kppplogview.desktop:1
 msgid "Name=KPPP - Logview"
-msgstr "Name=Переглядач журналу Kppp"
+msgstr "Name=п÷п╣я─п╣пЁп╩я▐п╢п╟я┤ п╤я┐я─п╫п╟п╩я┐ Kppp"
 
 #: kdenetwork/kppp/logview/kppplogview.desktop:2
 msgid "Comment=Show Internet Dialer Logfiles"
-msgstr "Comment=Перегляд журнал╕в дозвону в ╤нтренет"
+msgstr "Comment=п÷п╣я─п╣пЁп╩я▐п╢ п╤я┐я─п╫п╟п╩я√п╡ п╢п╬п╥п╡п╬п╫я┐ п╡ п├п╫я┌я─п╣п╫п╣я┌"
 
 #: kdenetwork/krn/Krn.desktop:1
 msgid "Name=News client"
-msgstr "Name=Кл╕╓нт новин KRn"
+msgstr "Name=п п╩я√я■п╫я┌ п╫п╬п╡п╦п╫ KRn"
 
 #: kdenetwork/krn/Krn.desktop:2
 msgid "Comment=Newsreader"
-msgstr "Comment=Програма для перегляду новин Usenet"
+msgstr "Comment=п÷я─п╬пЁя─п╟п╪п╟ п╢п╩я▐ п©п╣я─п╣пЁп╩я▐п╢я┐ п╫п╬п╡п╦п╫ Usenet"
 
 #: kdenetwork/ksirc/ksirc.desktop:1
 msgid "Name=Chat Client (ksirc)"
-msgstr "Name=Чат-програма KSirc"
+msgstr "Name=п╖п╟я┌-п©я─п╬пЁя─п╟п╪п╟ KSirc"
 
 #: kdenetwork/ksirc/ksirc.desktop:2
 msgid "Comment=IRC client"
-msgstr "Comment=Кл╕╓нт IRC"
+msgstr "Comment=п п╩я√я■п╫я┌ IRC"
 
 #: kdenetwork/ktalkd/kcmktalkd/kcmktalkd.desktop:1
 msgid "Name=Talk configuration"
-msgstr "Name=Конф╕гурац╕я Talk"
+msgstr "Name=п п╬п╫я└я√пЁя┐я─п╟я├я√я▐ Talk"
 
 #: kdenetwork/ktalkd/kcmktalkd/kcmktalkd.desktop:2
 msgid "Comment=Talk daemon configuration"
-msgstr "Comment=Конф╕гурац╕я демону Talk"
+msgstr "Comment=п п╬п╫я└я√пЁя┐я─п╟я├я√я▐ п╢п╣п╪п╬п╫я┐ Talk"
 
 #: kdenonbeta/gofai-wmt/config/gofai.desktop:1
 msgid "Name=GOFAI"
@@ -3366,19 +3366,19 @@ msgstr "Name=GOFAI"
 
 #: kdenonbeta/gofai-wmt/config/gofai.desktop:2
 msgid "Comment=Configuration for GOFAI-WMT Data View"
-msgstr "Comment=Конф╕гурац╕я переглядача даних GOFAI-WMT"
+msgstr "Comment=п п╬п╫я└я√пЁя┐я─п╟я├я√я▐ п©п╣я─п╣пЁп╩я▐п╢п╟я┤п╟ п╢п╟п╫п╦я┘ GOFAI-WMT"
 
 #: kdenonbeta/gofai-wmt/src/gofai.desktop:1
 msgid "Name=Good Old AI"
-msgstr "Name=Старий добрий Ш╤"
+msgstr "Name=п║я┌п╟я─п╦п╧ п╢п╬п╠я─п╦п╧ п╗п├"
 
 #: kdenonbeta/gofai-wmt/src/gofai.desktop:2
 msgid "Comment=Good Old Fashioned Artificial Intelligence With A Modern Twist"
-msgstr "Comment=Старий добрий штучний ╕нтелект з сучасними додатками"
+msgstr "Comment=п║я┌п╟я─п╦п╧ п╢п╬п╠я─п╦п╧ я┬я┌я┐я┤п╫п╦п╧ я√п╫я┌п╣п╩п╣п╨я┌ п╥ я│я┐я┤п╟я│п╫п╦п╪п╦ п╢п╬п╢п╟я┌п╨п╟п╪п╦"
 
 #: kdenonbeta/gofai-wmt/src/x-gofai.desktop:2
 msgid "Comment=Gofai graph file"
-msgstr "Comment=Граф╕чний файл Gofai"
+msgstr "Comment=п⌠я─п╟я└я√я┤п╫п╦п╧ я└п╟п╧п╩ Gofai"
 
 #: kdenonbeta/kbackpage/kbackpage/kbackpage.kdelnk:1
 msgid "Name=KBackPage"
@@ -3386,19 +3386,19 @@ msgstr "Name=KBackPage"
 
 #: kdenonbeta/kcmbind/bind.desktop:1
 msgid "Name=Bind Configuration"
-msgstr "Name=Конф╕гурац╕я Bind"
+msgstr "Name=п п╬п╫я└я√пЁя┐я─п╟я├я√я▐ Bind"
 
 #: kdenonbeta/kcmbind/bind.desktop:2
 msgid "Comment=Bind Configuration Tool"
-msgstr "Comment=Зас╕б конф╕гурац╕╖ Bind"
+msgstr "Comment=п≈п╟я│я√п╠ п╨п╬п╫я└я√пЁя┐я─п╟я├я√я≈ Bind"
 
 #: kdenonbeta/kcmdhcpd/dhcpd.desktop:1
 msgid "Name=Dhcp Manager"
-msgstr "Name=Менеджер DHCP"
+msgstr "Name=п°п╣п╫п╣п╢п╤п╣я─ DHCP"
 
 #: kdenonbeta/kcmdhcpd/dhcpd.desktop:2
 msgid "Comment=Dhcp Manager"
-msgstr "Comment=Менеджер DHCP"
+msgstr "Comment=п°п╣п╫п╣п╢п╤п╣я─ DHCP"
 
 #: kdenonbeta/kexpress/kexpress.kdelnk:1
 msgid "Name=KExpress"
@@ -3406,27 +3406,27 @@ msgstr "Name=KExpress"
 
 #: kdenonbeta/kexpress/kexpress.kdelnk:2
 msgid "Comment=Newsreader KExpress"
-msgstr "Comment=Переглядач новин Usenet"
+msgstr "Comment=п÷п╣я─п╣пЁп╩я▐п╢п╟я┤ п╫п╬п╡п╦п╫ Usenet"
 
 #: kdenonbeta/kglchess/kglchess.kdelnk:1
 msgid "Name=OpenGL Chess"
-msgstr "Name=Шахи OpenGL"
+msgstr "Name=п╗п╟я┘п╦ OpenGL"
 
 #: kdenonbeta/kglchess/kglchess.kdelnk:2
 msgid "Comment=OpenGL Chess"
-msgstr "Comment=Шахи OpenGL"
+msgstr "Comment=п╗п╟я┘п╦ OpenGL"
 
 #: kdenonbeta/kgnuplot/kgrapher.kdelnk:1
 msgid "Name=Plotter"
-msgstr "Name=Плоттер"
+msgstr "Name=п÷п╩п╬я┌я┌п╣я─"
 
 #: kdenonbeta/kgnuplot/kgrapher.kdelnk:2
 msgid "Comment=Tool for ploting, a port of GNU Plot"
-msgstr "Comment=Зас╕б для малювання граф╕к╕в, вар╕ант GNU-Plot"
+msgstr "Comment=п≈п╟я│я√п╠ п╢п╩я▐ п╪п╟п╩я▌п╡п╟п╫п╫я▐ пЁя─п╟я└я√п╨я√п╡, п╡п╟я─я√п╟п╫я┌ GNU-Plot"
 
 #: kdenonbeta/kmail2/KMail.kdelnk:1
 msgid "Name=Mail client"
-msgstr "Name=Кл╕╓нт електронно╖ пошти"
+msgstr "Name=п п╩я√я■п╫я┌ п╣п╩п╣п╨я┌я─п╬п╫п╫п╬я≈ п©п╬я┬я┌п╦"
 
 #: kdenonbeta/kmessage/kmessage.kdelnk:1
 msgid "Name=KMessage"
@@ -3434,7 +3434,7 @@ msgstr "Name=KMessage"
 
 #: kdenonbeta/kmessage/kmessage.kdelnk:2
 msgid "Comment=Display a Text Message in a Popup Window"
-msgstr "Comment=В╕дображу╓ текстове пов╕домлення у вспливаючему в╕кн╕"
+msgstr "Comment=п▓я√п╢п╬п╠я─п╟п╤я┐я■ я┌п╣п╨я│я┌п╬п╡п╣ п©п╬п╡я√п╢п╬п╪п╩п╣п╫п╫я▐ я┐ п╡я│п©п╩п╦п╡п╟я▌я┤п╣п╪я┐ п╡я√п╨п╫я√"
 
 #: kdenonbeta/knetmon/knetmon/knetmon.kdelnk:1
 msgid "Name=knetmon"
@@ -3442,7 +3442,7 @@ msgstr "Name=KNetmon"
 
 #: kdenonbeta/knetmon/knetmon/knetmon.kdelnk:2
 msgid "Comment=A network tool"
-msgstr "Comment=Мережева ут╕л╕та"
+msgstr "Comment=п°п╣я─п╣п╤п╣п╡п╟ я┐я┌я√п╩я√я┌п╟"
 
 #: kdenonbeta/konv/konv/konv.desktop:1
 msgid "Name=Konv"
@@ -3450,7 +3450,7 @@ msgstr "Name=Konv"
 
 #: kdenonbeta/konv/konv/konv.desktop:2
 msgid "Comment=A KDE Unit Converter"
-msgstr "Comment=Перекладач одиниць для KDE"
+msgstr "Comment=п÷п╣я─п╣п╨п╩п╟п╢п╟я┤ п╬п╢п╦п╫п╦я├я▄ п╢п╩я▐ KDE"
 
 #: kdenonbeta/ksciplot/ksciplot/ksciplot.desktop:1
 msgid "Name=KSciPlot"
@@ -3458,7 +3458,7 @@ msgstr "Name=KSciPlot"
 
 #: kdenonbeta/ksciplot/ksciplot/ksciplot.desktop:2
 msgid "Comment=function plotter"
-msgstr "Comment=Побудова граф╕к╕в функц╕й"
+msgstr "Comment=п÷п╬п╠я┐п╢п╬п╡п╟ пЁя─п╟я└я√п╨я√п╡ я└я┐п╫п╨я├я√п╧"
 
 #: kdenonbeta/ksciplot/ksciplot/x-ksciplot.desktop:2
 msgid "Comment=KSciPlot"
@@ -3466,11 +3466,11 @@ msgstr "Comment=KSciPlot"
 
 #: kdenonbeta/ksensor/ksensor.desktop:1
 msgid "Name=Hardware Status Monitor"
-msgstr "Name=Мон╕тор апаратного забезпечення"
+msgstr "Name=п°п╬п╫я√я┌п╬я─ п╟п©п╟я─п╟я┌п╫п╬пЁп╬ п╥п╟п╠п╣п╥п©п╣я┤п╣п╫п╫я▐"
 
 #: kdenonbeta/ksensor/ksensor.desktop:2
 msgid "Comment=Hardware Status Monitor"
-msgstr "Comment=Мон╕тор стану апаратного забезпечення"
+msgstr "Comment=п°п╬п╫я√я┌п╬я─ я│я┌п╟п╫я┐ п╟п©п╟я─п╟я┌п╫п╬пЁп╬ п╥п╟п╠п╣п╥п©п╣я┤п╣п╫п╫я▐"
 
 #: kdenonbeta/kticker/kticker.desktop:1
 msgid "Name=Ticker"
@@ -3486,39 +3486,39 @@ msgstr "Name=WebTree"
 
 #: kdenonbeta/lnk/WebTree.kdelnk:2
 msgid "Comment=Web link analizer & mirroring tool"
-msgstr "Comment=Анал╕затор та зас╕б в╕ддзеркалювання web-посилань"
+msgstr "Comment=п░п╫п╟п╩я√п╥п╟я┌п╬я─ я┌п╟ п╥п╟я│я√п╠ п╡я√п╢п╢п╥п╣я─п╨п╟п╩я▌п╡п╟п╫п╫я▐ web-п©п╬я│п╦п╩п╟п╫я▄"
 
 #: kdenonbeta/lnk/kclock.kdelnk:1
 msgid "Name=Clock"
-msgstr "Name=Годинник"
+msgstr "Name=п⌠п╬п╢п╦п╫п╫п╦п╨"
 
 #: kdenonbeta/lnk/kclock.kdelnk:2
 msgid "Comment=A clock with some more"
-msgstr "Comment=Годинник ╕ не т╕льк╕"
+msgstr "Comment=п⌠п╬п╢п╦п╫п╫п╦п╨ я√ п╫п╣ я┌я√п╩я▄п╨я√"
 
 #: kdenonbeta/lnk/kcmprinter.kdelnk:1
 msgid "Name=Printer Control Panel"
-msgstr "Name=Панель настройки принтеру"
+msgstr "Name=п÷п╟п╫п╣п╩я▄ п╫п╟я│я┌я─п╬п╧п╨п╦ п©я─п╦п╫я┌п╣я─я┐"
 
 #: kdenonbeta/lnk/kcmprinter.kdelnk:2
 msgid "Comment=A tool for setting up printers"
-msgstr "Comment=Зас╕б настройки принтер╕в"
+msgstr "Comment=п≈п╟я│я√п╠ п╫п╟я│я┌я─п╬п╧п╨п╦ п©я─п╦п╫я┌п╣я─я√п╡"
 
 #: kdenonbeta/lnk/kdayplan.kdelnk:1
 msgid "Name=Day Plan"
-msgstr "Name=Розклад на день"
+msgstr "Name=п═п╬п╥п╨п╩п╟п╢ п╫п╟ п╢п╣п╫я▄"
 
 #: kdenonbeta/lnk/kdayplan.kdelnk:2
 msgid "Comment=A complete calendar and scheduling program"
-msgstr "Comment=Повнофункц╕ональний календар"
+msgstr "Comment=п÷п╬п╡п╫п╬я└я┐п╫п╨я├я√п╬п╫п╟п╩я▄п╫п╦п╧ п╨п╟п╩п╣п╫п╢п╟я─"
 
 #: kdenonbeta/lnk/kdbg.kdelnk:1
 msgid "Name=Debugger"
-msgstr "Name=В╕дладчик"
+msgstr "Name=п▓я√п╢п╩п╟п╢я┤п╦п╨"
 
 #: kdenonbeta/lnk/kdbg.kdelnk:2
 msgid "Comment=Debug programs"
-msgstr "Comment=Програми для в╕длагодження програм"
+msgstr "Comment=п÷я─п╬пЁя─п╟п╪п╦ п╢п╩я▐ п╡я√п╢п╩п╟пЁп╬п╢п╤п╣п╫п╫я▐ п©я─п╬пЁя─п╟п╪"
 
 #: kdenonbeta/lnk/kfortune.kdelnk:1
 msgid "Name=KFortune"
@@ -3526,7 +3526,7 @@ msgstr "Name=KFortune"
 
 #: kdenonbeta/lnk/kfortune.kdelnk:2
 msgid "Comment=A simple fortune program for Kde"
-msgstr "Comment=Простенька програма \"fortune\" для KDE"
+msgstr "Comment=п÷я─п╬я│я┌п╣п╫я▄п╨п╟ п©я─п╬пЁя─п╟п╪п╟ \"fortune\" п╢п╩я▐ KDE"
 
 #: kdenonbeta/lnk/kisdn.kdelnk:1
 msgid "Name=kISDN"
@@ -3534,15 +3534,15 @@ msgstr "Name=kISDN"
 
 #: kdenonbeta/lnk/kisdn.kdelnk:2
 msgid "Comment=ISDN configuration, dialup and monitor"
-msgstr "Comment=Конф╕гурац╕я ISDN, дозвон та мон╕торинг"
+msgstr "Comment=п п╬п╫я└я√пЁя┐я─п╟я├я√я▐ ISDN, п╢п╬п╥п╡п╬п╫ я┌п╟ п╪п╬п╫я√я┌п╬я─п╦п╫пЁ"
 
 #: kdenonbeta/lnk/kjoy.kdelnk:1
 msgid "Name=Joystick"
-msgstr "Name=Джойтст╕к"
+msgstr "Name=п■п╤п╬п╧я┌я│я┌я√п╨"
 
 #: kdenonbeta/lnk/kjoy.kdelnk:2
 msgid "Comment=Joystick settings"
-msgstr "Comment=Настройки джойст╕ка"
+msgstr "Comment=п²п╟я│я┌я─п╬п╧п╨п╦ п╢п╤п╬п╧я│я┌я√п╨п╟"
 
 #: kdenonbeta/lnk/kless.kdelnk:1
 msgid "Name=KLess"
@@ -3550,7 +3550,7 @@ msgstr "Name=KLess"
 
 #: kdenonbeta/lnk/kless.kdelnk:2
 msgid "Comment=A simple Text Viewer"
-msgstr "Comment=Простий переглядач текст╕в"
+msgstr "Comment=п÷я─п╬я│я┌п╦п╧ п©п╣я─п╣пЁп╩я▐п╢п╟я┤ я┌п╣п╨я│я┌я√п╡"
 
 #: kdenonbeta/lnk/kmaster.kdelnk:1
 msgid "Name=KMastermind"
@@ -3558,7 +3558,7 @@ msgstr "Name=KMastermind"
 
 #: kdenonbeta/lnk/kmaster.kdelnk:2
 msgid "Comment=The game mastermind, designed for Kde"
-msgstr "Comment=Гра \"Майстер\" думки для KDE"
+msgstr "Comment=п⌠я─п╟ \"п°п╟п╧я│я┌п╣я─\" п╢я┐п╪п╨п╦ п╢п╩я▐ KDE"
 
 #: kdenonbeta/lnk/kpackage.kdelnk:1
 msgid "Name=kpackage"
@@ -3570,7 +3570,7 @@ msgstr "Name=KPilot"
 
 #: kdenonbeta/lnk/kpilot.kdelnk:2
 msgid "Comment=Palm Pilot Suite"
-msgstr "Comment=Наб╕р програм для Palm-Pilot"
+msgstr "Comment=п²п╟п╠я√я─ п©я─п╬пЁя─п╟п╪ п╢п╩я▐ Palm-Pilot"
 
 #: kdenonbeta/lnk/kray.kdelnk:1
 msgid "Name=KRay"
@@ -3578,39 +3578,39 @@ msgstr "Name=KRay"
 
 #: kdenonbeta/lnk/kray.kdelnk:2
 msgid "Comment=A simple Ray Tracer"
-msgstr "Comment=Прострий трасировщик пром╕н╕в"
+msgstr "Comment=п÷я─п╬я│я┌я─п╦п╧ я┌я─п╟я│п╦я─п╬п╡я┴п╦п╨ п©я─п╬п╪я√п╫я√п╡"
 
 #: kdenonbeta/lnk/krubik.kdelnk:1
 msgid "Name=Rubik's Kube"
-msgstr "Name=Куб╕к Руб╕ка"
+msgstr "Name=п я┐п╠я√п╨ п═я┐п╠я√п╨п╟"
 
 #: kdenonbeta/lnk/krubik.kdelnk:2
 msgid "Comment=A 3D model of the Rubik's Cube"
-msgstr "Comment=Трим╕рна модель Куб╕ка Руб╕ка"
+msgstr "Comment=п╒я─п╦п╪я√я─п╫п╟ п╪п╬п╢п╣п╩я▄ п я┐п╠я√п╨п╟ п═я┐п╠я√п╨п╟"
 
 #: kdenonbeta/lnk/ksamba.kdelnk:1
 msgid "Name=Samba Setup Tool"
-msgstr "Name=Настройка Samba"
+msgstr "Name=п²п╟я│я┌я─п╬п╧п╨п╟ Samba"
 
 #: kdenonbeta/lnk/ksamba.kdelnk:2
 msgid "Comment=Samba Setuptool"
-msgstr "Comment=Настройка Samba"
+msgstr "Comment=п²п╟я│я┌я─п╬п╧п╨п╟ Samba"
 
 #: kdenonbeta/lnk/kscan.kdelnk:1
 msgid "Name=Scanning Program"
-msgstr "Name=Програма для сканування"
+msgstr "Name=п÷я─п╬пЁя─п╟п╪п╟ п╢п╩я▐ я│п╨п╟п╫я┐п╡п╟п╫п╫я▐"
 
 #: kdenonbeta/lnk/kscan.kdelnk:2
 msgid "Comment=A SANE-based scanning application"
-msgstr "Comment=Програма для сканування на основ╕ SANE"
+msgstr "Comment=п÷я─п╬пЁя─п╟п╪п╟ п╢п╩я▐ я│п╨п╟п╫я┐п╡п╟п╫п╫я▐ п╫п╟ п╬я│п╫п╬п╡я√ SANE"
 
 #: kdenonbeta/lnk/ksciplot.kdelnk:1
 msgid "Name=function plotter"
-msgstr "Name=Зображувач граф╕к╕в функц╕й"
+msgstr "Name=п≈п╬п╠я─п╟п╤я┐п╡п╟я┤ пЁя─п╟я└я√п╨я√п╡ я└я┐п╫п╨я├я√п╧"
 
 #: kdenonbeta/lnk/ksciplot.kdelnk:2
 msgid "Comment=A mathematical function plotter."
-msgstr "Comment=Зображувач граф╕к╕в математичних функц╕й."
+msgstr "Comment=п≈п╬п╠я─п╟п╤я┐п╡п╟я┤ пЁя─п╟я└я√п╨я√п╡ п╪п╟я┌п╣п╪п╟я┌п╦я┤п╫п╦я┘ я└я┐п╫п╨я├я√п╧."
 
 #: kdenonbeta/lnk/ktelnet.kdelnk:1
 msgid "Name=Remote Login"
@@ -3618,7 +3618,7 @@ msgstr "Name=KTelnet"
 
 #: kdenonbeta/lnk/ktelnet.kdelnk:2
 msgid "Comment=Remote Login Manager"
-msgstr "Comment=Менеджер в╕ддалено╖ ре╓страц╕╖ (Telnet)"
+msgstr "Comment=п°п╣п╫п╣п╢п╤п╣я─ п╡я√п╢п╢п╟п╩п╣п╫п╬я≈ я─п╣я■я│я┌я─п╟я├я√я≈ (Telnet)"
 
 #: kdenonbeta/lnk/ktranslator.kdelnk:1
 msgid "Name=KTranslator"
@@ -3626,15 +3626,15 @@ msgstr "Name=KTranslator"
 
 #: kdenonbeta/lnk/ktranslator.kdelnk:2
 msgid "Comment=A powerful utility for kde translator"
-msgstr "Comment=Потужний перекладач"
+msgstr "Comment=п÷п╬я┌я┐п╤п╫п╦п╧ п©п╣я─п╣п╨п╩п╟п╢п╟я┤"
 
 #: kdenonbeta/lnk/kvidtune.kdelnk:1
 msgid "Name=Video Setup"
-msgstr "Name=Настройка граф╕чний режим╕в"
+msgstr "Name=п²п╟я│я┌я─п╬п╧п╨п╟ пЁя─п╟я└я√я┤п╫п╦п╧ я─п╣п╤п╦п╪я√п╡"
 
 #: kdenonbeta/lnk/kvidtune.kdelnk:2
 msgid "Comment=KDE X-Server Video Setup Tool"
-msgstr "Comment=KDE-X-Server: настройка граф╕чний режим╕в"
+msgstr "Comment=KDE-X-Server: п╫п╟я│я┌я─п╬п╧п╨п╟ пЁя─п╟я└я√я┤п╫п╦п╧ я─п╣п╤п╦п╪я√п╡"
 
 #: kdenonbeta/pws/pws.kdelnk:1
 msgid "Name=PWS"
@@ -3646,7 +3646,7 @@ msgstr "Name=WebMaker"
 
 #: kdenonbeta/webmaker/webmaker/webmaker.kdelnk:2
 msgid "Comment=KDE HTML Editor"
-msgstr "Comment=KDE-редактор HTML"
+msgstr "Comment=KDE-я─п╣п╢п╟п╨я┌п╬я─ HTML"
 
 #: kdesdk/kappgen/kappgen/kappgen.kdelnk:1
 msgid "Name=KAppGen"
@@ -3658,7 +3658,7 @@ msgstr "Name=${APP_NAME}"
 
 #: kdesdk/kapptemplate/variable/app.desktop:2
 msgid "Comment=A KDE Application"
-msgstr "Comment=Програма KDE"
+msgstr "Comment=п÷я─п╬пЁя─п╟п╪п╟ KDE"
 
 #: kdesdk/kbabel/kbabel/kbabel.desktop:1
 msgid "Name=KBabel"
@@ -3666,15 +3666,15 @@ msgstr "Name=KBabel"
 
 #: kdesdk/kbabel/kbabel/kbabel.desktop:2
 msgid "Comment=A PO-file Editor"
-msgstr "Comment=Редактор PO-файл╕в"
+msgstr "Comment=п═п╣п╢п╟п╨я┌п╬я─ PO-я└п╟п╧п╩я√п╡"
 
 #: kdesdk/kexample/kless/kless.desktop:1
 msgid "Name=Text Viewer"
-msgstr "Name=Переглядач текст╕в"
+msgstr "Name=п÷п╣я─п╣пЁп╩я▐п╢п╟я┤ я┌п╣п╨я│я┌я√п╡"
 
 #: kdesdk/kexample/kless/kless.desktop:2
 msgid "Comment=A simple KDE demo application for programmers"
-msgstr "Comment=Демо програма KDE для програм╕ст╕в"
+msgstr "Comment=п■п╣п╪п╬ п©я─п╬пЁя─п╟п╪п╟ KDE п╢п╩я▐ п©я─п╬пЁя─п╟п╪я√я│я┌я√п╡"
 
 #: kdetoys/amor/amor.kdelnk:1
 msgid "Name=AMOR"
@@ -3682,15 +3682,15 @@ msgstr "Name=AMOR"
 
 #: kdetoys/amor/amor.kdelnk:2
 msgid "Comment=Amusing Misuse Of Resources"
-msgstr "Comment=Чудне використрання ресурс╕в"
+msgstr "Comment=п╖я┐п╢п╫п╣ п╡п╦п╨п╬я─п╦я│я┌я─п╟п╫п╫я▐ я─п╣я│я┐я─я│я√п╡"
 
 #: kdetoys/kmoon/kmoon.desktop:1
 msgid "Name=MoonPhase"
-msgstr "Name=Фази м╕сяця"
+msgstr "Name=п╓п╟п╥п╦ п╪я√я│я▐я├я▐"
 
 #: kdetoys/kmoon/kmoon.desktop:2
 msgid "Comment=Moon Phase Indicator"
-msgstr "Comment=мон╕тор фаз м╕сяця"
+msgstr "Comment=п╪п╬п╫я√я┌п╬я─ я└п╟п╥ п╪я√я│я▐я├я▐"
 
 #: kdetoys/kteatime/kteatime.desktop:1
 msgid "Name=The Tea Cooker"
@@ -3702,11 +3702,11 @@ msgstr ""
 
 #: kdetoys/kworldwatch/kworldwatch.desktop:1
 msgid "Name=World Watch"
-msgstr "Name=Час у р╕зних кра╖нах св╕ту"
+msgstr "Name=п╖п╟я│ я┐ я─я√п╥п╫п╦я┘ п╨я─п╟я≈п╫п╟я┘ я│п╡я√я┌я┐"
 
 #: kdetoys/kworldwatch/kworldwatch.desktop:2
 msgid "Comment=A clock with worldmap"
-msgstr "Comment=Годинник з мапою св╕ту"
+msgstr "Comment=п⌠п╬п╢п╦п╫п╫п╦п╨ п╥ п╪п╟п©п╬я▌ я│п╡я√я┌я┐"
 
 #: kdetoys/mouse/kodo.desktop:1
 msgid "Name=Mouspedometa"
@@ -3718,27 +3718,27 @@ msgstr ""
 
 #: kdeutils/ark/ark.desktop:1
 msgid "Name=Archiver"
-msgstr "Name=Арх╕ватор"
+msgstr "Name=п░я─я┘я√п╡п╟я┌п╬я─"
 
 #: kdeutils/ark/ark.desktop:2
 msgid "Comment=Archive Handling Tool"
-msgstr "Comment=Зас╕б роботи з арх╕вами"
+msgstr "Comment=п≈п╟я│я√п╠ я─п╬п╠п╬я┌п╦ п╥ п╟я─я┘я√п╡п╟п╪п╦"
 
 #: kdeutils/iconpackager/Iconpackager.desktop:1
 msgid "Name=Icon Packager"
-msgstr "Name=Упаковщик п╕ктограм"
+msgstr "Name=пёп©п╟п╨п╬п╡я┴п╦п╨ п©я√п╨я┌п╬пЁя─п╟п╪"
 
 #: kdeutils/iconpackager/Iconpackager.desktop:2
 msgid "Comment=Icon packager"
-msgstr "Comment=Упаковщик п╕ктограм"
+msgstr "Comment=пёп©п╟п╨п╬п╡я┴п╦п╨ п©я√п╨я┌п╬пЁя─п╟п╪"
 
 #: kdeutils/kab/kab.desktop:1
 msgid "Name=Address Book"
-msgstr "Name=Адресна книга"
+msgstr "Name=п░п╢я─п╣я│п╫п╟ п╨п╫п╦пЁп╟"
 
 #: kdeutils/kab/kab.desktop:2
 msgid "Comment=Address book"
-msgstr "Comment=Адресна книга"
+msgstr "Comment=п░п╢я─п╣я│п╫п╟ п╨п╫п╦пЁп╟"
 
 #: kdeutils/karm/support/karm.desktop:1
 msgid "Name=Personal Time Tracker"
@@ -3750,39 +3750,39 @@ msgstr ""
 
 #: kdeutils/kcalc/kcalc.desktop:1
 msgid "Name=Calculator"
-msgstr "Name=Калькулятор"
+msgstr "Name=п п╟п╩я▄п╨я┐п╩я▐я┌п╬я─"
 
 #: kdeutils/kcalc/kcalc.desktop:2
 msgid "Comment=A Scientific Calculator"
-msgstr "Comment=Калькулятор для науковц╕в"
+msgstr "Comment=п п╟п╩я▄п╨я┐п╩я▐я┌п╬я─ п╢п╩я▐ п╫п╟я┐п╨п╬п╡я├я√п╡"
 
 #: kdeutils/kcharselect/KCharSelect.desktop:1
 msgid "Name=Character Selector"
-msgstr "Name=Таблиця символ╕в"
+msgstr "Name=п╒п╟п╠п╩п╦я├я▐ я│п╦п╪п╡п╬п╩я√п╡"
 
 #: kdeutils/kcharselect/KCharSelect.desktop:2
 msgid "Comment=Character Selector"
-msgstr "Comment=Таблиця символ╕в"
+msgstr "Comment=п╒п╟п╠п╩п╦я├я▐ я│п╦п╪п╡п╬п╩я√п╡"
 
 #: kdeutils/kdepasswd/kdepasswd.desktop:1
 msgid "Name=Change Password"
-msgstr "Name=Зм╕нити пароль"
+msgstr "Name=п≈п╪я√п╫п╦я┌п╦ п©п╟я─п╬п╩я▄"
 
 #: kdeutils/kdepasswd/kdepasswd.desktop:2
 msgid "Comment=Change your password"
-msgstr "Comment=Зм╕нити Ваш пароль"
+msgstr "Comment=п≈п╪я√п╫п╦я┌п╦ п▓п╟я┬ п©п╟я─п╬п╩я▄"
 
 #: kdeutils/kdf/kcmdf.desktop:1
 msgid "Name=Block Devices"
-msgstr "Name=Блочний пристр╕й"
+msgstr "Name=п▒п╩п╬я┤п╫п╦п╧ п©я─п╦я│я┌я─я√п╧"
 
 #: kdeutils/kdf/kcmdf.desktop:2
 msgid "Comment=Shows the disk usage of the mounted devices"
-msgstr "Comment=Показу╓ степ╕нь використання змонтованих пристро╖в"
+msgstr "Comment=п÷п╬п╨п╟п╥я┐я■ я│я┌п╣п©я√п╫я▄ п╡п╦п╨п╬я─п╦я│я┌п╟п╫п╫я▐ п╥п╪п╬п╫я┌п╬п╡п╟п╫п╦я┘ п©я─п╦я│я┌я─п╬я≈п╡"
 
 #: kdeutils/kdf/kdf.desktop:1
 msgid "Name=Disk Free"
-msgstr "Name=В╕льне м╕сце"
+msgstr "Name=п▓я√п╩я▄п╫п╣ п╪я√я│я├п╣"
 
 #: kdeutils/kdf/kwikdisk.desktop:1
 msgid "Name=KwikDisk"
@@ -3790,39 +3790,39 @@ msgstr "Name=KwikDisk"
 
 #: kdeutils/kdf/kwikdisk.desktop:2
 msgid "Comment=Docks and allows easy mounts/umounts from the panel"
-msgstr "Comment=Ф╕ксу╓ та дозволя╓ легко монтування/розмонтовування з панел╕"
+msgstr "Comment=п╓я√п╨я│я┐я■ я┌п╟ п╢п╬п╥п╡п╬п╩я▐я■ п╩п╣пЁп╨п╬ п╪п╬п╫я┌я┐п╡п╟п╫п╫я▐/я─п╬п╥п╪п╬п╫я┌п╬п╡я┐п╡п╟п╫п╫я▐ п╥ п©п╟п╫п╣п╩я√"
 
 #: kdeutils/kedit/KEdit.desktop:1
 msgid "Name=Text Editor"
-msgstr "Name=KEdit: Текстовий редактор"
+msgstr "Name=KEdit: п╒п╣п╨я│я┌п╬п╡п╦п╧ я─п╣п╢п╟п╨я┌п╬я─"
 
 #: kdeutils/kedit/KEdit.desktop:2
 msgid "Comment=A simple Text Editor"
-msgstr "Comment=Простий текстовий редактор"
+msgstr "Comment=п÷я─п╬я│я┌п╦п╧ я┌п╣п╨я│я┌п╬п╡п╦п╧ я─п╣п╢п╟п╨я┌п╬я─"
 
 #: kdeutils/kfind/Kfind.desktop:1
 msgid "Name=Find Files"
-msgstr "Name=Пошук файл╕в"
+msgstr "Name=п÷п╬я┬я┐п╨ я└п╟п╧п╩я√п╡"
 
 #: kdeutils/kfind/Kfind.desktop:2
 msgid "Comment=Find Utility"
-msgstr "Comment=Зас╕б для пошуку файл╕в"
+msgstr "Comment=п≈п╟я│я√п╠ п╢п╩я▐ п©п╬я┬я┐п╨я┐ я└п╟п╧п╩я√п╡"
 
 #: kdeutils/kfloppy/KFloppy.desktop:1
 msgid "Name=Floppy Formatter"
-msgstr "Name=Розформатувати дискету"
+msgstr "Name=п═п╬п╥я└п╬я─п╪п╟я┌я┐п╡п╟я┌п╦ п╢п╦я│п╨п╣я┌я┐"
 
 #: kdeutils/kfloppy/KFloppy.desktop:2
 msgid "Comment=Floppy Formatter"
-msgstr "Comment=Розформатувати дискету"
+msgstr "Comment=п═п╬п╥я└п╬я─п╪п╟я┌я┐п╡п╟я┌п╦ п╢п╦я│п╨п╣я┌я┐"
 
 #: kdeutils/khexedit/khexedit.desktop:1
 msgid "Name=Binary Editor"
-msgstr "Name=Дво╖чний редактор"
+msgstr "Name=п■п╡п╬я≈я┤п╫п╦п╧ я─п╣п╢п╟п╨я┌п╬я─"
 
 #: kdeutils/khexedit/khexedit.desktop:2
 msgid "Comment=Versatile binary editor"
-msgstr "Comment=Гнучкий редактор дво╖чний файл╕в"
+msgstr "Comment=п⌠п╫я┐я┤п╨п╦п╧ я─п╣п╢п╟п╨я┌п╬я─ п╢п╡п╬я≈я┤п╫п╦п╧ я└п╟п╧п╩я√п╡"
 
 #: kdeutils/kjots/Kjots.desktop:1
 msgid "Name=KJots"
@@ -3834,19 +3834,19 @@ msgstr ""
 
 #: kdeutils/klaptopdaemon/applnk/battery.desktop:1
 msgid "Name=Battery Monitor"
-msgstr "Name=Мон╕тор живлення"
+msgstr "Name=п°п╬п╫я√я┌п╬я─ п╤п╦п╡п╩п╣п╫п╫я▐"
 
 #: kdeutils/klaptopdaemon/applnk/battery.desktop:2
 msgid "Comment=Battery Monitor"
-msgstr "Comment=Мон╕тор живлення"
+msgstr "Comment=п°п╬п╫я√я┌п╬я─ п╤п╦п╡п╩п╣п╫п╫я▐"
 
 #: kdeutils/klaptopdaemon/applnk/bwarning.desktop:1
 msgid "Name=Low Battery Warning"
-msgstr "Name=Попередження про батаре╖"
+msgstr "Name=п÷п╬п©п╣я─п╣п╢п╤п╣п╫п╫я▐ п©я─п╬ п╠п╟я┌п╟я─п╣я≈"
 
 #: kdeutils/klaptopdaemon/applnk/bwarning.desktop:2
 msgid "Comment=Low Battery Warning"
-msgstr "Comment=Попередження про батаре╖"
+msgstr "Comment=п÷п╬п©п╣я─п╣п╢п╤п╣п╫п╫я▐ п©я─п╬ п╠п╟я┌п╟я─п╣я≈"
 
 #: kdeutils/klaptopdaemon/applnk/cwarning.desktop:1
 msgid "Name=Low Battery Critical"
@@ -3862,43 +3862,43 @@ msgstr "Name=PCMCIA"
 
 #: kdeutils/klaptopdaemon/applnk/pcmcia.desktop:2
 msgid "Comment=PCMCIA status"
-msgstr "Comment=Стан PCMCIA"
+msgstr "Comment=п║я┌п╟п╫ PCMCIA"
 
 #: kdeutils/klaptopdaemon/applnk/power.desktop:1
 msgid "Name=Power Control"
-msgstr "Name=Настройки живлення"
+msgstr "Name=п²п╟я│я┌я─п╬п╧п╨п╦ п╤п╦п╡п╩п╣п╫п╫я▐"
 
 #: kdeutils/klaptopdaemon/applnk/power.desktop:2
 msgid "Comment=Power Control"
-msgstr "Comment=Настройки живлення"
+msgstr "Comment=п²п╟я│я┌я─п╬п╧п╨п╦ п╤п╦п╡п╩п╣п╫п╫я▐"
 
 #: kdeutils/klipper/klipper.desktop:1
 msgid "Name=Cut & Paste History (klipper)"
-msgstr "Name=╤строр╕я буферу обм╕ну (klipper)"
+msgstr "Name=п├я│я┌я─п╬я─я√я▐ п╠я┐я└п╣я─я┐ п╬п╠п╪я√п╫я┐ (klipper)"
 
 #: kdeutils/kljettool/KLJetTool.desktop:1
 msgid "Name=HP LaserJet Control Panel"
-msgstr "Name=Панель конф╕гурац╕╖ HP LaserJet"
+msgstr "Name=п÷п╟п╫п╣п╩я▄ п╨п╬п╫я└я√пЁя┐я─п╟я├я√я≈ HP LaserJet"
 
 #: kdeutils/kljettool/KLJetTool.desktop:2
 msgid "Comment=KLJetTool: so you can configure your LaserJet from your desk"
-msgstr "Comment=KLJetTool: конф╕гурац╕я LaserJet"
+msgstr "Comment=KLJetTool: п╨п╬п╫я└я√пЁя┐я─п╟я├я√я▐ LaserJet"
 
 #: kdeutils/klpq/KLpq.desktop:1
 msgid "Name=Printer Queue"
-msgstr "Name=KLpq - черга друку"
+msgstr "Name=KLpq - я┤п╣я─пЁп╟ п╢я─я┐п╨я┐"
 
 #: kdeutils/klpq/KLpq.desktop:2
 msgid "Comment=Displays Printer Queue"
-msgstr "Comment=В╕добража╓ чергу друку"
+msgstr "Comment=п▓я√п╢п╬п╠я─п╟п╤п╟я■ я┤п╣я─пЁя┐ п╢я─я┐п╨я┐"
 
 #: kdeutils/knotes/knotes.desktop:1
 msgid "Name=Popup Notes"
-msgstr "Name=Нотатки"
+msgstr "Name=п²п╬я┌п╟я┌п╨п╦"
 
 #: kdeutils/knotes/knotes.desktop:2
 msgid "Comment=You can write small notes with this"
-msgstr "Comment=Тут Ви можете робити невеличк╕ нотатки"
+msgstr "Comment=п╒я┐я┌ п▓п╦ п╪п╬п╤п╣я┌п╣ я─п╬п╠п╦я┌п╦ п╫п╣п╡п╣п╩п╦я┤п╨я√ п╫п╬я┌п╟я┌п╨п╦"
 
 #: kdeutils/kpm/kpm.desktop:1
 msgid "Name=Process management"
@@ -3910,11 +3910,11 @@ msgstr ""
 
 #: kdeutils/ktimemon/ktimemon.desktop:1
 msgid "Name=System Monitor"
-msgstr "Name=Системний мон╕тор"
+msgstr "Name=п║п╦я│я┌п╣п╪п╫п╦п╧ п╪п╬п╫я√я┌п╬я─"
 
 #: kdeutils/ktimemon/ktimemon.desktop:2
 msgid "Comment=A system monitor for KDE"
-msgstr "Comment=Системний мон╕тор для KDE"
+msgstr "Comment=п║п╦я│я┌п╣п╪п╫п╦п╧ п╪п╬п╫я√я┌п╬я─ п╢п╩я▐ KDE"
 
 #: kdeutils/ktop/gui/ktop.desktop:1
 msgid "Name=Task Manager and System Monitor"
@@ -3934,19 +3934,19 @@ msgstr ""
 
 #: kdeutils/ktreebrowser/ktb.desktop:1
 msgid "Name=Tree Browser"
-msgstr "Name=Структурний переглядач"
+msgstr "Name=п║я┌я─я┐п╨я┌я┐я─п╫п╦п╧ п©п╣я─п╣пЁп╩я▐п╢п╟я┤"
 
 #: kdeutils/ktreebrowser/ktb.desktop:2
 msgid "Comment=Tree Browser"
-msgstr "Comment=Структурний переглядач"
+msgstr "Comment=п║я┌я─я┐п╨я┌я┐я─п╫п╦п╧ п©п╣я─п╣пЁп╩я▐п╢п╟я┤"
 
 #: kdeutils/kwrite/kwrite.desktop:1
 msgid "Name=Advanced Editor"
-msgstr "Name=KWrite: багатофункц╕ональний редактор"
+msgstr "Name=KWrite: п╠п╟пЁп╟я┌п╬я└я┐п╫п╨я├я√п╬п╫п╟п╩я▄п╫п╦п╧ я─п╣п╢п╟п╨я┌п╬я─"
 
 #: kdeutils/kwrite/kwrite.desktop:2
 msgid "Comment=A powerful text editor"
-msgstr "Comment=Потужний текстовий редактор"
+msgstr "Comment=п÷п╬я┌я┐п╤п╫п╦п╧ я┌п╣п╨я│я┌п╬п╡п╦п╧ я─п╣п╢п╟п╨я┌п╬я─"
 
 #: klyx/src/klyx.kdelnk:1
 msgid "Name=KLyx"
@@ -3954,67 +3954,67 @@ msgstr "Name=KLyX"
 
 #: klyx/src/klyx.kdelnk:2
 msgid "Comment=The klyx text processor"
-msgstr "Comment=Текстовий процесор KLyX"
+msgstr "Comment=п╒п╣п╨я│я┌п╬п╡п╦п╧ п©я─п╬я├п╣я│п╬я─ KLyX"
 
 #: koffice/example/example.desktop:1
 msgid "Name=Example"
-msgstr "Name=Приклад"
+msgstr "Name=п÷я─п╦п╨п╩п╟п╢"
 
 #: koffice/example/example.desktop:2
 msgid "Comment=Torben's Canossa Example"
-msgstr "Comment=Приклад Torbens Canossal"
+msgstr "Comment=п÷я─п╦п╨п╩п╟п╢ Torbens Canossal"
 
 #: koffice/example/x-example.desktop:2
 msgid "Comment=Canossa Example"
-msgstr "Comment=Приклад Canossa"
+msgstr "Comment=п÷я─п╦п╨п╩п╟п╢ Canossa"
 
 #: koffice/filters/kspread/csv/kspread_csv_export.desktop:2
 msgid "Comment=KSpread CSV Export Filter"
-msgstr "Comment=Ф╕льтр ексорту CSV KSpread"
+msgstr "Comment=п╓я√п╩я▄я┌я─ п╣п╨я│п╬я─я┌я┐ CSV KSpread"
 
 #: koffice/filters/kspread/csv/kspread_csv_export_dia.desktop:2
 msgid "Comment=CSV Filter Dialog"
-msgstr "Comment=Д╕алог ф╕льтру CSV"
+msgstr "Comment=п■я√п╟п╩п╬пЁ я└я√п╩я▄я┌я─я┐ CSV"
 
 #: koffice/filters/kspread/csv/kspread_csv_import.desktop:2
 msgid "Comment=CSV Filter for KSpread"
-msgstr "Comment=CSV-Ф╕льтр для KSpread"
+msgstr "Comment=CSV-п╓я√п╩я▄я┌я─ п╢п╩я▐ KSpread"
 
 #: koffice/filters/kspread/csv/x-csv.desktop:2
 msgid "Comment=Text file with comma separated values"
-msgstr "Comment=Текстовий файл, значення розд╕лен╕ комами"
+msgstr "Comment=п╒п╣п╨я│я┌п╬п╡п╦п╧ я└п╟п╧п╩, п╥п╫п╟я┤п╣п╫п╫я▐ я─п╬п╥п╢я√п╩п╣п╫я√ п╨п╬п╪п╟п╪п╦"
 
 #: koffice/filters/kword/ascii/kword_ascii_export.desktop:2
 msgid "Comment=Reggie's KWord Ascii Filter"
-msgstr "Comment=ASCII-ф╕льтр Reggie для KWord"
+msgstr "Comment=ASCII-я└я√п╩я▄я┌я─ Reggie п╢п╩я▐ KWord"
 
 #: koffice/filters/kword/html/kword_html_export.desktop:2
 msgid "Comment=Reggie's KWord HTML Filter"
-msgstr "Comment=HTML-ф╕льтр Reggie для KWord"
+msgstr "Comment=HTML-я└я√п╩я▄я┌я─ Reggie п╢п╩я▐ KWord"
 
 #: koffice/filters/olefilters/excel97/ole_excel97_import.desktop:2
 msgid "Comment=KSpread Excel 97 Filter"
-msgstr "Comment=Ф╕льтр KSpread для MS Excel 97"
+msgstr "Comment=п╓я√п╩я▄я┌я─ KSpread п╢п╩я▐ MS Excel 97"
 
 #: koffice/filters/olefilters/excel97/x-excel97.desktop:2
 msgid "Comment=MS Excel 97 File"
-msgstr "Comment=Файл MS Excel 97"
+msgstr "Comment=п╓п╟п╧п╩ MS Excel 97"
 
 #: koffice/filters/olefilters/powerpoint97/ole_powerpoint97_import.desktop:2
 msgid "Comment=KPresenter PowerPoint 97 Filter"
-msgstr "Comment=Ф╕льтр KPresenter для MS PowerPoint 97"
+msgstr "Comment=п╓я√п╩я▄я┌я─ KPresenter п╢п╩я▐ MS PowerPoint 97"
 
 #: koffice/filters/olefilters/powerpoint97/x-powerpoint97.desktop:2
 msgid "Comment=MS PowerPoint 97 File"
-msgstr "Comment=Файл MS PowerPoint 97"
+msgstr "Comment=п╓п╟п╧п╩ MS PowerPoint 97"
 
 #: koffice/filters/olefilters/winword97/ole_winword97_import.desktop:2
 msgid "Comment=KWord WinWord 97 Filter"
-msgstr "Comment=Ф╕льтр KWord для MS WinWord 97"
+msgstr "Comment=п╓я√п╩я▄я┌я─ KWord п╢п╩я▐ MS WinWord 97"
 
 #: koffice/filters/olefilters/winword97/x-winword97.desktop:2
 msgid "Comment=MS WinWord 97 Document"
-msgstr "Comment=Документ MS WinWord 97"
+msgstr "Comment=п■п╬п╨я┐п╪п╣п╫я┌ MS WinWord 97"
 
 #: koffice/katabase/kformeditor/kformeditor.desktop:1
 msgid "Name=KformEditor"
@@ -4022,7 +4022,7 @@ msgstr "Name=KFormEditor"
 
 #: koffice/katabase/kformeditor/kformeditor.desktop:2
 msgid "Comment=Katabase form/report editor"
-msgstr "Comment=Редактор форм/зв╕т╕в Katabase"
+msgstr "Comment=п═п╣п╢п╟п╨я┌п╬я─ я└п╬я─п╪/п╥п╡я√я┌я√п╡ Katabase"
 
 #: koffice/katabase/kformviewer/kformviewer.desktop:1
 msgid "Name=KformViewer"
@@ -4030,7 +4030,7 @@ msgstr "Name=KFormViewer"
 
 #: koffice/katabase/kformviewer/kformviewer.desktop:2
 msgid "Comment=Image processing application"
-msgstr "Comment=Програма обробки зображень"
+msgstr "Comment=п÷я─п╬пЁя─п╟п╪п╟ п╬п╠я─п╬п╠п╨п╦ п╥п╬п╠я─п╟п╤п╣п╫я▄"
 
 #: koffice/katabase/ktables/ktables.desktop:1
 msgid "Name=Ktables"
@@ -4050,11 +4050,11 @@ msgstr "Name=KFormula"
 
 #: koffice/kformula/kformula.desktop:2
 msgid "Comment=Andrea's Formula Editor"
-msgstr "Comment=Редактор формул Андреа"
+msgstr "Comment=п═п╣п╢п╟п╨я┌п╬я─ я└п╬я─п╪я┐п╩ п░п╫п╢я─п╣п╟"
 
 #: koffice/kformula/notsoold/kformula_part.kdelnk:2
 msgid "Comment=The Formula Editor"
-msgstr "Comment=Редактор формул"
+msgstr "Comment=п═п╣п╢п╟п╨я┌п╬я─ я└п╬я─п╪я┐п╩"
 
 #: koffice/kformula/x-kformula.desktop:2
 msgid "Comment=KFormula"
@@ -4066,7 +4066,7 @@ msgstr "Name=KGraph"
 
 #: koffice/kgraph/kgraph.desktop:2
 msgid "Comment=KGraph - Graphs for Engineers"
-msgstr "Comment=Kgraph - граф╕ка для ╕неженер╕в"
+msgstr "Comment=Kgraph - пЁя─п╟я└я√п╨п╟ п╢п╩я▐ я√п╫п╣п╤п╣п╫п╣я─я√п╡"
 
 #: koffice/killustrator/koffice/killustrator.desktop:1
 msgid "Name=KIllustrator"
@@ -4074,7 +4074,7 @@ msgstr "Name=KIllustrator"
 
 #: koffice/killustrator/koffice/killustrator.desktop:2
 msgid "Comment=KDE Drawing Tool"
-msgstr "Comment=Ут╕л╕та KDE для малювання"
+msgstr "Comment=пёя┌я√п╩я√я┌п╟ KDE п╢п╩я▐ п╪п╟п╩я▌п╡п╟п╫п╫я▐"
 
 #: koffice/killustrator/koffice/x-killustrator.desktop:2
 msgid "Comment=KIllustrator"
@@ -4082,11 +4082,11 @@ msgstr "Comment=KIllustrator"
 
 #: koffice/killustrator/standalone/killustrator.kdelnk:1
 msgid "Name=KIllustrator (vector drawing program)"
-msgstr "Name=KIllustrator (програма векторно╖ граф╕ки)"
+msgstr "Name=KIllustrator (п©я─п╬пЁя─п╟п╪п╟ п╡п╣п╨я┌п╬я─п╫п╬я≈ пЁя─п╟я└я√п╨п╦)"
 
 #: koffice/killustrator/standalone/x-killustrator.kdelnk:2
 msgid "Comment=KIllustrator file"
-msgstr "Comment=Файл KIllustrator"
+msgstr "Comment=п╓п╟п╧п╩ KIllustrator"
 
 #: koffice/kimage/kimage.desktop:1
 msgid "Name=KImage"
@@ -4094,7 +4094,7 @@ msgstr "Name=KImage"
 
 #: koffice/kimage/kimage.desktop:2
 msgid "Comment=Torben's Image Viewer"
-msgstr "Comment=Переглядач зображень Торбена"
+msgstr "Comment=п÷п╣я─п╣пЁп╩я▐п╢п╟я┤ п╥п╬п╠я─п╟п╤п╣п╫я▄ п╒п╬я─п╠п╣п╫п╟"
 
 #: koffice/kimage/x-kimage.desktop:2
 msgid "Comment=KImage"
@@ -4106,7 +4106,7 @@ msgstr "Name=KImageShop"
 
 #: koffice/kimageshop/kimageshop.desktop:2
 msgid "Comment=KOffice image manipulation application."
-msgstr "Comment=Програма редагування зображень KOffice"
+msgstr "Comment=п÷я─п╬пЁя─п╟п╪п╟ я─п╣п╢п╟пЁя┐п╡п╟п╫п╫я▐ п╥п╬п╠я─п╟п╤п╣п╫я▄ KOffice"
 
 #: koffice/kimageshop/x-kimageshop.desktop:2
 msgid "Comment=KImageShop"
@@ -4118,7 +4118,7 @@ msgstr "Name=KPresenter"
 
 #: koffice/kpresenter/kpresenter.desktop:2
 msgid "Comment=Reggie's Presentation Software"
-msgstr "Comment=Програма для презентац╕й Reggie"
+msgstr "Comment=п÷я─п╬пЁя─п╟п╪п╟ п╢п╩я▐ п©я─п╣п╥п╣п╫я┌п╟я├я√п╧ Reggie"
 
 #: koffice/kpresenter/x-kpresenter.desktop:2
 msgid "Comment=KPresenter"
@@ -4130,23 +4130,23 @@ msgstr "Name=KSpread"
 
 #: koffice/kspread/kspread.desktop:2
 msgid "Comment=Torben's Spread Sheet"
-msgstr "Comment=Електронна таблиця Торбена"
+msgstr "Comment=п∙п╩п╣п╨я┌я─п╬п╫п╫п╟ я┌п╟п╠п╩п╦я├я▐ п╒п╬я─п╠п╣п╫п╟"
 
 #: koffice/kspread/plugins/calculator/kspreadcalc.desktop:2
 msgid "Comment=Calculator plugin for KSpread"
-msgstr "Comment=Калькулятор - додаток до KSpread"
+msgstr "Comment=п п╟п╩я▄п╨я┐п╩я▐я┌п╬я─ - п╢п╬п╢п╟я┌п╬п╨ п╢п╬ KSpread"
 
 #: koffice/kspread/x-kspread.desktop:2
 msgid "Comment=KSpread"
-msgstr "Comment=Програма створення електронних таблиць KSpread"
+msgstr "Comment=п÷я─п╬пЁя─п╟п╪п╟ я│я┌п╡п╬я─п╣п╫п╫я▐ п╣п╩п╣п╨я┌я─п╬п╫п╫п╦я┘ я┌п╟п╠п╩п╦я├я▄ KSpread"
 
 #: koffice/kword/filters/ascii/kword_ascii_export.desktop:1
 msgid "Name=KWordAsciiExportFilter"
-msgstr "Name=KWord експорт-ф╕льтер ASCII"
+msgstr "Name=KWord п╣п╨я│п©п╬я─я┌-я└я√п╩я▄я┌п╣я─ ASCII"
 
 #: koffice/kword/filters/ascii/kword_ascii_import.desktop:1
 msgid "Name=KWordAsciiImportFilter"
-msgstr "Name=KWord ╕мпорт-ф╕льтер ASCII"
+msgstr "Name=KWord я√п╪п©п╬я─я┌-я└я√п╩я▄я┌п╣я─ ASCII"
 
 #: koffice/kword/kword.desktop:1
 msgid "Name=KWord"
@@ -4154,7 +4154,7 @@ msgstr "Name=KWord"
 
 #: koffice/kword/kword.desktop:2
 msgid "Comment=Word Processor with many features"
-msgstr "Comment=Багатофункц╕ональний тесктовий процесор"
+msgstr "Comment=п▒п╟пЁп╟я┌п╬я└я┐п╫п╨я├я√п╬п╫п╟п╩я▄п╫п╦п╧ я┌п╣я│п╨я┌п╬п╡п╦п╧ п©я─п╬я├п╣я│п╬я─"
 
 #: koffice/kword/x-kword.desktop:2
 msgid "Comment=KWord"
@@ -4162,31 +4162,31 @@ msgstr "Comment=KWord"
 
 #: koffice/servicetypes/kofficepart.desktop:2
 msgid "Comment=KOffice Component"
-msgstr "Comment=Компонента KOffice"
+msgstr "Comment=п п╬п╪п©п╬п╫п╣п╫я┌п╟ KOffice"
 
 #: koffice/servicetypes/kofilter.desktop:2
 msgid "Comment=KOffice Filter"
-msgstr "Comment=Ф╕льтер KOffice"
+msgstr "Comment=п╓я√п╩я▄я┌п╣я─ KOffice"
 
 #: koffice/servicetypes/kofilterdialog.desktop:2
 msgid "Comment=KOffice Filter Dialog"
-msgstr "Comment=Д╕алог ф╕льтру KOffice"
+msgstr "Comment=п■я√п╟п╩п╬пЁ я└я√п╩я▄я┌я─я┐ KOffice"
 
 #: koffice/servicetypes/koplugin.desktop:2
 msgid "Comment=KOffice Plugin"
-msgstr "Comment=Додаток KOffice"
+msgstr "Comment=п■п╬п╢п╟я┌п╬п╨ KOffice"
 
 #: koffice/servicetypes/kotool.desktop:2
 msgid "Comment=KOffice Tool"
-msgstr "Comment=Ут╕л╕та KOffice"
+msgstr "Comment=пёя┌я√п╩я√я┌п╟ KOffice"
 
 #: koffice/tools/spell/kspelltool.desktop:2
 msgid "Comment=Torben's Spell Tool"
-msgstr "Comment=Ут╕л╕та перев╕рки правопису Торбена"
+msgstr "Comment=пёя┌я√п╩я√я┌п╟ п©п╣я─п╣п╡я√я─п╨п╦ п©я─п╟п╡п╬п©п╦я│я┐ п╒п╬я─п╠п╣п╫п╟"
 
 #: koffice/tools/spell/spell_tool.desktop:1
 msgid "Name=SpellTool"
-msgstr "Name=Перев╕рка правопису"
+msgstr "Name=п÷п╣я─п╣п╡я√я─п╨п╟ п©я─п╟п╡п╬п©п╦я│я┐"
 
 #: korganizer/src/korganizer.desktop:1
 msgid "Name=Organizer"
@@ -4194,8 +4194,8 @@ msgstr "Name=KOrganizer"
 
 #: korganizer/src/korganizer.desktop:2
 msgid "Comment=A Calendar and Scheduling Program"
-msgstr "Comment=Календар та програма щоденника/розкладу"
+msgstr "Comment=п п╟п╩п╣п╫п╢п╟я─ я┌п╟ п©я─п╬пЁя─п╟п╪п╟ я┴п╬п╢п╣п╫п╫п╦п╨п╟/я─п╬п╥п╨п╩п╟п╢я┐"
 
 #: korganizer/src/x-vcalendar.desktop:2
 msgid "Comment=vCalendar Calendar/Event"
-msgstr "Comment=vCalendar календар/под╕╖"
+msgstr "Comment=vCalendar п╨п╟п╩п╣п╫п╢п╟я─/п©п╬п╢я√я≈"

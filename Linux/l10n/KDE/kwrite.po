@@ -14,201 +14,201 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "&Add Bookmark"
-msgstr "&Додати закладку"
+msgstr "&п■п╬п╢п╟я┌п╦ п╥п╟п╨п╩п╟п╢п╨я┐"
 
 msgid "&All"
-msgstr "&Все"
+msgstr "&п▓я│п╣"
 
 msgid "&Auto Brackets"
-msgstr "&Автоматичн╕ дужки"
+msgstr "&п░п╡я┌п╬п╪п╟я┌п╦я┤п╫я√ п╢я┐п╤п╨п╦"
 
 msgid "&Backspace Indent"
 msgstr ""
 
 msgid "&Bookmarks"
-msgstr "&Закладки"
+msgstr "&п≈п╟п╨п╩п╟п╢п╨п╦"
 
 msgid "&Case Sensitive"
-msgstr "З урахуванням &ре╜╕стру"
+msgstr "п≈ я┐я─п╟я┘я┐п╡п╟п╫п╫я▐п╪ &я─п╣р▒я√я│я┌я─я┐"
 
 msgid "&Clear Bookmarks"
-msgstr "По&чистити закладки"
+msgstr "п÷п╬&я┤п╦я│я┌п╦я┌п╦ п╥п╟п╨п╩п╟п╢п╨п╦"
 
 msgid "&Colors..."
-msgstr "&Кольори ..."
+msgstr "&п п╬п╩я▄п╬я─п╦ ..."
 
 msgid "&Defaults..."
-msgstr "&Стандартн╕ ..."
+msgstr "&п║я┌п╟п╫п╢п╟я─я┌п╫я√ ..."
 
 msgid "&Delete On Input"
-msgstr "&Стирати при ввод╕"
+msgstr "&п║я┌п╦я─п╟я┌п╦ п©я─п╦ п╡п╡п╬п╢я√"
 
 msgid "&Deselect All"
-msgstr "В╕дм╕нити ви&б╕р всього"
+msgstr "п▓я√п╢п╪я√п╫п╦я┌п╦ п╡п╦&п╠я√я─ п╡я│я▄п╬пЁп╬"
 
 msgid "&Find..."
-msgstr "&Шукати..."
+msgstr "&п╗я┐п╨п╟я┌п╦..."
 
 msgid "&From Cursor"
-msgstr "В╕д &курсора"
+msgstr "п▓я√п╢ &п╨я┐я─я│п╬я─п╟"
 
 msgid "&Goto Line..."
-msgstr "&Перейти на рядок..."
+msgstr "&п÷п╣я─п╣п╧я┌п╦ п╫п╟ я─я▐п╢п╬п╨..."
 
 msgid "&Goto Line:"
-msgstr "Пере&йти на рядок:"
+msgstr "п÷п╣я─п╣&п╧я┌п╦ п╫п╟ я─я▐п╢п╬п╨:"
 
 msgid "&Highlight..."
-msgstr "&Вид╕лити..."
+msgstr "&п▓п╦п╢я√п╩п╦я┌п╦..."
 
 msgid "&Indent"
-msgstr "В╕д&ступ"
+msgstr "п▓я√п╢&я│я┌я┐п©"
 
 msgid "&Insert..."
-msgstr "&Вставка..."
+msgstr "&п▓я│я┌п╟п╡п╨п╟..."
 
 msgid "&Multiple Selections"
-msgstr "Багато&разовий виб╕р"
+msgstr "п▒п╟пЁп╟я┌п╬&я─п╟п╥п╬п╡п╦п╧ п╡п╦п╠я√я─"
 
 msgid "&No"
-msgstr "&Н╕"
+msgstr "&п²я√"
 
 msgid "&Options..."
-msgstr "&Параметри..."
+msgstr "&п÷п╟я─п╟п╪п╣я┌я─п╦..."
 
 msgid "&Persistent Selections"
-msgstr "&Ст╕йкий виб╕р"
+msgstr "&п║я┌я√п╧п╨п╦п╧ п╡п╦п╠я√я─"
 
 msgid "&Prompt On Replace"
-msgstr "За&питувати перед зам╕ною"
+msgstr "п≈п╟&п©п╦я┌я┐п╡п╟я┌п╦ п©п╣я─п╣п╢ п╥п╟п╪я√п╫п╬я▌"
 
 msgid "&Replace With:"
-msgstr "За&м╕нити на:"
+msgstr "п≈п╟&п╪я√п╫п╦я┌п╦ п╫п╟:"
 
 msgid "&Replace..."
-msgstr "За&м╕нити..."
+msgstr "п≈п╟&п╪я√п╫п╦я┌п╦..."
 
 msgid "&Select All"
-msgstr "Вибрати &все"
+msgstr "п▓п╦п╠я─п╟я┌п╦ &п╡я│п╣"
 
 msgid "&Selected Text"
-msgstr "&Вибраний текс"
+msgstr "&п▓п╦п╠я─п╟п╫п╦п╧ я┌п╣п╨я│"
 
 msgid "&Set Bookmark..."
-msgstr "&Встановити закладку..."
+msgstr "&п▓я│я┌п╟п╫п╬п╡п╦я┌п╦ п╥п╟п╨п╩п╟п╢п╨я┐..."
 
 msgid "&Text To Find:"
-msgstr "Шукати &текст:"
+msgstr "п╗я┐п╨п╟я┌п╦ &я┌п╣п╨я│я┌:"
 
 msgid "&Toggle Old"
 msgstr ""
 
 msgid "&Vertical Selections"
-msgstr "В&ертикальний виб╕р"
+msgstr "п▓&п╣я─я┌п╦п╨п╟п╩я▄п╫п╦п╧ п╡п╦п╠я√я─"
 
 msgid "&Whole Words Only"
-msgstr "Т╕льки &ц╕л╕ слова"
+msgstr "п╒я√п╩я▄п╨п╦ &я├я√п╩я√ я│п╩п╬п╡п╟"
 
 msgid "&Word Wrap"
-msgstr "Пере&н╕с сл╕в"
+msgstr "п÷п╣я─п╣&п╫я√я│ я│п╩я√п╡"
 
 msgid "&Yes"
-msgstr "&Так"
+msgstr "&п╒п╟п╨"
 
 msgid ""
 "A Document with this Name already exists.\n"
 "Do you want to overwrite it?"
 msgstr ""
-"Документ з такою назвою вже ╕сну╓.\n"
-"Чи Ви хочете його зам╕нити?"
+"п■п╬п╨я┐п╪п╣п╫я┌ п╥ я┌п╟п╨п╬я▌ п╫п╟п╥п╡п╬я▌ п╡п╤п╣ я√я│п╫я┐я■.\n"
+"п╖п╦ п▓п╦ я┘п╬я┤п╣я┌п╣ п╧п╬пЁп╬ п╥п╟п╪я√п╫п╦я┌п╦?"
 
 msgid "An Error occured while trying to open this Document"
-msgstr "При в╕дкритт╕ документу сталася помилка"
+msgstr "п÷я─п╦ п╡я√п╢п╨я─п╦я┌я┌я√ п╢п╬п╨я┐п╪п╣п╫я┌я┐ я│я┌п╟п╩п╟я│я▐ п©п╬п╪п╦п╩п╨п╟"
 
 msgid "Auto &Indent"
-msgstr "Автоматичний &в╕дступ"
+msgstr "п░п╡я┌п╬п╪п╟я┌п╦я┤п╫п╦п╧ &п╡я√п╢я│я┌я┐п©"
 
 msgid "Background:"
-msgstr "Тло:"
+msgstr "п╒п╩п╬:"
 
 msgid "Beginning of document reached"
-msgstr "Вже на початку документу"
+msgstr "п▓п╤п╣ п╫п╟ п©п╬я┤п╟я┌п╨я┐ п╢п╬п╨я┐п╪п╣п╫я┌я┐"
 
 msgid "Bold"
-msgstr "Жирний"
+msgstr "п√п╦я─п╫п╦п╧"
 
 msgid "Col"
-msgstr "Стовпчик"
+msgstr "п║я┌п╬п╡п©я┤п╦п╨"
 
 msgid "Config Select"
-msgstr "Виб╕р конф╕╜урац╕╖"
+msgstr "п▓п╦п╠я√я─ п╨п╬п╫я└я√р▒я┐я─п╟я├я√я≈"
 
 msgid "Continue from the beginning"
-msgstr "Почати з початку"
+msgstr "п÷п╬я┤п╟я┌п╦ п╥ п©п╬я┤п╟я┌п╨я┐"
 
 msgid "Continue from the end"
-msgstr "Почати з к╕нця"
+msgstr "п÷п╬я┤п╟я┌п╦ п╥ п╨я√п╫я├я▐"
 
 msgid ""
 "Could not save the document.\n"
 "Open a new document anyways?"
 msgstr ""
-"Не можу записати документ.\n"
-"Все таки в╕дкрити новий?"
+"п²п╣ п╪п╬п╤я┐ п╥п╟п©п╦я│п╟я┌п╦ п╢п╬п╨я┐п╪п╣п╫я┌.\n"
+"п▓я│п╣ я┌п╟п╨п╦ п╡я√п╢п╨я─п╦я┌п╦ п╫п╬п╡п╦п╧?"
 
 msgid "Could not start or find KFM"
-msgstr "Не можу знайти чи стартувати KFM"
+msgstr "п²п╣ п╪п╬п╤я┐ п╥п╫п╟п╧я┌п╦ я┤п╦ я│я┌п╟я─я┌я┐п╡п╟я┌п╦ KFM"
 
 msgid "Default Font"
-msgstr "Стандартний шрифт"
+msgstr "п║я┌п╟п╫п╢п╟я─я┌п╫п╦п╧ я┬я─п╦я└я┌"
 
 msgid "Default Item Styles"
-msgstr "Стандартн╕ пункти стил╕в"
+msgstr "п║я┌п╟п╫п╢п╟я─я┌п╫я√ п©я┐п╫п╨я┌п╦ я│я┌п╦п╩я√п╡"
 
 msgid "Edit Options"
-msgstr "Параметри редагування"
+msgstr "п÷п╟я─п╟п╪п╣я┌я─п╦ я─п╣п╢п╟пЁя┐п╡п╟п╫п╫я▐"
 
 msgid "End of document reached"
-msgstr "Вже в к╕нц╕ документу"
+msgstr "п▓п╤п╣ п╡ п╨я√п╫я├я√ п╢п╬п╨я┐п╪п╣п╫я┌я┐"
 
 msgid "Family:"
-msgstr "Родина:"
+msgstr "п═п╬п╢п╦п╫п╟:"
 
 msgid "File Extensions:"
-msgstr "Розширення файл╕в:"
+msgstr "п═п╬п╥я┬п╦я─п╣п╫п╫я▐ я└п╟п╧п╩я√п╡:"
 
 msgid "Find"
-msgstr "Шукати"
+msgstr "п╗я┐п╨п╟я┌п╦"
 
 msgid "Find &Again"
-msgstr "Шукати &знову"
+msgstr "п╗я┐п╨п╟я┌п╦ &п╥п╫п╬п╡я┐"
 
 msgid "Find &Backwards"
-msgstr "Шукати на&зад"
+msgstr "п╗я┐п╨п╟я┌п╦ п╫п╟&п╥п╟п╢"
 
 msgid "Found:"
-msgstr "Знайдено:"
+msgstr "п≈п╫п╟п╧п╢п╣п╫п╬:"
 
 msgid "Highlight Auto Select"
-msgstr "Автоматичний виб╕р п╕дсв╕тки"
+msgstr "п░п╡я┌п╬п╪п╟я┌п╦я┤п╫п╦п╧ п╡п╦п╠я√я─ п©я√п╢я│п╡я√я┌п╨п╦"
 
 msgid "Highlight:"
-msgstr "Вид╕лення:"
+msgstr "п▓п╦п╢я√п╩п╣п╫п╫я▐:"
 
 msgid "In&vert Selection"
-msgstr "Зм╕нити виб╕р на &протилежний"
+msgstr "п≈п╪я√п╫п╦я┌п╦ п╡п╦п╠я√я─ п╫п╟ &п©я─п╬я┌п╦п╩п╣п╤п╫п╦п╧"
 
 msgid "Inserted"
-msgstr "Вставлено"
+msgstr "п▓я│я┌п╟п╡п╩п╣п╫п╬"
 
 msgid "Item Font"
-msgstr "Шрифт пункту"
+msgstr "п╗я─п╦я└я┌ п©я┐п╫п╨я┌я┐"
 
 msgid "Item Style"
-msgstr "Стиль пункту"
+msgstr "п║я┌п╦п╩я▄ п©я┐п╫п╨я┌я┐"
 
 msgid "Item:"
-msgstr "Пункт:"
+msgstr "п÷я┐п╫п╨я┌:"
 
 msgid ""
 "KWrite 0.98\n"
@@ -219,7 +219,7 @@ msgid ""
 msgstr ""
 "KWrite 0.98\n"
 "\n"
-"Права застережен╕ 1998\n"
+"п÷я─п╟п╡п╟ п╥п╟я│я┌п╣я─п╣п╤п╣п╫я√ 1998\n"
 "Jochen Wilhelmy\n"
 "digisnap@cs.tu-berlin.de"
 
@@ -229,154 +229,154 @@ msgid ""
 "Please wait until it has finished\n"
 "Alternatively stop the running one."
 msgstr ""
-"KWrite вже чека╓ на зак╕нчення\n"
-"роботи з ╕нтернетом.\n"
-"Будь-ласка, або зачекайте поки\n"
-"робота зак╕нчиться, або \n"
-"зупин╕ть ╖╖."
+"KWrite п╡п╤п╣ я┤п╣п╨п╟я■ п╫п╟ п╥п╟п╨я√п╫я┤п╣п╫п╫я▐\n"
+"я─п╬п╠п╬я┌п╦ п╥ я√п╫я┌п╣я─п╫п╣я┌п╬п╪.\n"
+"п▒я┐п╢я▄-п╩п╟я│п╨п╟, п╟п╠п╬ п╥п╟я┤п╣п╨п╟п╧я┌п╣ п©п╬п╨п╦\n"
+"я─п╬п╠п╬я┌п╟ п╥п╟п╨я√п╫я┤п╦я┌я▄я│я▐, п╟п╠п╬ \n"
+"п╥я┐п©п╦п╫я√я┌я▄ я≈я≈."
 
 msgid "Line"
-msgstr "Рядок"
+msgstr "п═я▐п╢п╬п╨"
 
 msgid "Loading..."
-msgstr "Завантаження..."
+msgstr "п≈п╟п╡п╟п╫я┌п╟п╤п╣п╫п╫я▐..."
 
 msgid "Message"
-msgstr "Пов╕домлення"
+msgstr "п÷п╬п╡я√п╢п╬п╪п╩п╣п╫п╫я▐"
 
 msgid "Mime Types:"
-msgstr "Типи MIME:"
+msgstr "п╒п╦п©п╦ MIME:"
 
 msgid "Ne&w..."
-msgstr "&Новий..."
+msgstr "&п²п╬п╡п╦п╧..."
 
 msgid "New &View"
-msgstr "Новий пере&гляд"
+msgstr "п²п╬п╡п╦п╧ п©п╣я─п╣&пЁп╩я▐п╢"
 
 msgid "New &Window"
-msgstr "Нове &в╕кно"
+msgstr "п²п╬п╡п╣ &п╡я√п╨п╫п╬"
 
 msgid "New Document"
-msgstr "Новий документ"
+msgstr "п²п╬п╡п╦п╧ п╢п╬п╨я┐п╪п╣п╫я┌"
 
 msgid "No changes need to be saved"
-msgstr "Нема╓ жодних зм╕н для запису"
+msgstr "п²п╣п╪п╟я■ п╤п╬п╢п╫п╦я┘ п╥п╪я√п╫ п╢п╩я▐ п╥п╟п©п╦я│я┐"
 
 msgid "Normal:"
-msgstr "Звичайне:"
+msgstr "п≈п╡п╦я┤п╟п╧п╫п╣:"
 
 msgid "Open Document"
-msgstr "В╕дкрити документ"
+msgstr "п▓я√п╢п╨я─п╦я┌п╦ п╢п╬п╨я┐п╪п╣п╫я┌"
 
 msgid "Open Recen&t"
-msgstr "В╕дкрити не&давн╕й"
+msgstr "п▓я√п╢п╨я─п╦я┌п╦ п╫п╣&п╢п╟п╡п╫я√п╧"
 
 msgid "R&edo"
-msgstr "П&овторити"
+msgstr "п÷&п╬п╡я┌п╬я─п╦я┌п╦"
 
 msgid "Read"
-msgstr "Зчитування"
+msgstr "п≈я┤п╦я┌я┐п╡п╟п╫п╫я▐"
 
 msgid "Remove Trailing &Spaces"
-msgstr "Забрати &пропуски в к╕нцях рядк╕в"
+msgstr "п≈п╟п╠я─п╟я┌п╦ &п©я─п╬п©я┐я│п╨п╦ п╡ п╨я√п╫я├я▐я┘ я─я▐п╢п╨я√п╡"
 
 msgid "Replace &Tabs"
-msgstr "Зам╕нити &табуляц╕╖"
+msgstr "п≈п╟п╪я√п╫п╦я┌п╦ &я┌п╟п╠я┐п╩я▐я├я√я≈"
 
 msgid "Replace this occurence?"
-msgstr "Зам╕нити це?"
+msgstr "п≈п╟п╪я√п╫п╦я┌п╦ я├п╣?"
 
 msgid "Save Config"
-msgstr "Записати конф╕╜урац╕ю"
+msgstr "п≈п╟п©п╦я│п╟я┌п╦ п╨п╬п╫я└я√р▒я┐я─п╟я├я√я▌"
 
 msgid "Save Document"
-msgstr "Записати документ"
+msgstr "п≈п╟п©п╦я│п╟я┌п╦ п╢п╬п╨я┐п╪п╣п╫я┌"
 
 msgid "Saving..."
-msgstr "Збереження..."
+msgstr "п≈п╠п╣я─п╣п╤п╣п╫п╫я▐..."
 
 msgid "Search string not found!"
-msgstr "Такий рядок не знайдено!"
+msgstr "п╒п╟п╨п╦п╧ я─я▐п╢п╬п╨ п╫п╣ п╥п╫п╟п╧п╢п╣п╫п╬!"
 
 msgid "Select Options"
-msgstr "Вибрати параметри"
+msgstr "п▓п╦п╠я─п╟я┌п╦ п©п╟я─п╟п╪п╣я┌я─п╦"
 
 msgid "Selected + Found:"
-msgstr "Вибрано + Знайдено:"
+msgstr "п▓п╦п╠я─п╟п╫п╬ + п≈п╫п╟п╧п╢п╣п╫п╬:"
 
 msgid "Selected:"
-msgstr "Вибрано:"
+msgstr "п▓п╦п╠я─п╟п╫п╬:"
 
 msgid "Set Highlight"
-msgstr "Встановити вид╕лення"
+msgstr "п▓я│я┌п╟п╫п╬п╡п╦я┌п╦ п╡п╦п╢я√п╩п╣п╫п╫я▐"
 
 msgid "Show &Statusbar"
-msgstr "Показувати стр╕чку &Статусу"
+msgstr "п÷п╬п╨п╟п╥я┐п╡п╟я┌п╦ я│я┌я─я√я┤п╨я┐ &п║я┌п╟я┌я┐я│я┐"
 
 msgid "Show &Toolbar"
-msgstr "Показати стр╕чку &╤нструмент╕в"
+msgstr "п÷п╬п╨п╟п╥п╟я┌п╦ я│я┌я─я√я┤п╨я┐ &п├п╫я│я┌я─я┐п╪п╣п╫я┌я√п╡"
 
 msgid "Size:"
-msgstr "Розм╕р:"
+msgstr "п═п╬п╥п╪я√я─:"
 
 msgid "Tab Width:"
-msgstr "Ширина табуляц╕й:"
+msgstr "п╗п╦я─п╦п╫п╟ я┌п╟п╠я┐п╩я▐я├я√п╧:"
 
 msgid "Text Background:"
-msgstr "Тло тексту:"
+msgstr "п╒п╩п╬ я┌п╣п╨я│я┌я┐:"
 
 msgid ""
 "The current Document has been modified.\n"
 "Would you like to save it?"
 msgstr ""
-"Цей документ був зм╕нений.\n"
-"Чи хочете Ви його записати?"
+"п╕п╣п╧ п╢п╬п╨я┐п╪п╣п╫я┌ п╠я┐п╡ п╥п╪я√п╫п╣п╫п╦п╧.\n"
+"п╖п╦ я┘п╬я┤п╣я┌п╣ п▓п╦ п╧п╬пЁп╬ п╥п╟п©п╦я│п╟я┌п╦?"
 
 msgid "The specified File does not exist"
-msgstr "Вказаний файл не ╕сну╓"
+msgstr "п▓п╨п╟п╥п╟п╫п╦п╧ я└п╟п╧п╩ п╫п╣ я√я│п╫я┐я■"
 
 msgid ""
 "This Document has been modified.\n"
 "Would you like to save it?"
 msgstr ""
-"Цей документ був зм╕нений.\n"
-"Чи хочете Ви його записати?"
+"п╕п╣п╧ п╢п╬п╨я┐п╪п╣п╫я┌ п╠я┐п╡ п╥п╪я√п╫п╣п╫п╦п╧.\n"
+"п╖п╦ я┘п╬я┤п╣я┌п╣ п▓п╦ п╧п╬пЁп╬ п╥п╟п©п╦я│п╟я┌п╦?"
 
 msgid "U&ndo"
-msgstr "В╕д&м╕нити"
+msgstr "п▓я√п╢&п╪я√п╫п╦я┌п╦"
 
 msgid "Undo steps:"
-msgstr "Крок╕в в╕дкату:"
+msgstr "п я─п╬п╨я√п╡ п╡я√п╢п╨п╟я┌я┐:"
 
 msgid "Uninden&t"
-msgstr "В╕дм╕нити в╕дс&туп"
+msgstr "п▓я√п╢п╪я√п╫п╦я┌п╦ п╡я√п╢я│&я┌я┐п©"
 
 msgid "Vertical Selections Off"
-msgstr "Вимкнути вертикальний виб╕р"
+msgstr "п▓п╦п╪п╨п╫я┐я┌п╦ п╡п╣я─я┌п╦п╨п╟п╩я▄п╫п╦п╧ п╡п╦п╠я√я─"
 
 msgid "Vertical Selections On"
-msgstr "Вмикнути вертикальний виб╕р"
+msgstr "п▓п╪п╦п╨п╫я┐я┌п╦ п╡п╣я─я┌п╦п╨п╟п╩я▄п╫п╦п╧ п╡п╦п╠я√я─"
 
 msgid "Waiting for KFM..."
-msgstr "Чекаю на KFM..."
+msgstr "п╖п╣п╨п╟я▌ п╫п╟ KFM..."
 
 msgid "Wrap &Cursor"
-msgstr "Розрив &курсора"
+msgstr "п═п╬п╥я─п╦п╡ &п╨я┐я─я│п╬я─п╟"
 
 msgid "Wrap Words At:"
-msgstr "Переносити слова на:"
+msgstr "п÷п╣я─п╣п╫п╬я│п╦я┌п╦ я│п╩п╬п╡п╟ п╫п╟:"
 
 msgid "Wrote"
-msgstr "Записано"
+msgstr "п≈п╟п©п╦я│п╟п╫п╬"
 
 msgid "You do not have read permission to this file"
-msgstr "Ви не ма╓те дозволу на читання цього файлу"
+msgstr "п▓п╦ п╫п╣ п╪п╟я■я┌п╣ п╢п╬п╥п╡п╬п╩я┐ п╫п╟ я┤п╦я┌п╟п╫п╫я▐ я├я▄п╬пЁп╬ я└п╟п╧п╩я┐"
 
 msgid "You do not have write permission to this file"
-msgstr "Ви не ма╓те дозволу на запис цього файлу"
+msgstr "п▓п╦ п╫п╣ п╪п╟я■я┌п╣ п╢п╬п╥п╡п╬п╩я┐ п╫п╟ п╥п╟п©п╦я│ я├я▄п╬пЁп╬ я└п╟п╧п╩я┐"
 
 msgid "You have specified a directory"
-msgstr "Ви вибрали каталог"
+msgstr "п▓п╦ п╡п╦п╠я─п╟п╩п╦ п╨п╟я┌п╟п╩п╬пЁ"
 
 msgid "replace(s) made"
-msgstr "зам╕нено"
+msgstr "п╥п╟п╪я√п╫п╣п╫п╬"

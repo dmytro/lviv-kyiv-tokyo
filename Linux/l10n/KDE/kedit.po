@@ -14,163 +14,163 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "&Colors"
-msgstr "&Кольори"
+msgstr "&п п╬п╩я▄п╬я─п╦"
 
 msgid "&Find..."
-msgstr "&Шукати..."
+msgstr "&п╗я┐п╨п╟я┌п╦..."
 
 msgid "&Font..."
-msgstr "&Шрифт..."
+msgstr "&п╗я─п╦я└я┌..."
 
 msgid "&Goto Line..."
-msgstr "&Перейти на рядок..."
+msgstr "&п÷п╣я─п╣п╧я┌п╦ п╫п╟ я─я▐п╢п╬п╨..."
 
 msgid "&Insert File"
-msgstr "&Вставити файл"
+msgstr "&п▓я│я┌п╟п╡п╦я┌п╦ я└п╟п╧п╩"
 
 msgid "&Mail..."
-msgstr "&В╕д╕слати..."
+msgstr "&п▓я√п╢я√я│п╩п╟я┌п╦..."
 
 msgid "&Replace"
-msgstr "&Зам╕нити"
+msgstr "&п≈п╟п╪я√п╫п╦я┌п╦"
 
 msgid "&Select All"
-msgstr "Вибрати &все"
+msgstr "п▓п╦п╠я─п╟я┌п╦ &п╡я│п╣"
 
 msgid "&Status Bar"
-msgstr "Стр╕чка &статусу"
+msgstr "п║я┌я─я√я┤п╨п╟ &я│я┌п╟я┌я┐я│я┐"
 
 msgid "&Tool Bar"
-msgstr "Стр╕чка &╕нструмент╕в"
+msgstr "п║я┌я─я√я┤п╨п╟ &я√п╫я│я┌я─я┐п╪п╣п╫я┌я√п╡"
 
 msgid ""
 "A Document with this Name exists already\n"
 "Do you want to overwrite it ?"
 msgstr ""
-"Документ з такою назвою вже ╕сну╓.\n"
-"Ви хочете переписати його?"
+"п■п╬п╨я┐п╪п╣п╫я┌ п╥ я┌п╟п╨п╬я▌ п╫п╟п╥п╡п╬я▌ п╡п╤п╣ я√я│п╫я┐я■.\n"
+"п▓п╦ я┘п╬я┤п╣я┌п╣ п©п╣я─п╣п©п╦я│п╟я┌п╦ п╧п╬пЁп╬?"
 
 msgid "An Error occured while trying to open this Document"
-msgstr "При в╕дкритт╕ документу сталася помилка"
+msgstr "п÷я─п╦ п╡я√п╢п╨я─п╦я┌я┌я√ п╢п╬п╨я┐п╪п╣п╫я┌я┐ я│я┌п╟п╩п╟я│я▐ п©п╬п╪п╦п╩п╨п╟"
 
 msgid "Auto &Indent"
-msgstr "Автоматичний &в╕дступ"
+msgstr "п░п╡я┌п╬п╪п╟я┌п╦я┤п╫п╦п╧ &п╡я√п╢я│я┌я┐п©"
 
 msgid "Auto Indent Mode: Off"
-msgstr "Режим автоматичного в╕дступу: вимкнено"
+msgstr "п═п╣п╤п╦п╪ п╟п╡я┌п╬п╪п╟я┌п╦я┤п╫п╬пЁп╬ п╡я√п╢я│я┌я┐п©я┐: п╡п╦п╪п╨п╫п╣п╫п╬"
 
 msgid "Auto Indent Mode: On"
-msgstr "Режим автоматичного в╕дступу: вмикнено\""
+msgstr "п═п╣п╤п╦п╪ п╟п╡я┌п╬п╪п╟я┌п╦я┤п╫п╬пЁп╬ п╡я√п╢я│я┌я┐п©я┐: п╡п╪п╦п╨п╫п╣п╫п╬\""
 
 msgid "Backup Copies"
-msgstr "Запасн╕ коп╕╖"
+msgstr "п≈п╟п©п╟я│п╫я√ п╨п╬п©я√я≈"
 
 msgid ""
 "Beginning of document reached.\n"
 "Continue from the end?"
 msgstr ""
-"Вже на початку документу.\n"
-"Почати з к╕нця?"
+"п▓п╤п╣ п╫п╟ п©п╬я┤п╟я┌п╨я┐ п╢п╬п╨я┐п╪п╣п╫я┌я┐.\n"
+"п÷п╬я┤п╟я┌п╦ п╥ п╨я√п╫я├я▐?"
 
 msgid "Calling KFM"
-msgstr "Викликаю KFM"
+msgstr "п▓п╦п╨п╩п╦п╨п╟я▌ KFM"
 
 msgid ""
 "Can not create:\n"
 "%s"
 msgstr ""
-"Не можу створити:\n"
+"п²п╣ п╪п╬п╤я┐ я│я┌п╡п╬я─п╦я┌п╦:\n"
 "%s"
 
 msgid "Case Sensitive"
-msgstr "Враховувати рег╕стр"
+msgstr "п▓я─п╟я┘п╬п╡я┐п╡п╟я┌п╦ я─п╣пЁя√я│я┌я─"
 
 msgid "Connected"
-msgstr "З'╓днано"
+msgstr "п≈'я■п╢п╫п╟п╫п╬"
 
 msgid ""
 "Could not pipe the contentsof this Document into:\n"
 " %s"
 msgstr ""
-"Не можу переправити по каналу зм╕ст цього документу в:\n"
+"п²п╣ п╪п╬п╤я┐ п©п╣я─п╣п©я─п╟п╡п╦я┌п╦ п©п╬ п╨п╟п╫п╟п╩я┐ п╥п╪я√я│я┌ я├я▄п╬пЁп╬ п╢п╬п╨я┐п╪п╣п╫я┌я┐ п╡:\n"
 "%s"
 
 msgid "Could not save the document\n"
-msgstr "Не можу записати документ\n"
+msgstr "п²п╣ п╪п╬п╤я┐ п╥п╟п©п╦я│п╟я┌п╦ п╢п╬п╨я┐п╪п╣п╫я┌\n"
 
 msgid ""
 "Could not save the document.\n"
 "Create a new document anyways?"
 msgstr ""
-"Не можу записати документ.\n"
-"Створити новий документ?"
+"п²п╣ п╪п╬п╤я┐ п╥п╟п©п╦я│п╟я┌п╦ п╢п╬п╨я┐п╪п╣п╫я┌.\n"
+"п║я┌п╡п╬я─п╦я┌п╦ п╫п╬п╡п╦п╧ п╢п╬п╨я┐п╪п╣п╫я┌?"
 
 msgid ""
 "Could not save the document.\n"
 "Open a new document anyways?"
 msgstr ""
-"Не можу записати документ.\n"
-"Все таки в╕дкрити новий?"
+"п²п╣ п╪п╬п╤я┐ п╥п╟п©п╦я│п╟я┌п╦ п╢п╬п╨я┐п╪п╣п╫я┌.\n"
+"п▓я│п╣ я┌п╟п╨п╦ п╡я√п╢п╨я─п╦я┌п╦ п╫п╬п╡п╦п╧?"
 
 msgid ""
 "Could not save the file.\n"
 "Exit anyways?"
 msgstr ""
-"Не можу записати файл.\n"
-"Все-таки вийти?"
+"п²п╣ п╪п╬п╤я┐ п╥п╟п©п╦я│п╟я┌п╦ я└п╟п╧п╩.\n"
+"п▓я│п╣-я┌п╟п╨п╦ п╡п╦п╧я┌п╦?"
 
 msgid ""
 "Could not save the file.\n"
 "Print anyways?"
 msgstr ""
-"\"Не можу записати файл.\n"
-"Все-таки друкувати?"
+"\"п²п╣ п╪п╬п╤я┐ п╥п╟п©п╦я│п╟я┌п╦ я└п╟п╧п╩.\n"
+"п▓я│п╣-я┌п╟п╨п╦ п╢я─я┐п╨я┐п╡п╟я┌п╦?"
 
 msgid "Could not start or find KFM"
-msgstr "Не можу знайти чи стартувати KFM"
+msgstr "п²п╣ п╪п╬п╤я┐ п╥п╫п╟п╧я┌п╦ я┤п╦ я│я┌п╟я─я┌я┐п╡п╟я┌п╦ KFM"
 
 msgid "Done"
-msgstr "Зак╕нчено"
+msgstr "п≈п╟п╨я√п╫я┤п╣п╫п╬"
 
 msgid ""
 "End of document reached.\n"
 "Continue from the beginning?"
 msgstr ""
-"Вже на к╕нц╕ документу.\n"
-"Почати спочатку?"
+"п▓п╤п╣ п╫п╟ п╨я√п╫я├я√ п╢п╬п╨я┐п╪п╣п╫я┌я┐.\n"
+"п÷п╬я┤п╟я┌п╦ я│п©п╬я┤п╟я┌п╨я┐?"
 
 msgid "Find"
-msgstr "Шукати"
+msgstr "п╗я┐п╨п╟я┌п╦"
 
 msgid "Find &Again"
-msgstr "Шукати &знову"
+msgstr "п╗я┐п╨п╟я┌п╦ &п╥п╫п╬п╡я┐"
 
 msgid "Find Backwards"
-msgstr "Шукати назад"
+msgstr "п╗я┐п╨п╟я┌п╦ п╫п╟п╥п╟п╢"
 
 msgid "Find:"
-msgstr "Знайти:"
+msgstr "п≈п╫п╟п╧я┌п╦:"
 
 msgid "Finished '%s'"
-msgstr "Зак╕нчено '%s'"
+msgstr "п≈п╟п╨я√п╫я┤п╣п╫п╬ '%s'"
 
 msgid "Font..."
-msgstr "Шрифт..."
+msgstr "п╗я─п╦я└я┌..."
 
 msgid "Go"
-msgstr "Перейти"
+msgstr "п÷п╣я─п╣п╧я┌п╦"
 
 msgid "Goto Line"
-msgstr "Перейти на рядок"
+msgstr "п÷п╣я─п╣п╧я┌п╦ п╫п╟ я─я▐п╢п╬п╨"
 
 msgid "Hide &Status Bar"
-msgstr "Сховати стр╕чку &статусу"
+msgstr "п║я┘п╬п╡п╟я┌п╦ я│я┌я─я√я┤п╨я┐ &я│я┌п╟я┌я┐я│я┐"
 
 msgid "Hide &Tool Bar"
-msgstr "Сховати стр╕чку &╕нструмент╕в"
+msgstr "п║я┘п╬п╡п╟я┌п╦ я│я┌я─я√я┤п╨я┐ &я√п╫я│я┌я─я┐п╪п╣п╫я┌я√п╡"
 
 msgid "Insert &Date"
-msgstr "Вставити &дату"
+msgstr "п▓я│я┌п╟п╡п╦я┌п╦ &п╢п╟я┌я┐"
 
 msgid ""
 "KEdit %s\n"
@@ -181,15 +181,15 @@ msgid ""
 msgstr ""
 "KEdit %s\n"
 "\n"
-"Права застережен╕ 1997-98\n"
+"п÷я─п╟п╡п╟ п╥п╟я│я┌п╣я─п╣п╤п╣п╫я√ 1997-98\n"
 "Bernd Johannes Wuebben\n"
 "wuebben@kde.org"
 
 msgid "KEdit &Options..."
-msgstr "&Параметри KEdit"
+msgstr "&п÷п╟я─п╟п╪п╣я┌я─п╦ KEdit"
 
 msgid "KEdit Options"
-msgstr "Параметри KEdit"
+msgstr "п÷п╟я─п╟п╪п╣я┌я─п╦ KEdit"
 
 msgid ""
 "KEdit is already waiting\n"
@@ -197,219 +197,219 @@ msgid ""
 "Please wait until has finished\n"
 "Alternatively stop the running one."
 msgstr ""
-"KEdit вже оч╕ку╓ зак╕нчення \n"
-"роботи з ╕нтернетом\n"
-"Зачекайте, будь-ласка, поки\n"
-"робота зак╕нчиться\n"
-"Або примусово зупин╕ть ╖╖."
+"KEdit п╡п╤п╣ п╬я┤я√п╨я┐я■ п╥п╟п╨я√п╫я┤п╣п╫п╫я▐ \n"
+"я─п╬п╠п╬я┌п╦ п╥ я√п╫я┌п╣я─п╫п╣я┌п╬п╪\n"
+"п≈п╟я┤п╣п╨п╟п╧я┌п╣, п╠я┐п╢я▄-п╩п╟я│п╨п╟, п©п╬п╨п╦\n"
+"я─п╬п╠п╬я┌п╟ п╥п╟п╨я√п╫я┤п╦я┌я▄я│я▐\n"
+"п░п╠п╬ п©я─п╦п╪я┐я│п╬п╡п╬ п╥я┐п©п╦п╫я√я┌я▄ я≈я≈."
 
 msgid "Line: %d Col: %d"
-msgstr "Рядок: %d Ствп: %d"
+msgstr "п═я▐п╢п╬п╨: %d п║я┌п╡п©: %d"
 
 msgid "Load Command Done"
-msgstr "Команда завантаження виконана"
+msgstr "п п╬п╪п╟п╫п╢п╟ п╥п╟п╡п╟п╫я┌п╟п╤п╣п╫п╫я▐ п╡п╦п╨п╬п╫п╟п╫п╟"
 
 msgid "Loading '%s'"
-msgstr "Завантаження '%s'"
+msgstr "п≈п╟п╡п╟п╫я┌п╟п╤п╣п╫п╫я▐ '%s'"
 
 msgid "Loading ..."
-msgstr "Завантаження..."
+msgstr "п≈п╟п╡п╟п╫я┌п╟п╤п╣п╫п╫я▐..."
 
 msgid "Mail"
-msgstr "В╕д╕слати"
+msgstr "п▓я√п╢я√я│п╩п╟я┌п╦"
 
 msgid "Mail Command:"
-msgstr "Команда ел. пошти:"
+msgstr "п п╬п╪п╟п╫п╢п╟ п╣п╩. п©п╬я┬я┌п╦:"
 
 msgid "Mail Document"
-msgstr "В╕д╕слати документ"
+msgstr "п▓я√п╢я√я│п╩п╟я┌п╦ п╢п╬п╨я┐п╪п╣п╫я┌"
 
 msgid "Mail Document to:"
-msgstr "В╕д╕слати документ:"
+msgstr "п▓я√п╢я√я│п╩п╟я┌п╦ п╢п╬п╨я┐п╪п╣п╫я┌:"
 
 msgid ""
 "Malformed URL\n"
 "%s"
 msgstr ""
-"Помилка в синтаксис╕ URL\n"
+"п÷п╬п╪п╦п╩п╨п╟ п╡ я│п╦п╫я┌п╟п╨я│п╦я│я√ URL\n"
 "%s"
 
 msgid "Message"
-msgstr "Пов╕домлення"
+msgstr "п÷п╬п╡я√п╢п╬п╪п╩п╣п╫п╫я▐"
 
 msgid "Ne&w..."
-msgstr "&Новий..."
+msgstr "&п²п╬п╡п╦п╧..."
 
 msgid "New &Window"
-msgstr "Нове &в╕кно"
+msgstr "п²п╬п╡п╣ &п╡я√п╨п╫п╬"
 
 msgid "New Document"
-msgstr "Новий документ"
+msgstr "п²п╬п╡п╦п╧ п╢п╬п╨я┐п╪п╣п╫я┌"
 
 msgid "New Window"
-msgstr "Нове в╕кно"
+msgstr "п²п╬п╡п╣ п╡я√п╨п╫п╬"
 
 msgid "New Window Created"
-msgstr "Нове в╕кно створено"
+msgstr "п²п╬п╡п╣ п╡я√п╨п╫п╬ я│я┌п╡п╬я─п╣п╫п╬"
 
 msgid "No changes need to be saved"
-msgstr "Нема╓ жодних зм╕н для запису"
+msgstr "п²п╣п╪п╟я■ п╤п╬п╢п╫п╦я┘ п╥п╪я√п╫ п╢п╩я▐ п╥п╟п©п╦я│я┐"
 
 msgid "Open &URL..."
-msgstr "В╕дкрити &URL..."
+msgstr "п▓я√п╢п╨я─п╦я┌п╦ &URL..."
 
 msgid "Open Document"
-msgstr "В╕дкрити документ"
+msgstr "п▓я√п╢п╨я─п╦я┌п╦ п╢п╬п╨я┐п╪п╣п╫я┌"
 
 msgid "Open Location:"
-msgstr "В╕дкрити м╕сцеположення:"
+msgstr "п▓я√п╢п╨я─п╦я┌п╦ п╪я√я│я├п╣п©п╬п╩п╬п╤п╣п╫п╫я▐:"
 
 msgid "Open Recen&t..."
-msgstr "В╕дкрити не&давн╕й..."
+msgstr "п▓я√п╢п╨я─п╦я┌п╦ п╫п╣&п╢п╟п╡п╫я√п╧..."
 
 msgid "Print Dialog"
-msgstr "Д╕алогове в╕кно друку"
+msgstr "п■я√п╟п╩п╬пЁп╬п╡п╣ п╡я√п╨п╫п╬ п╢я─я┐п╨я┐"
 
 msgid "Print Document"
-msgstr "Друкувати документ"
+msgstr "п■я─я┐п╨я┐п╡п╟я┌п╦ п╢п╬п╨я┐п╪п╣п╫я┌"
 
 msgid "Print Selection"
-msgstr "Надрукувати вибране"
+msgstr "п²п╟п╢я─я┐п╨я┐п╡п╟я┌п╦ п╡п╦п╠я─п╟п╫п╣"
 
 msgid "Print directly using lpr"
-msgstr "Друкувати прямо на lpr"
+msgstr "п■я─я┐п╨я┐п╡п╟я┌п╦ п©я─я▐п╪п╬ п╫п╟ lpr"
 
 msgid "Print using Command:"
-msgstr "Друкувати командою:"
+msgstr "п■я─я┐п╨я┐п╡п╟я┌п╦ п╨п╬п╪п╟п╫п╢п╬я▌:"
 
 msgid "Printing: %s"
-msgstr "Друкую: %s"
+msgstr "п■я─я┐п╨я┐я▌: %s"
 
 msgid "Printing: %s %s (Selection)"
-msgstr "Друкую: %s %s (Вибране)"
+msgstr "п■я─я┐п╨я┐я▌: %s %s (п▓п╦п╠я─п╟п╫п╣)"
 
 msgid "Printing: %s Untitled"
-msgstr "Друкую: %s Без назви"
+msgstr "п■я─я┐п╨я┐я▌: %s п▒п╣п╥ п╫п╟п╥п╡п╦"
 
 msgid "Printing: %s Untitled (Selection)"
-msgstr "Друкую: %s Без назви (Вибране)"
+msgstr "п■я─я┐п╨я┐я▌: %s п▒п╣п╥ п╫п╟п╥п╡п╦ (п▓п╦п╠я─п╟п╫п╣)"
 
 msgid "Replace All"
-msgstr "Зам╕нити все"
+msgstr "п≈п╟п╪я√п╫п╦я┌п╦ п╡я│п╣"
 
 msgid "Replace with:"
-msgstr "Зм╕нити на:"
+msgstr "п≈п╪я√п╫п╦я┌п╦ п╫п╟:"
 
 msgid "Save Document"
-msgstr "Записати документ"
+msgstr "п≈п╟п©п╦я│п╟я┌п╦ п╢п╬п╨я┐п╪п╣п╫я┌"
 
 msgid "Save Options"
-msgstr "Записати установки"
+msgstr "п≈п╟п©п╦я│п╟я┌п╦ я┐я│я┌п╟п╫п╬п╡п╨п╦"
 
 msgid "Save to Location:"
-msgstr "Записати за адресою:"
+msgstr "п≈п╟п©п╦я│п╟я┌п╦ п╥п╟ п╟п╢я─п╣я│п╬я▌:"
 
 msgid "Save to U&RL..."
-msgstr "Записати в &URL..."
+msgstr "п≈п╟п©п╦я│п╟я┌п╦ п╡ &URL..."
 
 msgid "Saved as: %s"
-msgstr "Записаний п╕д назвою: %s"
+msgstr "п≈п╟п©п╦я│п╟п╫п╦п╧ п©я√п╢ п╫п╟п╥п╡п╬я▌: %s"
 
 msgid "Saving ..."
-msgstr "Записую ..."
+msgstr "п≈п╟п©п╦я│я┐я▌ ..."
 
 msgid "Select All"
-msgstr "Вибрати все"
+msgstr "п▓п╦п╠я─п╟я┌п╦ п╡я│п╣"
 
 msgid "Set Fill-Column at:"
-msgstr "Встановити ширину стовпчика:"
+msgstr "п▓я│я┌п╟п╫п╬п╡п╦я┌п╦ я┬п╦я─п╦п╫я┐ я│я┌п╬п╡п©я┤п╦п╨п╟:"
 
 msgid "Show &Status Bar"
-msgstr "Показувати стр╕чку &статусу"
+msgstr "п÷п╬п╨п╟п╥я┐п╡п╟я┌п╦ я│я┌я─я√я┤п╨я┐ &я│я┌п╟я┌я┐я│я┐"
 
 msgid "Show &Tool Bar"
-msgstr "Показувати стр╕чку &╕нструмент╕в"
+msgstr "п÷п╬п╨п╟п╥я┐п╡п╟я┌п╦ я│я┌я─я√я┤п╨я┐ &я√п╫я│я┌я─я┐п╪п╣п╫я┌я√п╡"
 
 msgid "Sorry:"
-msgstr "Перепрошую:"
+msgstr "п÷п╣я─п╣п©я─п╬я┬я┐я▌:"
 
 msgid "Spellcheck..."
-msgstr "Перев╕рка правопису ..."
+msgstr "п÷п╣я─п╣п╡я√я─п╨п╟ п©я─п╟п╡п╬п©п╦я│я┐ ..."
 
 msgid "Spellchecker Options"
-msgstr "Параметри для перев╕рки правопису"
+msgstr "п÷п╟я─п╟п╪п╣я┌я─п╦ п╢п╩я▐ п©п╣я─п╣п╡я√я─п╨п╦ п©я─п╟п╡п╬п©п╦я│я┐"
 
 msgid "Starting Job"
-msgstr "Стартую роботу"
+msgstr "п║я┌п╟я─я┌я┐я▌ я─п╬п╠п╬я┌я┐"
 
 msgid "Subject:"
-msgstr "Тема:"
+msgstr "п╒п╣п╪п╟:"
 
 msgid ""
 "The current Document has been modified.\n"
 "Would you like to save it?"
 msgstr ""
-"Цей документ був зм╕нений.\n"
-"Чи хочете Ви його записати?"
+"п╕п╣п╧ п╢п╬п╨я┐п╪п╣п╫я┌ п╠я┐п╡ п╥п╪я√п╫п╣п╫п╦п╧.\n"
+"п╖п╦ я┘п╬я┤п╣я┌п╣ п▓п╦ п╧п╬пЁп╬ п╥п╟п©п╦я│п╟я┌п╦?"
 
 msgid ""
 "The current document has been modified.\n"
 "Continue anyways ?"
 msgstr ""
-"Цей документ був зм╕нений.\n"
-"Все-таки продовжувати?"
+"п╕п╣п╧ п╢п╬п╨я┐п╪п╣п╫я┌ п╠я┐п╡ п╥п╪я√п╫п╣п╫п╦п╧.\n"
+"п▓я│п╣-я┌п╟п╨п╦ п©я─п╬п╢п╬п╡п╤я┐п╡п╟я┌п╦?"
 
 msgid ""
 "The current document has been modified.\n"
 "Would you like to save the changes before \n"
 "printing this Document?"
 msgstr ""
-"Цей документ був зм╕нений.\n"
-"Чи записати зм╕ни перш, н╕ж \n"
-"друкувати його?"
+"п╕п╣п╧ п╢п╬п╨я┐п╪п╣п╫я┌ п╠я┐п╡ п╥п╪я√п╫п╣п╫п╦п╧.\n"
+"п╖п╦ п╥п╟п©п╦я│п╟я┌п╦ п╥п╪я√п╫п╦ п©п╣я─я┬, п╫я√п╤ \n"
+"п╢я─я┐п╨я┐п╡п╟я┌п╦ п╧п╬пЁп╬?"
 
 msgid "The specified File does not exist"
-msgstr "Вказаний файл не ╕сну╓"
+msgstr "п▓п╨п╟п╥п╟п╫п╦п╧ я└п╟п╧п╩ п╫п╣ я√я│п╫я┐я■"
 
 msgid ""
 "There are windows with modified content open.\n"
 "If you exit now, you will loose those changes\n"
 "Quit anyways?"
 msgstr ""
-"╢ деяк╕ в╕кна ╕з внесеними зм╕нами до документ╕в.\n"
-"Якщо Ви вийдете зараз, Ви втратите вс╕ ц╕ зм╕ни.\n"
-"Все-таки виходити?"
+"п└ п╢п╣я▐п╨я√ п╡я√п╨п╫п╟ я√п╥ п╡п╫п╣я│п╣п╫п╦п╪п╦ п╥п╪я√п╫п╟п╪п╦ п╢п╬ п╢п╬п╨я┐п╪п╣п╫я┌я√п╡.\n"
+"п╞п╨я┴п╬ п▓п╦ п╡п╦п╧п╢п╣я┌п╣ п╥п╟я─п╟п╥, п▓п╦ п╡я┌я─п╟я┌п╦я┌п╣ п╡я│я√ я├я√ п╥п╪я√п╫п╦.\n"
+"п▓я│п╣-я┌п╟п╨п╦ п╡п╦я┘п╬п╢п╦я┌п╦?"
 
 msgid ""
 "This Document has been modified.\n"
 "Would you like to save it?"
 msgstr ""
-"Цей документ був зм╕нений.\n"
-"Чи хочете Ви його записати?"
+"п╕п╣п╧ п╢п╬п╨я┐п╪п╣п╫я┌ п╠я┐п╡ п╥п╪я√п╫п╣п╫п╦п╧.\n"
+"п╖п╦ я┘п╬я┤п╣я┌п╣ п▓п╦ п╧п╬пЁп╬ п╥п╟п©п╦я│п╟я┌п╦?"
 
 msgid "Waiting..."
-msgstr "Чекаю..."
+msgstr "п╖п╣п╨п╟я▌..."
 
 msgid "Warning:"
-msgstr "Попередження:"
+msgstr "п÷п╬п©п╣я─п╣п╢п╤п╣п╫п╫я▐:"
 
 msgid "Word Wrap"
-msgstr "Перен╕с сл╕в"
+msgstr "п÷п╣я─п╣п╫я√я│ я│п╩я√п╡"
 
 msgid "Wrote: %s"
-msgstr "Записано: %s"
+msgstr "п≈п╟п©п╦я│п╟п╫п╬: %s"
 
 msgid "You do not have read permission to this file."
-msgstr "Ви не ма╓те дозволу на читання цього файлу."
+msgstr "п▓п╦ п╫п╣ п╪п╟я■я┌п╣ п╢п╬п╥п╡п╬п╩я┐ п╫п╟ я┤п╦я┌п╟п╫п╫я▐ я├я▄п╬пЁп╬ я└п╟п╧п╩я┐."
 
 msgid "You do not have write permission to this file.\n"
-msgstr "Ви не ма╓те дозволу на запис цього файлу.\n"
+msgstr "п▓п╦ п╫п╣ п╪п╟я■я┌п╣ п╢п╬п╥п╡п╬п╩я┐ п╫п╟ п╥п╟п©п╦я│ я├я▄п╬пЁп╬ я└п╟п╧п╩я┐.\n"
 
 msgid "You have specificated a directory"
-msgstr "Ви вибрали каталог."
+msgstr "п▓п╦ п╡п╦п╠я─п╟п╩п╦ п╨п╟я┌п╟п╩п╬пЁ."
 
 msgid "You must enter an integer."
-msgstr "Ви ма╓те ввести ц╕ле."
+msgstr "п▓п╦ п╪п╟я■я┌п╣ п╡п╡п╣я│я┌п╦ я├я√п╩п╣."
 
 msgid "You must specify a Recipient"
-msgstr "Ви ма╓те вказати адресата."
+msgstr "п▓п╦ п╪п╟я■я┌п╣ п╡п╨п╟п╥п╟я┌п╦ п╟п╢я─п╣я│п╟я┌п╟."

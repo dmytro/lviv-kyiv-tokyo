@@ -14,49 +14,49 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "&Swallow modules"
-msgstr "&╤нтегрован╕ модул╕ "
+msgstr "&п├п╫я┌п╣пЁя─п╬п╡п╟п╫я√ п╪п╬п╢я┐п╩я√ "
 
 msgid "Hostname: "
-msgstr "Хост:"
+msgstr "п╔п╬я│я┌:"
 
 msgid "KDE Control Center"
-msgstr "Центр керування KDE"
+msgstr "п╕п╣п╫я┌я─ п╨п╣я─я┐п╡п╟п╫п╫я▐ KDE"
 
 msgid ""
 "KDE Control Center - Version 1.0\n"
 "\n"
-"Written by Matthias HЖlzer\n"
+"Written by Matthias Hп√lzer\n"
 "(hoelzer@physik.uni-wuerzburg.de)\n"
 "\n"
 "Thanks to:\n"
 "S. Kulow, P. Dowler, M. Wuebben & M. Jones."
 msgstr ""
-"Центр керування KDE - Верс╕я 1.0\n"
+"п╕п╣п╫я┌я─ п╨п╣я─я┐п╡п╟п╫п╫я▐ KDE - п▓п╣я─я│я√я▐ 1.0\n"
 "\n"
-"Розробка Matthias HЖlzer\n"
+"п═п╬п╥я─п╬п╠п╨п╟ Matthias Hп√lzer\n"
 "(hoelzer@physik.uni-wuerzburg.de)\n"
 "\n"
-"Подяки:\n"
+"п÷п╬п╢я▐п╨п╦:\n"
 "S. Kulow, P. Dowler, M. Wuebben & M. Jones."
 
 msgid "KDE Version: "
-msgstr "Верс╕я KDE:"
+msgstr "п▓п╣я─я│я√я▐ KDE:"
 
 msgid "Machine: "
-msgstr "Машина:"
+msgstr "п°п╟я┬п╦п╫п╟:"
 
 msgid "Release: "
-msgstr "Випуск:"
+msgstr "п▓п╦п©я┐я│п╨:"
 
 msgid "System: "
-msgstr "Система:"
+msgstr "п║п╦я│я┌п╣п╪п╟:"
 
 msgid "Unknown module: "
-msgstr "Нев╕домий модуль:"
+msgstr "п²п╣п╡я√п╢п╬п╪п╦п╧ п╪п╬п╢я┐п╩я▄:"
 
 msgid "User: "
-msgstr "Користувач:"
+msgstr "п п╬я─п╦я│я┌я┐п╡п╟я┤:"
 
 msgid "Version: "
-msgstr "Верс╕я: "
+msgstr "п▓п╣я─я│я√я▐: "
 

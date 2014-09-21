@@ -7,8 +7,8 @@ original version by:  Nikos Drakos, CBLU, University of Leeds
   Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
 <HTML>
 <HEAD>
-<TITLE>На М7.2 не працю╓ в╕дсилання пошти для будь-кого кр╕м root.</TITLE>
-<META NAME="description" CONTENT="На М7.2 не працю╓ в╕дсилання пошти для будь-кого кр╕м root.">
+<TITLE>п²п╟ п°7.2 п╫п╣ п©я─п╟я├я▌я■ п╡я√п╢я│п╦п╩п╟п╫п╫я▐ п©п╬я┬я┌п╦ п╢п╩я▐ п╠я┐п╢я▄-п╨п╬пЁп╬ п╨я─я√п╪ root.</TITLE>
+<META NAME="description" CONTENT="п²п╟ п°7.2 п╫п╣ п©я─п╟я├я▌я■ п╡я√п╢я│п╦п╩п╟п╫п╫я▐ п©п╬я┬я┌п╦ п╢п╩я▐ п╠я┐п╢я▄-п╨п╬пЁп╬ п╨я─я√п╪ root.">
 <META NAME="keywords" CONTENT="SOHO-setup">
 <META NAME="resource-type" CONTENT="document">
 <META NAME="distribution" CONTENT="global">
@@ -41,11 +41,11 @@ original version by:  Nikos Drakos, CBLU, University of Leeds
 <IMG WIDTH="65" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="contents" SRC="contents.png"></A>  
 <BR>
 <B> Next:</B> <A NAME="tex2html756"
-  HREF="node51.html">Мандрейк 8.0 не да╓</A>
+  HREF="node51.html">п°п╟п╫п╢я─п╣п╧п╨ 8.0 п╫п╣ п╢п╟я■</A>
 <B> Up:</B> <A NAME="tex2html752"
-  HREF="node48.html">Деяк╕ ╕нш╕ проблеми з</A>
+  HREF="node48.html">п■п╣я▐п╨я√ я√п╫я┬я√ п©я─п╬п╠п╩п╣п╪п╦ п╥</A>
 <B> Previous:</B> <A NAME="tex2html746"
-  HREF="node49.html">Неявно встановлений поштовий сервер</A>
+  HREF="node49.html">п²п╣я▐п╡п╫п╬ п╡я│я┌п╟п╫п╬п╡п╩п╣п╫п╦п╧ п©п╬я┬я┌п╬п╡п╦п╧ я│п╣я─п╡п╣я─</A>
  &nbsp <B>  <A NAME="tex2html754"
   HREF="node1.html">Contents</A></B> 
 <BR>
@@ -53,22 +53,22 @@ original version by:  Nikos Drakos, CBLU, University of Leeds
 <!--End of Navigation Panel-->
 
 <H3><A NAME="SECTION00086200000000000000">
-На М7.2 не працю╓ в╕дсилання пошти для будь-кого кр╕м root.</A>
+п²п╟ п°7.2 п╫п╣ п©я─п╟я├я▌я■ п╡я√п╢я│п╦п╩п╟п╫п╫я▐ п©п╬я┬я┌п╦ п╢п╩я▐ п╠я┐п╢я▄-п╨п╬пЁп╬ п╨я─я√п╪ root.</A>
 </H3>
 <P>
-<FONT SIZE="+1">Стандартний RPM пакет sendmail на M7.2 да╓ таку помилку для кожного
-користувача, який в╕дсила╓ листа:
+<FONT SIZE="+1">п║я┌п╟п╫п╢п╟я─я┌п╫п╦п╧ RPM п©п╟п╨п╣я┌ sendmail п╫п╟ M7.2 п╢п╟я■ я┌п╟п╨я┐ п©п╬п╪п╦п╩п╨я┐ п╢п╩я▐ п╨п╬п╤п╫п╬пЁп╬
+п╨п╬я─п╦я│я┌я┐п╡п╟я┤п╟, я▐п╨п╦п╧ п╡я√п╢я│п╦п╩п╟я■ п╩п╦я│я┌п╟:
 </FONT>
 <P>
 <PRE>
    Can't create transcript file ./xff8R6lwP18368: Permission denied
 </PRE>
 <P>
-<FONT SIZE="+1">Я не зустр╕чав тако╖ помилки на M8.0. Можливо вона вже виправлена. Це
-пов╕домлення з'явля╓ться для кожного користувача кр╕м root. Проблема в
-тому, що власники дв╕йкового файлу /usr/sbin/sendmail ╕ директор╕╖
-черг не сп╕впадають. Кр╕м того sendmail ма╓ працювати з SUID, SGID.
-Вих╕д з цього становища такий:
+<FONT SIZE="+1">п╞ п╫п╣ п╥я┐я│я┌я─я√я┤п╟п╡ я┌п╟п╨п╬я≈ п©п╬п╪п╦п╩п╨п╦ п╫п╟ M8.0. п°п╬п╤п╩п╦п╡п╬ п╡п╬п╫п╟ п╡п╤п╣ п╡п╦п©я─п╟п╡п╩п╣п╫п╟. п╕п╣
+п©п╬п╡я√п╢п╬п╪п╩п╣п╫п╫я▐ п╥'я▐п╡п╩я▐я■я┌я▄я│я▐ п╢п╩я▐ п╨п╬п╤п╫п╬пЁп╬ п╨п╬я─п╦я│я┌я┐п╡п╟я┤п╟ п╨я─я√п╪ root. п÷я─п╬п╠п╩п╣п╪п╟ п╡
+я┌п╬п╪я┐, я┴п╬ п╡п╩п╟я│п╫п╦п╨п╦ п╢п╡я√п╧п╨п╬п╡п╬пЁп╬ я└п╟п╧п╩я┐ /usr/sbin/sendmail я√ п╢п╦я─п╣п╨я┌п╬я─я√я≈
+я┤п╣я─пЁ п╫п╣ я│п©я√п╡п©п╟п╢п╟я▌я┌я▄. п я─я√п╪ я┌п╬пЁп╬ sendmail п╪п╟я■ п©я─п╟я├я▌п╡п╟я┌п╦ п╥ SUID, SGID.
+п▓п╦я┘я√п╢ п╥ я├я▄п╬пЁп╬ я│я┌п╟п╫п╬п╡п╦я┴п╟ я┌п╟п╨п╦п╧:
 </FONT>
 <P>
 <PRE>

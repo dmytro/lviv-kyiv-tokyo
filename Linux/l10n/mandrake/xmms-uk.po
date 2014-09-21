@@ -20,12 +20,12 @@ msgid ""
 "\n"
 "By Johan Levin 1999."
 msgstr ""
-"Модуль луни\n"
+"п°п╬п╢я┐п╩я▄ п╩я┐п╫п╦\n"
 "By Johan Levin 1999."
 
 #: Effect/echo_plugin/gui.c:35
 msgid "Configure Extra Stero"
-msgstr "Конф╕╜урац╕я розширеного стерео"
+msgstr "п п╬п╫я└я√р▒я┐я─п╟я├я√я▐ я─п╬п╥я┬п╦я─п╣п╫п╬пЁп╬ я│я┌п╣я─п╣п╬"
 
 # local translation
 #: Effect/echo_plugin/gui.c:49 Effect/echo_plugin/gui.c:138
@@ -44,23 +44,23 @@ msgstr "Конф╕╜урац╕я розширеного стерео"
 #: xmms/equalizer.c:1235 xmms/main.c:2655 xmms/prefswin.c:265
 #: xmms/prefswin.c:282 xmms/prefswin.c:825 xmms/util.c:455
 msgid "Ok"
-msgstr "Гаразд"
+msgstr "п⌠п╟я─п╟п╥п╢"
 
 #: Effect/echo_plugin/gui.c:99 Effect/surround_echo/gui.c:100
 msgid "Configure Echo"
-msgstr "Конф╕гурац╕я луни"
+msgstr "п п╬п╫я└я√пЁя┐я─п╟я├я√я▐ п╩я┐п╫п╦"
 
 #: Effect/echo_plugin/gui.c:111 Effect/surround_echo/gui.c:112
 msgid "Delay: (ms)"
-msgstr "Затримка: (мсек)"
+msgstr "п≈п╟я┌я─п╦п╪п╨п╟: (п╪я│п╣п╨)"
 
 #: Effect/echo_plugin/gui.c:115 Effect/surround_echo/gui.c:116
 msgid "Feedback: (%)"
-msgstr "Зворотн╕й зв'язок: (%)"
+msgstr "п≈п╡п╬я─п╬я┌п╫я√п╧ п╥п╡'я▐п╥п╬п╨: (%)"
 
 #: Effect/echo_plugin/gui.c:119 Effect/surround_echo/gui.c:120
 msgid "Volume: (%)"
-msgstr "Гучн╕сть: (%)"
+msgstr "п⌠я┐я┤п╫я√я│я┌я▄: (%)"
 
 #: Effect/echo_plugin/gui.c:147 Effect/stereo_plugin/stereo.c:158
 #: Effect/surround_echo/gui.c:148 General/ir/configure.c:201
@@ -74,12 +74,12 @@ msgstr "Гучн╕сть: (%)"
 #: xmms/equalizer.c:1186 xmms/equalizer.c:1192 xmms/equalizer.c:1229
 #: xmms/equalizer.c:1235 xmms/main.c:1293 xmms/prefswin.c:829 xmms/util.c:462
 msgid "Cancel"
-msgstr "В╕дм╕нити"
+msgstr "п▓я√п╢п╪я√п╫п╦я┌п╦"
 
 #: Effect/echo_plugin/gui.c:155 Effect/surround_echo/gui.c:156
 #: General/joystick/configure.c:273 xmms/prefswin.c:833
 msgid "Apply"
-msgstr "Застосувати"
+msgstr "п≈п╟я│я┌п╬я│я┐п╡п╟я┌п╦"
 
 #: Effect/stereo_plugin/stereo.c:24
 msgid ""
@@ -87,18 +87,18 @@ msgid ""
 "\n"
 "By Johan Levin 1999."
 msgstr ""
-"Модуль розширення стерео ефекту\n"
+"п°п╬п╢я┐п╩я▄ я─п╬п╥я┬п╦я─п╣п╫п╫я▐ я│я┌п╣я─п╣п╬ п╣я└п╣п╨я┌я┐\n"
 "\n"
 "By Johan Levin 1999."
 
 #: Effect/stereo_plugin/stereo.c:69 Effect/stereo_plugin/stereo.c:132
 #: Effect/surround_echo/gui.c:36
 msgid "Configure Extra Stereo"
-msgstr "Конф╕гурац╕я розширення стерео ефекту"
+msgstr "п п╬п╫я└я√пЁя┐я─п╟я├я√я▐ я─п╬п╥я┬п╦я─п╣п╫п╫я▐ я│я┌п╣я─п╣п╬ п╣я└п╣п╨я┌я┐"
 
 #: Effect/stereo_plugin/stereo.c:134
 msgid "Effect intensity:"
-msgstr "╤нтенсивн╕сть ефекту:"
+msgstr "п├п╫я┌п╣п╫я│п╦п╡п╫я√я│я┌я▄ п╣я└п╣п╨я┌я┐:"
 
 #: Effect/surround_echo/gui.c:5
 msgid ""
@@ -106,12 +106,12 @@ msgid ""
 "\n"
 "By Carl van Schaik 1999(Hack of echo plugin by)By Johan Levin 1999. "
 msgstr ""
-"Модуль ефекту поглинання\n"
-"By Carl van Schaik 1999(модиф╕кац╕я модуля луни)By Johan Levin 1999. "
+"п°п╬п╢я┐п╩я▄ п╣я└п╣п╨я┌я┐ п©п╬пЁп╩п╦п╫п╟п╫п╫я▐\n"
+"By Carl van Schaik 1999(п╪п╬п╢п╦я└я√п╨п╟я├я√я▐ п╪п╬п╢я┐п╩я▐ п╩я┐п╫п╦)By Johan Levin 1999. "
 
 #: Effect/voice/about.c:32
 msgid "About Voice Removal Plugin 0.9"
-msgstr "Про модуль вир╕зання голосу 0.9"
+msgstr "п÷я─п╬ п╪п╬п╢я┐п╩я▄ п╡п╦я─я√п╥п╟п╫п╫я▐ пЁп╬п╩п╬я│я┐ 0.9"
 
 #: Effect/voice/about.c:34
 msgid ""
@@ -120,23 +120,23 @@ msgid ""
 "A simple voice removal plugin by Anders Carlsson < anders.carlsson @ "
 "tordata.se > "
 msgstr ""
-"Модуль для вир╕зання голосу для XMMS. Верс╕я 0.9\n"
-"Простий модуль в╕дф╕льтровування голосу by Anders Carlsson < anders.carlsson "
+"п°п╬п╢я┐п╩я▄ п╢п╩я▐ п╡п╦я─я√п╥п╟п╫п╫я▐ пЁп╬п╩п╬я│я┐ п╢п╩я▐ XMMS. п▓п╣я─я│я√я▐ 0.9\n"
+"п÷я─п╬я│я┌п╦п╧ п╪п╬п╢я┐п╩я▄ п╡я√п╢я└я√п╩я▄я┌я─п╬п╡я┐п╡п╟п╫п╫я▐ пЁп╬п╩п╬я│я┐ by Anders Carlsson < anders.carlsson "
 "@ tordata.se > "
 
 #: Effect/voice/about.c:40 General/joystick/about.c:45 Output/OSS/about.c:47
 #: Output/esd/about.c:52
 msgid " Close "
-msgstr " Закрити "
+msgstr " п≈п╟п╨я─п╦я┌п╦ "
 
 #: General/ir/about.c:27 xmms/prefswin.c:539 xmms/prefswin.c:572
 #: xmms/prefswin.c:609 xmms/prefswin.c:650 xmms/prefswin.c:696
 msgid "About"
-msgstr "Про"
+msgstr "п÷я─п╬"
 
 #: General/ir/about.c:35
 msgid "XMMS IRman Plugin:"
-msgstr "Модуль дистанц╕йного керування для XMMS:"
+msgstr "п°п╬п╢я┐п╩я▄ п╢п╦я│я┌п╟п╫я├я√п╧п╫п╬пЁп╬ п╨п╣я─я┐п╡п╟п╫п╫я▐ п╢п╩я▐ XMMS:"
 
 #: General/ir/about.c:41
 msgid ""
@@ -144,58 +144,58 @@ msgid ""
 "Control XMMS with your TV / VCR / Stereo remote \n"
 "IRman page - http://www.evation.com/irman/"
 msgstr ""
-"Розробка Charles Sielski <stray@teklabs.net>\n"
-"Можете керувати XMMS за допомогою блоку дистанц╕йного керування \n"
-"ТВ / в╕деомагн╕тофона / рад╕окомплекса\n"
-"Домашня стор╕нка IRman - http:\t//www.evation.com/irman/"
+"п═п╬п╥я─п╬п╠п╨п╟ Charles Sielski <stray@teklabs.net>\n"
+"п°п╬п╤п╣я┌п╣ п╨п╣я─я┐п╡п╟я┌п╦ XMMS п╥п╟ п╢п╬п©п╬п╪п╬пЁп╬я▌ п╠п╩п╬п╨я┐ п╢п╦я│я┌п╟п╫я├я√п╧п╫п╬пЁп╬ п╨п╣я─я┐п╡п╟п╫п╫я▐ \n"
+"п╒п▓ / п╡я√п╢п╣п╬п╪п╟пЁп╫я√я┌п╬я└п╬п╫п╟ / я─п╟п╢я√п╬п╨п╬п╪п©п╩п╣п╨я│п╟\n"
+"п■п╬п╪п╟я┬п╫я▐ я│я┌п╬я─я√п╫п╨п╟ IRman - http:\t//www.evation.com/irman/"
 
 #: General/ir/configure.c:24
 msgid "Pause"
-msgstr "Пауза"
+msgstr "п÷п╟я┐п╥п╟"
 
 #: General/ir/configure.c:24
 msgid "Play"
-msgstr "Грати"
+msgstr "п⌠я─п╟я┌п╦"
 
 #: General/ir/configure.c:24 General/joystick/configure.c:25
 msgid "Stop"
-msgstr "Зупинити"
+msgstr "п≈я┐п©п╦п╫п╦я┌п╦"
 
 #: General/ir/configure.c:25
 msgid "Next"
-msgstr "Наступний"
+msgstr "п²п╟я│я┌я┐п©п╫п╦п╧"
 
 #: General/ir/configure.c:25
 msgid "Prev"
-msgstr "Попередня"
+msgstr "п÷п╬п©п╣я─п╣п╢п╫я▐"
 
 #: General/ir/configure.c:25
 msgid "Vol +"
-msgstr "Гуч +"
+msgstr "п⌠я┐я┤ +"
 
 #: General/ir/configure.c:26
 msgid "Seek +5s"
-msgstr "Вперед 5сек"
+msgstr "п▓п©п╣я─п╣п╢ 5я│п╣п╨"
 
 #: General/ir/configure.c:26
 msgid "Seek -5s"
-msgstr "Назад 5сек"
+msgstr "п²п╟п╥п╟п╢ 5я│п╣п╨"
 
 #: General/ir/configure.c:26
 msgid "Vol -"
-msgstr "Гуч -"
+msgstr "п⌠я┐я┤ -"
 
 #: General/ir/configure.c:27
 msgid "Playlist"
-msgstr "Список трек╕в"
+msgstr "п║п©п╦я│п╬п╨ я┌я─п╣п╨я√п╡"
 
 #: General/ir/configure.c:27 General/joystick/configure.c:28
 msgid "Repeat"
-msgstr "Повтор"
+msgstr "п÷п╬п╡я┌п╬я─"
 
 #: General/ir/configure.c:27 General/joystick/configure.c:27
 msgid "Shuffle"
-msgstr "Зм╕шати"
+msgstr "п≈п╪я√я┬п╟я┌п╦"
 
 #: General/ir/configure.c:28
 msgid "+100"
@@ -244,45 +244,45 @@ msgstr "9"
 #: General/ir/configure.c:135
 #, c-format
 msgid "`%s' Button Setup"
-msgstr "Установка кнопки `%s'"
+msgstr "пёя│я┌п╟п╫п╬п╡п╨п╟ п╨п╫п╬п©п╨п╦ `%s'"
 
 #: General/ir/configure.c:145
 msgid "Enter code or use remote"
-msgstr "Введ╕ть код або користуйтеся дист. кер."
+msgstr "п▓п╡п╣п╢я√я┌я▄ п╨п╬п╢ п╟п╠п╬ п╨п╬я─п╦я│я┌я┐п╧я┌п╣я│я▐ п╢п╦я│я┌. п╨п╣я─."
 
 #: General/ir/configure.c:244
 msgid "XMMS IRman Configuration"
-msgstr "Конф╕гурац╕я XMMS IRman"
+msgstr "п п╬п╫я└я√пЁя┐я─п╟я├я√я▐ XMMS IRman"
 
 #: General/ir/configure.c:258 Input/cdaudio/configure.c:106
 #: Input/cdaudio/configure.c:115
 msgid "Device:"
-msgstr "Пристр╕й:"
+msgstr "п÷я─п╦я│я┌я─я√п╧:"
 
 #: General/ir/configure.c:267
 msgid "Device: "
-msgstr "Пристр╕й: "
+msgstr "п÷я─п╦я│я┌я─я√п╧: "
 
 #: General/ir/configure.c:279
 msgid "Controls:"
-msgstr "Керування:"
+msgstr "п п╣я─я┐п╡п╟п╫п╫я▐:"
 
 #: General/ir/configure.c:318
 msgid "Playlists:"
-msgstr "Список:"
+msgstr "п║п©п╦я│п╬п╨:"
 
 #: General/ir/configure.c:347
 msgid "General"
-msgstr "Загальне"
+msgstr "п≈п╟пЁп╟п╩я▄п╫п╣"
 
 #: General/ir/ir.c:185
 #, c-format
 msgid "unable to open port `%s' (%s)\n"
-msgstr "не можу в╕дкрити порт  `%s' (%s)\n"
+msgstr "п╫п╣ п╪п╬п╤я┐ п╡я√п╢п╨я─п╦я┌п╦ п©п╬я─я┌  `%s' (%s)\n"
 
 #: General/joystick/about.c:35
 msgid "About Joystick Driver"
-msgstr "Про драйвер джойст╕ка"
+msgstr "п÷я─п╬ п╢я─п╟п╧п╡п╣я─ п╢п╤п╬п╧я│я┌я√п╨п╟"
 
 #: General/joystick/about.c:38
 msgid ""
@@ -294,123 +294,123 @@ msgid ""
 " Control XMMS with one or two joysticks.\n"
 " "
 msgstr ""
-"Модуль керування джойст╕ком\n"
+"п°п╬п╢я┐п╩я▄ п╨п╣я─я┐п╡п╟п╫п╫я▐ п╢п╤п╬п╧я│я┌я√п╨п╬п╪\n"
 "\n"
-"Розробка Tim Ferguson <timf@dgs.monash.edu.au>.\n"
+"п═п╬п╥я─п╬п╠п╨п╟ Tim Ferguson <timf@dgs.monash.edu.au>.\n"
 " http://www.dgs.monash.edu.au/~timf/\n"
 "\n"
-"Керування XMMS за допомогою одного або двох джойст╕к╕в.\n"
+"п п╣я─я┐п╡п╟п╫п╫я▐ XMMS п╥п╟ п╢п╬п©п╬п╪п╬пЁп╬я▌ п╬п╢п╫п╬пЁп╬ п╟п╠п╬ п╢п╡п╬я┘ п╢п╤п╬п╧я│я┌я√п╨я√п╡.\n"
 " "
 
 #: General/joystick/configure.c:25
 msgid "Next Track"
-msgstr "Наступна дор╕жка"
+msgstr "п²п╟я│я┌я┐п©п╫п╟ п╢п╬я─я√п╤п╨п╟"
 
 #: General/joystick/configure.c:25
 msgid "Play/Pause"
-msgstr "Програвання/Пауза"
+msgstr "п÷я─п╬пЁя─п╟п╡п╟п╫п╫я▐/п÷п╟я┐п╥п╟"
 
 #: General/joystick/configure.c:25
 msgid "Prev Track"
-msgstr "Попередня дор╕жка"
+msgstr "п÷п╬п©п╣я─п╣п╢п╫я▐ п╢п╬я─я√п╤п╨п╟"
 
 #: General/joystick/configure.c:26
 msgid "Back 5 tracks"
-msgstr "5 дор╕жок назад"
+msgstr "5 п╢п╬я─я√п╤п╬п╨ п╫п╟п╥п╟п╢"
 
 #: General/joystick/configure.c:26
 msgid "Fwd 5 tracks"
-msgstr "5 дор╕жок вперед"
+msgstr "5 п╢п╬я─я√п╤п╬п╨ п╡п©п╣я─п╣п╢"
 
 #: General/joystick/configure.c:26
 msgid "Volume Up"
-msgstr "Гучн╕сть б╕льше"
+msgstr "п⌠я┐я┤п╫я√я│я┌я▄ п╠я√п╩я▄я┬п╣"
 
 #: General/joystick/configure.c:27
 msgid "Forward 5s"
-msgstr "5с вперед"
+msgstr "5я│ п╡п©п╣я─п╣п╢"
 
 #: General/joystick/configure.c:27
 msgid "Rewind 5s"
-msgstr "5с назад"
+msgstr "5я│ п╫п╟п╥п╟п╢"
 
 #: General/joystick/configure.c:27
 msgid "Volume Down"
-msgstr "Гучн╕сть менше"
+msgstr "п⌠я┐я┤п╫я√я│я┌я▄ п╪п╣п╫я┬п╣"
 
 #: General/joystick/configure.c:28
 msgid "Alternate"
-msgstr "Зм╕нний"
+msgstr "п≈п╪я√п╫п╫п╦п╧"
 
 #: General/joystick/configure.c:28
 msgid "Nothing"
-msgstr "Н╕чого"
+msgstr "п²я√я┤п╬пЁп╬"
 
 #: General/joystick/configure.c:89
 msgid "XMMS Joystick Configuration"
-msgstr "Конф╕гурац╕я джостика XMMS"
+msgstr "п п╬п╫я└я√пЁя┐я─п╟я├я√я▐ п╢п╤п╬я│я┌п╦п╨п╟ XMMS"
 
 #. --------------------------------------------------
 #: General/joystick/configure.c:103
 msgid "Devices:"
-msgstr "Пристро╖:"
+msgstr "п÷я─п╦я│я┌я─п╬я≈:"
 
 #. ------------------------------
 #: General/joystick/configure.c:113
 msgid "Joystick 1:"
-msgstr "Джойст╕к 1:"
+msgstr "п■п╤п╬п╧я│я┌я√п╨ 1:"
 
 #. ------------------------------
 #: General/joystick/configure.c:125
 msgid "Joystick 2:"
-msgstr "Джойст╕к 2:"
+msgstr "п■п╤п╬п╧я│я┌я√п╨ 2:"
 
 #. ------------------------------
 #: General/joystick/configure.c:137
 msgid "Sensitivity (10-32767):"
-msgstr "Чутлив╕сть (10-32767):"
+msgstr "п╖я┐я┌п╩п╦п╡я√я│я┌я▄ (10-32767):"
 
 #. --------------------------------------------------
 #: General/joystick/configure.c:167
 msgid "Directionals:"
-msgstr "По напрямах:"
+msgstr "п÷п╬ п╫п╟п©я─я▐п╪п╟я┘:"
 
 #. --------------------------------------------------
 #: General/joystick/configure.c:192
 msgid "Directionals (alternate):"
-msgstr "По напрямках (зм╕нн╕):"
+msgstr "п÷п╬ п╫п╟п©я─я▐п╪п╨п╟я┘ (п╥п╪я√п╫п╫я√):"
 
 #. --------------------------------------------------
 #: General/joystick/configure.c:217
 msgid "Buttons:"
-msgstr "Кнопки:"
+msgstr "п п╫п╬п©п╨п╦:"
 
 #: General/joystick/configure.c:233
 #, c-format
 msgid "Button %d:"
-msgstr "Кнопка %d:"
+msgstr "п п╫п╬п©п╨п╟ %d:"
 
 #: General/joystick/joy.c:130
 msgid "Joystick Control"
-msgstr "Керування джойст╕ка"
+msgstr "п п╣я─я┐п╡п╟п╫п╫я▐ п╢п╤п╬п╧я│я┌я√п╨п╟"
 
 #: General/joystick/joy.c:183 General/joystick/joy.c:240
 msgid ""
 "\n"
 "Joystick Control: error reading"
-msgstr "\nКерування джойст╕ка: помилка в читанн╕"
+msgstr "\nп п╣я─я┐п╡п╟п╫п╫я▐ п╢п╤п╬п╧я│я┌я√п╨п╟: п©п╬п╪п╦п╩п╨п╟ п╡ я┤п╦я┌п╟п╫п╫я√"
 
 #: General/song_change/song_change.c:124
 msgid "Song Change Configuration"
-msgstr "Конф╕гурац╕я зм╕ни п╕сень"
+msgstr "п п╬п╫я└я√пЁя┐я─п╟я├я√я▐ п╥п╪я√п╫п╦ п©я√я│п╣п╫я▄"
 
 #: General/song_change/song_change.c:132
 msgid "Song change"
-msgstr "Зм╕на п╕сн╕"
+msgstr "п≈п╪я√п╫п╟ п©я√я│п╫я√"
 
 #: General/song_change/song_change.c:140
 msgid "Playlist end"
-msgstr "К╕нець списку"
+msgstr "п я√п╫п╣я├я▄ я│п©п╦я│п╨я┐"
 
 #: General/song_change/song_change.c:149
 #, c-format
@@ -418,25 +418,25 @@ msgid ""
 "Shell-command to run when xmms changes song.  It can optionally include the "
 "string %s which will be replaced by the new song title."
 msgstr ""
-"Команда, яка повинна виконуватися, коли xmms зм╕ню╓ п╕сню. Ця команда\n"
-"може також м╕стити рядок %s, яка буде зам╕нена на назву ново╖ п╕сн╕."
+"п п╬п╪п╟п╫п╢п╟, я▐п╨п╟ п©п╬п╡п╦п╫п╫п╟ п╡п╦п╨п╬п╫я┐п╡п╟я┌п╦я│я▐, п╨п╬п╩п╦ xmms п╥п╪я√п╫я▌я■ п©я√я│п╫я▌. п╕я▐ п╨п╬п╪п╟п╫п╢п╟\n"
+"п╪п╬п╤п╣ я┌п╟п╨п╬п╤ п╪я√я│я┌п╦я┌п╦ я─я▐п╢п╬п╨ %s, я▐п╨п╟ п╠я┐п╢п╣ п╥п╟п╪я√п╫п╣п╫п╟ п╫п╟ п╫п╟п╥п╡я┐ п╫п╬п╡п╬я≈ п©я√я│п╫я√."
 
 #: General/song_change/song_change.c:161 General/song_change/song_change.c:185
 msgid "Command:"
-msgstr "Команда:"
+msgstr "п п╬п╪п╟п╫п╢п╟:"
 
 #: General/song_change/song_change.c:174
 msgid "Shell-command to run when xmms reaches the end of the playlist."
-msgstr "Команда, яка викону╓ться, коли xmms доходить до к╕нця списку."
+msgstr "п п╬п╪п╟п╫п╢п╟, я▐п╨п╟ п╡п╦п╨п╬п╫я┐я■я┌я▄я│я▐, п╨п╬п╩п╦ xmms п╢п╬я┘п╬п╢п╦я┌я▄ п╢п╬ п╨я√п╫я├я▐ я│п©п╦я│п╨я┐."
 
 #: Input/cdaudio/cdaudio.c:276
 #, c-format
 msgid "CD Audio Track %02u"
-msgstr "Звукова дор╕жка компакт-диску %02u"
+msgstr "п≈п╡я┐п╨п╬п╡п╟ п╢п╬я─я√п╤п╨п╟ п╨п╬п╪п©п╟п╨я┌-п╢п╦я│п╨я┐ %02u"
 
 #: Input/cdaudio/cdindex.c:131 xmms/prefswin.c:258 xmms/prefswin.c:273
 msgid "Warning"
-msgstr "Попередження"
+msgstr "п÷п╬п©п╣я─п╣п╢п╤п╣п╫п╫я▐"
 
 #: Input/cdaudio/cdindex.c:132
 msgid ""
@@ -444,42 +444,42 @@ msgid ""
 "generate a test key.  As such, Xmms will\n"
 "not be able to contact a CD Index server.\n"
 msgstr ""
-"Функц╕я  SHA-1 не змогла в╕рно з╜енерувати \n"
-"тестовий ключ. Через це Xmms не зможе \n"
-"п╕дключитися до сервера з ╕ндексами \n"
-"компакт-диск╕в.\n"
+"п╓я┐п╫п╨я├я√я▐  SHA-1 п╫п╣ п╥п╪п╬пЁп╩п╟ п╡я√я─п╫п╬ п╥р▒п╣п╫п╣я─я┐п╡п╟я┌п╦ \n"
+"я┌п╣я│я┌п╬п╡п╦п╧ п╨п╩я▌я┤. п╖п╣я─п╣п╥ я├п╣ Xmms п╫п╣ п╥п╪п╬п╤п╣ \n"
+"п©я√п╢п╨п╩я▌я┤п╦я┌п╦я│я▐ п╢п╬ я│п╣я─п╡п╣я─п╟ п╥ я√п╫п╢п╣п╨я│п╟п╪п╦ \n"
+"п╨п╬п╪п©п╟п╨я┌-п╢п╦я│п╨я√п╡.\n"
 
 #: Input/cdaudio/cdindex.c:160 Input/cdaudio/cdinfo.c:144
 #: Input/cdaudio/cdinfo.c:145 Input/cdaudio/cdinfo.c:146
 msgid "(unknown)"
-msgstr "(нев╕домо)"
+msgstr "(п╫п╣п╡я√п╢п╬п╪п╬)"
 
 #: Input/cdaudio/configure.c:89
 msgid "CD Audio Player Configuration"
-msgstr "Конф╕гурац╕я програвача компакт-диск╕в"
+msgstr "п п╬п╫я└я√пЁя┐я─п╟я├я√я▐ п©я─п╬пЁя─п╟п╡п╟я┤п╟ п╨п╬п╪п©п╟п╨я┌-п╢п╦я│п╨я√п╡"
 
 #: Input/cdaudio/configure.c:125
 msgid "Directory:"
-msgstr "Каталог:"
+msgstr "п п╟я┌п╟п╩п╬пЁ:"
 
 #.
 #. * Volume config
 #.
 #: Input/cdaudio/configure.c:144
 msgid "Volume setting:"
-msgstr "Установка гучност╕:"
+msgstr "пёя│я┌п╟п╫п╬п╡п╨п╟ пЁя┐я┤п╫п╬я│я┌я√:"
 
 #: Input/cdaudio/configure.c:150
 msgid "OSS Mixer"
-msgstr "М╕кшер OSS"
+msgstr "п°я√п╨я┬п╣я─ OSS"
 
 #: Input/cdaudio/configure.c:159
 msgid "CDROM drive"
-msgstr "Компакт-диск"
+msgstr "п п╬п╪п©п╟п╨я┌-п╢п╦я│п╨"
 
 #: Input/cdaudio/configure.c:168
 msgid "Device"
-msgstr "Пристр╕й"
+msgstr "п÷я─п╦я│я┌я─я√п╧"
 
 #. CDDB
 #: Input/cdaudio/configure.c:178
@@ -488,26 +488,26 @@ msgstr "CDDB:"
 
 #: Input/cdaudio/configure.c:188
 msgid "Use CDDB"
-msgstr "Користуватися CDDB"
+msgstr "п п╬я─п╦я│я┌я┐п╡п╟я┌п╦я│я▐ CDDB"
 
 #: Input/cdaudio/configure.c:192
 msgid "Get server list"
-msgstr "Отримати список сервер╕в"
+msgstr "п·я┌я─п╦п╪п╟я┌п╦ я│п©п╦я│п╬п╨ я│п╣я─п╡п╣я─я√п╡"
 
 #: Input/cdaudio/configure.c:194
 msgid "Show network window"
-msgstr "Показувати в╕кно мереж╕"
+msgstr "п÷п╬п╨п╟п╥я┐п╡п╟я┌п╦ п╡я√п╨п╫п╬ п╪п╣я─п╣п╤я√"
 
 #: Input/cdaudio/configure.c:206
 msgid "CDDB server:"
-msgstr "Сервер CDDB:"
+msgstr "п║п╣я─п╡п╣я─ CDDB:"
 
 #.
 #. * CDindex
 #.
 #: Input/cdaudio/configure.c:222
 msgid "CD Index:"
-msgstr "╤ндекс компакт-диск╕в"
+msgstr "п├п╫п╢п╣п╨я│ п╨п╬п╪п©п╟п╨я┌-п╢п╦я│п╨я√п╡"
 
 #: Input/cdaudio/configure.c:229
 msgid "Use CD Index"
@@ -522,11 +522,11 @@ msgstr ""
 #.
 #: Input/cdaudio/configure.c:257
 msgid "Track names:"
-msgstr "Назви дор╕жок:"
+msgstr "п²п╟п╥п╡п╦ п╢п╬я─я√п╤п╬п╨:"
 
 #: Input/cdaudio/configure.c:266
 msgid "Name format:"
-msgstr "Формат назви:"
+msgstr "п╓п╬я─п╪п╟я┌ п╫п╟п╥п╡п╦:"
 
 #: Input/cdaudio/configure.c:278
 msgid ""
@@ -542,7 +542,7 @@ msgstr ""
 
 #: Input/cdaudio/configure.c:295
 msgid "CD Info"
-msgstr "╤нформац╕я про компакт"
+msgstr "п├п╫я└п╬я─п╪п╟я├я√я▐ п©я─п╬ п╨п╬п╪п©п╟п╨я┌"
 
 #: Input/idcin/idcin.c:106
 msgid "Huffman decode error.\n"
@@ -562,7 +562,7 @@ msgstr ""
 
 #: Input/mikmod/plugin.c:126
 msgid "About mikmod plugin"
-msgstr "Про модуль mikmod"
+msgstr "п÷я─п╬ п╪п╬п╢я┐п╩я▄ mikmod"
 
 #: Input/mikmod/plugin.c:152
 msgid ""
@@ -570,98 +570,98 @@ msgid ""
 "http://www.multimania.com/miodrag/mikmod/\n"
 "Ported to xmms by J. Nick Koston"
 msgstr ""
-"Модуль mikmod\n"
+"п°п╬п╢я┐п╩я▄ mikmod\n"
 "http://www.multimania.com/miodrag/mikmod/\n"
-"Модиф╕кац╕я для роботи з xmms J. Nick Koston"
+"п°п╬п╢п╦я└я√п╨п╟я├я√я▐ п╢п╩я▐ я─п╬п╠п╬я┌п╦ п╥ xmms J. Nick Koston"
 
 #: Input/mikmod/plugin.c:374
 msgid "Couldn't load mod"
-msgstr "Не можу прочитати mod файл"
+msgstr "п²п╣ п╪п╬п╤я┐ п©я─п╬я┤п╦я┌п╟я┌п╦ mod я└п╟п╧п╩"
 
 #: Input/mikmod/plugin.c:446
 msgid "MikMod Configuration"
-msgstr "Конф╕гурац╕я MikMod"
+msgstr "п п╬п╫я└я√пЁя┐я─п╟я├я√я▐ MikMod"
 
 #: Input/mikmod/plugin.c:470 Input/mpg123/configure.c:232
 msgid "Resolution:"
-msgstr "Розд╕льн╕сть:"
+msgstr "п═п╬п╥п╢я√п╩я▄п╫я√я│я┌я▄:"
 
 #: Input/mikmod/plugin.c:481 Input/mpg123/configure.c:239
 msgid "16 bit"
-msgstr "16 б╕т"
+msgstr "16 п╠я√я┌"
 
 #: Input/mikmod/plugin.c:489 Input/mpg123/configure.c:245
 msgid "8 bit"
-msgstr "8 б╕т"
+msgstr "8 п╠я√я┌"
 
 #: Input/mikmod/plugin.c:497 Input/mpg123/configure.c:254
 msgid "Channels:"
-msgstr "Канали:"
+msgstr "п п╟п╫п╟п╩п╦:"
 
 #: Input/mikmod/plugin.c:508 Input/mpg123/fileinfo.c:149
 msgid "Stereo"
-msgstr "Стерео"
+msgstr "п║я┌п╣я─п╣п╬"
 
 #: Input/mikmod/plugin.c:516 Input/mpg123/configure.c:268
 msgid "Mono"
-msgstr "Моно"
+msgstr "п°п╬п╫п╬"
 
 #: Input/mikmod/plugin.c:524 Input/mpg123/configure.c:279
 msgid "Down sample:"
-msgstr "Зменшити частоту тактування:"
+msgstr "п≈п╪п╣п╫я┬п╦я┌п╦ я┤п╟я│я┌п╬я┌я┐ я┌п╟п╨я┌я┐п╡п╟п╫п╫я▐:"
 
 #: Input/mikmod/plugin.c:535 Input/mpg123/configure.c:286
 msgid "1:1 (44 kHz)"
-msgstr "1:1 (44 кГц)"
+msgstr "1:1 (44 п╨п⌠я├)"
 
 #: Input/mikmod/plugin.c:544 Input/mpg123/configure.c:292
 msgid "1:2 (22 kHz)"
-msgstr "1:2 (22 кГц)"
+msgstr "1:2 (22 п╨п⌠я├)"
 
 #: Input/mikmod/plugin.c:552 Input/mpg123/configure.c:298
 msgid "1:4 (11 kHz)"
-msgstr "1:4 (11 кГц)"
+msgstr "1:4 (11 п╨п⌠я├)"
 
 #: Input/mikmod/plugin.c:564
 msgid "Look for hidden patterns in modules "
-msgstr "Пошук прихованих в╕зерунк╕в в модулях"
+msgstr "п÷п╬я┬я┐п╨ п©я─п╦я┘п╬п╡п╟п╫п╦я┘ п╡я√п╥п╣я─я┐п╫п╨я√п╡ п╡ п╪п╬п╢я┐п╩я▐я┘"
 
 #: Input/mikmod/plugin.c:571
 msgid "Use surround mixing"
-msgstr "Користуватися м╕кшером поглинання"
+msgstr "п п╬я─п╦я│я┌я┐п╡п╟я┌п╦я│я▐ п╪я√п╨я┬п╣я─п╬п╪ п©п╬пЁп╩п╦п╫п╟п╫п╫я▐"
 
 #: Input/mikmod/plugin.c:578
 msgid "Force volume fade at the end of the module"
-msgstr "Примусове згасання звуку в к╕нц╕ модуля"
+msgstr "п÷я─п╦п╪я┐я│п╬п╡п╣ п╥пЁп╟я│п╟п╫п╫я▐ п╥п╡я┐п╨я┐ п╡ п╨я√п╫я├я√ п╪п╬п╢я┐п╩я▐"
 
 #: Input/mikmod/plugin.c:585
 msgid "Use interpolation"
-msgstr "Використовувати ╕нтерполяц╕ю"
+msgstr "п▓п╦п╨п╬я─п╦я│я┌п╬п╡я┐п╡п╟я┌п╦ я√п╫я┌п╣я─п©п╬п╩я▐я├я√я▌"
 
 #: Input/mikmod/plugin.c:592
 msgid "Default panning separation"
-msgstr "Розд╕л панорами"
+msgstr "п═п╬п╥п╢я√п╩ п©п╟п╫п╬я─п╟п╪п╦"
 
 #: Input/mikmod/plugin.c:604
 msgid "Quality"
-msgstr "Як╕сть"
+msgstr "п╞п╨я√я│я┌я▄"
 
 #: Input/mikmod/plugin.c:609 Input/mpg123/configure.c:332 xmms/prefswin.c:711
 #: xmms/prefswin.c:814
 msgid "Options"
-msgstr "Параметри"
+msgstr "п÷п╟я─п╟п╪п╣я┌я─п╦"
 
 #: Input/mpg123/configure.c:170
 msgid "Select the directory where you want to store the MPEG streams:"
-msgstr "Вибер╕ть директор╕ю для запису поток╕в MPEG:"
+msgstr "п▓п╦п╠п╣я─я√я┌я▄ п╢п╦я─п╣п╨я┌п╬я─я√я▌ п╢п╩я▐ п╥п╟п©п╦я│я┐ п©п╬я┌п╬п╨я√п╡ MPEG:"
 
 #: Input/mpg123/configure.c:215
 msgid "MPG123 Configuration"
-msgstr "Конф╕гурац╕я MPG123"
+msgstr "п п╬п╫я└я√пЁя┐я─п╟я├я√я▐ MPG123"
 
 #: Input/mpg123/configure.c:261
 msgid "Stereo (if available)"
-msgstr "Стерео (якщо присутн╓)"
+msgstr "п║я┌п╣я─п╣п╬ (я▐п╨я┴п╬ п©я─п╦я│я┐я┌п╫я■)"
 
 #: Input/mpg123/configure.c:309
 msgid "Custom"
@@ -673,20 +673,20 @@ msgstr ""
 
 #: Input/mpg123/configure.c:338
 msgid "Detect files by content (instead of file extention)"
-msgstr "Визначати файли за зм╕стом (зам╕сть розширення назви)"
+msgstr "п▓п╦п╥п╫п╟я┤п╟я┌п╦ я└п╟п╧п╩п╦ п╥п╟ п╥п╪я√я│я┌п╬п╪ (п╥п╟п╪я√я│я┌я▄ я─п╬п╥я┬п╦я─п╣п╫п╫я▐ п╫п╟п╥п╡п╦)"
 
 #: Input/mpg123/configure.c:347
 msgid "Decoder"
-msgstr "Декодування"
+msgstr "п■п╣п╨п╬п╢я┐п╡п╟п╫п╫я▐"
 
 #: Input/mpg123/configure.c:351 Output/OSS/configure.c:185
 #: Output/esd/configure.c:138
 msgid "Buffering:"
-msgstr "Буфер:"
+msgstr "п▒я┐я└п╣я─:"
 
 #: Input/mpg123/configure.c:362
 msgid "Buffer size (kb):"
-msgstr "Розм╕р буфера (кбайт):"
+msgstr "п═п╬п╥п╪я√я─ п╠я┐я└п╣я─п╟ (п╨п╠п╟п╧я┌):"
 
 #: Input/mpg123/configure.c:375 Output/OSS/configure.c:209
 #: Output/esd/configure.c:162
@@ -698,20 +698,20 @@ msgstr ""
 #.
 #: Input/mpg123/configure.c:391
 msgid "Proxy:"
-msgstr "Прокс╕:"
+msgstr "п÷я─п╬п╨я│я√:"
 
 #: Input/mpg123/configure.c:399
 msgid "Use proxy"
-msgstr "Користуватися прокс╕"
+msgstr "п п╬я─п╦я│я┌я┐п╡п╟я┌п╦я│я▐ п©я─п╬п╨я│я√"
 
 #: Input/mpg123/configure.c:409 Output/esd/configure.c:95
 #: Output/esd/configure.c:112
 msgid "Host:"
-msgstr "Хост:"
+msgstr "п╔п╬я│я┌:"
 
 #: Input/mpg123/configure.c:418 Output/esd/configure.c:121
 msgid "Port:"
-msgstr "Порт:"
+msgstr "п÷п╬я─я┌:"
 
 #: Input/mpg123/configure.c:432
 msgid "Use authentication"
@@ -719,31 +719,31 @@ msgstr ""
 
 #: Input/mpg123/configure.c:443
 msgid "Username:"
-msgstr "╤м'я користувача:"
+msgstr "п├п╪'я▐ п╨п╬я─п╦я│я┌я┐п╡п╟я┤п╟:"
 
 #: Input/mpg123/configure.c:453
 msgid "Password:"
-msgstr "Пароль:"
+msgstr "п÷п╟я─п╬п╩я▄:"
 
 #.
 #. * Save to disk config.
 #.
 #: Input/mpg123/configure.c:472
 msgid "Save stream to disk:"
-msgstr "Записати пот╕к на диск:"
+msgstr "п≈п╟п©п╦я│п╟я┌п╦ п©п╬я┌я√п╨ п╫п╟ п╢п╦я│п╨:"
 
 #: Input/mpg123/configure.c:480
 msgid "Save stream to disk"
-msgstr "Записати пот╕к на диск"
+msgstr "п≈п╟п©п╦я│п╟я┌п╦ п©п╬я┌я√п╨ п╫п╟ п╢п╦я│п╨"
 
 #: Input/mpg123/configure.c:490 Output/disk_writer/disk_writer.c:332
 msgid "Path:"
-msgstr "Маршрут:"
+msgstr "п°п╟я─я┬я─я┐я┌:"
 
 #: Input/mpg123/configure.c:499 Output/disk_writer/disk_writer.c:343
 #: xmms/prefswin.c:809
 msgid "Browse"
-msgstr "Переглянути"
+msgstr "п÷п╣я─п╣пЁп╩я▐п╫я┐я┌п╦"
 
 #: Input/mpg123/configure.c:508
 msgid "SHOUT/Icecast:"
@@ -755,19 +755,19 @@ msgstr ""
 
 #: Input/mpg123/configure.c:519
 msgid "Streaming"
-msgstr "Пот╕к"
+msgstr "п÷п╬я┌я√п╨"
 
 #: Input/mpg123/configure.c:521
 msgid "ID3 Tags:"
-msgstr "Етикетки ID3"
+msgstr "п∙я┌п╦п╨п╣я┌п╨п╦ ID3"
 
 #: Input/mpg123/configure.c:528
 msgid "Use ID3 tags"
-msgstr "Використовувати етикетки ID3"
+msgstr "п▓п╦п╨п╬я─п╦я│я┌п╬п╡я┐п╡п╟я┌п╦ п╣я┌п╦п╨п╣я┌п╨п╦ ID3"
 
 #: Input/mpg123/configure.c:538
 msgid "ID3 format:"
-msgstr "Формат ID3:"
+msgstr "п╓п╬я─п╪п╟я┌ ID3:"
 
 #: Input/mpg123/configure.c:552
 msgid ""
@@ -777,11 +777,11 @@ msgid ""
 "%7 = File name\n"
 "%9 = File extension"
 msgstr ""
-"%1 = Виконавець\n"
-"%3 = Альбом\n"
-"%5 = Коментар\n"
-"%7 = Назва файлу\n"
-"%9 = Розширення файлу"
+"%1 = п▓п╦п╨п╬п╫п╟п╡п╣я├я▄\n"
+"%3 = п░п╩я▄п╠п╬п╪\n"
+"%5 = п п╬п╪п╣п╫я┌п╟я─\n"
+"%7 = п²п╟п╥п╡п╟ я└п╟п╧п╩я┐\n"
+"%9 = п═п╬п╥я┬п╦я─п╣п╫п╫я▐ я└п╟п╧п╩я┐"
 
 #: Input/mpg123/configure.c:558
 msgid ""
@@ -790,19 +790,19 @@ msgid ""
 "%6 = Genre\n"
 "%8 = Path"
 msgstr ""
-"%2 = Назва\n"
-"%4 = Р╕к\n"
-"%6 = Жанр\n"
-"%8 = Маршрут"
+"%2 = п²п╟п╥п╡п╟\n"
+"%4 = п═я√п╨\n"
+"%6 = п√п╟п╫я─\n"
+"%8 = п°п╟я─я┬я─я┐я┌"
 
 #: Input/mpg123/configure.c:566
 msgid "Title"
-msgstr "Заголовок"
+msgstr "п≈п╟пЁп╬п╩п╬п╡п╬п╨"
 
 #: Input/mpg123/fileinfo.c:35 xmms/about.c:120 xmms/equalizer.c:1279
 #: xmms/equalizer.c:1283 xmms/main.c:1407 xmms/skinwin.c:88
 msgid "Close"
-msgstr "Закрити"
+msgstr "п≈п╟п╨я─п╦я┌п╦"
 
 #: Input/mpg123/fileinfo.c:109 Input/mpg123/fileinfo.c:114
 msgid ""
@@ -810,13 +810,13 @@ msgid ""
 "    Couldn't write tag!    \n"
 msgstr ""
 "\n"
-"Не можу запитати етикетку!    \n"
+"п²п╣ п╪п╬п╤я┐ п╥п╟п©п╦я┌п╟я┌п╦ п╣я┌п╦п╨п╣я┌п╨я┐!    \n"
 
 #: Input/mpg123/fileinfo.c:109 Input/mpg123/fileinfo.c:114
 #: Input/mpg123/fileinfo.c:131 Input/mpg123/fileinfo.c:134
 #: Input/mpg123/fileinfo.c:138
 msgid "File Info"
-msgstr "╤нформац╕я про файл"
+msgstr "п├п╫я└п╬я─п╪п╟я├я√я▐ п©я─п╬ я└п╟п╧п╩"
 
 #: Input/mpg123/fileinfo.c:131 Input/mpg123/fileinfo.c:138
 msgid ""
@@ -824,7 +824,7 @@ msgid ""
 "    Couldn't remove tag!    \n"
 msgstr ""
 "\n"
-"    Не можу стерти етикетку!      \n"
+"    п²п╣ п╪п╬п╤я┐ я│я┌п╣я─я┌п╦ п╣я┌п╦п╨п╣я┌п╨я┐!      \n"
 
 #: Input/mpg123/fileinfo.c:134
 msgid ""
@@ -832,11 +832,11 @@ msgid ""
 "    No tag to remove!    \n"
 msgstr ""
 "\n"
-"    Нема╓ етикетки для стирання!    \n"
+"    п²п╣п╪п╟я■ п╣я┌п╦п╨п╣я┌п╨п╦ п╢п╩я▐ я│я┌п╦я─п╟п╫п╫я▐!    \n"
 
 #: Input/mpg123/fileinfo.c:148
 msgid "50/15 ms"
-msgstr "50/15 мс"
+msgstr "50/15 п╪я│"
 
 #: Input/mpg123/fileinfo.c:148
 msgid "CCIT J.17"
@@ -844,72 +844,72 @@ msgstr ""
 
 #: Input/mpg123/fileinfo.c:148
 msgid "None"
-msgstr "Н╕чого"
+msgstr "п²я√я┤п╬пЁп╬"
 
 #: Input/mpg123/fileinfo.c:149
 msgid "Dual channel"
-msgstr "Подв╕йний канал"
+msgstr "п÷п╬п╢п╡я√п╧п╫п╦п╧ п╨п╟п╫п╟п╩"
 
 #: Input/mpg123/fileinfo.c:149
 msgid "Joint stereo"
-msgstr "Об'╓днане стерео"
+msgstr "п·п╠'я■п╢п╫п╟п╫п╣ я│я┌п╣я─п╣п╬"
 
 #: Input/mpg123/fileinfo.c:149
 msgid "Single channel"
-msgstr "Одинарний канал"
+msgstr "п·п╢п╦п╫п╟я─п╫п╦п╧ п╨п╟п╫п╟п╩"
 
 #: Input/mpg123/fileinfo.c:150
 msgid "No"
-msgstr "Н╕"
+msgstr "п²я√"
 
 #: Input/mpg123/fileinfo.c:150
 msgid "Yes"
-msgstr "Так"
+msgstr "п╒п╟п╨"
 
 #: Input/mpg123/fileinfo.c:181
 msgid "ID3 Tag:"
-msgstr "Етикетка ID3:"
+msgstr "п∙я┌п╦п╨п╣я┌п╨п╟ ID3:"
 
 #: Input/mpg123/fileinfo.c:188
 msgid "Title:"
-msgstr "Заголовок:"
+msgstr "п≈п╟пЁп╬п╩п╬п╡п╬п╨:"
 
 #: Input/mpg123/fileinfo.c:197
 msgid "Artist:"
-msgstr "Виконавець:"
+msgstr "п▓п╦п╨п╬п╫п╟п╡п╣я├я▄:"
 
 #: Input/mpg123/fileinfo.c:206
 msgid "Album:"
-msgstr "Альбом:"
+msgstr "п░п╩я▄п╠п╬п╪:"
 
 #: Input/mpg123/fileinfo.c:215
 msgid "Comment:"
-msgstr "Коментар:"
+msgstr "п п╬п╪п╣п╫я┌п╟я─:"
 
 #: Input/mpg123/fileinfo.c:224
 msgid "Year:"
-msgstr "Р╕к:"
+msgstr "п═я√п╨:"
 
 #: Input/mpg123/fileinfo.c:234
 msgid "Genre:"
-msgstr "Жанр:"
+msgstr "п√п╟п╫я─:"
 
 #: Input/mpg123/fileinfo.c:261
 msgid "Save"
-msgstr "Записати"
+msgstr "п≈п╟п©п╦я│п╟я┌п╦"
 
 #: Input/mpg123/fileinfo.c:268
 msgid "Remove ID3"
-msgstr "Стерти ID3"
+msgstr "п║я┌п╣я─я┌п╦ ID3"
 
 #: Input/mpg123/fileinfo.c:280
 msgid "MPEG Info:"
-msgstr "╤нформац╕я MPEG:"
+msgstr "п├п╫я└п╬я─п╪п╟я├я√я▐ MPEG:"
 
 #: Input/mpg123/fileinfo.c:337
 #, c-format
 msgid "File Info - %s"
-msgstr "╤нформац╕я про файл - %s"
+msgstr "п├п╫я└п╬я─п╪п╟я├я√я▐ п©я─п╬ я└п╟п╧п╩ - %s"
 
 #: Input/mpg123/fileinfo.c:420
 #, c-format
@@ -938,10 +938,10 @@ msgid ""
 "Emphasis: %s"
 msgstr ""
 "%s\n"
-"Захист в╕д помилок: %s\n"
-"Авторськ╕ права: %s\n"
-"Ориг╕нал: %s\n"
-"Наголос: %s"
+"п≈п╟я┘п╦я│я┌ п╡я√п╢ п©п╬п╪п╦п╩п╬п╨: %s\n"
+"п░п╡я┌п╬я─я│я▄п╨я√ п©я─п╟п╡п╟: %s\n"
+"п·я─п╦пЁя√п╫п╟п╩: %s\n"
+"п²п╟пЁп╬п╩п╬я│: %s"
 
 #: Input/mpg123/fileinfo.c:432
 #, c-format
@@ -949,36 +949,36 @@ msgid ""
 "%d frames\n"
 "Filesize: %lu B"
 msgstr ""
-"%d рамки\n"
-"Розм╕р файлу: %lu б"
+"%d я─п╟п╪п╨п╦\n"
+"п═п╬п╥п╪я√я─ я└п╟п╧п╩я┐: %lu п╠"
 
 #: Input/mpg123/http.c:205 Output/disk_writer/disk_writer.c:125
 msgid "Error"
-msgstr "Помилка"
+msgstr "п÷п╬п╪п╦п╩п╨п╟"
 
 #: Input/mpg123/http.c:351
 #, c-format
 msgid "LOOKING UP %s"
-msgstr "ШУКАЮ %s"
+msgstr "п╗пёп п░п╝ %s"
 
 #: Input/mpg123/http.c:357
 #, c-format
 msgid "Couldn't look up host %s"
-msgstr "Не можу знайти хост %s"
+msgstr "п²п╣ п╪п╬п╤я┐ п╥п╫п╟п╧я┌п╦ я┘п╬я│я┌ %s"
 
 #: Input/mpg123/http.c:370
 #, c-format
 msgid "CONNECTING TO %s:%d"
-msgstr "З'╢ДНУЮСЬ З %s:%d"
+msgstr "п≈'п└п■п²пёп╝п║п╛ п≈ %s:%d"
 
 #: Input/mpg123/http.c:377 Input/mpg123/http.c:397
 #, c-format
 msgid "Couldn't connect to host %s"
-msgstr "Не можу п╕дключитись до хосту %s"
+msgstr "п²п╣ п╪п╬п╤я┐ п©я√п╢п╨п╩я▌я┤п╦я┌п╦я│я▄ п╢п╬ я┘п╬я│я┌я┐ %s"
 
 #: Input/mpg123/http.c:444
 msgid "CONNECTED: WAITING FOR REPLY"
-msgstr "З'╢ДНАНО: ЧЕКАЮ НА В╤ДПОВ╤ДЬ"
+msgstr "п≈'п└п■п²п░п²п·: п╖п∙п п░п╝ п²п░ п▓п├п■п÷п·п▓п├п■п╛"
 
 #: Input/mpg123/http.c:458
 #, c-format
@@ -986,38 +986,38 @@ msgid ""
 "Couldn't connect to host %s\n"
 "Server reported: %s"
 msgstr ""
-"Не можу п╕дключитись до хоста %s\n"
-"Сервер пов╕домив: %s"
+"п²п╣ п╪п╬п╤я┐ п©я√п╢п╨п╩я▌я┤п╦я┌п╦я│я▄ п╢п╬ я┘п╬я│я┌п╟ %s\n"
+"п║п╣я─п╡п╣я─ п©п╬п╡я√п╢п╬п╪п╦п╡: %s"
 
 #: Input/mpg123/http.c:554
 #, c-format
 msgid "PRE-BUFFERING: %dKB/%dKB"
-msgstr "ПРЕ-БУФЕР: %dкб/%dкб"
+msgstr "п÷п═п∙-п▒пёп╓п∙п═: %dп╨п╠/%dп╨п╠"
 
 #: Input/mpg123/id3_frame_content.c:38 Input/mpg123/mpg123.c:28
 msgid "Blues"
-msgstr "Блюз"
+msgstr "п▒п╩я▌п╥"
 
 #: Input/mpg123/id3_frame_content.c:39 Input/mpg123/mpg123.c:28
 msgid "Classic Rock"
-msgstr "Класичний рок"
+msgstr "п п╩п╟я│п╦я┤п╫п╦п╧ я─п╬п╨"
 
 #: Input/mpg123/id3_frame_content.c:40 Input/mpg123/mpg123.c:28
 msgid "Country"
-msgstr "Кантр╕"
+msgstr "п п╟п╫я┌я─я√"
 
 # local translation
 #: Input/mpg123/id3_frame_content.c:41 Input/mpg123/mpg123.c:28
 msgid "Dance"
-msgstr "Танцювальна"
+msgstr "п╒п╟п╫я├я▌п╡п╟п╩я▄п╫п╟"
 
 #: Input/mpg123/id3_frame_content.c:42 Input/mpg123/mpg123.c:29
 msgid "Disco"
-msgstr "Диско"
+msgstr "п■п╦я│п╨п╬"
 
 #: Input/mpg123/id3_frame_content.c:43 Input/mpg123/mpg123.c:29
 msgid "Funk"
-msgstr "Фанк"
+msgstr "п╓п╟п╫п╨"
 
 #: Input/mpg123/id3_frame_content.c:44 Input/mpg123/mpg123.c:29
 msgid "Grunge"
@@ -1025,15 +1025,15 @@ msgstr ""
 
 #: Input/mpg123/id3_frame_content.c:45 Input/mpg123/mpg123.c:29
 msgid "Hip-Hop"
-msgstr "Х╕п-хоп"
+msgstr "п╔я√п©-я┘п╬п©"
 
 #: Input/mpg123/id3_frame_content.c:46 Input/mpg123/mpg123.c:30
 msgid "Jazz"
-msgstr "Джаз"
+msgstr "п■п╤п╟п╥"
 
 #: Input/mpg123/id3_frame_content.c:47 Input/mpg123/mpg123.c:30
 msgid "Metal"
-msgstr "Метал"
+msgstr "п°п╣я┌п╟п╩"
 
 #: Input/mpg123/id3_frame_content.c:48 Input/mpg123/mpg123.c:30
 msgid "New Age"
@@ -1041,47 +1041,47 @@ msgstr ""
 
 #: Input/mpg123/id3_frame_content.c:49 Input/mpg123/mpg123.c:30
 msgid "Oldies"
-msgstr "Стар╕"
+msgstr "п║я┌п╟я─я√"
 
 #: Input/mpg123/id3_frame_content.c:50 Input/mpg123/mpg123.c:31
 msgid "Other"
-msgstr "╤нш╕"
+msgstr "п├п╫я┬я√"
 
 #: Input/mpg123/id3_frame_content.c:51 Input/mpg123/mpg123.c:31
 msgid "Pop"
-msgstr "Поп"
+msgstr "п÷п╬п©"
 
 #: Input/mpg123/id3_frame_content.c:52 Input/mpg123/mpg123.c:31
 msgid "R&B"
-msgstr "Ритм-н-блюз"
+msgstr "п═п╦я┌п╪-п╫-п╠п╩я▌п╥"
 
 #: Input/mpg123/id3_frame_content.c:53 Input/mpg123/mpg123.c:31
 msgid "Rap"
-msgstr "Реп"
+msgstr "п═п╣п©"
 
 #: Input/mpg123/id3_frame_content.c:54 Input/mpg123/mpg123.c:31
 msgid "Reggae"
-msgstr "Ре╜╜╕"
+msgstr "п═п╣р▒р▒я√"
 
 #: Input/mpg123/id3_frame_content.c:55 Input/mpg123/mpg123.c:32
 msgid "Rock"
-msgstr "Рок"
+msgstr "п═п╬п╨"
 
 #: Input/mpg123/id3_frame_content.c:56 Input/mpg123/mpg123.c:32
 msgid "Techno"
-msgstr "Техно"
+msgstr "п╒п╣я┘п╫п╬"
 
 #: Input/mpg123/id3_frame_content.c:57 Input/mpg123/mpg123.c:32
 msgid "Industrial"
-msgstr "╤ндустр╕альний"
+msgstr "п├п╫п╢я┐я│я┌я─я√п╟п╩я▄п╫п╦п╧"
 
 #: Input/mpg123/id3_frame_content.c:58 Input/mpg123/mpg123.c:32
 msgid "Alternative"
-msgstr "Альтернативна"
+msgstr "п░п╩я▄я┌п╣я─п╫п╟я┌п╦п╡п╫п╟"
 
 #: Input/mpg123/id3_frame_content.c:59 Input/mpg123/mpg123.c:33
 msgid "Ska"
-msgstr "Ска"
+msgstr "п║п╨п╟"
 
 #: Input/mpg123/id3_frame_content.c:60 Input/mpg123/mpg123.c:33
 msgid "Death Metal"
@@ -1093,7 +1093,7 @@ msgstr ""
 
 #: Input/mpg123/id3_frame_content.c:62 Input/mpg123/mpg123.c:33
 msgid "Soundtrack"
-msgstr "Звукова дор╕жка"
+msgstr "п≈п╡я┐п╨п╬п╡п╟ п╢п╬я─я√п╤п╨п╟"
 
 #: Input/mpg123/id3_frame_content.c:63 Input/mpg123/mpg123.c:34
 msgid "Euro-Techno"
@@ -1109,27 +1109,27 @@ msgstr ""
 
 #: Input/mpg123/id3_frame_content.c:66 Input/mpg123/mpg123.c:34
 msgid "Vocal"
-msgstr "Вокал"
+msgstr "п▓п╬п╨п╟п╩"
 
 #: Input/mpg123/id3_frame_content.c:67 Input/mpg123/mpg123.c:35
 msgid "Jazz+Funk"
-msgstr "Джаз+Фанк"
+msgstr "п■п╤п╟п╥+п╓п╟п╫п╨"
 
 #: Input/mpg123/id3_frame_content.c:68 Input/mpg123/mpg123.c:35
 msgid "Fusion"
-msgstr "Ф'южн"
+msgstr "п╓'я▌п╤п╫"
 
 #: Input/mpg123/id3_frame_content.c:69 Input/mpg123/mpg123.c:35
 msgid "Trance"
-msgstr "Транс"
+msgstr "п╒я─п╟п╫я│"
 
 #: Input/mpg123/id3_frame_content.c:70 Input/mpg123/mpg123.c:35
 msgid "Classical"
-msgstr "Класична"
+msgstr "п п╩п╟я│п╦я┤п╫п╟"
 
 #: Input/mpg123/id3_frame_content.c:71 Input/mpg123/mpg123.c:36
 msgid "Instrumental"
-msgstr "╤нструментальна"
+msgstr "п├п╫я│я┌я─я┐п╪п╣п╫я┌п╟п╩я▄п╫п╟"
 
 #: Input/mpg123/id3_frame_content.c:72 Input/mpg123/mpg123.c:36
 msgid "Acid"
@@ -1141,75 +1141,75 @@ msgstr ""
 
 #: Input/mpg123/id3_frame_content.c:74 Input/mpg123/mpg123.c:36
 msgid "Game"
-msgstr "Гра"
+msgstr "п⌠я─п╟"
 
 #: Input/mpg123/id3_frame_content.c:75 Input/mpg123/mpg123.c:37
 msgid "Sound Clip"
-msgstr "Звуковий кл╕п"
+msgstr "п≈п╡я┐п╨п╬п╡п╦п╧ п╨п╩я√п©"
 
 #: Input/mpg123/id3_frame_content.c:76 Input/mpg123/mpg123.c:37
 msgid "Gospel"
-msgstr "Псалм"
+msgstr "п÷я│п╟п╩п╪"
 
 #: Input/mpg123/id3_frame_content.c:77 Input/mpg123/mpg123.c:37
 msgid "Noise"
-msgstr "Шум"
+msgstr "п╗я┐п╪"
 
 #: Input/mpg123/id3_frame_content.c:78
 msgid "AlternRock"
-msgstr "Альтернативний рок"
+msgstr "п░п╩я▄я┌п╣я─п╫п╟я┌п╦п╡п╫п╦п╧ я─п╬п╨"
 
 #: Input/mpg123/id3_frame_content.c:79 Input/mpg123/mpg123.c:38
 msgid "Bass"
-msgstr "Бас"
+msgstr "п▒п╟я│"
 
 #: Input/mpg123/id3_frame_content.c:80 Input/mpg123/mpg123.c:38
 msgid "Soul"
-msgstr "Соул"
+msgstr "п║п╬я┐п╩"
 
 #: Input/mpg123/id3_frame_content.c:81 Input/mpg123/mpg123.c:38
 msgid "Punk"
-msgstr "Панк"
+msgstr "п÷п╟п╫п╨"
 
 #: Input/mpg123/id3_frame_content.c:82 Input/mpg123/mpg123.c:38
 msgid "Space"
-msgstr "Косм╕чна"
+msgstr "п п╬я│п╪я√я┤п╫п╟"
 
 #: Input/mpg123/id3_frame_content.c:83 Input/mpg123/mpg123.c:39
 msgid "Meditative"
-msgstr "Медитац╕я"
+msgstr "п°п╣п╢п╦я┌п╟я├я√я▐"
 
 #: Input/mpg123/id3_frame_content.c:84 Input/mpg123/mpg123.c:39
 msgid "Instrumental Pop"
-msgstr "╤нструментальний поп"
+msgstr "п├п╫я│я┌я─я┐п╪п╣п╫я┌п╟п╩я▄п╫п╦п╧ п©п╬п©"
 
 #: Input/mpg123/id3_frame_content.c:85 Input/mpg123/mpg123.c:40
 msgid "Instrumental Rock"
-msgstr "╤нструментальний рок"
+msgstr "п├п╫я│я┌я─я┐п╪п╣п╫я┌п╟п╩я▄п╫п╦п╧ я─п╬п╨"
 
 #: Input/mpg123/id3_frame_content.c:86 Input/mpg123/mpg123.c:40
 msgid "Ethnic"
-msgstr "Етн╕чна"
+msgstr "п∙я┌п╫я√я┤п╫п╟"
 
 #: Input/mpg123/id3_frame_content.c:87 Input/mpg123/mpg123.c:40
 msgid "Gothic"
-msgstr "Готична"
+msgstr "п⌠п╬я┌п╦я┤п╫п╟"
 
 #: Input/mpg123/id3_frame_content.c:88 Input/mpg123/mpg123.c:41
 msgid "Darkwave"
-msgstr "Чорна хвиля"
+msgstr "п╖п╬я─п╫п╟ я┘п╡п╦п╩я▐"
 
 #: Input/mpg123/id3_frame_content.c:89 Input/mpg123/mpg123.c:41
 msgid "Techno-Industrial"
-msgstr "Техно-╕ндустр╕альна"
+msgstr "п╒п╣я┘п╫п╬-я√п╫п╢я┐я│я┌я─я√п╟п╩я▄п╫п╟"
 
 #: Input/mpg123/id3_frame_content.c:90 Input/mpg123/mpg123.c:41
 msgid "Electronic"
-msgstr "Електронна"
+msgstr "п∙п╩п╣п╨я┌я─п╬п╫п╫п╟"
 
 #: Input/mpg123/id3_frame_content.c:91 Input/mpg123/mpg123.c:42
 msgid "Pop-Folk"
-msgstr "Поп-фолк"
+msgstr "п÷п╬п©-я└п╬п╩п╨"
 
 #: Input/mpg123/id3_frame_content.c:92 Input/mpg123/mpg123.c:42
 msgid "Eurodance"
@@ -1221,15 +1221,15 @@ msgstr ""
 
 #: Input/mpg123/id3_frame_content.c:94 Input/mpg123/mpg123.c:43
 msgid "Southern Rock"
-msgstr "П╕вденний рок"
+msgstr "п÷я√п╡п╢п╣п╫п╫п╦п╧ я─п╬п╨"
 
 #: Input/mpg123/id3_frame_content.c:95 Input/mpg123/mpg123.c:43
 msgid "Comedy"
-msgstr "Комед╕йна"
+msgstr "п п╬п╪п╣п╢я√п╧п╫п╟"
 
 #: Input/mpg123/id3_frame_content.c:96 Input/mpg123/mpg123.c:43
 msgid "Cult"
-msgstr "Культова"
+msgstr "п я┐п╩я▄я┌п╬п╡п╟"
 
 #: Input/mpg123/id3_frame_content.c:97
 msgid "Gangsta"
@@ -1241,15 +1241,15 @@ msgstr ""
 
 #: Input/mpg123/id3_frame_content.c:99 Input/mpg123/mpg123.c:44
 msgid "Christian Rap"
-msgstr "Християнський реп"
+msgstr "п╔я─п╦я│я┌п╦я▐п╫я│я▄п╨п╦п╧ я─п╣п©"
 
 #: Input/mpg123/id3_frame_content.c:100 Input/mpg123/mpg123.c:45
 msgid "Pop/Funk"
-msgstr "Поп/фанк"
+msgstr "п÷п╬п©/я└п╟п╫п╨"
 
 #: Input/mpg123/id3_frame_content.c:101 Input/mpg123/mpg123.c:45
 msgid "Jungle"
-msgstr "Джангл"
+msgstr "п■п╤п╟п╫пЁп╩"
 
 #: Input/mpg123/id3_frame_content.c:102 Input/mpg123/mpg123.c:45
 msgid "Native American"
@@ -1257,15 +1257,15 @@ msgstr ""
 
 #: Input/mpg123/id3_frame_content.c:103 Input/mpg123/mpg123.c:46
 msgid "Cabaret"
-msgstr "Кабаре"
+msgstr "п п╟п╠п╟я─п╣"
 
 #: Input/mpg123/id3_frame_content.c:104 Input/mpg123/mpg123.c:46
 msgid "New Wave"
-msgstr "Нова хвиля"
+msgstr "п²п╬п╡п╟ я┘п╡п╦п╩я▐"
 
 #: Input/mpg123/id3_frame_content.c:105
 msgid "Psychadelic"
-msgstr "Психодел╕чна"
+msgstr "п÷я│п╦я┘п╬п╢п╣п╩я√я┤п╫п╟"
 
 #: Input/mpg123/id3_frame_content.c:106 Input/mpg123/mpg123.c:46
 msgid "Rave"
@@ -1285,7 +1285,7 @@ msgstr ""
 
 #: Input/mpg123/id3_frame_content.c:110 Input/mpg123/mpg123.c:47
 msgid "Tribal"
-msgstr "Плем╕нна"
+msgstr "п÷п╩п╣п╪я√п╫п╫п╟"
 
 #: Input/mpg123/id3_frame_content.c:111 Input/mpg123/mpg123.c:48
 msgid "Acid Punk"
@@ -1297,51 +1297,51 @@ msgstr ""
 
 #: Input/mpg123/id3_frame_content.c:113 Input/mpg123/mpg123.c:48
 msgid "Polka"
-msgstr "Полька"
+msgstr "п÷п╬п╩я▄п╨п╟"
 
 #: Input/mpg123/id3_frame_content.c:114 Input/mpg123/mpg123.c:48
 msgid "Retro"
-msgstr "Ретро"
+msgstr "п═п╣я┌я─п╬"
 
 #: Input/mpg123/id3_frame_content.c:115 Input/mpg123/mpg123.c:49
 msgid "Musical"
-msgstr "Мюз╕кл"
+msgstr "п°я▌п╥я√п╨п╩"
 
 #: Input/mpg123/id3_frame_content.c:116 Input/mpg123/mpg123.c:49
 msgid "Rock & Roll"
-msgstr "Рок-н-ролл"
+msgstr "п═п╬п╨-п╫-я─п╬п╩п╩"
 
 #: Input/mpg123/id3_frame_content.c:117 Input/mpg123/mpg123.c:49
 msgid "Hard Rock"
-msgstr "Важкий рок"
+msgstr "п▓п╟п╤п╨п╦п╧ я─п╬п╨"
 
 #: Input/mpg123/id3_frame_content.c:118 Input/mpg123/mpg123.c:49
 msgid "Folk"
-msgstr "Народна"
+msgstr "п²п╟я─п╬п╢п╫п╟"
 
 #: Input/mpg123/id3_frame_content.c:119
 msgid "Folk-Rock"
-msgstr "Фолк-рок"
+msgstr "п╓п╬п╩п╨-я─п╬п╨"
 
 #: Input/mpg123/id3_frame_content.c:120 Input/mpg123/mpg123.c:50
 msgid "National Folk"
-msgstr "Нац╕ональна народна"
+msgstr "п²п╟я├я√п╬п╫п╟п╩я▄п╫п╟ п╫п╟я─п╬п╢п╫п╟"
 
 #: Input/mpg123/id3_frame_content.c:121 Input/mpg123/mpg123.c:50
 msgid "Swing"
-msgstr "Св╕н╜"
+msgstr "п║п╡я√п╫р▒"
 
 #: Input/mpg123/id3_frame_content.c:122
 msgid "Fast Fusion"
-msgstr "Швидкий фьюжн"
+msgstr "п╗п╡п╦п╢п╨п╦п╧ я└я▄я▌п╤п╫"
 
 #: Input/mpg123/id3_frame_content.c:123 Input/mpg123/mpg123.c:51
 msgid "Bebob"
-msgstr "Б╕боп"
+msgstr "п▒я√п╠п╬п©"
 
 #: Input/mpg123/id3_frame_content.c:124 Input/mpg123/mpg123.c:51
 msgid "Latin"
-msgstr "Латинська"
+msgstr "п⌡п╟я┌п╦п╫я│я▄п╨п╟"
 
 #: Input/mpg123/id3_frame_content.c:125 Input/mpg123/mpg123.c:51
 msgid "Revival"
@@ -1349,7 +1349,7 @@ msgstr ""
 
 #: Input/mpg123/id3_frame_content.c:126 Input/mpg123/mpg123.c:52
 msgid "Celtic"
-msgstr "Кельтська"
+msgstr "п п╣п╩я▄я┌я│я▄п╨п╟"
 
 #: Input/mpg123/id3_frame_content.c:127 Input/mpg123/mpg123.c:52
 msgid "Bluegrass"
@@ -1357,35 +1357,35 @@ msgstr ""
 
 #: Input/mpg123/id3_frame_content.c:128 Input/mpg123/mpg123.c:52
 msgid "Avantgarde"
-msgstr "Авангард"
+msgstr "п░п╡п╟п╫пЁп╟я─п╢"
 
 #: Input/mpg123/id3_frame_content.c:129 Input/mpg123/mpg123.c:53
 msgid "Gothic Rock"
-msgstr "Готичний рок"
+msgstr "п⌠п╬я┌п╦я┤п╫п╦п╧ я─п╬п╨"
 
 #: Input/mpg123/id3_frame_content.c:130 Input/mpg123/mpg123.c:53
 msgid "Progressive Rock"
-msgstr "Прогресивний рок"
+msgstr "п÷я─п╬пЁя─п╣я│п╦п╡п╫п╦п╧ я─п╬п╨"
 
 #: Input/mpg123/id3_frame_content.c:131 Input/mpg123/mpg123.c:54
 msgid "Psychedelic Rock"
-msgstr "Психодел╕чний рок"
+msgstr "п÷я│п╦я┘п╬п╢п╣п╩я√я┤п╫п╦п╧ я─п╬п╨"
 
 #: Input/mpg123/id3_frame_content.c:132 Input/mpg123/mpg123.c:54
 msgid "Symphonic Rock"
-msgstr "Симфо-рок"
+msgstr "п║п╦п╪я└п╬-я─п╬п╨"
 
 #: Input/mpg123/id3_frame_content.c:133 Input/mpg123/mpg123.c:54
 msgid "Slow Rock"
-msgstr "Пов╕льний рок"
+msgstr "п÷п╬п╡я√п╩я▄п╫п╦п╧ я─п╬п╨"
 
 #: Input/mpg123/id3_frame_content.c:134 Input/mpg123/mpg123.c:55
 msgid "Big Band"
-msgstr "Б╕╜-бенд"
+msgstr "п▒я√р▒-п╠п╣п╫п╢"
 
 #: Input/mpg123/id3_frame_content.c:135 Input/mpg123/mpg123.c:55
 msgid "Chorus"
-msgstr "Хор"
+msgstr "п╔п╬я─"
 
 #: Input/mpg123/id3_frame_content.c:136 Input/mpg123/mpg123.c:55
 msgid "Easy Listening"
@@ -1393,35 +1393,35 @@ msgstr ""
 
 #: Input/mpg123/id3_frame_content.c:137 Input/mpg123/mpg123.c:56
 msgid "Acoustic"
-msgstr "Акустична"
+msgstr "п░п╨я┐я│я┌п╦я┤п╫п╟"
 
 #: Input/mpg123/id3_frame_content.c:138 Input/mpg123/mpg123.c:56
 msgid "Humour"
-msgstr "Гумор"
+msgstr "п⌠я┐п╪п╬я─"
 
 #: Input/mpg123/id3_frame_content.c:139 Input/mpg123/mpg123.c:56
 msgid "Speech"
-msgstr "Промова"
+msgstr "п÷я─п╬п╪п╬п╡п╟"
 
 #: Input/mpg123/id3_frame_content.c:140 Input/mpg123/mpg123.c:56
 msgid "Chanson"
-msgstr "Шансон"
+msgstr "п╗п╟п╫я│п╬п╫"
 
 #: Input/mpg123/id3_frame_content.c:141 Input/mpg123/mpg123.c:57
 msgid "Opera"
-msgstr "Опера"
+msgstr "п·п©п╣я─п╟"
 
 #: Input/mpg123/id3_frame_content.c:142 Input/mpg123/mpg123.c:57
 msgid "Chamber Music"
-msgstr "Камерна музика"
+msgstr "п п╟п╪п╣я─п╫п╟ п╪я┐п╥п╦п╨п╟"
 
 #: Input/mpg123/id3_frame_content.c:143 Input/mpg123/mpg123.c:57
 msgid "Sonata"
-msgstr "Соната"
+msgstr "п║п╬п╫п╟я┌п╟"
 
 #: Input/mpg123/id3_frame_content.c:144 Input/mpg123/mpg123.c:57
 msgid "Symphony"
-msgstr "Симфон╕я"
+msgstr "п║п╦п╪я└п╬п╫я√я▐"
 
 #: Input/mpg123/id3_frame_content.c:145 Input/mpg123/mpg123.c:58
 msgid "Booty Bass"
@@ -1437,31 +1437,31 @@ msgstr ""
 
 #: Input/mpg123/id3_frame_content.c:148 Input/mpg123/mpg123.c:59
 msgid "Satire"
-msgstr "Сатира"
+msgstr "п║п╟я┌п╦я─п╟"
 
 #: Input/mpg123/id3_frame_content.c:149 Input/mpg123/mpg123.c:59
 msgid "Slow Jam"
-msgstr "Пов╕льний джем"
+msgstr "п÷п╬п╡я√п╩я▄п╫п╦п╧ п╢п╤п╣п╪"
 
 #: Input/mpg123/id3_frame_content.c:150 Input/mpg123/mpg123.c:59
 msgid "Club"
-msgstr "Клубна"
+msgstr "п п╩я┐п╠п╫п╟"
 
 #: Input/mpg123/id3_frame_content.c:151 Input/mpg123/mpg123.c:59
 msgid "Tango"
-msgstr "Тан╜о"
+msgstr "п╒п╟п╫р▒п╬"
 
 #: Input/mpg123/id3_frame_content.c:152 Input/mpg123/mpg123.c:60
 msgid "Samba"
-msgstr "Самба"
+msgstr "п║п╟п╪п╠п╟"
 
 #: Input/mpg123/id3_frame_content.c:153 Input/mpg123/mpg123.c:60
 msgid "Folklore"
-msgstr "Фольклор"
+msgstr "п╓п╬п╩я▄п╨п╩п╬я─"
 
 #: Input/mpg123/id3_frame_content.c:154 Input/mpg123/mpg123.c:60
 msgid "Ballad"
-msgstr "Балада"
+msgstr "п▒п╟п╩п╟п╢п╟"
 
 #: Input/mpg123/id3_frame_content.c:155 Input/mpg123/mpg123.c:60
 msgid "Power Ballad"
@@ -1469,27 +1469,27 @@ msgstr ""
 
 #: Input/mpg123/id3_frame_content.c:156 Input/mpg123/mpg123.c:61
 msgid "Rhythmic Soul"
-msgstr "Ритм╕чний соул"
+msgstr "п═п╦я┌п╪я√я┤п╫п╦п╧ я│п╬я┐п╩"
 
 #: Input/mpg123/id3_frame_content.c:157 Input/mpg123/mpg123.c:61
 msgid "Freestyle"
-msgstr "В╕льний стиль"
+msgstr "п▓я√п╩я▄п╫п╦п╧ я│я┌п╦п╩я▄"
 
 #: Input/mpg123/id3_frame_content.c:158 Input/mpg123/mpg123.c:61
 msgid "Duet"
-msgstr "Дует"
+msgstr "п■я┐п╣я┌"
 
 #: Input/mpg123/id3_frame_content.c:159 Input/mpg123/mpg123.c:62
 msgid "Punk Rock"
-msgstr "Панк рок"
+msgstr "п÷п╟п╫п╨ я─п╬п╨"
 
 #: Input/mpg123/id3_frame_content.c:160 Input/mpg123/mpg123.c:62
 msgid "Drum Solo"
-msgstr "Соло на ударних"
+msgstr "п║п╬п╩п╬ п╫п╟ я┐п╢п╟я─п╫п╦я┘"
 
 #: Input/mpg123/id3_frame_content.c:161
 msgid "Acapella"
-msgstr "Акапелла"
+msgstr "п░п╨п╟п©п╣п╩п╩п╟"
 
 #: Input/mpg123/id3_frame_content.c:162 Input/mpg123/mpg123.c:63
 msgid "Euro-House"
@@ -1525,19 +1525,19 @@ msgstr ""
 
 #: Input/mpg123/mpg123.c:46
 msgid "Psychedelic"
-msgstr "Психодел╕чна"
+msgstr "п÷я│п╦я┘п╬п╢п╣п╩я√я┤п╫п╟"
 
 #: Input/mpg123/mpg123.c:50
 msgid "Folk/Rock"
-msgstr "Фолк-рок"
+msgstr "п╓п╬п╩п╨-я─п╬п╨"
 
 #: Input/mpg123/mpg123.c:51
 msgid "Fast-Fusion"
-msgstr "Швидкий фьюжн"
+msgstr "п╗п╡п╦п╢п╨п╦п╧ я└я▄я▌п╤п╫"
 
 #: Input/mpg123/mpg123.c:62
 msgid "A Cappella"
-msgstr "Акапелла"
+msgstr "п░п╨п╟п©п╣п╩п╩п╟"
 
 #: Input/mpg123/mpg123.c:63
 msgid "Goa"
@@ -1549,7 +1549,7 @@ msgstr ""
 
 #: Input/mpg123/mpg123.c:64
 msgid "Drum & Bass"
-msgstr "Ударн╕ ╕ бас"
+msgstr "пёп╢п╟я─п╫я√ я√ п╠п╟я│"
 
 #: Input/mpg123/mpg123.c:64
 msgid "Hardcore"
@@ -1557,23 +1557,23 @@ msgstr ""
 
 #: Input/mpg123/mpg123.c:65
 msgid "BritPop"
-msgstr "Британський поп"
+msgstr "п▒я─п╦я┌п╟п╫я│я▄п╨п╦п╧ п©п╬п©"
 
 #: Input/mpg123/mpg123.c:65
 msgid "Indie"
-msgstr "Незалежн╕"
+msgstr "п²п╣п╥п╟п╩п╣п╤п╫я√"
 
 #: Input/mpg123/mpg123.c:65
 msgid "Negerpunk"
-msgstr "Чорний панк"
+msgstr "п╖п╬я─п╫п╦п╧ п©п╟п╫п╨"
 
 #: Input/mpg123/mpg123.c:65
 msgid "Terror"
-msgstr "Терор"
+msgstr "п╒п╣я─п╬я─"
 
 #: Input/mpg123/mpg123.c:66
 msgid "Beat"
-msgstr "Б╕т"
+msgstr "п▒я√я┌"
 
 #: Input/mpg123/mpg123.c:66
 msgid "Christian Gangsta Rap"
@@ -1581,11 +1581,11 @@ msgstr ""
 
 #: Input/mpg123/mpg123.c:66
 msgid "Polsk Punk"
-msgstr "Польский панк"
+msgstr "п÷п╬п╩я▄я│п╨п╦п╧ п©п╟п╫п╨"
 
 #: Input/mpg123/mpg123.c:67
 msgid "Black Metal"
-msgstr "Чорний метал"
+msgstr "п╖п╬я─п╫п╦п╧ п╪п╣я┌п╟п╩"
 
 #: Input/mpg123/mpg123.c:67
 msgid "Crossover"
@@ -1593,15 +1593,15 @@ msgstr ""
 
 #: Input/mpg123/mpg123.c:67
 msgid "Heavy Metal"
-msgstr "Важкий метал"
+msgstr "п▓п╟п╤п╨п╦п╧ п╪п╣я┌п╟п╩"
 
 #: Input/mpg123/mpg123.c:68
 msgid "Christian Rock"
-msgstr "Християнський рок"
+msgstr "п╔я─п╦я│я┌п╦я▐п╫я│я▄п╨п╦п╧ я─п╬п╨"
 
 #: Input/mpg123/mpg123.c:68
 msgid "Contemporary Christian"
-msgstr "Сучасна християнська"
+msgstr "п║я┐я┤п╟я│п╫п╟ я┘я─п╦я│я┌п╦я▐п╫я│я▄п╨п╟"
 
 #: Input/mpg123/mpg123.c:69
 msgid "Merengue"
@@ -1609,27 +1609,27 @@ msgstr ""
 
 #: Input/mpg123/mpg123.c:69
 msgid "Salsa"
-msgstr "Сальса"
+msgstr "п║п╟п╩я▄я│п╟"
 
 #: Input/mpg123/mpg123.c:69
 msgid "Thrash Metal"
-msgstr "Траш метал"
+msgstr "п╒я─п╟я┬ п╪п╣я┌п╟п╩"
 
 #: Input/mpg123/mpg123.c:70
 msgid "Anime"
-msgstr "Мультипл╕кац╕я"
+msgstr "п°я┐п╩я▄я┌п╦п©п╩я√п╨п╟я├я√я▐"
 
 #: Input/mpg123/mpg123.c:70
 msgid "JPop"
-msgstr "Японський поп"
+msgstr "п╞п©п╬п╫я│я▄п╨п╦п╧ п©п╬п©"
 
 #: Input/mpg123/mpg123.c:70
 msgid "Synthpop"
-msgstr "Синтетичний поп"
+msgstr "п║п╦п╫я┌п╣я┌п╦я┤п╫п╦п╧ п©п╬п©"
 
 #: Output/OSS/about.c:27
 msgid "About OSS Driver 0.9"
-msgstr "Про драйвер OSS 0.9"
+msgstr "п÷я─п╬ п╢я─п╟п╧п╡п╣я─ OSS 0.9"
 
 #: Output/OSS/about.c:29
 msgid ""
@@ -1650,23 +1650,23 @@ msgid ""
 "Foundation, Inc., 59 Temple Place - Suite 330, Boston, MA 02111-1307,\n"
 "USA."
 msgstr ""
-"Драйвер XMMS OSS 0.9\n"
+"п■я─п╟п╧п╡п╣я─ XMMS OSS 0.9\n"
 "\n"
-"Ця програма належить до в╕льного програмного забезпечення. Ви ма╓те\n"
-"право розповсюджувати та/або видозм╕нювати ╖╖ керуючись при цьому\n"
-"умовами Загально╖ Публ╕чно╖ Л╕ценз╕╖ GNU у такому вигляд╕, як вона\n"
-"була опубл╕кована Фундац╕╓ю В╕льного Програмного забезпечення (Free\n"
-"Software Foundation) або верс╕╓ю 2 Л╕ценз╕╖, або (на Ваш виб╕р)\n"
-"будь-якою п╕зн╕шою верс╕╓ю.\n"
+"п╕я▐ п©я─п╬пЁя─п╟п╪п╟ п╫п╟п╩п╣п╤п╦я┌я▄ п╢п╬ п╡я√п╩я▄п╫п╬пЁп╬ п©я─п╬пЁя─п╟п╪п╫п╬пЁп╬ п╥п╟п╠п╣п╥п©п╣я┤п╣п╫п╫я▐. п▓п╦ п╪п╟я■я┌п╣\n"
+"п©я─п╟п╡п╬ я─п╬п╥п©п╬п╡я│я▌п╢п╤я┐п╡п╟я┌п╦ я┌п╟/п╟п╠п╬ п╡п╦п╢п╬п╥п╪я√п╫я▌п╡п╟я┌п╦ я≈я≈ п╨п╣я─я┐я▌я┤п╦я│я▄ п©я─п╦ я├я▄п╬п╪я┐\n"
+"я┐п╪п╬п╡п╟п╪п╦ п≈п╟пЁп╟п╩я▄п╫п╬я≈ п÷я┐п╠п╩я√я┤п╫п╬я≈ п⌡я√я├п╣п╫п╥я√я≈ GNU я┐ я┌п╟п╨п╬п╪я┐ п╡п╦пЁп╩я▐п╢я√, я▐п╨ п╡п╬п╫п╟\n"
+"п╠я┐п╩п╟ п╬п©я┐п╠п╩я√п╨п╬п╡п╟п╫п╟ п╓я┐п╫п╢п╟я├я√я■я▌ п▓я√п╩я▄п╫п╬пЁп╬ п÷я─п╬пЁя─п╟п╪п╫п╬пЁп╬ п╥п╟п╠п╣п╥п©п╣я┤п╣п╫п╫я▐ (Free\n"
+"Software Foundation) п╟п╠п╬ п╡п╣я─я│я√я■я▌ 2 п⌡я√я├п╣п╫п╥я√я≈, п╟п╠п╬ (п╫п╟ п▓п╟я┬ п╡п╦п╠я√я─)\n"
+"п╠я┐п╢я▄-я▐п╨п╬я▌ п©я√п╥п╫я√я┬п╬я▌ п╡п╣я─я│я√я■я▌.\n"
 "\n"
-"Ця програма розповсюджу╓ться ╕з спод╕ваннями, що вона може бути\n"
-"корисною, але БЕЗ Н╤ЯКО╥ ГАРАНТ╤╥, нав╕ть без уявно╖ гарант╕╖ того, що\n"
-"ця програма може бути КУПЛЕНОЮ або П╤ДХОДИТЬ П╤Д ЯКУСЬ ПЕВНУ\n"
-"МЕТУ. Подальш╕ подробиц╕ див╕ться у Загальн╕й Публ╕чн╕й Л╕ценз╕╖ GNU.\n"
+"п╕я▐ п©я─п╬пЁя─п╟п╪п╟ я─п╬п╥п©п╬п╡я│я▌п╢п╤я┐я■я┌я▄я│я▐ я√п╥ я│п©п╬п╢я√п╡п╟п╫п╫я▐п╪п╦, я┴п╬ п╡п╬п╫п╟ п╪п╬п╤п╣ п╠я┐я┌п╦\n"
+"п╨п╬я─п╦я│п╫п╬я▌, п╟п╩п╣ п▒п∙п≈ п²п├п╞п п·п┤ п⌠п░п═п░п²п╒п├п┤, п╫п╟п╡я√я┌я▄ п╠п╣п╥ я┐я▐п╡п╫п╬я≈ пЁп╟я─п╟п╫я┌я√я≈ я┌п╬пЁп╬, я┴п╬\n"
+"я├я▐ п©я─п╬пЁя─п╟п╪п╟ п╪п╬п╤п╣ п╠я┐я┌п╦ п пёп÷п⌡п∙п²п·п╝ п╟п╠п╬ п÷п├п■п╔п·п■п≤п╒п╛ п÷п├п■ п╞п пёп║п╛ п÷п∙п▓п²пё\n"
+"п°п∙п╒пё. п÷п╬п╢п╟п╩я▄я┬я√ п©п╬п╢я─п╬п╠п╦я├я√ п╢п╦п╡я√я┌я▄я│я▐ я┐ п≈п╟пЁп╟п╩я▄п╫я√п╧ п÷я┐п╠п╩я√я┤п╫я√п╧ п⌡я√я├п╣п╫п╥я√я≈ GNU.\n"
 "\n"
-"Ви ма╓те отримати коп╕я Загально╖ Публ╕чно╖ Л╕ценз╕╖ GNU разом з ц╕╓ю\n"
-"програмою. Якщо ж н╕ напиш╕ть у Фундац╕ю В╕льного Програмного\n"
-"забезпечення за адресою  59 Temple Place - Suite 330, Boston, MA\n"
+"п▓п╦ п╪п╟я■я┌п╣ п╬я┌я─п╦п╪п╟я┌п╦ п╨п╬п©я√я▐ п≈п╟пЁп╟п╩я▄п╫п╬я≈ п÷я┐п╠п╩я√я┤п╫п╬я≈ п⌡я√я├п╣п╫п╥я√я≈ GNU я─п╟п╥п╬п╪ п╥ я├я√я■я▌\n"
+"п©я─п╬пЁя─п╟п╪п╬я▌. п╞п╨я┴п╬ п╤ п╫я√ п╫п╟п©п╦я┬я√я┌я▄ я┐ п╓я┐п╫п╢п╟я├я√я▌ п▓я√п╩я▄п╫п╬пЁп╬ п÷я─п╬пЁя─п╟п╪п╫п╬пЁп╬\n"
+"п╥п╟п╠п╣п╥п©п╣я┤п╣п╫п╫я▐ п╥п╟ п╟п╢я─п╣я│п╬я▌  59 Temple Place - Suite 330, Boston, MA\n"
 "02111-1307, USA."
 
 #: Output/OSS/configure.c:103
@@ -1676,43 +1676,43 @@ msgstr ""
 
 #: Output/OSS/configure.c:121
 msgid "Default"
-msgstr "Основна"
+msgstr "п·я│п╫п╬п╡п╫п╟"
 
 #: Output/OSS/configure.c:135
 msgid "OSS Driver configuration"
-msgstr "Конф╕╜урац╕я драйвера OSS"
+msgstr "п п╬п╫я└я√р▒я┐я─п╟я├я√я▐ п╢я─п╟п╧п╡п╣я─п╟ OSS"
 
 #: Output/OSS/configure.c:149
 msgid "Audio device:"
-msgstr "Звуковий пристр╕й:"
+msgstr "п≈п╡я┐п╨п╬п╡п╦п╧ п©я─п╦я│я┌я─я√п╧:"
 
 #: Output/OSS/configure.c:158
 msgid "Audio devices:"
-msgstr "Звуков╕ пристро╖:"
+msgstr "п≈п╡я┐п╨п╬п╡я√ п©я─п╦я│я┌я─п╬я≈:"
 
 #: Output/OSS/configure.c:166
 msgid "Mixer device:"
-msgstr "Пристр╕й м╕кшера:"
+msgstr "п÷я─п╦я│я┌я─я√п╧ п╪я√п╨я┬п╣я─п╟:"
 
 #: Output/OSS/configure.c:175
 msgid "Mixers:"
-msgstr "М╕кшери:"
+msgstr "п°я√п╨я┬п╣я─п╦:"
 
 #: Output/OSS/configure.c:183
 msgid "Devices"
-msgstr "Пристро╖"
+msgstr "п÷я─п╦я│я┌я─п╬я≈"
 
 #: Output/OSS/configure.c:197 Output/esd/configure.c:150
 msgid "Buffer size (ms):"
-msgstr "Розм╕р буфера (мс):"
+msgstr "п═п╬п╥п╪я√я─ п╠я┐я└п╣я─п╟ (п╪я│):"
 
 #: Output/OSS/configure.c:222 Output/esd/configure.c:175
 msgid "Buffering"
-msgstr "Буфер"
+msgstr "п▒я┐я└п╣я─"
 
 #: Output/OSS/configure.c:223
 msgid "Mixer Settings:"
-msgstr "Установки м╕кшера:"
+msgstr "пёя│я┌п╟п╫п╬п╡п╨п╦ п╪я√п╨я┬п╣я─п╟:"
 
 #: Output/OSS/configure.c:228
 msgid "Volume controls Master not PCM"
@@ -1720,27 +1720,27 @@ msgstr ""
 
 #: Output/OSS/configure.c:234
 msgid "Mixer"
-msgstr "М╕кшер"
+msgstr "п°я√п╨я┬п╣я─"
 
 #: Output/disk_writer/disk_writer.c:126
 msgid ""
 "You cannot use the Disk Writer plugin\n"
 "when you're running in realtime mode."
 msgstr ""
-"Якщо Ви не працю╓те в реальному час╕,\n"
-"Ви не можете користуватися модулем Disk Writer."
+"п╞п╨я┴п╬ п▓п╦ п╫п╣ п©я─п╟я├я▌я■я┌п╣ п╡ я─п╣п╟п╩я▄п╫п╬п╪я┐ я┤п╟я│я√,\n"
+"п▓п╦ п╫п╣ п╪п╬п╤п╣я┌п╣ п╨п╬я─п╦я│я┌я┐п╡п╟я┌п╦я│я▐ п╪п╬п╢я┐п╩п╣п╪ Disk Writer."
 
 #: Output/disk_writer/disk_writer.c:277
 msgid "Select the directory where you want to store the output files:"
-msgstr "Вибер╕ть директор╕ю для збереження вих╕дних файл╕в:"
+msgstr "п▓п╦п╠п╣я─я√я┌я▄ п╢п╦я─п╣п╨я┌п╬я─я√я▌ п╢п╩я▐ п╥п╠п╣я─п╣п╤п╣п╫п╫я▐ п╡п╦я┘я√п╢п╫п╦я┘ я└п╟п╧п╩я√п╡:"
 
 #: Output/disk_writer/disk_writer.c:321
 msgid "Disk Writer Configuration"
-msgstr "Конф╕╜урац╕я модуля Disk Writer"
+msgstr "п п╬п╫я└я√р▒я┐я─п╟я├я√я▐ п╪п╬п╢я┐п╩я▐ Disk Writer"
 
 #: Output/esd/about.c:32
 msgid "About ESounD Plugin 0.01"
-msgstr "Про модуль ESounD 0.01"
+msgstr "п÷я─п╬ п╪п╬п╢я┐п╩я▄ ESounD 0.01"
 
 #: Output/esd/about.c:34
 msgid ""
@@ -1761,36 +1761,36 @@ msgid ""
 "Foundation, Inc., 59 Temple Place - Suite 330, Boston, MA 02111-1307,\n"
 "USA."
 msgstr ""
-"Модуль XMMS ESounD 0.1\n"
+"п°п╬п╢я┐п╩я▄ XMMS ESounD 0.1\n"
 "\n"
-"Ця програма належить до в╕льного програмного забезпечення. Ви ма╓те\n"
-"право розповсюджувати та/або видозм╕нювати ╖╖ керуючись при цьому\n"
-"умовами Загально╖ Публ╕чно╖ Л╕ценз╕╖ GNU у такому вигляд╕, як вона\n"
-"була опубл╕кована Фундац╕╓ю В╕льного Програмного забезпечення (Free\n"
-"Software Foundation) або верс╕╓ю 2 Л╕ценз╕╖, або (на Ваш виб╕р)\n"
-"будь-якою п╕зн╕шою верс╕╓ю.\n"
+"п╕я▐ п©я─п╬пЁя─п╟п╪п╟ п╫п╟п╩п╣п╤п╦я┌я▄ п╢п╬ п╡я√п╩я▄п╫п╬пЁп╬ п©я─п╬пЁя─п╟п╪п╫п╬пЁп╬ п╥п╟п╠п╣п╥п©п╣я┤п╣п╫п╫я▐. п▓п╦ п╪п╟я■я┌п╣\n"
+"п©я─п╟п╡п╬ я─п╬п╥п©п╬п╡я│я▌п╢п╤я┐п╡п╟я┌п╦ я┌п╟/п╟п╠п╬ п╡п╦п╢п╬п╥п╪я√п╫я▌п╡п╟я┌п╦ я≈я≈ п╨п╣я─я┐я▌я┤п╦я│я▄ п©я─п╦ я├я▄п╬п╪я┐\n"
+"я┐п╪п╬п╡п╟п╪п╦ п≈п╟пЁп╟п╩я▄п╫п╬я≈ п÷я┐п╠п╩я√я┤п╫п╬я≈ п⌡я√я├п╣п╫п╥я√я≈ GNU я┐ я┌п╟п╨п╬п╪я┐ п╡п╦пЁп╩я▐п╢я√, я▐п╨ п╡п╬п╫п╟\n"
+"п╠я┐п╩п╟ п╬п©я┐п╠п╩я√п╨п╬п╡п╟п╫п╟ п╓я┐п╫п╢п╟я├я√я■я▌ п▓я√п╩я▄п╫п╬пЁп╬ п÷я─п╬пЁя─п╟п╪п╫п╬пЁп╬ п╥п╟п╠п╣п╥п©п╣я┤п╣п╫п╫я▐ (Free\n"
+"Software Foundation) п╟п╠п╬ п╡п╣я─я│я√я■я▌ 2 п⌡я√я├п╣п╫п╥я√я≈, п╟п╠п╬ (п╫п╟ п▓п╟я┬ п╡п╦п╠я√я─)\n"
+"п╠я┐п╢я▄-я▐п╨п╬я▌ п©я√п╥п╫я√я┬п╬я▌ п╡п╣я─я│я√я■я▌.\n"
 "\n"
-"Ця програма розповсюджу╓ться ╕з спод╕ваннями, що вона може бути\n"
-"корисною, але БЕЗ Н╤ЯКО╥ ГАРАНТ╤╥, нав╕ть без уявно╖ гарант╕╖ того, що\n"
-"ця програма може бути КУПЛЕНОЮ або П╤ДХОДИТЬ П╤Д ЯКУСЬ ПЕВНУ\n"
-"МЕТУ. Подальш╕ подробиц╕ див╕ться у Загальн╕й Публ╕чн╕й Л╕ценз╕╖ GNU.\n"
+"п╕я▐ п©я─п╬пЁя─п╟п╪п╟ я─п╬п╥п©п╬п╡я│я▌п╢п╤я┐я■я┌я▄я│я▐ я√п╥ я│п©п╬п╢я√п╡п╟п╫п╫я▐п╪п╦, я┴п╬ п╡п╬п╫п╟ п╪п╬п╤п╣ п╠я┐я┌п╦\n"
+"п╨п╬я─п╦я│п╫п╬я▌, п╟п╩п╣ п▒п∙п≈ п²п├п╞п п·п┤ п⌠п░п═п░п²п╒п├п┤, п╫п╟п╡я√я┌я▄ п╠п╣п╥ я┐я▐п╡п╫п╬я≈ пЁп╟я─п╟п╫я┌я√я≈ я┌п╬пЁп╬, я┴п╬\n"
+"я├я▐ п©я─п╬пЁя─п╟п╪п╟ п╪п╬п╤п╣ п╠я┐я┌п╦ п пёп÷п⌡п∙п²п·п╝ п╟п╠п╬ п÷п├п■п╔п·п■п≤п╒п╛ п÷п├п■ п╞п пёп║п╛ п÷п∙п▓п²пё\n"
+"п°п∙п╒пё. п÷п╬п╢п╟п╩я▄я┬я√ п©п╬п╢я─п╬п╠п╦я├я√ п╢п╦п╡я√я┌я▄я│я▐ я┐ п≈п╟пЁп╟п╩я▄п╫я√п╧ п÷я┐п╠п╩я√я┤п╫я√п╧ п⌡я√я├п╣п╫п╥я√я≈ GNU.\n"
 "\n"
-"Ви ма╓те отримати коп╕я Загально╖ Публ╕чно╖ Л╕ценз╕╖ GNU разом з ц╕╓ю\n"
-"програмою. Якщо ж н╕ напиш╕ть у Фундац╕ю В╕льного Програмного\n"
-"забезпечення за адресою  59 Temple Place - Suite 330, Boston, MA\n"
+"п▓п╦ п╪п╟я■я┌п╣ п╬я┌я─п╦п╪п╟я┌п╦ п╨п╬п©я√я▐ п≈п╟пЁп╟п╩я▄п╫п╬я≈ п÷я┐п╠п╩я√я┤п╫п╬я≈ п⌡я√я├п╣п╫п╥я√я≈ GNU я─п╟п╥п╬п╪ п╥ я├я√я■я▌\n"
+"п©я─п╬пЁя─п╟п╪п╬я▌. п╞п╨я┴п╬ п╤ п╫я√ п╫п╟п©п╦я┬я√я┌я▄ я┐ п╓я┐п╫п╢п╟я├я√я▌ п▓я√п╩я▄п╫п╬пЁп╬ п÷я─п╬пЁя─п╟п╪п╫п╬пЁп╬\n"
+"п╥п╟п╠п╣п╥п©п╣я┤п╣п╫п╫я▐ п╥п╟ п╟п╢я─п╣я│п╬я▌  59 Temple Place - Suite 330, Boston, MA\n"
 "02111-1307, USA."
 
 #: Output/esd/configure.c:84
 msgid "ESD Plugin configuration"
-msgstr "Конф╕╜урац╕я модуля ESD"
+msgstr "п п╬п╫я└я√р▒я┐я─п╟я├я√я▐ п╪п╬п╢я┐п╩я▐ ESD"
 
 #: Output/esd/configure.c:102
 msgid "Use remote host"
-msgstr "Користуватися в╕ддаленим хостом"
+msgstr "п п╬я─п╦я│я┌я┐п╡п╟я┌п╦я│я▐ п╡я√п╢п╢п╟п╩п╣п╫п╦п╪ я┘п╬я│я┌п╬п╪"
 
 #: Output/esd/configure.c:136
 msgid "Server"
-msgstr "Сервер"
+msgstr "п║п╣я─п╡п╣я─"
 
 #: Visualization/blur_scope/blur_scope.c:154
 msgid "Blur scope"
@@ -1803,11 +1803,11 @@ msgstr ""
 #: Visualization/blur_scope/config.c:74
 #: Visualization/opengl_spectrum/configure.c:48
 msgid "Options:"
-msgstr "Параметри:"
+msgstr "п÷п╟я─п╟п╪п╣я┌я─п╦:"
 
 #: Visualization/opengl_spectrum/configure.c:40
 msgid "OpenGL Spectrum configuration"
-msgstr "Конф╕╜урац╕я спектру OpenGL"
+msgstr "п п╬п╫я└я√р▒я┐я─п╟я├я√я▐ я│п©п╣п╨я┌я─я┐ OpenGL"
 
 #: Visualization/opengl_spectrum/configure.c:54
 msgid "3DFX Fullscreen mode"
@@ -1828,7 +1828,7 @@ msgstr ""
 
 #: gnomexmms/gnomexmms.c:465
 msgid "Copyright (C) Anders Carlsson 1999"
-msgstr "Авторськ╕ права застережен╕ (C) Anders Carlsson 1999"
+msgstr "п░п╡я┌п╬я─я│я▄п╨я√ п©я─п╟п╡п╟ п╥п╟я│я┌п╣я─п╣п╤п╣п╫я√ (C) Anders Carlsson 1999"
 
 #: gnomexmms/gnomexmms.c:467
 msgid ""
@@ -1838,16 +1838,16 @@ msgstr ""
 
 #: gnomexmms/gnomexmms.c:493
 msgid "About..."
-msgstr "Про..."
+msgstr "п÷я─п╬..."
 
 #: placeholder.h:5
 msgid "Echo Plugin 1.0.0"
-msgstr "Модуль Луна 1.0.0"
+msgstr "п°п╬п╢я┐п╩я▄ п⌡я┐п╫п╟ 1.0.0"
 
 #: placeholder.h:6
 msgid "Extra Stereo Plugin 1.0.0"
 msgstr ""
-"Модуль розширення стерео ефекту 1.0.0\n"
+"п°п╬п╢я┐п╩я▄ я─п╬п╥я┬п╦я─п╣п╫п╫я▐ я│я┌п╣я─п╣п╬ п╣я└п╣п╨я┌я┐ 1.0.0\n"
 "\n"
 "By Johan Levin 1999."
 
@@ -1857,7 +1857,7 @@ msgstr ""
 
 #: placeholder.h:8
 msgid "Voice removal plugin 1.0.0"
-msgstr "Модуль вир╕зання голосу 1.0.0"
+msgstr "п°п╬п╢я┐п╩я▄ п╡п╦я─я√п╥п╟п╫п╫я▐ пЁп╬п╩п╬я│я┐ 1.0.0"
 
 #: placeholder.h:9
 msgid "IRman Control 1.0.0"
@@ -1873,7 +1873,7 @@ msgstr ""
 
 #: placeholder.h:12
 msgid "CD Audio Player 1.0.0"
-msgstr "Програвач компакт-диск╕в 1.0.0"
+msgstr "п÷я─п╬пЁя─п╟п╡п╟я┤ п╨п╬п╪п©п╟п╨я┌-п╢п╦я│п╨я√п╡ 1.0.0"
 
 #: placeholder.h:13
 msgid "Id Software .cin player 1.0.0"
@@ -1893,15 +1893,15 @@ msgstr ""
 
 #: placeholder.h:17
 msgid "OSS Driver 1.0.0"
-msgstr "Драйвер OSS 1.0.0"
+msgstr "п■я─п╟п╧п╡п╣я─ OSS 1.0.0"
 
 #: placeholder.h:18
 msgid "Disk Writer Plugin 1.0.0"
-msgstr "Модуль Disk Writer 1.0.0"
+msgstr "п°п╬п╢я┐п╩я▄ Disk Writer 1.0.0"
 
 #: placeholder.h:19
 msgid "eSound Output Plugin 1.0.0"
-msgstr "Модуль ESounD 1.0.0"
+msgstr "п°п╬п╢я┐п╩я▄ ESounD 1.0.0"
 
 #: placeholder.h:20
 msgid "Blur Scope 1.0.0"
@@ -1926,51 +1926,51 @@ msgstr ""
 #: wmxmms/getopt.c:632 xmms/getopt.c:632
 #, c-format
 msgid "%s: option `%s' is ambiguous\n"
-msgstr "%s: параметр `%s' - неоднозначний\n"
+msgstr "%s: п©п╟я─п╟п╪п╣я┌я─ `%s' - п╫п╣п╬п╢п╫п╬п╥п╫п╟я┤п╫п╦п╧\n"
 
 #: wmxmms/getopt.c:656 xmms/getopt.c:656
 #, c-format
 msgid "%s: option `--%s' doesn't allow an argument\n"
-msgstr "%s: параметр `--%s' не може мати аргумент╕в\n"
+msgstr "%s: п©п╟я─п╟п╪п╣я┌я─ `--%s' п╫п╣ п╪п╬п╤п╣ п╪п╟я┌п╦ п╟я─пЁя┐п╪п╣п╫я┌я√п╡\n"
 
 #: wmxmms/getopt.c:661 xmms/getopt.c:661
 #, c-format
 msgid "%s: option `%c%s' doesn't allow an argument\n"
-msgstr "%s: параметр `%c%s' не може мати аргументу\n"
+msgstr "%s: п©п╟я─п╟п╪п╣я┌я─ `%c%s' п╫п╣ п╪п╬п╤п╣ п╪п╟я┌п╦ п╟я─пЁя┐п╪п╣п╫я┌я┐\n"
 
 #: wmxmms/getopt.c:678 wmxmms/getopt.c:851 xmms/getopt.c:678 xmms/getopt.c:851
 #, c-format
 msgid "%s: option `%s' requires an argument\n"
-msgstr "%s: параметру `%s' необх╕дний аргумент\n"
+msgstr "%s: п©п╟я─п╟п╪п╣я┌я─я┐ `%s' п╫п╣п╬п╠я┘я√п╢п╫п╦п╧ п╟я─пЁя┐п╪п╣п╫я┌\n"
 
 #. --option
 #: wmxmms/getopt.c:707 xmms/getopt.c:707
 #, c-format
 msgid "%s: unrecognized option `--%s'\n"
-msgstr "%s: не розп╕знано параметру `--%s'\n"
+msgstr "%s: п╫п╣ я─п╬п╥п©я√п╥п╫п╟п╫п╬ п©п╟я─п╟п╪п╣я┌я─я┐ `--%s'\n"
 
 #. +option or -option
 #: wmxmms/getopt.c:711 xmms/getopt.c:711
 #, c-format
 msgid "%s: unrecognized option `%c%s'\n"
-msgstr "%s: не розп╕знано параметру `%c%s'\n"
+msgstr "%s: п╫п╣ я─п╬п╥п©я√п╥п╫п╟п╫п╬ п©п╟я─п╟п╪п╣я┌я─я┐ `%c%s'\n"
 
 #. 1003.2 specifies the format of this message.
 #: wmxmms/getopt.c:737 xmms/getopt.c:737
 #, c-format
 msgid "%s: illegal option -- %c\n"
-msgstr "%s: нев╕рний параметр -- %c\n"
+msgstr "%s: п╫п╣п╡я√я─п╫п╦п╧ п©п╟я─п╟п╪п╣я┌я─ -- %c\n"
 
 #: wmxmms/getopt.c:740 xmms/getopt.c:740
 #, c-format
 msgid "%s: invalid option -- %c\n"
-msgstr "%s: нев╕рний параметр -- %c\n"
+msgstr "%s: п╫п╣п╡я√я─п╫п╦п╧ п©п╟я─п╟п╪п╣я┌я─ -- %c\n"
 
 #. 1003.2 specifies the format of this message.
 #: wmxmms/getopt.c:770 wmxmms/getopt.c:900 xmms/getopt.c:770 xmms/getopt.c:900
 #, c-format
 msgid "%s: option requires an argument -- %c\n"
-msgstr "%s: параметру необх╕дний аргумент -- %c\n"
+msgstr "%s: п©п╟я─п╟п╪п╣я┌я─я┐ п╫п╣п╬п╠я┘я√п╢п╫п╦п╧ п╟я─пЁя┐п╪п╣п╫я┌ -- %c\n"
 
 #: wmxmms/getopt.c:817 xmms/getopt.c:817
 #, c-format
@@ -1980,12 +1980,12 @@ msgstr ""
 #: wmxmms/getopt.c:835 xmms/getopt.c:835
 #, c-format
 msgid "%s: option `-W %s' doesn't allow an argument\n"
-msgstr "%s: опц╕я `-W %s' не повинна мати аргумента\n"
+msgstr "%s: п╬п©я├я√я▐ `-W %s' п╫п╣ п©п╬п╡п╦п╫п╫п╟ п╪п╟я┌п╦ п╟я─пЁя┐п╪п╣п╫я┌п╟\n"
 
 #: wmxmms/wmxmms.c:583
 #, c-format
 msgid "ERROR: Couldn't find %s\n"
-msgstr "ПОМИЛКА: Не можу знайти %s\n"
+msgstr "п÷п·п°п≤п⌡п п░: п²п╣ п╪п╬п╤я┐ п╥п╫п╟п╧я┌п╦ %s\n"
 
 #: wmxmms/wmxmms.c:617
 #, c-format
@@ -2005,40 +2005,40 @@ msgid ""
 "-v, --version\t\tDisplay version information and exit\n"
 "\n"
 msgstr ""
-"Використання: %s [опц╕╖]\n"
+"п▓п╦п╨п╬я─п╦я│я┌п╟п╫п╫я▐: %s [п╬п©я├я√я≈]\n"
 "\n"
-"Опц╕╖:\n"
+"п·п©я├я√я≈:\n"
 "------\n"
 "\n"
-"-h, --help              Надрукувати цей текст ╕ вийти.\n"
-"-g, --geometry          Встановити розм╕ри (наприклад  +20+20)\n"
-"-s, --session           Встановити сес╕ю для використання xmms (Стандарт: "
+"-h, --help              п²п╟п╢я─я┐п╨я┐п╡п╟я┌п╦ я├п╣п╧ я┌п╣п╨я│я┌ я√ п╡п╦п╧я┌п╦.\n"
+"-g, --geometry          п▓я│я┌п╟п╫п╬п╡п╦я┌п╦ я─п╬п╥п╪я√я─п╦ (п╫п╟п©я─п╦п╨п╩п╟п╢  +20+20)\n"
+"-s, --session           п▓я│я┌п╟п╫п╬п╡п╦я┌п╦ я│п╣я│я√я▌ п╢п╩я▐ п╡п╦п╨п╬я─п╦я│я┌п╟п╫п╫я▐ xmms (п║я┌п╟п╫п╢п╟я─я┌: "
 "0)\n"
-"-c, --command           Команда для запуску xmms (Стандарт: xmms)\n"
-"-i, --icon              Встановити п╕ктограму для використання коли xmms не "
-"працю╓\n"
-"-n, --single            Для старту xmms потр╕бне одне клацання мишки\n"
-"-t, --title             Показувати назву п╕сн╕, коли миша у в╕кн╕\n"
-"-v, --version           Надрукувати ╕нформац╕ю про верс╕ю ╕ вийти\n"
+"-c, --command           п п╬п╪п╟п╫п╢п╟ п╢п╩я▐ п╥п╟п©я┐я│п╨я┐ xmms (п║я┌п╟п╫п╢п╟я─я┌: xmms)\n"
+"-i, --icon              п▓я│я┌п╟п╫п╬п╡п╦я┌п╦ п©я√п╨я┌п╬пЁя─п╟п╪я┐ п╢п╩я▐ п╡п╦п╨п╬я─п╦я│я┌п╟п╫п╫я▐ п╨п╬п╩п╦ xmms п╫п╣ "
+"п©я─п╟я├я▌я■\n"
+"-n, --single            п■п╩я▐ я│я┌п╟я─я┌я┐ xmms п©п╬я┌я─я√п╠п╫п╣ п╬п╢п╫п╣ п╨п╩п╟я├п╟п╫п╫я▐ п╪п╦я┬п╨п╦\n"
+"-t, --title             п÷п╬п╨п╟п╥я┐п╡п╟я┌п╦ п╫п╟п╥п╡я┐ п©я√я│п╫я√, п╨п╬п╩п╦ п╪п╦я┬п╟ я┐ п╡я√п╨п╫я√\n"
+"-v, --version           п²п╟п╢я─я┐п╨я┐п╡п╟я┌п╦ я√п╫я└п╬я─п╪п╟я├я√я▌ п©я─п╬ п╡п╣я─я│я√я▌ я√ п╡п╦п╧я┌п╦\n"
 "\n"
 
 #. keep the translated strings 62 chars wide maximum
-#. for languages that can't display 'aring' (Е) replace it with "aa"
-#. for those that can't display 'adiaeresis' (Д) replace it with "ae"
-#. for those that can't display 'odiaeresis' (Ж) replace it with "oe"
+#. for languages that can't display 'aring' (п∙) replace it with "aa"
+#. for those that can't display 'adiaeresis' (п■) replace it with "ae"
+#. for those that can't display 'odiaeresis' (п√) replace it with "oe"
 #: xmms/about.c:18
 msgid ""
 "      Main Programming: Peter Alm\n"
 "\n"
 "Additional Programming: Derrik Pates\n"
-"                        HЕvard KvЕlen\n"
+"                        Hп∙vard Kvп∙len\n"
 "\n"
 "  With Additional Help: J. Nick Koston (MikMod plugin)\n"
 "                        Charles Sielski (irman plugin)\n"
-"                        Olle HДllnДs (compiling fixes)\n"
+"                        Olle Hп■llnп■s (compiling fixes)\n"
 "                        Sean Atkinson\n"
 "                        Stephan K. Zitz\n"
-"                        JЖrg Schuler\n"
+"                        Jп√rg Schuler\n"
 "                        Anders Carlsson (effect plugins)\n"
 "                        Tim Ferguson (joystick plugin)\n"
 "                        Carl van Schaik (pro logic plugin)\n"
@@ -2050,17 +2050,17 @@ msgid ""
 "                        Pablo Saratxaga (i18n)\n"
 "\n"
 " Homepage and Graphics: Thomas Nilsson\n"
-"      Support and Docs: Olle HДllnДs"
+"      Support and Docs: Olle Hп■llnп■s"
 msgstr ""
 
 #: xmms/about.c:48
 msgid "About XMMS"
-msgstr "Про XMMS"
+msgstr "п÷я─п╬ XMMS"
 
 #: xmms/about.c:81
 #, c-format
 msgid "XMMS %s - Cross platform multimedia player"
-msgstr "XMMS %s - програвач мультимед╕╖ для р╕зних платформ"
+msgstr "XMMS %s - п©я─п╬пЁя─п╟п╡п╟я┤ п╪я┐п╩я▄я┌п╦п╪п╣п╢я√я≈ п╢п╩я▐ я─я√п╥п╫п╦я┘ п©п╩п╟я┌я└п╬я─п╪"
 
 #: xmms/about.c:88
 msgid "Copyright (C) 1997-1999 4front Technologies"
@@ -2068,17 +2068,17 @@ msgstr "Copyright (C) 1997-1999 4front Technologies"
 
 #: xmms/about.c:110
 msgid "Credits"
-msgstr "Подяки"
+msgstr "п÷п╬п╢я▐п╨п╦"
 
 #: xmms/controlsocket.c:478 xmms/main.c:121 xmms/main.c:1702 xmms/main.c:2022
 #: xmms/main.c:2023 xmms/main.c:2397
 msgid "/Repeat"
-msgstr "/Повтор"
+msgstr "/п÷п╬п╡я┌п╬я─"
 
 #: xmms/controlsocket.c:482 xmms/main.c:122 xmms/main.c:1695 xmms/main.c:2018
 #: xmms/main.c:2019 xmms/main.c:2396
 msgid "/Shuffle"
-msgstr "/Перем╕шати"
+msgstr "/п÷п╣я─п╣п╪я√я┬п╟я┌п╦"
 
 #: xmms/controlsocket.c:492
 msgid "Unknown socket command received\n"
@@ -2086,43 +2086,43 @@ msgstr ""
 
 #: xmms/eq_slider.c:62
 msgid "12KHZ"
-msgstr "12кГц"
+msgstr "12п╨п⌠я├"
 
 #: xmms/eq_slider.c:62
 msgid "14KHZ"
-msgstr "14кГц"
+msgstr "14п╨п⌠я├"
 
 #: xmms/eq_slider.c:62
 msgid "16KHZ"
-msgstr "16кГц"
+msgstr "16п╨п⌠я├"
 
 #: xmms/eq_slider.c:62
 msgid "170HZ"
-msgstr "170Гц"
+msgstr "170п⌠я├"
 
 #: xmms/eq_slider.c:62
 msgid "1KHZ"
-msgstr "1кГц"
+msgstr "1п╨п⌠я├"
 
 #: xmms/eq_slider.c:62
 msgid "310HZ"
-msgstr "310Гц"
+msgstr "310п⌠я├"
 
 #: xmms/eq_slider.c:62
 msgid "3KHZ"
-msgstr "3кГц"
+msgstr "3п╨п⌠я├"
 
 #: xmms/eq_slider.c:62
 msgid "600HZ"
-msgstr "600Гц"
+msgstr "600п⌠я├"
 
 #: xmms/eq_slider.c:62
 msgid "60HZ"
-msgstr "60Гц"
+msgstr "60п⌠я├"
 
 #: xmms/eq_slider.c:62
 msgid "6KHZ"
-msgstr "6кГц"
+msgstr "6п╨п⌠я├"
 
 #: xmms/eq_slider.c:62
 msgid "PREAMP"
@@ -2130,75 +2130,75 @@ msgstr ""
 
 #: xmms/equalizer.c:77
 msgid "/Load"
-msgstr "/Завантажити"
+msgstr "/п≈п╟п╡п╟п╫я┌п╟п╤п╦я┌п╦"
 
 #: xmms/equalizer.c:78
 msgid "/Load/Preset"
-msgstr "/Завантажити/Попередн╕ установки"
+msgstr "/п≈п╟п╡п╟п╫я┌п╟п╤п╦я┌п╦/п÷п╬п©п╣я─п╣п╢п╫я√ я┐я│я┌п╟п╫п╬п╡п╨п╦"
 
 #: xmms/equalizer.c:79
 msgid "/Load/Auto-load preset"
-msgstr "/Завантажити/Автоматичн╕ установки"
+msgstr "/п≈п╟п╡п╟п╫я┌п╟п╤п╦я┌п╦/п░п╡я┌п╬п╪п╟я┌п╦я┤п╫я√ я┐я│я┌п╟п╫п╬п╡п╨п╦"
 
 #: xmms/equalizer.c:80
 msgid "/Load/Default"
-msgstr "/Завантажити/Стандантн╕"
+msgstr "/п≈п╟п╡п╟п╫я┌п╟п╤п╦я┌п╦/п║я┌п╟п╫п╢п╟п╫я┌п╫я√"
 
 #: xmms/equalizer.c:81 xmms/equalizer.c:83
 msgid "/Load/-"
-msgstr "/Завантажити/-"
+msgstr "/п≈п╟п╡п╟п╫я┌п╟п╤п╦я┌п╦/-"
 
 #: xmms/equalizer.c:82
 msgid "/Load/Zero"
-msgstr "/Завантажити/Нуль"
+msgstr "/п≈п╟п╡п╟п╫я┌п╟п╤п╦я┌п╦/п²я┐п╩я▄"
 
 #: xmms/equalizer.c:84
 msgid "/Load/From file"
-msgstr "/Завантажити/З файлу"
+msgstr "/п≈п╟п╡п╟п╫я┌п╟п╤п╦я┌п╦/п≈ я└п╟п╧п╩я┐"
 
 #: xmms/equalizer.c:85
 msgid "/Load/From WinAMP EQF file"
-msgstr "/Завантажити/З файлу EQF WinAMP"
+msgstr "/п≈п╟п╡п╟п╫я┌п╟п╤п╦я┌п╦/п≈ я└п╟п╧п╩я┐ EQF WinAMP"
 
 #: xmms/equalizer.c:86
 msgid "/Save"
-msgstr "/Зберегти"
+msgstr "/п≈п╠п╣я─п╣пЁя┌п╦"
 
 #: xmms/equalizer.c:87
 msgid "/Save/Preset"
-msgstr "/Зберегти/Установки"
+msgstr "/п≈п╠п╣я─п╣пЁя┌п╦/пёя│я┌п╟п╫п╬п╡п╨п╦"
 
 #: xmms/equalizer.c:88
 msgid "/Save/Auto-load preset"
-msgstr "/Зберегти/Автоматичн╕ установки"
+msgstr "/п≈п╠п╣я─п╣пЁя┌п╦/п░п╡я┌п╬п╪п╟я┌п╦я┤п╫я√ я┐я│я┌п╟п╫п╬п╡п╨п╦"
 
 #: xmms/equalizer.c:89
 msgid "/Save/Default"
-msgstr "/Зберегти/Стандартн╕"
+msgstr "/п≈п╠п╣я─п╣пЁя┌п╦/п║я┌п╟п╫п╢п╟я─я┌п╫я√"
 
 #: xmms/equalizer.c:90
 msgid "/Save/-"
-msgstr "/Зберегти/-"
+msgstr "/п≈п╠п╣я─п╣пЁя┌п╦/-"
 
 #: xmms/equalizer.c:91
 msgid "/Save/To file"
-msgstr "/Зберегти/В файл"
+msgstr "/п≈п╠п╣я─п╣пЁя┌п╦/п▓ я└п╟п╧п╩"
 
 #: xmms/equalizer.c:92
 msgid "/Save/To WinAMP EQF file"
-msgstr "/Зберегти/В файл EQF WinAMP"
+msgstr "/п≈п╠п╣я─п╣пЁя┌п╦/п▓ я└п╟п╧п╩ EQF WinAMP"
 
 #: xmms/equalizer.c:93
 msgid "/Delete"
-msgstr "/Стерти"
+msgstr "/п║я┌п╣я─я┌п╦"
 
 #: xmms/equalizer.c:94
 msgid "/Delete/Preset"
-msgstr "/Стерти/Установки"
+msgstr "/п║я┌п╣я─я┌п╦/пёя│я┌п╟п╫п╬п╡п╨п╦"
 
 #: xmms/equalizer.c:95
 msgid "/Delete/Auto-load preset"
-msgstr "/Стерти/Автоматичн╕ установки"
+msgstr "/п║я┌п╣я─я┌п╦/п░п╡я┌п╬п╪п╟я┌п╦я┤п╫я√ я┐я│я┌п╟п╫п╬п╡п╨п╦"
 
 #: xmms/equalizer.c:128 xmms/main.c:132 xmms/main.c:2048 xmms/main.c:2416
 msgid "/Equalizer WindowShade Mode"
@@ -2206,55 +2206,55 @@ msgstr ""
 
 #: xmms/equalizer.c:584
 msgid "XMMS Equalizer"
-msgstr "Еквалайзер XMMS"
+msgstr "п∙п╨п╡п╟п╩п╟п╧п╥п╣я─ XMMS"
 
 #: xmms/equalizer.c:684 xmms/equalizer.c:695 xmms/main.c:262 xmms/main.c:2474
 msgid "/Graphical EQ"
-msgstr "/Граф╕чний ЕКВ"
+msgstr "/п⌠я─п╟я└я√я┤п╫п╦п╧ п∙п п▓"
 
 #: xmms/equalizer.c:1100
 msgid "Presets"
-msgstr "Попередн╕ установки"
+msgstr "п÷п╬п©п╣я─п╣п╢п╫я√ я┐я│я┌п╟п╫п╬п╡п╨п╦"
 
 #: xmms/equalizer.c:1186
 msgid "Load preset"
-msgstr "Завантажити установки"
+msgstr "п≈п╟п╡п╟п╫я┌п╟п╤п╦я┌п╦ я┐я│я┌п╟п╫п╬п╡п╨п╦"
 
 #: xmms/equalizer.c:1192
 msgid "Load auto-preset"
-msgstr "Завантажити автоматичн╕ установки"
+msgstr "п≈п╟п╡п╟п╫я┌п╟п╤п╦я┌п╦ п╟п╡я┌п╬п╪п╟я┌п╦я┤п╫я√ я┐я│я┌п╟п╫п╬п╡п╨п╦"
 
 #: xmms/equalizer.c:1208 xmms/equalizer.c:1219
 msgid "Load equalizer preset"
-msgstr "Завантажити установки еквалайзера"
+msgstr "п≈п╟п╡п╟п╫я┌п╟п╤п╦я┌п╦ я┐я│я┌п╟п╫п╬п╡п╨п╦ п╣п╨п╡п╟п╩п╟п╧п╥п╣я─п╟"
 
 #: xmms/equalizer.c:1229
 msgid "Save preset"
-msgstr "Зберегти установки"
+msgstr "п≈п╠п╣я─п╣пЁя┌п╦ я┐я│я┌п╟п╫п╬п╡п╨п╦"
 
 #: xmms/equalizer.c:1235
 msgid "Save auto-preset"
-msgstr "Зберегти автоматичн╕ установки"
+msgstr "п≈п╠п╣я─п╣пЁя┌п╦ п╟п╡я┌п╬п╪п╟я┌п╦я┤п╫я√ я┐я│я┌п╟п╫п╬п╡п╨п╦"
 
 #: xmms/equalizer.c:1258 xmms/equalizer.c:1269
 msgid "Save equalizer preset"
-msgstr "Зберегти установки еквалайзера"
+msgstr "п≈п╠п╣я─п╣пЁя┌п╦ я┐я│я┌п╟п╫п╬п╡п╨п╦ п╣п╨п╡п╟п╩п╟п╧п╥п╣я─п╟"
 
 #: xmms/equalizer.c:1279 xmms/equalizer.c:1283
 msgid "Delete"
-msgstr "Стерти"
+msgstr "п║я┌п╣я─я┌п╦"
 
 #: xmms/equalizer.c:1279
 msgid "Delete preset"
-msgstr "Стерти установки"
+msgstr "п║я┌п╣я─я┌п╦ я┐я│я┌п╟п╫п╬п╡п╨п╦"
 
 #: xmms/equalizer.c:1283
 msgid "Delete auto-preset"
-msgstr "Стерти автоматичн╕ установки"
+msgstr "п║я┌п╣я─я┌п╦ п╟п╡я┌п╬п╪п╟я┌п╦я┤п╫я√ я┐я│я┌п╟п╫п╬п╡п╨п╦"
 
 #: xmms/main.c:117
 msgid "/Preferences"
-msgstr "/Установки"
+msgstr "/пёя│я┌п╟п╫п╬п╡п╨п╦"
 
 #: xmms/main.c:118
 msgid "/Skin Browser"
@@ -2271,16 +2271,16 @@ msgstr ""
 #: xmms/main.c:125 xmms/main.c:126 xmms/main.c:2402 xmms/main.c:2407
 #: xmms/main.c:2584 xmms/main.c:2589
 msgid "/Time Elapsed"
-msgstr "/Час в╕д початку"
+msgstr "/п╖п╟я│ п╡я√п╢ п©п╬я┤п╟я┌п╨я┐"
 
 #: xmms/main.c:126 xmms/main.c:2403 xmms/main.c:2408 xmms/main.c:2585
 #: xmms/main.c:2590
 msgid "/Time Remaining"
-msgstr "/Час, що залишився"
+msgstr "/п╖п╟я│, я┴п╬ п╥п╟п╩п╦я┬п╦п╡я│я▐"
 
 #: xmms/main.c:128 xmms/main.c:2032 xmms/main.c:2249 xmms/main.c:2411
 msgid "/Always On Top"
-msgstr "/Завжди нагор╕"
+msgstr "/п≈п╟п╡п╤п╢п╦ п╫п╟пЁп╬я─я√"
 
 #: xmms/main.c:129 xmms/main.c:2038 xmms/main.c:2412
 msgid "/Sticky"
@@ -2296,91 +2296,91 @@ msgstr ""
 
 #: xmms/main.c:133 xmms/main.c:2051 xmms/main.c:2256 xmms/main.c:2413
 msgid "/DoubleSize"
-msgstr "/Подв╕йний розм╕р"
+msgstr "/п÷п╬п╢п╡я√п╧п╫п╦п╧ я─п╬п╥п╪я√я─"
 
 #: xmms/main.c:134 xmms/main.c:2057 xmms/main.c:2398
 msgid "/Easy Move"
-msgstr "/Просте перем╕щення"
+msgstr "/п÷я─п╬я│я┌п╣ п©п╣я─п╣п╪я√я┴п╣п╫п╫я▐"
 
 #: xmms/main.c:148
 msgid "/File Info"
-msgstr "/╤нформац╕я про файл"
+msgstr "/п├п╫я└п╬я─п╪п╟я├я√я▐ п©я─п╬ я└п╟п╧п╩"
 
 #: xmms/main.c:149
 msgid "/Jump To File"
-msgstr "/Перейти на файл"
+msgstr "/п÷п╣я─п╣п╧я┌п╦ п╫п╟ я└п╟п╧п╩"
 
 #: xmms/main.c:150
 msgid "/Jump To Time"
-msgstr "/Перейти на час"
+msgstr "/п÷п╣я─п╣п╧я┌п╦ п╫п╟ я┤п╟я│"
 
 #: xmms/main.c:151 xmms/main.c:1998 xmms/main.c:2428
 msgid "/Autoscroll Songname"
-msgstr "/Прокручувати назву п╕сн╕"
+msgstr "/п÷я─п╬п╨я─я┐я┤я┐п╡п╟я┌п╦ п╫п╟п╥п╡я┐ п©я√я│п╫я√"
 
 #: xmms/main.c:173
 msgid "/Visualization Mode"
-msgstr "/Режим зображення"
+msgstr "/п═п╣п╤п╦п╪ п╥п╬п╠я─п╟п╤п╣п╫п╫я▐"
 
 #: xmms/main.c:174 xmms/main.c:175 xmms/main.c:176
 msgid "/Visualization Mode/Analyzer"
-msgstr "/Режим зображення/╤ндикатор"
+msgstr "/п═п╣п╤п╦п╪ п╥п╬п╠я─п╟п╤п╣п╫п╫я▐/п├п╫п╢п╦п╨п╟я┌п╬я─"
 
 #: xmms/main.c:175
 msgid "/Visualization Mode/Scope"
-msgstr "/Режим зображення/Осцилограф"
+msgstr "/п═п╣п╤п╦п╪ п╥п╬п╠я─п╟п╤п╣п╫п╫я▐/п·я│я├п╦п╩п╬пЁя─п╟я└"
 
 #: xmms/main.c:176
 msgid "/Visualization Mode/Off"
-msgstr "/Режим зображення/Вимкнено"
+msgstr "/п═п╣п╤п╦п╪ п╥п╬п╠я─п╟п╤п╣п╫п╫я▐/п▓п╦п╪п╨п╫п╣п╫п╬"
 
 #: xmms/main.c:177
 msgid "/Analyzer Mode"
-msgstr "/Вигляд ╕ндикатора"
+msgstr "/п▓п╦пЁп╩я▐п╢ я√п╫п╢п╦п╨п╟я┌п╬я─п╟"
 
 #: xmms/main.c:178 xmms/main.c:179 xmms/main.c:180
 msgid "/Analyzer Mode/Normal"
-msgstr "/Вигляд ╕ндикатора/Звичайний"
+msgstr "/п▓п╦пЁп╩я▐п╢ я√п╫п╢п╦п╨п╟я┌п╬я─п╟/п≈п╡п╦я┤п╟п╧п╫п╦п╧"
 
 #: xmms/main.c:179
 msgid "/Analyzer Mode/Fire"
-msgstr "/Вигляд ╕ндикатора/Вогонь"
+msgstr "/п▓п╦пЁп╩я▐п╢ я√п╫п╢п╦п╨п╟я┌п╬я─п╟/п▓п╬пЁп╬п╫я▄"
 
 #: xmms/main.c:180
 msgid "/Analyzer Mode/Vertical Lines"
-msgstr "/Вигляд ╕ндикатора/Вертикальн╕ смуги"
+msgstr "/п▓п╦пЁп╩я▐п╢ я√п╫п╢п╦п╨п╟я┌п╬я─п╟/п▓п╣я─я┌п╦п╨п╟п╩я▄п╫я√ я│п╪я┐пЁп╦"
 
 #: xmms/main.c:181 xmms/main.c:184
 msgid "/Analyzer Mode/-"
-msgstr "/Вигляд ╕ндикатора/-"
+msgstr "/п▓п╦пЁп╩я▐п╢ я√п╫п╢п╦п╨п╟я┌п╬я─п╟/-"
 
 #: xmms/main.c:182 xmms/main.c:183
 msgid "/Analyzer Mode/Lines"
-msgstr "/Вигляд ╕ндикатора/Смуги"
+msgstr "/п▓п╦пЁп╩я▐п╢ я√п╫п╢п╦п╨п╟я┌п╬я─п╟/п║п╪я┐пЁп╦"
 
 #: xmms/main.c:183
 msgid "/Analyzer Mode/Bars"
-msgstr "/Вигляд ╕ндикатора/Колонки"
+msgstr "/п▓п╦пЁп╩я▐п╢ я√п╫п╢п╦п╨п╟я┌п╬я─п╟/п п╬п╩п╬п╫п╨п╦"
 
 #: xmms/main.c:185
 msgid "/Analyzer Mode/Peaks"
-msgstr "/Вигляд ╕ндикатора/Вершини"
+msgstr "/п▓п╦пЁп╩я▐п╢ я√п╫п╢п╦п╨п╟я┌п╬я─п╟/п▓п╣я─я┬п╦п╫п╦"
 
 #: xmms/main.c:186
 msgid "/Scope Mode"
-msgstr "/Режим осцилографа"
+msgstr "/п═п╣п╤п╦п╪ п╬я│я├п╦п╩п╬пЁя─п╟я└п╟"
 
 #: xmms/main.c:187 xmms/main.c:188 xmms/main.c:189
 msgid "/Scope Mode/Dot Scope"
-msgstr "/Режим осцилографа/Точки"
+msgstr "/п═п╣п╤п╦п╪ п╬я│я├п╦п╩п╬пЁя─п╟я└п╟/п╒п╬я┤п╨п╦"
 
 #: xmms/main.c:188
 msgid "/Scope Mode/Line Scope"
-msgstr "/Режим осцилографа/Л╕н╕╖"
+msgstr "/п═п╣п╤п╦п╪ п╬я│я├п╦п╩п╬пЁя─п╟я└п╟/п⌡я√п╫я√я≈"
 
 #: xmms/main.c:189
 msgid "/Scope Mode/Solid Scope"
-msgstr "/Режим осцилографа/Суц╕льний"
+msgstr "/п═п╣п╤п╦п╪ п╬я│я├п╦п╩п╬пЁя─п╟я└п╟/п║я┐я├я√п╩я▄п╫п╦п╧"
 
 #: xmms/main.c:190
 msgid "/WindowShade VU Mode"
@@ -2396,73 +2396,73 @@ msgstr ""
 
 #: xmms/main.c:193
 msgid "/Refresh Rate"
-msgstr "/Частота поновлення"
+msgstr "/п╖п╟я│я┌п╬я┌п╟ п©п╬п╫п╬п╡п╩п╣п╫п╫я▐"
 
 #: xmms/main.c:194 xmms/main.c:195 xmms/main.c:196 xmms/main.c:197
 msgid "/Refresh Rate/Full (~50 fps)"
-msgstr "/Частота поновлення/Повна (~50 к/с)"
+msgstr "/п╖п╟я│я┌п╬я┌п╟ п©п╬п╫п╬п╡п╩п╣п╫п╫я▐/п÷п╬п╡п╫п╟ (~50 п╨/я│)"
 
 #: xmms/main.c:195
 msgid "/Refresh Rate/Half (~25 fps)"
-msgstr "/Частота поновлення/Половинна (~25 к/с)"
+msgstr "/п╖п╟я│я┌п╬я┌п╟ п©п╬п╫п╬п╡п╩п╣п╫п╫я▐/п÷п╬п╩п╬п╡п╦п╫п╫п╟ (~25 п╨/я│)"
 
 #: xmms/main.c:196
 msgid "/Refresh Rate/Quarter (~13 fps)"
-msgstr "/Частота поновлення/Чверть (~13 к/с)"
+msgstr "/п╖п╟я│я┌п╬я┌п╟ п©п╬п╫п╬п╡п╩п╣п╫п╫я▐/п╖п╡п╣я─я┌я▄ (~13 п╨/я│)"
 
 #: xmms/main.c:197
 msgid "/Refresh Rate/Eigth (~6 fps)"
-msgstr "/Частота поновлення/Одна восьма (~6 к/с)"
+msgstr "/п╖п╟я│я┌п╬я┌п╟ п©п╬п╫п╬п╡п╩п╣п╫п╫я▐/п·п╢п╫п╟ п╡п╬я│я▄п╪п╟ (~6 п╨/я│)"
 
 #: xmms/main.c:198
 msgid "/Analyzer Falloff"
-msgstr "/Пад╕ння ╕ндикатора"
+msgstr "/п÷п╟п╢я√п╫п╫я▐ я√п╫п╢п╦п╨п╟я┌п╬я─п╟"
 
 #: xmms/main.c:199 xmms/main.c:200 xmms/main.c:201 xmms/main.c:202
 #: xmms/main.c:203
 msgid "/Analyzer Falloff/Slowest"
-msgstr "/Пад╕ння ╕ндикатора/Найпов╕льн╕ше"
+msgstr "/п÷п╟п╢я√п╫п╫я▐ я√п╫п╢п╦п╨п╟я┌п╬я─п╟/п²п╟п╧п©п╬п╡я√п╩я▄п╫я√я┬п╣"
 
 #: xmms/main.c:200
 msgid "/Analyzer Falloff/Slow"
-msgstr "/Пад╕ння ╕ндикатора/Пов╕льне"
+msgstr "/п÷п╟п╢я√п╫п╫я▐ я√п╫п╢п╦п╨п╟я┌п╬я─п╟/п÷п╬п╡я√п╩я▄п╫п╣"
 
 #: xmms/main.c:201
 msgid "/Analyzer Falloff/Medium"
-msgstr "/Пад╕ння ╕ндикатора/Середн╓"
+msgstr "/п÷п╟п╢я√п╫п╫я▐ я√п╫п╢п╦п╨п╟я┌п╬я─п╟/п║п╣я─п╣п╢п╫я■"
 
 #: xmms/main.c:202
 msgid "/Analyzer Falloff/Fast"
-msgstr "/Пад╕ння ╕ндикатора/Швидке"
+msgstr "/п÷п╟п╢я√п╫п╫я▐ я√п╫п╢п╦п╨п╟я┌п╬я─п╟/п╗п╡п╦п╢п╨п╣"
 
 #: xmms/main.c:203
 msgid "/Analyzer Falloff/Fastest"
-msgstr "/Пад╕ння ╕ндикатора/Найшвидше"
+msgstr "/п÷п╟п╢я√п╫п╫я▐ я√п╫п╢п╦п╨п╟я┌п╬я─п╟/п²п╟п╧я┬п╡п╦п╢я┬п╣"
 
 #: xmms/main.c:204
 msgid "/Peaks Falloff"
-msgstr "/Пад╕ння вершин"
+msgstr "/п÷п╟п╢я√п╫п╫я▐ п╡п╣я─я┬п╦п╫"
 
 #: xmms/main.c:205 xmms/main.c:206 xmms/main.c:207 xmms/main.c:208
 #: xmms/main.c:209
 msgid "/Peaks Falloff/Slowest"
-msgstr "/Пад╕ння вершин/Найпов╕льн╕ше"
+msgstr "/п÷п╟п╢я√п╫п╫я▐ п╡п╣я─я┬п╦п╫/п²п╟п╧п©п╬п╡я√п╩я▄п╫я√я┬п╣"
 
 #: xmms/main.c:206
 msgid "/Peaks Falloff/Slow"
-msgstr "/Пад╕ння вершин/Пов╕льне"
+msgstr "/п÷п╟п╢я√п╫п╫я▐ п╡п╣я─я┬п╦п╫/п÷п╬п╡я√п╩я▄п╫п╣"
 
 #: xmms/main.c:207
 msgid "/Peaks Falloff/Medium"
-msgstr "/Пад╕ння вершин/Середн╓"
+msgstr "/п÷п╟п╢я√п╫п╫я▐ п╡п╣я─я┬п╦п╫/п║п╣я─п╣п╢п╫я■"
 
 #: xmms/main.c:208
 msgid "/Peaks Falloff/Fast"
-msgstr "/Пад╕ння вершин/Швидке"
+msgstr "/п÷п╟п╢я√п╫п╫я▐ п╡п╣я─я┬п╦п╫/п╗п╡п╦п╢п╨п╣"
 
 #: xmms/main.c:209
 msgid "/Peaks Falloff/Fastest"
-msgstr "/Пад╕ння вершин/Найшвидше"
+msgstr "/п÷п╟п╢я√п╫п╫я▐ п╡п╣я─я┬п╦п╫/п²п╟п╧я┬п╡п╦п╢я┬п╣"
 
 #: xmms/main.c:210
 msgid "/Visualization plugins"
@@ -2470,160 +2470,160 @@ msgstr ""
 
 #: xmms/main.c:254
 msgid "/About XMMS"
-msgstr "/Про XMMS"
+msgstr "/п÷я─п╬ XMMS"
 
 #: xmms/main.c:256
 msgid "/Play File"
-msgstr "/Грати файл"
+msgstr "/п⌠я─п╟я┌п╦ я└п╟п╧п╩"
 
 #: xmms/main.c:257
 msgid "/Play Location"
-msgstr "/Грати адресу"
+msgstr "/п⌠я─п╟я┌п╦ п╟п╢я─п╣я│я┐"
 
 #: xmms/main.c:258
 msgid "/View File Info"
-msgstr "/Переглянути ╕нформац╕ю файла"
+msgstr "/п÷п╣я─п╣пЁп╩я▐п╫я┐я┌п╦ я√п╫я└п╬я─п╪п╟я├я√я▌ я└п╟п╧п╩п╟"
 
 #: xmms/main.c:260 xmms/main.c:1948 xmms/main.c:1979 xmms/main.c:2472
 msgid "/Main Window"
-msgstr "/Основне в╕кно"
+msgstr "/п·я│п╫п╬п╡п╫п╣ п╡я√п╨п╫п╬"
 
 #: xmms/main.c:261 xmms/main.c:2473 xmms/playlistwin.c:1677
 #: xmms/playlistwin.c:1690
 msgid "/Playlist Editor"
-msgstr "/Редактор списку програвання"
+msgstr "/п═п╣п╢п╟п╨я┌п╬я─ я│п©п╦я│п╨я┐ п©я─п╬пЁя─п╟п╡п╟п╫п╫я▐"
 
 #: xmms/main.c:264 xmms/main.c:2475
 msgid "/Options"
-msgstr "/Опц╕╖"
+msgstr "/п·п©я├я√я≈"
 
 #: xmms/main.c:265
 msgid "/Playback"
-msgstr "/Програвання"
+msgstr "/п÷я─п╬пЁя─п╟п╡п╟п╫п╫я▐"
 
 #: xmms/main.c:266
 msgid "/Playback/Previous"
-msgstr "/Програвання/Попередня"
+msgstr "/п÷я─п╬пЁя─п╟п╡п╟п╫п╫я▐/п÷п╬п©п╣я─п╣п╢п╫я▐"
 
 #: xmms/main.c:267
 msgid "/Playback/Play"
-msgstr "/Програвання/Грати"
+msgstr "/п÷я─п╬пЁя─п╟п╡п╟п╫п╫я▐/п⌠я─п╟я┌п╦"
 
 #: xmms/main.c:268
 msgid "/Playback/Pause"
-msgstr "/Програвання/Пауза"
+msgstr "/п÷я─п╬пЁя─п╟п╡п╟п╫п╫я▐/п÷п╟я┐п╥п╟"
 
 #: xmms/main.c:269
 msgid "/Playback/Stop"
-msgstr "/Програвання/Стоп"
+msgstr "/п÷я─п╬пЁя─п╟п╡п╟п╫п╫я▐/п║я┌п╬п©"
 
 #: xmms/main.c:270
 msgid "/Playback/Next"
-msgstr "/Програвання/Наступна"
+msgstr "/п÷я─п╬пЁя─п╟п╡п╟п╫п╫я▐/п²п╟я│я┌я┐п©п╫п╟"
 
 #: xmms/main.c:271 xmms/main.c:280
 msgid "/Playback/-"
-msgstr "/Програвання/-"
+msgstr "/п÷я─п╬пЁя─п╟п╡п╟п╫п╫я▐/-"
 
 #: xmms/main.c:273
 msgid "/Playback/Stop with Fadeout"
-msgstr "/Програвання/Стоп ╕з затуханням"
+msgstr "/п÷я─п╬пЁя─п╟п╡п╟п╫п╫я▐/п║я┌п╬п© я√п╥ п╥п╟я┌я┐я┘п╟п╫п╫я▐п╪"
 
 #: xmms/main.c:275
 msgid "/Playback/Back 5 Seconds"
-msgstr "/Програвання/Назад 5 сек"
+msgstr "/п÷я─п╬пЁя─п╟п╡п╟п╫п╫я▐/п²п╟п╥п╟п╢ 5 я│п╣п╨"
 
 #: xmms/main.c:276
 msgid "/Playback/Fwd 5 Seconds"
-msgstr "/Програвання/Вперед 5 сек"
+msgstr "/п÷я─п╬пЁя─п╟п╡п╟п╫п╫я▐/п▓п©п╣я─п╣п╢ 5 я│п╣п╨"
 
 #: xmms/main.c:277
 msgid "/Playback/Start of List"
-msgstr "/Програвання/Початок списку"
+msgstr "/п÷я─п╬пЁя─п╟п╡п╟п╫п╫я▐/п÷п╬я┤п╟я┌п╬п╨ я│п©п╦я│п╨я┐"
 
 #: xmms/main.c:278
 msgid "/Playback/10 Tracks Back"
-msgstr "/Програвання/10 дор╕жок назад"
+msgstr "/п÷я─п╬пЁя─п╟п╡п╟п╫п╫я▐/10 п╢п╬я─я√п╤п╬п╨ п╫п╟п╥п╟п╢"
 
 #: xmms/main.c:279
 msgid "/Playback/10 Tracks Fwd"
-msgstr "/Програвання/10 дор╕жок вперед"
+msgstr "/п÷я─п╬пЁя─п╟п╡п╟п╫п╫я▐/10 п╢п╬я─я√п╤п╬п╨ п╡п©п╣я─п╣п╢"
 
 #: xmms/main.c:281
 msgid "/Playback/Jump to Time"
-msgstr "/Програвання/Перейти на час"
+msgstr "/п÷я─п╬пЁя─п╟п╡п╟п╫п╫я▐/п÷п╣я─п╣п╧я┌п╦ п╫п╟ я┤п╟я│"
 
 #: xmms/main.c:282
 msgid "/Playback/Jump to File"
-msgstr "/Програвання/Перейти на файл"
+msgstr "/п÷я─п╬пЁя─п╟п╡п╟п╫п╫я▐/п÷п╣я─п╣п╧я┌п╦ п╫п╟ я└п╟п╧п╩"
 
 #: xmms/main.c:283 xmms/main.c:2476
 msgid "/Visualization"
-msgstr "/Зображення"
+msgstr "/п≈п╬п╠я─п╟п╤п╣п╫п╫я▐"
 
 #: xmms/main.c:285
 msgid "/Exit"
-msgstr "/Вих╕д"
+msgstr "/п▓п╦я┘я√п╢"
 
 #: xmms/main.c:1241
 msgid "Jump to time"
-msgstr "Перейти на час"
+msgstr "п÷п╣я─п╣п╧я┌п╦ п╫п╟ я┤п╟я│"
 
 #: xmms/main.c:1251
 msgid "Jump to:"
-msgstr "Перейти на:"
+msgstr "п÷п╣я─п╣п╧я┌п╦ п╫п╟:"
 
 #: xmms/main.c:1267
 msgid "minutes:seconds"
-msgstr "хвилини:секунди"
+msgstr "я┘п╡п╦п╩п╦п╫п╦:я│п╣п╨я┐п╫п╢п╦"
 
 #: xmms/main.c:1274
 msgid "Track length:"
-msgstr "Довжина дор╕жки:"
+msgstr "п■п╬п╡п╤п╦п╫п╟ п╢п╬я─я√п╤п╨п╦:"
 
 #: xmms/main.c:1288 xmms/main.c:1400
 msgid "Jump"
-msgstr "Перейти"
+msgstr "п÷п╣я─п╣п╧я┌п╦"
 
 #: xmms/main.c:1348
 msgid "Files"
-msgstr "Файли"
+msgstr "п╓п╟п╧п╩п╦"
 
 #: xmms/main.c:1363
 msgid "Jump to file"
-msgstr "Перейти на файл"
+msgstr "п÷п╣я─п╣п╧я┌п╦ п╫п╟ я└п╟п╧п╩"
 
 #: xmms/main.c:1514
 msgid "Enter location to add:"
-msgstr "Введ╕ть адресу для додання:"
+msgstr "п▓п╡п╣п╢я√я┌я▄ п╟п╢я─п╣я│я┐ п╢п╩я▐ п╢п╬п╢п╟п╫п╫я▐:"
 
 #: xmms/main.c:1660
 msgid "Load file(s)"
-msgstr "Завантажити файл(и)"
+msgstr "п≈п╟п╡п╟п╫я┌п╟п╤п╦я┌п╦ я└п╟п╧п╩(п╦)"
 
 #: xmms/main.c:1774
 msgid "SEEK TO: %d:%-2.2d/%d:%-2.2d (%d%%)"
-msgstr "ПЕРЕМОТАТИ НА: %d:%-2.2d/%d:%-2.2d (%d%%)"
+msgstr "п÷п∙п═п∙п°п·п╒п░п╒п≤ п²п░: %d:%-2.2d/%d:%-2.2d (%d%%)"
 
 #: xmms/main.c:1799 xmms/main.c:2333
 msgid "VOLUME: %d%%"
-msgstr "ГУЧН╤СТЬ: %d%%"
+msgstr "п⌠пёп╖п²п├п║п╒п╛: %d%%"
 
 #: xmms/main.c:1828 xmms/main.c:2338
 msgid "BALANCE: %d%% LEFT"
-msgstr "БАЛАНС:  %d%% Л╤ВОРУЧ"
+msgstr "п▒п░п⌡п░п²п║:  %d%% п⌡п├п▓п·п═пёп╖"
 
 #: xmms/main.c:1833 xmms/main.c:2341
 msgid "BALANCE: CENTER"
-msgstr "БАЛАНС: ЦЕНТР"
+msgstr "п▒п░п⌡п░п²п║: п╕п∙п²п╒п═"
 
 #: xmms/main.c:1838 xmms/main.c:2344
 msgid "BALANCE: %d%% RIGHT"
-msgstr "БАЛАНС:  %d%% ПРАВОРУЧ"
+msgstr "п▒п░п⌡п░п²п║:  %d%% п÷п═п░п▓п·п═пёп╖"
 
 #: xmms/main.c:2209
 msgid "OPTIONS MENU"
-msgstr "МЕНЮ ОПЦ╤Й"
+msgstr "п°п∙п²п╝ п·п÷п╕п├п≥"
 
 #: xmms/main.c:2214
 msgid "DISABLE ALWAYS ON TOP (N/A)"
@@ -2631,15 +2631,15 @@ msgstr ""
 
 #: xmms/main.c:2216
 msgid "ENABLE ALWAYS ON TOP (N/A)"
-msgstr "ДОЗВОЛИТИ ЗАВЖДИ НАГОР╤"
+msgstr "п■п·п≈п▓п·п⌡п≤п╒п≤ п≈п░п▓п√п■п≤ п²п░п⌠п·п═п├"
 
 #: xmms/main.c:2218
 msgid "DISABLE ALWAYS ON TOP"
-msgstr "ЗАБОРОНИТИ ЗАВЖДИ НАГОР╤"
+msgstr "п≈п░п▒п·п═п·п²п≤п╒п≤ п≈п░п▓п√п■п≤ п²п░п⌠п·п═п├"
 
 #: xmms/main.c:2220
 msgid "ENABLE ALWAYS ON TOP"
-msgstr "ДОЗВОЛИТИ ЗАВЖДИ НАГОР╤"
+msgstr "п■п·п≈п▓п·п⌡п≤п╒п≤ п≈п░п▓п√п■п≤ п²п░п⌠п·п═п├"
 
 #: xmms/main.c:2223
 msgid "FILE INFO BOX"
@@ -2659,7 +2659,7 @@ msgstr ""
 
 #: xmms/main.c:2650
 msgid "Couldn't open audio"
-msgstr "Не можу в╕дкрити ауд╕о"
+msgstr "п²п╣ п╪п╬п╤я┐ п╡я√п╢п╨я─п╦я┌п╦ п╟я┐п╢я√п╬"
 
 #: xmms/main.c:2651
 msgid ""
@@ -2669,11 +2669,11 @@ msgid ""
 "2. No other programs is blocking the soundcard\n"
 "3. Your soundcard is configured properly"
 msgstr ""
-"Будь-ласка впевн╕ться, що:\n"
+"п▒я┐п╢я▄-п╩п╟я│п╨п╟ п╡п©п╣п╡п╫я√я┌я▄я│я▐, я┴п╬:\n"
 "\n"
-"1. Ви вибрали в╕рний вих╕дний модуль\n"
-"2. ╤нш╕ програми не блокують звукову плату\n"
-"3. Ваша звукова плата сконф╕╜урована в╕рно "
+"1. п▓п╦ п╡п╦п╠я─п╟п╩п╦ п╡я√я─п╫п╦п╧ п╡п╦я┘я√п╢п╫п╦п╧ п╪п╬п╢я┐п╩я▄\n"
+"2. п├п╫я┬я√ п©я─п╬пЁя─п╟п╪п╦ п╫п╣ п╠п╩п╬п╨я┐я▌я┌я▄ п╥п╡я┐п╨п╬п╡я┐ п©п╩п╟я┌я┐\n"
+"3. п▓п╟я┬п╟ п╥п╡я┐п╨п╬п╡п╟ п©п╩п╟я┌п╟ я│п╨п╬п╫я└я√р▒я┐я─п╬п╡п╟п╫п╟ п╡я√я─п╫п╬ "
 
 #: xmms/main.c:2783
 msgid ""
@@ -2696,22 +2696,22 @@ msgid ""
 "\n"
 msgstr ""
 "\n"
-"Використання: xmms [опц╕╖] [файли] ...\n"
+"п▓п╦п╨п╬я─п╦я│я┌п╟п╫п╫я▐: xmms [п╬п©я├я√я≈] [я└п╟п╧п╩п╦] ...\n"
 "\n"
-"Опц╕╖:\n"
+"п·п©я├я√я≈:\n"
 "------\n"
 "\n"
-"-h, --help               Надрукувати цей текст ╕ вийти.\n"
-"-s, --session            Встановити сес╕ю для використання xmms (Стандарт: "
+"-h, --help               п²п╟п╢я─я┐п╨я┐п╡п╟я┌п╦ я├п╣п╧ я┌п╣п╨я│я┌ я√ п╡п╦п╧я┌п╦.\n"
+"-s, --session            п▓я│я┌п╟п╫п╬п╡п╦я┌п╦ я│п╣я│я√я▌ п╢п╩я▐ п╡п╦п╨п╬я─п╦я│я┌п╟п╫п╫я▐ xmms (п║я┌п╟п╫п╢п╟я─я┌: "
 "0)\n"
-"-r, --rew                В╕д╕йти назад в списку\n"
-"-p, --play               Почати програвати поточний список\n"
-"-u, --pause              Пауза в п╕сн╕, що зараз гра╓\n"
-"-s, --stop               Зупинити п╕сню, що зараз гра╓\n"
-"-f, --fwd                Перейти вперед в списку\n"
-"-e, --enqueue            Не стирати список\n"
-"-m, --show-main-window   Показати головне в╕кно\n"
-"-v, --version            Надрукувати ╕нформац╕ю про верс╕ю ╕ вийти\n"
+"-r, --rew                п▓я√п╢я√п╧я┌п╦ п╫п╟п╥п╟п╢ п╡ я│п©п╦я│п╨я┐\n"
+"-p, --play               п÷п╬я┤п╟я┌п╦ п©я─п╬пЁя─п╟п╡п╟я┌п╦ п©п╬я┌п╬я┤п╫п╦п╧ я│п©п╦я│п╬п╨\n"
+"-u, --pause              п÷п╟я┐п╥п╟ п╡ п©я√я│п╫я√, я┴п╬ п╥п╟я─п╟п╥ пЁя─п╟я■\n"
+"-s, --stop               п≈я┐п©п╦п╫п╦я┌п╦ п©я√я│п╫я▌, я┴п╬ п╥п╟я─п╟п╥ пЁя─п╟я■\n"
+"-f, --fwd                п÷п╣я─п╣п╧я┌п╦ п╡п©п╣я─п╣п╢ п╡ я│п©п╦я│п╨я┐\n"
+"-e, --enqueue            п²п╣ я│я┌п╦я─п╟я┌п╦ я│п©п╦я│п╬п╨\n"
+"-m, --show-main-window   п÷п╬п╨п╟п╥п╟я┌п╦ пЁп╬п╩п╬п╡п╫п╣ п╡я√п╨п╫п╬\n"
+"-v, --version            п²п╟п╢я─я┐п╨я┐п╡п╟я┌п╦ я√п╫я└п╬я─п╪п╟я├я√я▌ п©я─п╬ п╡п╣я─я│я√я▌ я√ п╡п╦п╧я┌п╦\n"
 
 #: xmms/main.c:2943
 msgid ""
@@ -2723,10 +2723,10 @@ msgid ""
 "\n"
 msgstr ""
 "\n"
-"Помилка в се╜ментац╕╖ (Segmentation fault)\n"
+"п÷п╬п╪п╦п╩п╨п╟ п╡ я│п╣р▒п╪п╣п╫я┌п╟я├я√я≈ (Segmentation fault)\n"
 "\n"
-"Ви можливо з╕ткнулися з помилкою в XMMS, будь-ласка зверн╕ться на\n"
-"http://www.xmms.org/bugs ╕ заповн╕ть зв╕т про помилку.\n"
+"п▓п╦ п╪п╬п╤п╩п╦п╡п╬ п╥я√я┌п╨п╫я┐п╩п╦я│я▐ п╥ п©п╬п╪п╦п╩п╨п╬я▌ п╡ XMMS, п╠я┐п╢я▄-п╩п╟я│п╨п╟ п╥п╡п╣я─п╫я√я┌я▄я│я▐ п╫п╟\n"
+"http://www.xmms.org/bugs я√ п╥п╟п©п╬п╡п╫я√я┌я▄ п╥п╡я√я┌ п©я─п╬ п©п╬п╪п╦п╩п╨я┐.\n"
 "\n"
 
 #: xmms/main.c:3005
@@ -2749,35 +2749,35 @@ msgstr ""
 
 #: xmms/playlistwin.c:90
 msgid "/Sort List"
-msgstr "/В╕дсортувати список"
+msgstr "/п▓я√п╢я│п╬я─я┌я┐п╡п╟я┌п╦ я│п©п╦я│п╬п╨"
 
 #: xmms/playlistwin.c:91
 msgid "/Sort List/By Title"
-msgstr "/В╕дсортувати список/За назвою"
+msgstr "/п▓я√п╢я│п╬я─я┌я┐п╡п╟я┌п╦ я│п©п╦я│п╬п╨/п≈п╟ п╫п╟п╥п╡п╬я▌"
 
 #: xmms/playlistwin.c:92
 msgid "/Sort List/By Filename"
-msgstr "/В╕дсортувати список/За назвою файлу"
+msgstr "/п▓я√п╢я│п╬я─я┌я┐п╡п╟я┌п╦ я│п©п╦я│п╬п╨/п≈п╟ п╫п╟п╥п╡п╬я▌ я└п╟п╧п╩я┐"
 
 #: xmms/playlistwin.c:93
 msgid "/Sort List/By Path + Filename"
-msgstr "/В╕дсортувати список/За дор╕жкою та назвою файлу"
+msgstr "/п▓я√п╢я│п╬я─я┌я┐п╡п╟я┌п╦ я│п©п╦я│п╬п╨/п≈п╟ п╢п╬я─я√п╤п╨п╬я▌ я┌п╟ п╫п╟п╥п╡п╬я▌ я└п╟п╧п╩я┐"
 
 #: xmms/playlistwin.c:94 xmms/playlistwin.c:834
 msgid "/Sort Selection"
-msgstr "/Сортувати вибране"
+msgstr "/п║п╬я─я┌я┐п╡п╟я┌п╦ п╡п╦п╠я─п╟п╫п╣"
 
 #: xmms/playlistwin.c:95 xmms/playlistwin.c:830
 msgid "/Sort Selection/By Title"
-msgstr "/Сортувати вибране/За назвою"
+msgstr "/п║п╬я─я┌я┐п╡п╟я┌п╦ п╡п╦п╠я─п╟п╫п╣/п≈п╟ п╫п╟п╥п╡п╬я▌"
 
 #: xmms/playlistwin.c:96 xmms/playlistwin.c:831
 msgid "/Sort Selection/By Filename"
-msgstr "/Сортувати вибране/За назвою файлу"
+msgstr "/п║п╬я─я┌я┐п╡п╟я┌п╦ п╡п╦п╠я─п╟п╫п╣/п≈п╟ п╫п╟п╥п╡п╬я▌ я└п╟п╧п╩я┐"
 
 #: xmms/playlistwin.c:97 xmms/playlistwin.c:832
 msgid "/Sort Selection/By Path + Filename"
-msgstr "/Сортувати вибране/За дор╕жкою та назвою файлу"
+msgstr "/п║п╬я─я┌я┐п╡п╟я┌п╦ п╡п╦п╠я─п╟п╫п╣/п≈п╟ п╢п╬я─я√п╤п╨п╬я▌ я┌п╟ п╫п╟п╥п╡п╬я▌ я└п╟п╧п╩я┐"
 
 #: xmms/playlistwin.c:99
 msgid "/Randomize List"
@@ -3026,11 +3026,11 @@ msgstr ""
 
 #: xmms/prefswin.c:1001 xmms/prefswin.c:1031
 msgid " (enabled)"
-msgstr " (вмикнено)"
+msgstr " (п╡п╪п╦п╨п╫п╣п╫п╬)"
 
 #: xmms/prefswin.c:1060
 msgid " (disabled)"
-msgstr " (в╕дключено)"
+msgstr " (п╡я√п╢п╨п╩я▌я┤п╣п╫п╬)"
 
 #: xmms/skinwin.c:46
 msgid "Skins"

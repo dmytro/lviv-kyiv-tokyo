@@ -16,213 +16,213 @@ msgstr ""
 
 #: utils/imlib_config.c:185
 msgid "Imlib Config Editor"
-msgstr "Редактор конф╕╜урац╕╖ Imlib"
+msgstr "п═п╣п╢п╟п╨я┌п╬я─ п╨п╬п╫я└я√р▒я┐я─п╟я├я√я≈ Imlib"
 
 #: utils/imlib_config.c:945
 msgid "Base Levels"
-msgstr "Основн╕ р╕вн╕"
+msgstr "п·я│п╫п╬п╡п╫я√ я─я√п╡п╫я√"
 
 #: utils/imlib_config.c:961
 msgid "Red Levels"
-msgstr "Р╕вн╕ червоного"
+msgstr "п═я√п╡п╫я√ я┤п╣я─п╡п╬п╫п╬пЁп╬"
 
 #: utils/imlib_config.c:977
 msgid "Green Levels"
-msgstr "Р╕вн╕ зеленого"
+msgstr "п═я√п╡п╫я√ п╥п╣п╩п╣п╫п╬пЁп╬"
 
 #: utils/imlib_config.c:993
 msgid "Blue Levels"
-msgstr "Р╕вн╕ блакитного"
+msgstr "п═я√п╡п╫я√ п╠п╩п╟п╨п╦я┌п╫п╬пЁп╬"
 
 #: utils/imlib_config.c:1035
 msgid "Small colour set"
-msgstr "Малий наб╕р кольор╕в"
+msgstr "п°п╟п╩п╦п╧ п╫п╟п╠я√я─ п╨п╬п╩я▄п╬я─я√п╡"
 
 #: utils/imlib_config.c:1040
 msgid "Medium colour set"
-msgstr "Середн╕й наб╕р кольор╕в"
+msgstr "п║п╣я─п╣п╢п╫я√п╧ п╫п╟п╠я√я─ п╨п╬п╩я▄п╬я─я√п╡"
 
 #: utils/imlib_config.c:1045
 msgid "Large colour set"
-msgstr "Великий наб╕р кольор╕в"
+msgstr "п▓п╣п╩п╦п╨п╦п╧ п╫п╟п╠я√я─ п╨п╬п╩я▄п╬я─я√п╡"
 
 #: utils/imlib_config.c:1054
 msgid "Select Palette File"
-msgstr "Вибер╕ть файл пал╕три"
+msgstr "п▓п╦п╠п╣я─я√я┌я▄ я└п╟п╧п╩ п©п╟п╩я√я┌я─п╦"
 
 #: utils/imlib_config.c:1063
 msgid "Select"
-msgstr "Виб╕р"
+msgstr "п▓п╦п╠я√я─"
 
 #: utils/imlib_config.c:1078
 msgid "Save"
-msgstr "Записати"
+msgstr "п≈п╟п©п╦я│п╟я┌п╦"
 
 #: utils/imlib_config.c:1110
 msgid "Copy To"
-msgstr "Скоп╕ювати"
+msgstr "п║п╨п╬п©я√я▌п╡п╟я┌п╦"
 
 #: utils/imlib_config.c:1115
 msgid "Spread To"
-msgstr "Поширити на"
+msgstr "п÷п╬я┬п╦я─п╦я┌п╦ п╫п╟"
 
 #: utils/imlib_config.c:1124
 msgid "Set Last"
-msgstr "Встановити попередн╕й"
+msgstr "п▓я│я┌п╟п╫п╬п╡п╦я┌п╦ п©п╬п©п╣я─п╣п╢п╫я√п╧"
 
 #: utils/imlib_config.c:1129
 msgid "Delete"
-msgstr "Стерти"
+msgstr "п║я┌п╣я─я┌п╦"
 
 #: utils/imlib_config.c:1369
 msgid "Save User Config"
-msgstr "Запис конф╕╜урац╕╖ користувача"
+msgstr "п≈п╟п©п╦я│ п╨п╬п╫я└я√р▒я┐я─п╟я├я√я≈ п╨п╬я─п╦я│я┌я┐п╡п╟я┤п╟"
 
 #: utils/imlib_config.c:1376
 msgid "Save System Config"
-msgstr "Запис системно╖ конф╕╜урац╕╖"
+msgstr "п≈п╟п©п╦я│ я│п╦я│я┌п╣п╪п╫п╬я≈ п╨п╬п╫я└я√р▒я┐я─п╟я├я√я≈"
 
 #: utils/imlib_config.c:1382
 msgid "Close"
-msgstr "Закрити"
+msgstr "п≈п╟п╨я─п╦я┌п╦"
 
 #: utils/imlib_config.c:1525
 msgid "Colors"
-msgstr "Кольори"
+msgstr "п п╬п╩я▄п╬я─п╦"
 
 #: utils/imlib_config.c:1525
 msgid "Rendering"
-msgstr "Промальовка"
+msgstr "п÷я─п╬п╪п╟п╩я▄п╬п╡п╨п╟"
 
 #: utils/imlib_config.c:1525
 msgid "Display"
-msgstr "Дисплей"
+msgstr "п■п╦я│п©п╩п╣п╧"
 
 #: utils/imlib_config.c:1525
 msgid "Color Correction"
-msgstr "Кольорова компенсац╕я"
+msgstr "п п╬п╩я▄п╬я─п╬п╡п╟ п╨п╬п╪п©п╣п╫я│п╟я├я√я▐"
 
 #: utils/imlib_config.c:1526
 msgid "Select Palette"
-msgstr "Вибрати пал╕тру"
+msgstr "п▓п╦п╠я─п╟я┌п╦ п©п╟п╩я√я┌я─я┐"
 
 #: utils/imlib_config.c:1527
 msgid "Force Palette"
-msgstr "Примусове встановлення пал╕три"
+msgstr "п÷я─п╦п╪я┐я│п╬п╡п╣ п╡я│я┌п╟п╫п╬п╡п╩п╣п╫п╫я▐ п©п╟п╩я√я┌я─п╦"
 
 #: utils/imlib_config.c:1528
 msgid "Dither in Palette Mode"
-msgstr "Згладження пал╕три"
+msgstr "п≈пЁп╩п╟п╢п╤п╣п╫п╫я▐ п©п╟п╩я√я┌я─п╦"
 
 #: utils/imlib_config.c:1529
 msgid "Fast Remapping in Palette Mode"
-msgstr "Прискорена робота в режим╕ Пал╕три"
+msgstr "п÷я─п╦я│п╨п╬я─п╣п╫п╟ я─п╬п╠п╬я┌п╟ п╡ я─п╣п╤п╦п╪я√ п÷п╟п╩я√я┌я─п╦"
 
 #: utils/imlib_config.c:1530
 msgid "High Quality in 15/16bpp"
-msgstr "Висока як╕сть в режимах 15/16 б╕т на п╕ксел"
+msgstr "п▓п╦я│п╬п╨п╟ я▐п╨я√я│я┌я▄ п╡ я─п╣п╤п╦п╪п╟я┘ 15/16 п╠я√я┌ п╫п╟ п©я√п╨я│п╣п╩"
 
 #: utils/imlib_config.c:1531
 msgid "Limit Maximum Shared memory Size (bytes)"
-msgstr "Обмеження максимально╖ сп╕льно╖ пам'ят╕ (байт)"
+msgstr "п·п╠п╪п╣п╤п╣п╫п╫я▐ п╪п╟п╨я│п╦п╪п╟п╩я▄п╫п╬я≈ я│п©я√п╩я▄п╫п╬я≈ п©п╟п╪'я▐я┌я√ (п╠п╟п╧я┌)"
 
 #: utils/imlib_config.c:1533
 msgid "256 Kb"
-msgstr "256 Kб"
+msgstr "256 Kп╠"
 
 #: utils/imlib_config.c:1534 utils/imlib_config.c:1546
 msgid "512 Kb"
-msgstr "512 Kб"
+msgstr "512 Kп╠"
 
 #: utils/imlib_config.c:1535
 msgid "1   Mb"
-msgstr "1   Мб"
+msgstr "1   п°п╠"
 
 #: utils/imlib_config.c:1536
 msgid "2   Mb"
-msgstr "2   Мб"
+msgstr "2   п°п╠"
 
 #: utils/imlib_config.c:1537
 msgid "3   Mb"
-msgstr "3   Мб"
+msgstr "3   п°п╠"
 
 #: utils/imlib_config.c:1538
 msgid "4   Mb"
-msgstr "4   Мб"
+msgstr "4   п°п╠"
 
 #: utils/imlib_config.c:1539
 msgid "Use Ordered Dithering (Faster)"
-msgstr "Використовувати впорядковуване сгладжування (швидше)"
+msgstr "п▓п╦п╨п╬я─п╦я│я┌п╬п╡я┐п╡п╟я┌п╦ п╡п©п╬я─я▐п╢п╨п╬п╡я┐п╡п╟п╫п╣ я│пЁп╩п╟п╢п╤я┐п╡п╟п╫п╫я▐ (я┬п╡п╦п╢я┬п╣)"
 
 #: utils/imlib_config.c:1540
 msgid "MIT-SHM Shared Memory Enabled"
-msgstr "Сп╕льна пам'ять типу MIT-SHM вмикнена"
+msgstr "п║п©я√п╩я▄п╫п╟ п©п╟п╪'я▐я┌я▄ я┌п╦п©я┐ MIT-SHM п╡п╪п╦п╨п╫п╣п╫п╟"
 
 #: utils/imlib_config.c:1541
 msgid "Shared Pixmaps"
-msgstr "Сп╕льне використання п╕ксельних мап"
+msgstr "п║п©я√п╩я▄п╫п╣ п╡п╦п╨п╬я─п╦я│я┌п╟п╫п╫я▐ п©я√п╨я│п╣п╩я▄п╫п╦я┘ п╪п╟п©"
 
 #: utils/imlib_config.c:1542
 msgid "Fast Render"
-msgstr "Прискорена промальовка"
+msgstr "п÷я─п╦я│п╨п╬я─п╣п╫п╟ п©я─п╬п╪п╟п╩я▄п╬п╡п╨п╟"
 
 #: utils/imlib_config.c:1543
 msgid "Imagemagick & NETPBM Fallback"
-msgstr "Використання Imagemagick та NETPBM"
+msgstr "п▓п╦п╨п╬я─п╦я│я┌п╟п╫п╫я▐ Imagemagick я┌п╟ NETPBM"
 
 #: utils/imlib_config.c:1544
 msgid "Image Cache (bytes)"
-msgstr "Кеш для зображення (байт)"
+msgstr "п п╣я┬ п╢п╩я▐ п╥п╬п╠я─п╟п╤п╣п╫п╫я▐ (п╠п╟п╧я┌)"
 
 #: utils/imlib_config.c:1547
 msgid "1 Mb"
-msgstr "1 Мб"
+msgstr "1 п°п╠"
 
 #: utils/imlib_config.c:1548
 msgid "2 Mb"
-msgstr "2 Мб"
+msgstr "2 п°п╠"
 
 #: utils/imlib_config.c:1549
 msgid "4 Mb"
-msgstr "4 Мб"
+msgstr "4 п°п╠"
 
 #: utils/imlib_config.c:1550
 msgid "6 Mb"
-msgstr "6 Мб"
+msgstr "6 п°п╠"
 
 #: utils/imlib_config.c:1551
 msgid "10 Mb"
-msgstr "10 Мб"
+msgstr "10 п°п╠"
 
 #: utils/imlib_config.c:1552
 msgid "Pixmap Cache (bits)"
-msgstr "Кеш для п╕ксельних мап (б╕т)"
+msgstr "п п╣я┬ п╢п╩я▐ п©я√п╨я│п╣п╩я▄п╫п╦я┘ п╪п╟п© (п╠я√я┌)"
 
 #: utils/imlib_config.c:1554
 msgid "5120 Kbits"
-msgstr "5120 Кб╕т"
+msgstr "5120 п п╠я√я┌"
 
 #: utils/imlib_config.c:1555
 msgid "10 Mbits"
-msgstr "10 Мб╕т"
+msgstr "10 п°п╠я√я┌"
 
 #: utils/imlib_config.c:1556
 msgid "20 Mbits"
-msgstr "20 Мб╕т"
+msgstr "20 п°п╠я√я┌"
 
 #: utils/imlib_config.c:1557
 msgid "40 Mbits"
-msgstr "40 Мб╕т"
+msgstr "40 п°п╠я√я┌"
 
 #: utils/imlib_config.c:1558
 msgid "60 Mbits"
-msgstr "60 Мб╕т"
+msgstr "60 п°п╠я√я┌"
 
 #: utils/imlib_config.c:1559
 msgid "100 Mbits"
-msgstr "100 Мб╕т"
+msgstr "100 п°п╠я√я┌"
 
 #: utils/imlib_config.c:1560
 msgid "Force Visual ID"
-msgstr "Примусове використання в╕зульного ID "
+msgstr "п÷я─п╦п╪я┐я│п╬п╡п╣ п╡п╦п╨п╬я─п╦я│я┌п╟п╫п╫я▐ п╡я√п╥я┐п╩я▄п╫п╬пЁп╬ ID "
 

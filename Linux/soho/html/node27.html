@@ -7,8 +7,8 @@ original version by:  Nikos Drakos, CBLU, University of Leeds
   Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
 <HTML>
 <HEAD>
-<TITLE>Л╕накс: IP Chains</TITLE>
-<META NAME="description" CONTENT="Л╕накс: IP Chains">
+<TITLE>п⌡я√п╫п╟п╨я│: IP Chains</TITLE>
+<META NAME="description" CONTENT="п⌡я√п╫п╟п╨я│: IP Chains">
 <META NAME="keywords" CONTENT="SOHO-setup">
 <META NAME="resource-type" CONTENT="document">
 <META NAME="distribution" CONTENT="global">
@@ -41,11 +41,11 @@ original version by:  Nikos Drakos, CBLU, University of Leeds
 <IMG WIDTH="65" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="contents" SRC="contents.png"></A>  
 <BR>
 <B> Next:</B> <A NAME="tex2html459"
-  HREF="node28.html">ipfw в MacOS X.</A>
+  HREF="node28.html">ipfw п╡ MacOS X.</A>
 <B> Up:</B> <A NAME="tex2html455"
-  HREF="node26.html">Firewall або брандмауер.</A>
+  HREF="node26.html">Firewall п╟п╠п╬ п╠я─п╟п╫п╢п╪п╟я┐п╣я─.</A>
 <B> Previous:</B> <A NAME="tex2html449"
-  HREF="node26.html">Firewall або брандмауер.</A>
+  HREF="node26.html">Firewall п╟п╠п╬ п╠я─п╟п╫п╢п╪п╟я┐п╣я─.</A>
  &nbsp <B>  <A NAME="tex2html457"
   HREF="node1.html">Contents</A></B> 
 <BR>
@@ -53,14 +53,14 @@ original version by:  Nikos Drakos, CBLU, University of Leeds
 <!--End of Navigation Panel-->
 
 <H3><A NAME="SECTION00071100000000000000">
-Л╕накс: IP Chains</A>
+п⌡я√п╫п╟п╨я│: IP Chains</A>
 </H3>
 <P>
-<FONT SIZE="+1">Головне  джерело ╕нформац╕╖  при установц╕  IP Chains  - це  IP Chains
+<FONT SIZE="+1">п⌠п╬п╩п╬п╡п╫п╣  п╢п╤п╣я─п╣п╩п╬ я√п╫я└п╬я─п╪п╟я├я√я≈  п©я─п╦ я┐я│я┌п╟п╫п╬п╡я├я√  IP Chains  - я├п╣  IP Chains
 HOWTO [<A
- HREF="node57.html#ipchains">13</A>]. Найпрост╕ший вар╕ант  наведений для прикладу в цьому
-документ╕ працю╓  без проблем. Якщо вам потр╕бне  щось б╕льш серйозне,
-зверн╕ться до першоджерела. Ось рекомендац╕╖ прямо з [<A
+ HREF="node57.html#ipchains">13</A>]. п²п╟п╧п©я─п╬я│я┌я√я┬п╦п╧ п╡п╟я─я√п╟п╫я┌  п╫п╟п╡п╣п╢п╣п╫п╦п╧ п╢п╩я▐ п©я─п╦п╨п╩п╟п╢я┐ п╡ я├я▄п╬п╪я┐
+п╢п╬п╨я┐п╪п╣п╫я┌я√ п©я─п╟я├я▌я■  п╠п╣п╥ п©я─п╬п╠п╩п╣п╪. п╞п╨я┴п╬ п╡п╟п╪ п©п╬я┌я─я√п╠п╫п╣  я┴п╬я│я▄ п╠я√п╩я▄я┬ я│п╣я─п╧п╬п╥п╫п╣,
+п╥п╡п╣я─п╫я√я┌я▄я│я▐ п╢п╬ п©п╣я─я┬п╬п╢п╤п╣я─п╣п╩п╟. п·я│я▄ я─п╣п╨п╬п╪п╣п╫п╢п╟я├я√я≈ п©я─я▐п╪п╬ п╥ [<A
  HREF="node57.html#ipchains">13</A>]:
 </FONT>
 <P>
@@ -81,13 +81,13 @@ HOWTO [<A
        # echo 1 &gt; /proc/sys/net/ipv4/ip_forward
 </PRE><BLOCKQUOTE></BLOCKQUOTE>
 <P>
-<FONT SIZE="+1">Ц╕ три команди встановлюють пол╕тику MASQ (маскування) вс╕х пакет╕в,
-що проходять через ╕нтерфейс ppp0 ╕ дозволяють також ip_forward в
-систем╕. П╕сля цього достатньо записати встановлен╕ правила в файл
-командою: ipchains-save &gt; /etc/ipchains.rules
+<FONT SIZE="+1">п╕я√ я┌я─п╦ п╨п╬п╪п╟п╫п╢п╦ п╡я│я┌п╟п╫п╬п╡п╩я▌я▌я┌я▄ п©п╬п╩я√я┌п╦п╨я┐ MASQ (п╪п╟я│п╨я┐п╡п╟п╫п╫я▐) п╡я│я√я┘ п©п╟п╨п╣я┌я√п╡,
+я┴п╬ п©я─п╬я┘п╬п╢я▐я┌я▄ я┤п╣я─п╣п╥ я√п╫я┌п╣я─я└п╣п╧я│ ppp0 я√ п╢п╬п╥п╡п╬п╩я▐я▌я┌я▄ я┌п╟п╨п╬п╤ ip_forward п╡
+я│п╦я│я┌п╣п╪я√. п÷я√я│п╩я▐ я├я▄п╬пЁп╬ п╢п╬я│я┌п╟я┌п╫я▄п╬ п╥п╟п©п╦я│п╟я┌п╦ п╡я│я┌п╟п╫п╬п╡п╩п╣п╫я√ п©я─п╟п╡п╦п╩п╟ п╡ я└п╟п╧п╩
+п╨п╬п╪п╟п╫п╢п╬я▌: ipchains-save &gt; /etc/ipchains.rules
 </FONT>
 <P>
-<FONT SIZE="+1">╤ додати до стартових скрипт╕в системи ось цей невеличкий скрипт:
+<FONT SIZE="+1">п├ п╢п╬п╢п╟я┌п╦ п╢п╬ я│я┌п╟я─я┌п╬п╡п╦я┘ я│п╨я─п╦п©я┌я√п╡ я│п╦я│я┌п╣п╪п╦ п╬я│я▄ я├п╣п╧ п╫п╣п╡п╣п╩п╦я┤п╨п╦п╧ я│п╨я─п╦п©я┌:
 </FONT>
 <P>
 <FONT SIZE="+1">
@@ -128,7 +128,7 @@ exit 0
 
 </FONT>
 <P>
-<FONT SIZE="+1">А також створити на нього посилання: 
+<FONT SIZE="+1">п░ я┌п╟п╨п╬п╤ я│я┌п╡п╬я─п╦я┌п╦ п╫п╟ п╫я▄п╬пЁп╬ п©п╬я│п╦п╩п╟п╫п╫я▐: 
 ln -s /etc/init.d/packetfilter /etc/rcS.d/S39packetfilter
 </FONT>
 <P>

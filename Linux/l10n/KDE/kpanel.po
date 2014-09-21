@@ -17,133 +17,133 @@ msgid "\n%b %d"
 msgstr "\n%b %d"
 
 msgid "&Move"
-msgstr "&Пересунути"
+msgstr "&п÷п╣я─п╣я│я┐п╫я┐я┌п╦"
 
 msgid "&Properties"
-msgstr "&Властивост╕"
+msgstr "&п▓п╩п╟я│я┌п╦п╡п╬я│я┌я√"
 
 msgid "(Access Denied)"
-msgstr "(В╕дмовлено в доступ╕)"
+msgstr "(п▓я√п╢п╪п╬п╡п╩п╣п╫п╬ п╡ п╢п╬я│я┌я┐п©я√)"
 
 msgid "(Too Many Files)"
-msgstr "(Занадто багато файл╕в)"
+msgstr "(п≈п╟п╫п╟п╢я┌п╬ п╠п╟пЁп╟я┌п╬ я└п╟п╧п╩я√п╡)"
 
 msgid "(Unreadable)"
-msgstr "(Не чита╓ться)"
+msgstr "(п²п╣ я┤п╦я┌п╟я■я┌я▄я│я▐)"
 
 msgid "(empty folder)"
-msgstr "(пуста тека)"
+msgstr "(п©я┐я│я┌п╟ я┌п╣п╨п╟)"
 
 msgid "Add Application"
-msgstr "Додати програму"
+msgstr "п■п╬п╢п╟я┌п╦ п©я─п╬пЁя─п╟п╪я┐"
 
 msgid "Add Disk Navigator"
-msgstr "Додати нав╕гатор диск╕в"
+msgstr "п■п╬п╢п╟я┌п╦ п╫п╟п╡я√пЁп╟я┌п╬я─ п╢п╦я│п╨я√п╡"
 
 msgid "Add Windowlist"
-msgstr "Додати список в╕кон"
+msgstr "п■п╬п╢п╟я┌п╦ я│п©п╦я│п╬п╨ п╡я√п╨п╬п╫"
 
 msgid "Add a Disk Navigator menu onto the panel"
-msgstr "Додати меню Нав╕гатора Диск╕в до панел╕"
+msgstr "п■п╬п╢п╟я┌п╦ п╪п╣п╫я▌ п²п╟п╡я√пЁп╟я┌п╬я─п╟ п■п╦я│п╨я√п╡ п╢п╬ п©п╟п╫п╣п╩я√"
 
 msgid "Add a windowlist menu onto the panel"
-msgstr "Додати меню списку в╕кон до панел╕"
+msgstr "п■п╬п╢п╟я┌п╦ п╪п╣п╫я▌ я│п©п╦я│п╨я┐ п╡я√п╨п╬п╫ п╢п╬ п©п╟п╫п╣п╩я√"
 
 msgid "Add an application or a submenu onto the panel"
-msgstr "Додати програму або п╕дменю до панел╕"
+msgstr "п■п╬п╢п╟я┌п╦ п©я─п╬пЁя─п╟п╪я┐ п╟п╠п╬ п©я√п╢п╪п╣п╫я▌ п╢п╬ п©п╟п╫п╣п╩я√"
 
 msgid "Add or remove applications in the menu structure "
-msgstr "Додати чи прибрати програми ╕з структури меню"
+msgstr "п■п╬п╢п╟я┌п╦ я┤п╦ п©я─п╦п╠я─п╟я┌п╦ п©я─п╬пЁя─п╟п╪п╦ я√п╥ я│я┌я─я┐п╨я┌я┐я─п╦ п╪п╣п╫я▌"
 
 msgid "Cannot put this as button onto the panel!"
-msgstr "Не можу додати цю кнопку до панел╕!"
+msgstr "п²п╣ п╪п╬п╤я┐ п╢п╬п╢п╟я┌п╦ я├я▌ п╨п╫п╬п©п╨я┐ п╢п╬ п©п╟п╫п╣п╩я√!"
 
 msgid "Configure"
-msgstr "Конф╕╜урац╕я"
+msgstr "п п╬п╫я└я√р▒я┐я─п╟я├я√я▐"
 
 msgid "Configure panel"
-msgstr "Сконф╕╜урувати панель"
+msgstr "п║п╨п╬п╫я└я√р▒я┐я─я┐п╡п╟я┌п╦ п©п╟п╫п╣п╩я▄"
 
 msgid "Customize Disk Navigator"
-msgstr "Настро╖ти нав╕гатор диск╕в"
+msgstr "п²п╟я│я┌я─п╬я≈я┌п╦ п╫п╟п╡я√пЁп╟я┌п╬я─ п╢п╦я│п╨я√п╡"
 
 msgid "Disk Navigator"
-msgstr "Нав╕гатор диск╕в"
+msgstr "п²п╟п╡я√пЁп╟я┌п╬я─ п╢п╦я│п╨я√п╡"
 
 msgid "Edit Menus"
-msgstr "Редагувати меню"
+msgstr "п═п╣п╢п╟пЁя┐п╡п╟я┌п╦ п╪п╣п╫я▌"
 
 msgid "Entries shared among all users"
-msgstr "Пункти сп╕льн╕ для вс╕х користувач╕в"
+msgstr "п÷я┐п╫п╨я┌п╦ я│п©я√п╩я▄п╫я√ п╢п╩я▐ п╡я│я√я┘ п╨п╬я─п╦я│я┌я┐п╡п╟я┤я√п╡"
 
 msgid "Go!"
-msgstr "Вперед!"
+msgstr "п▓п©п╣я─п╣п╢!"
 
 msgid "Hide the panel"
-msgstr "Заховати панель"
+msgstr "п≈п╟я┘п╬п╡п╟я┌п╦ п©п╟п╫п╣п╩я▄"
 
 msgid "Iconify other &windows"
-msgstr "М╕н╕м╕зувати ╕нш╕ &в╕кна"
+msgstr "п°я√п╫я√п╪я√п╥я┐п╡п╟я┌п╦ я√п╫я┬я√ &п╡я√п╨п╫п╟"
 
 msgid "KDiskNavigator"
 msgstr "KDiskNavigator"
 
 msgid "Lock Screen"
-msgstr "Замок Екрану"
+msgstr "п≈п╟п╪п╬п╨ п∙п╨я─п╟п╫я┐"
 
 msgid "Lock screen"
-msgstr "Замкнути екран"
+msgstr "п≈п╟п╪п╨п╫я┐я┌п╦ п╣п╨я─п╟п╫"
 
 msgid "Logout"
-msgstr "Вийти"
+msgstr "п▓п╦п╧я┌п╦"
 
 msgid "No info available"
-msgstr "Нема╓ ╕нформац╕╖"
+msgstr "п²п╣п╪п╟я■ я√п╫я└п╬я─п╪п╟я├я√я≈"
 
 msgid "Oops!"
-msgstr "Ой!"
+msgstr "п·п╧!"
 
 msgid "Open Folder"
-msgstr "В╕дкрити теку"
+msgstr "п▓я√п╢п╨я─п╦я┌п╦ я┌п╣п╨я┐"
 
 msgid "Open this folder (+Shift: Launch a terminal here)"
-msgstr "В╕дкрити цю теку (+ Shift: запустити тут терм╕нал)"
+msgstr "п▓я√п╢п╨я─п╦я┌п╦ я├я▌ я┌п╣п╨я┐ (+ Shift: п╥п╟п©я┐я│я┌п╦я┌п╦ я┌я┐я┌ я┌п╣я─п╪я√п╫п╟п╩)"
 
 msgid "Options..."
-msgstr "Параметри..."
+msgstr "п÷п╟я─п╟п╪п╣я┌я─п╦..."
 
 msgid "Panel"
-msgstr "Панель"
+msgstr "п÷п╟п╫п╣п╩я▄"
 
 msgid "Personal entries"
-msgstr "Особист╕ пункти"
+msgstr "п·я│п╬п╠п╦я│я┌я√ п©я┐п╫п╨я┌п╦"
 
 msgid "Personal:"
-msgstr "Особисте:"
+msgstr "п·я│п╬п╠п╦я│я┌п╣:"
 
 msgid "Quickly navigate through the filesystem"
-msgstr "Швидко просуватися по файлов╕й систем╕"
+msgstr "п╗п╡п╦п╢п╨п╬ п©я─п╬я│я┐п╡п╟я┌п╦я│я▐ п©п╬ я└п╟п╧п╩п╬п╡я√п╧ я│п╦я│я┌п╣п╪я√"
 
 msgid "Recent entries"
-msgstr "Недавн╕ пункти"
+msgstr "п²п╣п╢п╟п╡п╫я√ п©я┐п╫п╨я┌п╦"
 
 msgid "Recent:"
-msgstr "Недавн╕:"
+msgstr "п²п╣п╢п╟п╡п╫я√:"
 
 msgid "Restart"
-msgstr "Перезапустити"
+msgstr "п÷п╣я─п╣п╥п╟п©я┐я│я┌п╦я┌п╦"
 
 msgid "Restart panel"
-msgstr "Перезапустити панель"
+msgstr "п÷п╣я─п╣п╥п╟п©я┐я│я┌п╦я┌п╦ п©п╟п╫п╣п╩я▄"
 
 msgid "Shared:"
-msgstr "Сп╕льн╕:"
+msgstr "п║п©я√п╩я▄п╫я√:"
 
 msgid "Show the panel"
-msgstr "Показувати цю панель"
+msgstr "п÷п╬п╨п╟п╥я┐п╡п╟я┌п╦ я├я▌ п©п╟п╫п╣п╩я▄"
 
 msgid "The menu editor is not installed."
-msgstr "Редактор меню не встановлений"
+msgstr "п═п╣п╢п╟п╨я┌п╬я─ п╪п╣п╫я▌ п╫п╣ п╡я│я┌п╟п╫п╬п╡п╩п╣п╫п╦п╧"
 
 msgid "Windowlist"
-msgstr "Список В╕кон"
+msgstr "п║п©п╦я│п╬п╨ п▓я√п╨п╬п╫"

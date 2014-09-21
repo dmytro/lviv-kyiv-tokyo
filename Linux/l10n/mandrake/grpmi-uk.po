@@ -15,80 +15,80 @@ msgstr ""
 
 #: grpmi.c:40
 msgid "Installing/Upgrading Progress"
-msgstr "Просування установки/поновлення"
+msgstr "п÷я─п╬я│я┐п╡п╟п╫п╫я▐ я┐я│я┌п╟п╫п╬п╡п╨п╦/п©п╬п╫п╬п╡п╩п╣п╫п╫я▐"
 
 #: grpmi.c:64 grpmi.c:165
 msgid "Fetching:"
-msgstr "Читаю:"
+msgstr "п╖п╦я┌п╟я▌:"
 
 #: grpmi.c:70 grpmi.c:214
 msgid "Installing:"
-msgstr "Встановлюю:"
+msgstr "п▓я│я┌п╟п╫п╬п╡п╩я▌я▌:"
 
 #. Cancel button
 #: grpmi.c:83
 msgid "Cancel"
-msgstr "В╕дм╕нити"
+msgstr "п▓я√п╢п╪я√п╫п╦я┌п╦"
 
 #: grpmi.c:136
 #, c-format
 msgid " is needed by %s-%s-%s"
-msgstr " потр╕бен для %s-%s-%s"
+msgstr " п©п╬я┌я─я√п╠п╣п╫ п╢п╩я▐ %s-%s-%s"
 
 #: grpmi.c:139
 #, c-format
 msgid " conflicts with %s-%s-%s"
-msgstr " конфл╕кту╓ з %s-%s-%s"
+msgstr " п╨п╬п╫я└п╩я√п╨я┌я┐я■ п╥ %s-%s-%s"
 
 #: grpmi.c:170 grpmi.c:189
 msgid "An error occured while fetching file"
-msgstr "Сталася помилка п╕д час читання файлу"
+msgstr "п║я┌п╟п╩п╟я│я▐ п©п╬п╪п╦п╩п╨п╟ п©я√п╢ я┤п╟я│ я┤п╦я┌п╟п╫п╫я▐ я└п╟п╧п╩я┐"
 
 #: grpmi.c:170 grpmi.c:189 grpmi.c:249 grpmi.c:253 grpmi.c:255
 msgid "Skip"
-msgstr "Пропустити"
+msgstr "п÷я─п╬п©я┐я│я┌п╦я┌п╦"
 
 #: grpmi.c:236
 msgid "Preparing for install"
-msgstr "Готуюсь до установки"
+msgstr "п⌠п╬я┌я┐я▌я│я▄ п╢п╬ я┐я│я┌п╟п╫п╬п╡п╨п╦"
 
 #: grpmi.c:249
 msgid "Can't open package"
-msgstr "Не можу в╕дкрити пакет"
+msgstr "п²п╣ п╪п╬п╤я┐ п╡я√п╢п╨я─п╦я┌п╦ п©п╟п╨п╣я┌"
 
 #: grpmi.c:253
 msgid "Package is corrupted"
-msgstr "Пакет з╕псований"
+msgstr "п÷п╟п╨п╣я┌ п╥я√п©я│п╬п╡п╟п╫п╦п╧"
 
 #: grpmi.c:255
 msgid "Package can't be installed"
-msgstr "Не можу встановити пакет"
+msgstr "п²п╣ п╪п╬п╤я┐ п╡я│я┌п╟п╫п╬п╡п╦я┌п╦ п©п╟п╨п╣я┌"
 
 #: grpmi.c:271 grpmi.c:277
 msgid "Error while checking dependencies :("
-msgstr "Помилка при перев╕рц╕ залежностей :("
+msgstr "п÷п╬п╪п╦п╩п╨п╟ п©я─п╦ п©п╣я─п╣п╡я√я─я├я√ п╥п╟п╩п╣п╤п╫п╬я│я┌п╣п╧ :("
 
 #: grpmi.c:271 grpmi.c:273 grpmi.c:277
 msgid "Quit"
-msgstr "Вих╕д"
+msgstr "п▓п╦я┘я√п╢"
 
 #: grpmi.c:273
 msgid "Force"
-msgstr "Примусово"
+msgstr "п÷я─п╦п╪я┐я│п╬п╡п╬"
 
 #: grpmi.c:274 grpmi.c:285
 msgid "Error..."
-msgstr "Помилка..."
+msgstr "п÷п╬п╪п╦п╩п╨п╟..."
 
 #: grpmi.c:280
 msgid "Ok"
-msgstr "Так"
+msgstr "п╒п╟п╨"
 
 #: grpmi.c:308
 msgid "grpmi error: you must be superuser!\n"
-msgstr "помилка grpmi: Ви повинн╕ мати прив╕ле╖ системного адм╕н╕стратора!\n"
+msgstr "п©п╬п╪п╦п╩п╨п╟ grpmi: п▓п╦ п©п╬п╡п╦п╫п╫я√ п╪п╟я┌п╦ п©я─п╦п╡я√п╩п╣я≈ я│п╦я│я┌п╣п╪п╫п╬пЁп╬ п╟п╢п╪я√п╫я√я│я┌я─п╟я┌п╬я─п╟!\n"
 
 #: grpmi.c:315
 msgid "usage: grpmi <[-noupgrade] rpms>\n"
-msgstr "Використання: grpmi <[-noupgrade] rpm'и>\n"
+msgstr "п▓п╦п╨п╬я─п╦я│я┌п╟п╫п╫я▐: grpmi <[-noupgrade] rpm'п╦>\n"
 

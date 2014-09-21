@@ -16,157 +16,157 @@ msgstr ""
 
 #: MandrakeUpdate.c:33
 msgid "essential"
-msgstr "сутт╓вий"
+msgstr "я│я┐я┌я┌я■п╡п╦п╧"
 
 #: MandrakeUpdate.c:33
 msgid "important"
-msgstr "важливий"
+msgstr "п╡п╟п╤п╩п╦п╡п╦п╧"
 
 #: MandrakeUpdate.c:33
 msgid "normal"
-msgstr "звичайний"
+msgstr "п╥п╡п╦я┤п╟п╧п╫п╦п╧"
 
 #: MandrakeUpdate.c:33
 msgid "optional"
-msgstr "додатковий"
+msgstr "п╢п╬п╢п╟я┌п╨п╬п╡п╦п╧"
 
 #: MandrakeUpdate.c:254
 msgid "Mandrake Update Help"
-msgstr "П╕дказка по Mandrake Update"
+msgstr "п÷я√п╢п╨п╟п╥п╨п╟ п©п╬ Mandrake Update"
 
 #. The Close Button
 #: MandrakeUpdate.c:262
 msgid "Close"
-msgstr "Закрити"
+msgstr "п≈п╟п╨я─п╦я┌п╦"
 
 #: MandrakeUpdate.c:312
 msgid "The help file was not found\n"
-msgstr "Не можу знайти файл п╕дказок\n"
+msgstr "п²п╣ п╪п╬п╤я┐ п╥п╫п╟п╧я┌п╦ я└п╟п╧п╩ п©я√п╢п╨п╟п╥п╬п╨\n"
 
 #: MandrakeUpdate.c:436
 msgid "Proxies setup"
-msgstr "Встановлення прокс╕"
+msgstr "п▓я│я┌п╟п╫п╬п╡п╩п╣п╫п╫я▐ п©я─п╬п╨я│я√"
 
 #. Http Proxy:
 #: MandrakeUpdate.c:450
 msgid "Http Proxy:"
-msgstr "Прокс╕ для HTTP:"
+msgstr "п÷я─п╬п╨я│я√ п╢п╩я▐ HTTP:"
 
 #: MandrakeUpdate.c:459 MandrakeUpdate.c:475
 msgid "Port:"
-msgstr "Порт:"
+msgstr "п÷п╬я─я┌:"
 
 #. Ftp Proxy:
 #: MandrakeUpdate.c:466
 msgid "Ftp Proxy:"
-msgstr "Прокс╕ для FTP:"
+msgstr "п÷я─п╬п╨я│я√ п╢п╩я▐ FTP:"
 
 #. The "OK" Button
 #: MandrakeUpdate.c:482
 msgid "OK"
-msgstr "Гаразд"
+msgstr "п⌠п╟я─п╟п╥п╢"
 
 #. The "Cancel" Button
 #: MandrakeUpdate.c:491
 msgid "Cancel"
-msgstr "В╕дм╕нити"
+msgstr "п▓я√п╢п╪я√п╫п╦я┌п╦"
 
 #: MandrakeUpdate.c:527
 msgid "Fetching of mirror list failed :("
-msgstr "Не зм╕г прочитати перел╕к дзеркал :("
+msgstr "п²п╣ п╥п╪я√пЁ п©я─п╬я┤п╦я┌п╟я┌п╦ п©п╣я─п╣п╩я√п╨ п╢п╥п╣я─п╨п╟п╩ :("
 
 #. The "Quit" Button
 #: MandrakeUpdate.c:528 MandrakeUpdate.c:875 MandrakeUpdate.c:1375
 msgid "Quit"
-msgstr "Вих╕д"
+msgstr "п▓п╦я┘я√п╢"
 
 #: MandrakeUpdate.c:528
 msgid "Try again later"
-msgstr "Попробуйте наступного разу"
+msgstr "п÷п╬п©я─п╬п╠я┐п╧я┌п╣ п╫п╟я│я┌я┐п©п╫п╬пЁп╬ я─п╟п╥я┐"
 
 #: MandrakeUpdate.c:655
 msgid "Error while fetching the list of upgrade packages,"
-msgstr "Сталася помилка при читанн╕ пакет╕в для поновлення,"
+msgstr "п║я┌п╟п╩п╟я│я▐ п©п╬п╪п╦п╩п╨п╟ п©я─п╦ я┤п╦я┌п╟п╫п╫я√ п©п╟п╨п╣я┌я√п╡ п╢п╩я▐ п©п╬п╫п╬п╡п╩п╣п╫п╫я▐,"
 
 #: MandrakeUpdate.c:656 MandrakeUpdate.c:1176 MandrakeUpdate.c:1189
 #: MandrakeUpdate.c:1209
 msgid "Ok"
-msgstr "Так"
+msgstr "п╒п╟п╨"
 
 #: MandrakeUpdate.c:656
 msgid "try with another mirror"
-msgstr "попробуйте скористуватися ╕ншим дзеркалом"
+msgstr "п©п╬п©я─п╬п╠я┐п╧я┌п╣ я│п╨п╬я─п╦я│я┌я┐п╡п╟я┌п╦я│я▐ я√п╫я┬п╦п╪ п╢п╥п╣я─п╨п╟п╩п╬п╪"
 
 #: MandrakeUpdate.c:736
 #, c-format
 msgid "warning: failed dependency %s\n"
-msgstr "попередження: не╕снуюча залежн╕сть %s\n"
+msgstr "п©п╬п©п╣я─п╣п╢п╤п╣п╫п╫я▐: п╫п╣я√я│п╫я┐я▌я┤п╟ п╥п╟п╩п╣п╤п╫я√я│я┌я▄ %s\n"
 
 #: MandrakeUpdate.c:866
 #, c-format
 msgid "oops %s not found\n"
-msgstr "Не можу знайти %s\n"
+msgstr "п²п╣ п╪п╬п╤я┐ п╥п╫п╟п╧я┌п╦ %s\n"
 
 #: MandrakeUpdate.c:874
 msgid "Installation program not found :("
-msgstr "Не можу знайти програму установки :("
+msgstr "п²п╣ п╪п╬п╤я┐ п╥п╫п╟п╧я┌п╦ п©я─п╬пЁя─п╟п╪я┐ я┐я│я┌п╟п╫п╬п╡п╨п╦ :("
 
 #: MandrakeUpdate.c:875
 msgid "Check your installation"
-msgstr "Перев╕рте свою установку"
+msgstr "п÷п╣я─п╣п╡я√я─я┌п╣ я│п╡п╬я▌ я┐я│я┌п╟п╫п╬п╡п╨я┐"
 
 #: MandrakeUpdate.c:897
 msgid "Please wait while fetching the list of mirrors..."
-msgstr "Зачекайте, поки читаю список дзеркал..."
+msgstr "п≈п╟я┤п╣п╨п╟п╧я┌п╣, п©п╬п╨п╦ я┤п╦я┌п╟я▌ я│п©п╦я│п╬п╨ п╢п╥п╣я─п╨п╟п╩..."
 
 #: MandrakeUpdate.c:944
 msgid "Please wait while fetching the list of upgrade packages..."
-msgstr "Зачекайте, поки читаю список пакет╕в для поновлення..."
+msgstr "п≈п╟я┤п╣п╨п╟п╧я┌п╣, п©п╬п╨п╦ я┤п╦я┌п╟я▌ я│п©п╦я│п╬п╨ п©п╟п╨п╣я┌я√п╡ п╢п╩я▐ п©п╬п╫п╬п╡п╩п╣п╫п╫я▐..."
 
 #: MandrakeUpdate.c:995
 msgid "usage: MandrakeUpdate [--local]\n"
-msgstr "Використання: MandrakeUpdate [--local]\n"
+msgstr "п▓п╦п╨п╬я─п╦я│я┌п╟п╫п╫я▐: MandrakeUpdate [--local]\n"
 
 #: MandrakeUpdate.c:1138
 msgid "Importance: "
-msgstr "Важлив╕сть: "
+msgstr "п▓п╟п╤п╩п╦п╡я√я│я┌я▄: "
 
 #: MandrakeUpdate.c:1176
 msgid "Go back"
-msgstr "Повернутися"
+msgstr "п÷п╬п╡п╣я─п╫я┐я┌п╦я│я▐"
 
 #: MandrakeUpdate.c:1179
 msgid "Automatic dependencies selection:"
-msgstr "Автоматичний виб╕р залежностей: "
+msgstr "п░п╡я┌п╬п╪п╟я┌п╦я┤п╫п╦п╧ п╡п╦п╠я√я─ п╥п╟п╩п╣п╤п╫п╬я│я┌п╣п╧: "
 
 #: MandrakeUpdate.c:1181
 #, c-format
 msgid "%d packages have been added to the list of packages to install"
-msgstr "%d пакет╕в додан╕ до списку пакет╕в для установки"
+msgstr "%d п©п╟п╨п╣я┌я√п╡ п╢п╬п╢п╟п╫я√ п╢п╬ я│п©п╦я│п╨я┐ п©п╟п╨п╣я┌я√п╡ п╢п╩я▐ я┐я│я┌п╟п╫п╬п╡п╨п╦"
 
 #: MandrakeUpdate.c:1184
 msgid "Warning"
-msgstr "Попередження"
+msgstr "п÷п╬п©п╣я─п╣п╢п╤п╣п╫п╫я▐"
 
 #: MandrakeUpdate.c:1195 MandrakeUpdate.c:1215
 msgid "Package "
-msgstr "Пакет "
+msgstr "п÷п╟п╨п╣я┌ "
 
 #: MandrakeUpdate.c:1249
 msgid "Name"
-msgstr "Назва"
+msgstr "п²п╟п╥п╡п╟"
 
 #: MandrakeUpdate.c:1249
 msgid "Size"
-msgstr "Розм╕р"
+msgstr "п═п╬п╥п╪я√я─"
 
 #: MandrakeUpdate.c:1249
 msgid "Summary"
-msgstr "П╕дсумок"
+msgstr "п÷я√п╢я│я┐п╪п╬п╨"
 
 #: MandrakeUpdate.c:1249
 msgid "Version"
-msgstr "Верс╕я"
+msgstr "п▓п╣я─я│я√я▐"
 
 #: MandrakeUpdate.c:1252
 msgid "Mandrake Update"
@@ -175,17 +175,17 @@ msgstr "Mandrake Update"
 #. The Mirrors Frame
 #: MandrakeUpdate.c:1260
 msgid " Mirrors "
-msgstr "Дзеркала"
+msgstr "п■п╥п╣я─п╨п╟п╩п╟"
 
 #. The Label...
 #: MandrakeUpdate.c:1270
 msgid "Current Mirror:"
-msgstr "Це дзеркало:"
+msgstr "п╕п╣ п╢п╥п╣я─п╨п╟п╩п╬:"
 
 #. The Label...
 #: MandrakeUpdate.c:1281
 msgid "Mirrors List: "
-msgstr "Список дзеркал: "
+msgstr "п║п©п╦я│п╬п╨ п╢п╥п╣я─п╨п╟п╩: "
 
 #. The 'Update' Button...
 #: MandrakeUpdate.c:1300
@@ -194,19 +194,19 @@ msgid ""
 "Mirror\n"
 "List"
 msgstr ""
-"Поновити\n"
-"список\n"
-"дзеркал"
+"п÷п╬п╫п╬п╡п╦я┌п╦\n"
+"я│п©п╦я│п╬п╨\n"
+"п╢п╥п╣я─п╨п╟п╩"
 
 #. The Packages list
 #: MandrakeUpdate.c:1305
 msgid " Packages: "
-msgstr "Пакети: "
+msgstr "п÷п╟п╨п╣я┌п╦: "
 
 #. A frame pour les descriptions
 #: MandrakeUpdate.c:1326
 msgid "Descriptions"
-msgstr "Описи"
+msgstr "п·п©п╦я│п╦"
 
 #: MandrakeUpdate.c:1334
 msgid ""
@@ -214,53 +214,53 @@ msgid ""
 "Select the one(s) you want to update\n"
 "When you click on a package you get information about the need to update"
 msgstr ""
-"Ц╕ пакети необх╕дно поновити для поновлення верс╕╖ Mandrake'а\n"
-"Вибер╕ть т╕ пакети, як╕ Ви хочете поновити.\n"
-"Ви можете отримати ╕нформац╕ю про необх╕дн╕сть поновлення пакету, \n"
-"клацнувши мишкою на пакет╕ "
+"п╕я√ п©п╟п╨п╣я┌п╦ п╫п╣п╬п╠я┘я√п╢п╫п╬ п©п╬п╫п╬п╡п╦я┌п╦ п╢п╩я▐ п©п╬п╫п╬п╡п╩п╣п╫п╫я▐ п╡п╣я─я│я√я≈ Mandrake'п╟\n"
+"п▓п╦п╠п╣я─я√я┌я▄ я┌я√ п©п╟п╨п╣я┌п╦, я▐п╨я√ п▓п╦ я┘п╬я┤п╣я┌п╣ п©п╬п╫п╬п╡п╦я┌п╦.\n"
+"п▓п╦ п╪п╬п╤п╣я┌п╣ п╬я┌я─п╦п╪п╟я┌п╦ я√п╫я└п╬я─п╪п╟я├я√я▌ п©я─п╬ п╫п╣п╬п╠я┘я√п╢п╫я√я│я┌я▄ п©п╬п╫п╬п╡п╩п╣п╫п╫я▐ п©п╟п╨п╣я┌я┐, \n"
+"п╨п╩п╟я├п╫я┐п╡я┬п╦ п╪п╦я┬п╨п╬я▌ п╫п╟ п©п╟п╨п╣я┌я√ "
 
 #. The "Go!" Button
 #: MandrakeUpdate.c:1347
 msgid "Go!"
-msgstr "Вперед!"
+msgstr "п▓п©п╣я─п╣п╢!"
 
 #. The "Select All" Button
 #: MandrakeUpdate.c:1352
 msgid "Select All"
-msgstr "Вибрати все"
+msgstr "п▓п╦п╠я─п╟я┌п╦ п╡я│п╣"
 
 #. The "Unselect All" Button
 #: MandrakeUpdate.c:1358
 msgid "Unselect All"
-msgstr "В╕дм╕нити виб╕р всього"
+msgstr "п▓я√п╢п╪я√п╫п╦я┌п╦ п╡п╦п╠я√я─ п╡я│я▄п╬пЁп╬"
 
 #. The "Proxies" Button
 #: MandrakeUpdate.c:1364
 msgid "Proxies"
-msgstr "Прокс╕"
+msgstr "п÷я─п╬п╨я│я√"
 
 #. The "Help" Button
 #: MandrakeUpdate.c:1370
 msgid "Help"
-msgstr "П╕дказка"
+msgstr "п÷я√п╢п╨п╟п╥п╨п╟"
 
 #~ msgid "unknown"
-#~ msgstr "нев╕домо"
+#~ msgstr "п╫п╣п╡я√п╢п╬п╪п╬"
 
 #~ msgid "Country"
-#~ msgstr "Кра╖на"
+#~ msgstr "п я─п╟я≈п╫п╟"
 
 #~ msgid "Server"
-#~ msgstr "Сервер"
+#~ msgstr "п║п╣я─п╡п╣я─"
 
 #~ msgid "Please choose a mirror in this list"
-#~ msgstr "Вибер╕ть, будь-ласка, дзеркало з цього списку"
+#~ msgstr "п▓п╦п╠п╣я─я√я┌я▄, п╠я┐п╢я▄-п╩п╟я│п╨п╟, п╢п╥п╣я─п╨п╟п╩п╬ п╥ я├я▄п╬пЁп╬ я│п©п╦я│п╨я┐"
 
 #~ msgid "Please wait while updating list of upgrade packages..."
-#~ msgstr "Зачекайте, поки поновлюю список пакет╕в для поновлення..."
+#~ msgstr "п≈п╟я┤п╣п╨п╟п╧я┌п╣, п©п╬п╨п╦ п©п╬п╫п╬п╡п╩я▌я▌ я│п©п╦я│п╬п╨ п©п╟п╨п╣я┌я√п╡ п╢п╩я▐ п©п╬п╫п╬п╡п╩п╣п╫п╫я▐..."
 
 #~ msgid "Infos"
-#~ msgstr "╤нформац╕я"
+#~ msgstr "п├п╫я└п╬я─п╪п╟я├я√я▐"
 
 #~ msgid "Change mirror"
-#~ msgstr "Зм╕нити дзеркало"
+#~ msgstr "п≈п╪я√п╫п╦я┌п╦ п╢п╥п╣я─п╨п╟п╩п╬"

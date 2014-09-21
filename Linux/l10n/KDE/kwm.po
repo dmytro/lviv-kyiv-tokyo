@@ -14,123 +14,123 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "&DeIconify"
-msgstr "З&б╕льшити"
+msgstr "п≈&п╠я√п╩я▄я┬п╦я┌п╦"
 
 msgid "&Iconify"
-msgstr "&М╕н╕м╕зувати"
+msgstr "&п°я√п╫я√п╪я√п╥я┐п╡п╟я┌п╦"
 
 msgid "&Maximize"
-msgstr "Ма&ксимальний розм╕р"
+msgstr "п°п╟&п╨я│п╦п╪п╟п╩я▄п╫п╦п╧ я─п╬п╥п╪я√я─"
 
 msgid "&Onto current desktop"
-msgstr "&На даний робочий ст╕л"
+msgstr "&п²п╟ п╢п╟п╫п╦п╧ я─п╬п╠п╬я┤п╦п╧ я│я┌я√п╩"
 
 msgid "&Restore"
-msgstr "&В╕дновити"
+msgstr "&п▓я√п╢п╫п╬п╡п╦я┌п╦"
 
 msgid "&Sticky"
-msgstr "При&л╕пити"
+msgstr "п÷я─п╦&п╩я√п©п╦я┌п╦"
 
 msgid "&To desktop"
-msgstr "На &ст╕л"
+msgstr "п²п╟ &я│я┌я√п╩"
 
 msgid "&UnSticky"
-msgstr "В╕д&л╕пити"
+msgstr "п▓я√п╢&п╩я√п©п╦я┌п╦"
 
 msgid "*** No Tasks ***"
-msgstr "*** Н╕яких завдань ***"
+msgstr "*** п²я√я▐п╨п╦я┘ п╥п╟п╡п╢п╟п╫я▄ ***"
 
 msgid "Command:"
-msgstr "Команда:"
+msgstr "п п╬п╪п╟п╫п╢п╟:"
 
 msgid "Copyright (C) 1997 Matthias Ettrich (ettrich@kde.org)\n"
-msgstr "Права застережен╕ (C) 1997 Matthias Ettrich (ettrich@kde.org)\n"
+msgstr "п÷я─п╟п╡п╟ п╥п╟я│я┌п╣я─п╣п╤п╣п╫я√ (C) 1997 Matthias Ettrich (ettrich@kde.org)\n"
 
 msgid "Current session"
-msgstr "Даний сеанс"
+msgstr "п■п╟п╫п╦п╧ я│п╣п╟п╫я│"
 
 msgid "Eight"
-msgstr "В╕с╕м"
+msgstr "п▓я√я│я√п╪"
 
 msgid "Five"
-msgstr "П'ять"
+msgstr "п÷'я▐я┌я▄"
 
 msgid "Four"
-msgstr "Чотири"
+msgstr "п╖п╬я┌п╦я─п╦"
 
 msgid "Logout"
-msgstr "Вийти"
+msgstr "п▓п╦п╧я┌п╦"
 
 msgid "Mo&ve"
-msgstr "Пере&м╕стити"
+msgstr "п÷п╣я─п╣&п╪я√я│я┌п╦я┌п╦"
 
 msgid "One"
-msgstr "Один"
+msgstr "п·п╢п╦п╫"
 
 msgid "Ooops!"
-msgstr "Ой!"
+msgstr "п·п╧!"
 
 msgid "Preparing session ... "
-msgstr "Готую сеанс ... "
+msgstr "п⌠п╬я┌я┐я▌ я│п╣п╟п╫я│ ... "
 
 msgid "Resi&ze"
-msgstr "Зм╕нити &розм╕р"
+msgstr "п≈п╪я√п╫п╦я┌п╦ &я─п╬п╥п╪я√я─"
 
 msgid "Session prepared for logout"
-msgstr "П╕дготовлено до виходу з сеансу"
+msgstr "п÷я√п╢пЁп╬я┌п╬п╡п╩п╣п╫п╬ п╢п╬ п╡п╦я┘п╬п╢я┐ п╥ я│п╣п╟п╫я│я┐"
 
 msgid "Seven"
-msgstr "С╕м"
+msgstr "п║я√п╪"
 
 msgid "Six"
-msgstr "Ш╕сть"
+msgstr "п╗я√я│я┌я▄"
 
 msgid "Some pixmaps are not valid: GimmickMode dissabled\n"
-msgstr "Деяк╕ з в╕зерунк╕в з╕псован╕: Режим Gimmick в╕дключено\n"
+msgstr "п■п╣я▐п╨я√ п╥ п╡я√п╥п╣я─я┐п╫п╨я√п╡ п╥я√п©я│п╬п╡п╟п╫я√: п═п╣п╤п╦п╪ Gimmick п╡я√п╢п╨п╩я▌я┤п╣п╫п╬\n"
 
 msgid "Some pixmaps are not valid: ShapeMode dissabled\n"
-msgstr "Деяк╕ з в╕зерунк╕в з╕псован╕: Режим Snap в╕дключено\n"
+msgstr "п■п╣я▐п╨я√ п╥ п╡я√п╥п╣я─я┐п╫п╨я√п╡ п╥я√п©я│п╬п╡п╟п╫я√: п═п╣п╤п╦п╪ Snap п╡я√п╢п╨п╩я▌я┤п╣п╫п╬\n"
 
 msgid "Switch to"
-msgstr "Перейти на"
+msgstr "п÷п╣я─п╣п╧я┌п╦ п╫п╟"
 
 msgid ""
 "The following applications are not X11-aware and though cannot be restored\n"
 "in your next session. Make sure they do not contain important unsaved data."
 msgstr ""
-"Ц╕ програми не сп╕впрацюють з X11 ╕ тому не можуть бути в╕дновленими в\n"
-"Вашому наступному сеанс╕. Переконайтеся, що вони не мають н╕яких\n"
-"незбережених даних."
+"п╕я√ п©я─п╬пЁя─п╟п╪п╦ п╫п╣ я│п©я√п╡п©я─п╟я├я▌я▌я┌я▄ п╥ X11 я√ я┌п╬п╪я┐ п╫п╣ п╪п╬п╤я┐я┌я▄ п╠я┐я┌п╦ п╡я√п╢п╫п╬п╡п╩п╣п╫п╦п╪п╦ п╡\n"
+"п▓п╟я┬п╬п╪я┐ п╫п╟я│я┌я┐п©п╫п╬п╪я┐ я│п╣п╟п╫я│я√. п÷п╣я─п╣п╨п╬п╫п╟п╧я┌п╣я│я▐, я┴п╬ п╡п╬п╫п╦ п╫п╣ п╪п╟я▌я┌я▄ п╫я√я▐п╨п╦я┘\n"
+"п╫п╣п╥п╠п╣я─п╣п╤п╣п╫п╦я┘ п╢п╟п╫п╦я┘."
 
 msgid ""
 "The following applications cannot be restored in your next session,\n"
 "only restarted. Make sure they do not contain important unsaved data."
 msgstr ""
-"Ц╕ програми не можуть бути в╕дновленими в наступному сеанс╕, вони\n"
-"можуть бути т╕льки перезапущеними. Переконайтеся, що вони не мають\n"
-"н╕яких незбережених даних."
+"п╕я√ п©я─п╬пЁя─п╟п╪п╦ п╫п╣ п╪п╬п╤я┐я┌я▄ п╠я┐я┌п╦ п╡я√п╢п╫п╬п╡п╩п╣п╫п╦п╪п╦ п╡ п╫п╟я│я┌я┐п©п╫п╬п╪я┐ я│п╣п╟п╫я│я√, п╡п╬п╫п╦\n"
+"п╪п╬п╤я┐я┌я▄ п╠я┐я┌п╦ я┌я√п╩я▄п╨п╦ п©п╣я─п╣п╥п╟п©я┐я┴п╣п╫п╦п╪п╦. п÷п╣я─п╣п╨п╬п╫п╟п╧я┌п╣я│я▐, я┴п╬ п╡п╬п╫п╦ п╫п╣ п╪п╟я▌я┌я▄\n"
+"п╫я√я▐п╨п╦я┘ п╫п╣п╥п╠п╣я─п╣п╤п╣п╫п╦я┘ п╢п╟п╫п╦я┘."
 
 msgid ""
 "The following applications contain unsaved data which\n"
 "will be lost in your next session."
 msgstr ""
-"Ц╕ програми мають незбережен╕ дан╕, як╕ можуть бути втрачен╕ в\n"
-"наступному сеанс╕."
+"п╕я√ п©я─п╬пЁя─п╟п╪п╦ п╪п╟я▌я┌я▄ п╫п╣п╥п╠п╣я─п╣п╤п╣п╫я√ п╢п╟п╫я√, я▐п╨я√ п╪п╬п╤я┐я┌я▄ п╠я┐я┌п╦ п╡я┌я─п╟я┤п╣п╫я√ п╡\n"
+"п╫п╟я│я┌я┐п©п╫п╬п╪я┐ я│п╣п╟п╫я│я√."
 
 msgid "Three"
-msgstr "Три"
+msgstr "п╒я─п╦"
 
 msgid "Two"
-msgstr "Два"
+msgstr "п■п╡п╟"
 
 msgid "Unnamed Desktop"
-msgstr "Ст╕л без назви"
+msgstr "п║я┌я√п╩ п╠п╣п╥ п╫п╟п╥п╡п╦"
 
 msgid "Usage: "
-msgstr "Використання:"
+msgstr "п▓п╦п╨п╬я─п╦я│я┌п╟п╫п╫я▐:"
 
 msgid "kwm: failure during initialisation; aborting\n"
-msgstr "kwm: помилка п╕д час ╕н╕ц╕ал╕зац╕╖; зак╕нчую\n"
+msgstr "kwm: п©п╬п╪п╦п╩п╨п╟ п©я√п╢ я┤п╟я│ я√п╫я√я├я√п╟п╩я√п╥п╟я├я√я≈; п╥п╟п╨я√п╫я┤я┐я▌\n"
 
 msgid "kwm: it looks like there's already a window manager running.  kwm not started\n"
-msgstr "kwm: зда╓ться, що ╕нший менеджер в╕кон вже запущено. kwm не запущено\n"
+msgstr "kwm: п╥п╢п╟я■я┌я▄я│я▐, я┴п╬ я√п╫я┬п╦п╧ п╪п╣п╫п╣п╢п╤п╣я─ п╡я√п╨п╬п╫ п╡п╤п╣ п╥п╟п©я┐я┴п╣п╫п╬. kwm п╫п╣ п╥п╟п©я┐я┴п╣п╫п╬\n"

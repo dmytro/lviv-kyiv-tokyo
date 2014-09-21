@@ -7,8 +7,8 @@ original version by:  Nikos Drakos, CBLU, University of Leeds
   Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
 <HTML>
 <HEAD>
-<TITLE>Арх╕тектура системи</TITLE>
-<META NAME="description" CONTENT="Арх╕тектура системи">
+<TITLE>п░я─я┘я√я┌п╣п╨я┌я┐я─п╟ я│п╦я│я┌п╣п╪п╦</TITLE>
+<META NAME="description" CONTENT="п░я─я┘я√я┌п╣п╨я┌я┐я─п╟ я│п╦я│я┌п╣п╪п╦">
 <META NAME="keywords" CONTENT="SOHO-setup">
 <META NAME="resource-type" CONTENT="document">
 <META NAME="distribution" CONTENT="global">
@@ -41,11 +41,11 @@ original version by:  Nikos Drakos, CBLU, University of Leeds
 <IMG WIDTH="65" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="contents" SRC="contents.png"></A>  
 <BR>
 <B> Next:</B> <A NAME="tex2html164"
-  HREF="node5.html">Ф╕зична конф╕╜урац╕я системи</A>
+  HREF="node5.html">п╓я√п╥п╦я┤п╫п╟ п╨п╬п╫я└я√р▒я┐я─п╟я├я√я▐ я│п╦я│я┌п╣п╪п╦</A>
 <B> Up:</B> <A NAME="tex2html160"
-  HREF="node3.html">Загальний огляд системи</A>
+  HREF="node3.html">п≈п╟пЁп╟п╩я▄п╫п╦п╧ п╬пЁп╩я▐п╢ я│п╦я│я┌п╣п╪п╦</A>
 <B> Previous:</B> <A NAME="tex2html154"
-  HREF="node3.html">Загальний огляд системи</A>
+  HREF="node3.html">п≈п╟пЁп╟п╩я▄п╫п╦п╧ п╬пЁп╩я▐п╢ я│п╦я│я┌п╣п╪п╦</A>
  &nbsp <B>  <A NAME="tex2html162"
   HREF="node1.html">Contents</A></B> 
 <BR>
@@ -53,39 +53,39 @@ original version by:  Nikos Drakos, CBLU, University of Leeds
 <!--End of Navigation Panel-->
 
 <H2><A NAME="SECTION00031000000000000000">
-Арх╕тектура системи</A>
+п░я─я┘я√я┌п╣п╨я┌я┐я─п╟ я│п╦я│я┌п╣п╪п╦</A>
 </H2>
 <P>
-<FONT SIZE="+1">На рисунку&nbsp;<A HREF="node4.html#network-layout">2.1</A>(стор.&nbsp;<A HREF="node4.html#network-layout"><IMG  ALIGN="BOTTOM" BORDER="1" ALT="[*]" SRC="crossref.png"></A> подана
-арх╕тектура локально╖ мереж╕. З'╓днання вгор╕ (╕нтерфейс ppp0) - це
-з'╓днання з провайдером послуг тенет. Вс╕ комп'ютери у внутр╕шн╕й
-мереж╕ маскуються в╕д зовн╕шнього св╕ту, тобто IP адреси ╖х невидим╕
-поза локальною мережею. Це забезпечу╓ться програмами, як╕ реал╕зують
-трансляц╕ю мережевих адрес (Network Address Translation,
-див. [<A
- HREF="node57.html#nat">10</A>]): IP Chains в Л╕накс╕ ([<A
- HREF="node57.html#ipchains">13</A>]) та natd в
+<FONT SIZE="+1">п²п╟ я─п╦я│я┐п╫п╨я┐&nbsp;<A HREF="node4.html#network-layout">2.1</A>(я│я┌п╬я─.&nbsp;<A HREF="node4.html#network-layout"><IMG  ALIGN="BOTTOM" BORDER="1" ALT="[*]" SRC="crossref.png"></A> п©п╬п╢п╟п╫п╟
+п╟я─я┘я√я┌п╣п╨я┌я┐я─п╟ п╩п╬п╨п╟п╩я▄п╫п╬я≈ п╪п╣я─п╣п╤я√. п≈'я■п╢п╫п╟п╫п╫я▐ п╡пЁп╬я─я√ (я√п╫я┌п╣я─я└п╣п╧я│ ppp0) - я├п╣
+п╥'я■п╢п╫п╟п╫п╫я▐ п╥ п©я─п╬п╡п╟п╧п╢п╣я─п╬п╪ п©п╬я│п╩я┐пЁ я┌п╣п╫п╣я┌. п▓я│я√ п╨п╬п╪п©'я▌я┌п╣я─п╦ я┐ п╡п╫я┐я┌я─я√я┬п╫я√п╧
+п╪п╣я─п╣п╤я√ п╪п╟я│п╨я┐я▌я┌я▄я│я▐ п╡я√п╢ п╥п╬п╡п╫я√я┬п╫я▄п╬пЁп╬ я│п╡я√я┌я┐, я┌п╬п╠я┌п╬ IP п╟п╢я─п╣я│п╦ я≈я┘ п╫п╣п╡п╦п╢п╦п╪я√
+п©п╬п╥п╟ п╩п╬п╨п╟п╩я▄п╫п╬я▌ п╪п╣я─п╣п╤п╣я▌. п╕п╣ п╥п╟п╠п╣п╥п©п╣я┤я┐я■я┌я▄я│я▐ п©я─п╬пЁя─п╟п╪п╟п╪п╦, я▐п╨я√ я─п╣п╟п╩я√п╥я┐я▌я┌я▄
+я┌я─п╟п╫я│п╩я▐я├я√я▌ п╪п╣я─п╣п╤п╣п╡п╦я┘ п╟п╢я─п╣я│ (Network Address Translation,
+п╢п╦п╡. [<A
+ HREF="node57.html#nat">10</A>]): IP Chains п╡ п⌡я√п╫п╟п╨я│я√ ([<A
+ HREF="node57.html#ipchains">13</A>]) я┌п╟ natd п╡
 MacOS X ([<A
- HREF="node57.html#natd">1</A>]). Про це - в розд╕л╕ "Захист доступу до
-системи". Внутр╕шня мережа побудована з використанням IP адрес так
-званого "приватного" д╕апазону (див. [<A
- HREF="node57.html#privateip">7</A>]). Власне через
-застосування трансляц╕╖ адрес се╜мент адрес може бути будь-яким, але
-для захисту в╕д помилок краще все-таки вибирати адреси з д╕апазон╕в
-вказаних у RFC-1918 [<A
- HREF="node57.html#privateip">7</A>] ( Таблиця &nbsp;<A HREF="node4.html#private-ip">2.1</A>
-стор.&nbsp;<A HREF="node4.html#private-ip"><IMG  ALIGN="BOTTOM" BORDER="1" ALT="[*]" SRC="crossref.png"></A>).
+ HREF="node57.html#natd">1</A>]). п÷я─п╬ я├п╣ - п╡ я─п╬п╥п╢я√п╩я√ "п≈п╟я┘п╦я│я┌ п╢п╬я│я┌я┐п©я┐ п╢п╬
+я│п╦я│я┌п╣п╪п╦". п▓п╫я┐я┌я─я√я┬п╫я▐ п╪п╣я─п╣п╤п╟ п©п╬п╠я┐п╢п╬п╡п╟п╫п╟ п╥ п╡п╦п╨п╬я─п╦я│я┌п╟п╫п╫я▐п╪ IP п╟п╢я─п╣я│ я┌п╟п╨
+п╥п╡п╟п╫п╬пЁп╬ "п©я─п╦п╡п╟я┌п╫п╬пЁп╬" п╢я√п╟п©п╟п╥п╬п╫я┐ (п╢п╦п╡. [<A
+ HREF="node57.html#privateip">7</A>]). п▓п╩п╟я│п╫п╣ я┤п╣я─п╣п╥
+п╥п╟я│я┌п╬я│я┐п╡п╟п╫п╫я▐ я┌я─п╟п╫я│п╩я▐я├я√я≈ п╟п╢я─п╣я│ я│п╣р▒п╪п╣п╫я┌ п╟п╢я─п╣я│ п╪п╬п╤п╣ п╠я┐я┌п╦ п╠я┐п╢я▄-я▐п╨п╦п╪, п╟п╩п╣
+п╢п╩я▐ п╥п╟я┘п╦я│я┌я┐ п╡я√п╢ п©п╬п╪п╦п╩п╬п╨ п╨я─п╟я┴п╣ п╡я│п╣-я┌п╟п╨п╦ п╡п╦п╠п╦я─п╟я┌п╦ п╟п╢я─п╣я│п╦ п╥ п╢я√п╟п©п╟п╥п╬п╫я√п╡
+п╡п╨п╟п╥п╟п╫п╦я┘ я┐ RFC-1918 [<A
+ HREF="node57.html#privateip">7</A>] ( п╒п╟п╠п╩п╦я├я▐ &nbsp;<A HREF="node4.html#private-ip">2.1</A>
+я│я┌п╬я─.&nbsp;<A HREF="node4.html#private-ip"><IMG  ALIGN="BOTTOM" BORDER="1" ALT="[*]" SRC="crossref.png"></A>).
 </FONT>
 <P>
 <BR><P></P>
 <DIV ALIGN="CENTER"><A NAME="193"></A>
 <TABLE>
 <CAPTION><STRONG>Table:</STRONG>
-Приватн╕ мереж╕ ╕ IP-адреси</CAPTION>
+п÷я─п╦п╡п╟я┌п╫я√ п╪п╣я─п╣п╤я√ я√ IP-п╟п╢я─п╣я│п╦</CAPTION>
 <TR><TD><TABLE CELLPADDING=3 BORDER="1">
-<TR VALIGN="BASELINE"><TD ALIGN="LEFT"><A NAME="private-ip"></A>	IP адреси</TD>
-<TD ALIGN="LEFT">Маска мереж╕ (netmask)</TD>
-<TD ALIGN="LEFT">Клас мереж╕</TD>
+<TR VALIGN="BASELINE"><TD ALIGN="LEFT"><A NAME="private-ip"></A>	IP п╟п╢я─п╣я│п╦</TD>
+<TD ALIGN="LEFT">п°п╟я│п╨п╟ п╪п╣я─п╣п╤я√ (netmask)</TD>
+<TD ALIGN="LEFT">п п╩п╟я│ п╪п╣я─п╣п╤я√</TD>
 </TR>
 <TR VALIGN="BASELINE"><TD ALIGN="LEFT">10.0.0.0</TD>
 <TD ALIGN="LEFT">10.255.255.255</TD>
@@ -110,7 +110,7 @@ MacOS X ([<A
 <DIV ALIGN="CENTER"><A NAME="network-layout"></A><A NAME="199"></A>
 <TABLE>
 <CAPTION ALIGN="BOTTOM"><STRONG>Figure:</STRONG>
-Загальний вигляд конф╕╜урац╕╖ системи.</CAPTION>
+п≈п╟пЁп╟п╩я▄п╫п╦п╧ п╡п╦пЁп╩я▐п╢ п╨п╬п╫я└я√р▒я┐я─п╟я├я√я≈ я│п╦я│я┌п╣п╪п╦.</CAPTION>
 <TR><TD>
 <DIV ALIGN="CENTER">
 <!-- MATH

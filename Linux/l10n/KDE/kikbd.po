@@ -14,120 +14,120 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "\nDo you want to continue?"
-msgstr "\nХочете продовжувати?"
+msgstr "\nп╔п╬я┤п╣я┌п╣ п©я─п╬п╢п╬п╡п╤я┐п╡п╟я┌п╦?"
 
 msgid ""
 "%s\n"
 "Do you want to configure now?"
 msgstr ""
 "%s\n"
-"Хочете сконф╕╜урувати зараз?"
+"п╔п╬я┤п╣я┌п╣ я│п╨п╬п╫я└я√р▒я┐я─я┐п╡п╟я┌п╦ п╥п╟я─п╟п╥?"
 
 msgid "&Add"
-msgstr "&Додати"
+msgstr "&п■п╬п╢п╟я┌п╦"
 
 msgid "&Autostart"
-msgstr "&Автоматичний старт"
+msgstr "&п░п╡я┌п╬п╪п╟я┌п╦я┤п╫п╦п╧ я│я┌п╟я─я┌"
 
 msgid "&Beep"
-msgstr "&Сигнал"
+msgstr "&п║п╦пЁп╫п╟п╩"
 
 msgid "&Customize Font"
-msgstr "&Зм╕нити шрифт"
+msgstr "&п≈п╪я√п╫п╦я┌п╦ я┬я─п╦я└я┌"
 
 msgid "&Docked"
-msgstr "&Пришвартований"
+msgstr "&п÷я─п╦я┬п╡п╟я─я┌п╬п╡п╟п╫п╦п╧"
 
 msgid "&Emulate Caps Lock"
-msgstr "&╤м╕тувати Caps Lock"
+msgstr "&п├п╪я√я┌я┐п╡п╟я┌п╦ Caps Lock"
 
 msgid "&General"
-msgstr "&Загальне"
+msgstr "&п≈п╟пЁп╟п╩я▄п╫п╣"
 
 msgid "&Info"
-msgstr "&╤нформац╕я"
+msgstr "&п├п╫я└п╬я─п╪п╟я├я√я▐"
 
 msgid "&Save Classes"
-msgstr "&Записати класи"
+msgstr "&п≈п╟п©п╦я│п╟я┌п╦ п╨п╩п╟я│п╦"
 
 msgid "&Style"
-msgstr "С&тиль"
+msgstr "п║&я┌п╦п╩я▄"
 
 msgid "&World Menu"
-msgstr "&Св╕тове меню"
+msgstr "&п║п╡я√я┌п╬п╡п╣ п╪п╣п╫я▌"
 
 msgid "(None)"
-msgstr "(н╕чого)"
+msgstr "(п╫я√я┤п╬пЁп╬)"
 
 msgid "Ad&vanced"
-msgstr "&Додатков╕"
+msgstr "&п■п╬п╢п╟я┌п╨п╬п╡я√"
 
 msgid "Add Keyboard"
-msgstr "Додати клав╕атуру"
+msgstr "п■п╬п╢п╟я┌п╦ п╨п╩п╟п╡я√п╟я┌я┐я─я┐"
 
 msgid "Add new keyboard map"
-msgstr "Додати нову розкладку клав╕атури"
+msgstr "п■п╬п╢п╟я┌п╦ п╫п╬п╡я┐ я─п╬п╥п╨п╩п╟п╢п╨я┐ п╨п╩п╟п╡я√п╟я┌я┐я─п╦"
 
 msgid "Adding Keyboard"
-msgstr "Додаю клав╕атуру"
+msgstr "п■п╬п╢п╟я▌ п╨п╩п╟п╡я√п╟я┌я┐я─я┐"
 
 msgid "Advanced"
-msgstr "Додаткова"
+msgstr "п■п╬п╢п╟я┌п╨п╬п╡п╟"
 
 msgid "Advanced options"
-msgstr "Додатков╕ установки"
+msgstr "п■п╬п╢п╟я┌п╨п╬п╡я√ я┐я│я┌п╟п╫п╬п╡п╨п╦"
 
 msgid "Author"
-msgstr "Автор"
+msgstr "п░п╡я┌п╬я─"
 
 msgid "Author:  Not specified"
-msgstr "Автор: не вказаний"
+msgstr "п░п╡я┌п╬я─: п╫п╣ п╡п╨п╟п╥п╟п╫п╦п╧"
 
 msgid "Available keyboard maps"
-msgstr "Розкладки клав╕атур встановлен╕ в систем╕"
+msgstr "п═п╬п╥п╨п╩п╟п╢п╨п╦ п╨п╩п╟п╡я√п╟я┌я┐я─ п╡я│я┌п╟п╫п╬п╡п╩п╣п╫я√ п╡ я│п╦я│я┌п╣п╪я√"
 
 msgid "Background"
-msgstr "Тло"
+msgstr "п╒п╩п╬"
 
 msgid "Background when Alternate switch key is pressed"
-msgstr "Тло при натиснен╕й клав╕ш╕ \"Альтернативний\""
+msgstr "п╒п╩п╬ п©я─п╦ п╫п╟я┌п╦я│п╫п╣п╫я√п╧ п╨п╩п╟п╡я√я┬я√ \"п░п╩я▄я┌п╣я─п╫п╟я┌п╦п╡п╫п╦п╧\""
 
 msgid "Background when Emulated Caps Lock active"
-msgstr "Тло при активн╕й ╕м╕тац╕╖ Caps Lock"
+msgstr "п╒п╩п╬ п©я─п╦ п╟п╨я┌п╦п╡п╫я√п╧ я√п╪я√я┌п╟я├я√я≈ Caps Lock"
 
 msgid "Beep when keyboard map is changed"
-msgstr "Подавати сигнал при зм╕н╕ розкладок"
+msgstr "п÷п╬п╢п╟п╡п╟я┌п╦ я│п╦пЁп╫п╟п╩ п©я─п╦ п╥п╪я√п╫я√ я─п╬п╥п╨п╩п╟п╢п╬п╨"
 
 msgid "Both Shift's (Shift+Shift)"
-msgstr "Обидва Shift'и  (Shift+Shift)"
+msgstr "п·п╠п╦п╢п╡п╟ Shift'п╦  (Shift+Shift)"
 
 msgid "Bottom Left"
-msgstr "Нижн╕й л╕вий"
+msgstr "п²п╦п╤п╫я√п╧ п╩я√п╡п╦п╧"
 
 msgid "Bottom Right"
-msgstr "Нижн╕й правий"
+msgstr "п²п╦п╤п╫я√п╧ п©я─п╟п╡п╦п╧"
 
 msgid "Button Colors"
-msgstr "Кольори кнопки"
+msgstr "п п╬п╩я▄п╬я─п╦ п╨п╫п╬п©п╨п╦"
 
 msgid "Button Font"
-msgstr "Шрифт кнопки"
+msgstr "п╗я─п╦я└я┌ п╨п╫п╬п©п╨п╦"
 
 msgid "C&hange Font"
-msgstr "&Зм╕нити шрифт"
+msgstr "&п≈п╪я√п╫п╦я┌п╦ я┬я─п╦я└я┌"
 
 msgid "Can not add %s to Modifier number 3.\n"
-msgstr "Не можу додати %s до модиф╕катора 3.\n"
+msgstr "п²п╣ п╪п╬п╤я┐ п╢п╬п╢п╟я┌п╦ %s п╢п╬ п╪п╬п╢п╦я└я√п╨п╟я┌п╬я─п╟ 3.\n"
 
 msgid "Can not remove %s from Modifiers.\n"
-msgstr "Не можу забрати %s з модиф╕катор╕в.\n"
+msgstr "п²п╣ п╪п╬п╤я┐ п╥п╟п╠я─п╟я┌п╦ %s п╥ п╪п╬п╢п╦я└я√п╨п╟я┌п╬я─я√п╡.\n"
 
 msgid ""
 "Can not set Mode Switch as %s for keyboard %s.\n"
 "Alt symbols disabled"
 msgstr ""
-"Не можу встановити перемикач режиму %s для клав╕атури типу %s.\n"
-"Альтернативн╕ клав╕ш╕ в╕дм╕нен╕."
+"п²п╣ п╪п╬п╤я┐ п╡я│я┌п╟п╫п╬п╡п╦я┌п╦ п©п╣я─п╣п╪п╦п╨п╟я┤ я─п╣п╤п╦п╪я┐ %s п╢п╩я▐ п╨п╩п╟п╡я√п╟я┌я┐я─п╦ я┌п╦п©я┐ %s.\n"
+"п░п╩я▄я┌п╣я─п╫п╟я┌п╦п╡п╫я√ п╨п╩п╟п╡я√я┬я√ п╡я√п╢п╪я√п╫п╣п╫я√."
 
 msgid ""
 "Can't find symbol \"%s\".\n"
@@ -135,274 +135,274 @@ msgid ""
 "You can preset X codes from section \"Advanced\"\n"
 "in the configuration program."
 msgstr ""
-"Не можу знайти символ \"%s\".\n"
-"Можливо Ваш╕ стандартн╕ коди X не в╕дпов╕дн╕.\n"
-"Попередню установку код╕в X можна зробити в розд╕л╕ \n"
-"\"Додаткова\" в програм╕ конф╕╜урац╕╖."
+"п²п╣ п╪п╬п╤я┐ п╥п╫п╟п╧я┌п╦ я│п╦п╪п╡п╬п╩ \"%s\".\n"
+"п°п╬п╤п╩п╦п╡п╬ п▓п╟я┬я√ я│я┌п╟п╫п╢п╟я─я┌п╫я√ п╨п╬п╢п╦ X п╫п╣ п╡я√п╢п©п╬п╡я√п╢п╫я√.\n"
+"п÷п╬п©п╣я─п╣п╢п╫я▌ я┐я│я┌п╟п╫п╬п╡п╨я┐ п╨п╬п╢я√п╡ X п╪п╬п╤п╫п╟ п╥я─п╬п╠п╦я┌п╦ п╡ я─п╬п╥п╢я√п╩я√ \n"
+"\"п■п╬п╢п╟я┌п╨п╬п╡п╟\" п╡ п©я─п╬пЁя─п╟п╪я√ п╨п╬п╫я└я√р▒я┐я─п╟я├я√я≈."
 
 msgid ""
 "Can't remove Caps Lock from Modifiers.\n"
 "Caps Lock Emulation disabled"
 msgstr ""
-"Не можу забрати Caps Lock з модиф╕катор╕в.\n"
-"╤м╕тац╕я Caps Lock в╕дм╕нена."
+"п²п╣ п╪п╬п╤я┐ п╥п╟п╠я─п╟я┌п╦ Caps Lock п╥ п╪п╬п╢п╦я└я√п╨п╟я┌п╬я─я√п╡.\n"
+"п├п╪я√я┌п╟я├я√я▐ Caps Lock п╡я√п╢п╪я√п╫п╣п╫п╟."
 
 msgid "Charset"
-msgstr "Наб╕р символ╕в"
+msgstr "п²п╟п╠я√я─ я│п╦п╪п╡п╬п╩я√п╡"
 
 msgid "Class"
-msgstr "Клас"
+msgstr "п п╩п╟я│"
 
 msgid "Configure"
-msgstr "Конф╕╜урац╕я"
+msgstr "п п╬п╫я└я√р▒я┐я─п╟я├я√я▐"
 
 msgid "Customize Font for text label or use global settings"
-msgstr "Встановити власний шрифт для текстово╖ етикетки або викристовувати загальн╕ установки."
+msgstr "п▓я│я┌п╟п╫п╬п╡п╦я┌п╦ п╡п╩п╟я│п╫п╦п╧ я┬я─п╦я└я┌ п╢п╩я▐ я┌п╣п╨я│я┌п╬п╡п╬я≈ п╣я┌п╦п╨п╣я┌п╨п╦ п╟п╠п╬ п╡п╦п╨я─п╦я│я┌п╬п╡я┐п╡п╟я┌п╦ п╥п╟пЁп╟п╩я▄п╫я√ я┐я│я┌п╟п╫п╬п╡п╨п╦."
 
 msgid "D&own"
-msgstr "В&низ"
+msgstr "п▓&п╫п╦п╥"
 
 msgid "Define X codes"
-msgstr "Визначити коди X"
+msgstr "п▓п╦п╥п╫п╟я┤п╦я┌п╦ п╨п╬п╢п╦ X"
 
 msgid "Description:  "
-msgstr "Опис: "
+msgstr "п·п©п╦я│: "
 
 msgid "Display information for selected keyboard map"
-msgstr "Показати ╕нформац╕ю про вибрану розкладку клав╕атури"
+msgstr "п÷п╬п╨п╟п╥п╟я┌п╦ я√п╫я└п╬я─п╪п╟я├я√я▌ п©я─п╬ п╡п╦п╠я─п╟п╫я┐ я─п╬п╥п╨п╩п╟п╢п╨я┐ п╨п╩п╟п╡я√п╟я┌я┐я─п╦"
 
 msgid "Dock into special area in the panel"
-msgstr "Пришвартовувати в спец╕альн╕й област╕ панел╕"
+msgstr "п÷я─п╦я┬п╡п╟я─я┌п╬п╡я┐п╡п╟я┌п╦ п╡ я│п©п╣я├я√п╟п╩я▄п╫я√п╧ п╬п╠п╩п╟я│я┌я√ п©п╟п╫п╣п╩я√"
 
 msgid "Emulate XServer Caps Lock. Needed for correct keyboard operation in some languages"
-msgstr "╤м╕тувати режим роботи Caps Lock X сервера. Потр╕бно для коректно╖ роботи клав╕атури деякими мовами."
+msgstr "п├п╪я√я┌я┐п╡п╟я┌п╦ я─п╣п╤п╦п╪ я─п╬п╠п╬я┌п╦ Caps Lock X я│п╣я─п╡п╣я─п╟. п÷п╬я┌я─я√п╠п╫п╬ п╢п╩я▐ п╨п╬я─п╣п╨я┌п╫п╬я≈ я─п╬п╠п╬я┌п╦ п╨п╩п╟п╡я√п╟я┌я┐я─п╦ п╢п╣я▐п╨п╦п╪п╦ п╪п╬п╡п╟п╪п╦."
 
 msgid "Exiting International Keyboard"
-msgstr "Вих╕д з М╕жнародно╖ Клав╕атури"
+msgstr "п▓п╦я┘я√п╢ п╥ п°я√п╤п╫п╟я─п╬п╢п╫п╬я≈ п п╩п╟п╡я√п╟я┌я┐я─п╦"
 
 msgid "Extended behavior. Keyboard map state is saved for each window independently"
-msgstr "Розширений режим роботи. Стан клав╕атури запам'ятову╓ться для кожного в╕кна окремо."
+msgstr "п═п╬п╥я┬п╦я─п╣п╫п╦п╧ я─п╣п╤п╦п╪ я─п╬п╠п╬я┌п╦. п║я┌п╟п╫ п╨п╩п╟п╡я√п╟я┌я┐я─п╦ п╥п╟п©п╟п╪'я▐я┌п╬п╡я┐я■я┌я▄я│я▐ п╢п╩я▐ п╨п╬п╤п╫п╬пЁп╬ п╡я√п╨п╫п╟ п╬п╨я─п╣п╪п╬."
 
 msgid "Foreground"
-msgstr "Передн╕й план"
+msgstr "п÷п╣я─п╣п╢п╫я√п╧ п©п╩п╟п╫"
 
 msgid "Global"
-msgstr "Скр╕зь"
+msgstr "п║п╨я─я√п╥я▄"
 
 msgid "Input"
-msgstr "Вв╕д"
+msgstr "п▓п╡я√п╢"
 
 msgid "International Keyboard"
-msgstr "М╕жнародна Клав╕атура"
+msgstr "п°я√п╤п╫п╟я─п╬п╢п╫п╟ п п╩п╟п╡я√п╟я┌я┐я─п╟"
 
 msgid "International keyboard ERROR"
-msgstr "Помилка м╕жнародно╖ клав╕атури"
+msgstr "п÷п╬п╪п╦п╩п╨п╟ п╪я√п╤п╫п╟я─п╬п╢п╫п╬я≈ п╨п╩п╟п╡я√п╟я┌я┐я─п╦"
 
 msgid "International keyboard question"
-msgstr "Запитання м╕жнародно╖ клав╕атури"
+msgstr "п≈п╟п©п╦я┌п╟п╫п╫я▐ п╪я√п╤п╫п╟я─п╬п╢п╫п╬я≈ п╨п╩п╟п╡я√п╟я┌я┐я─п╦"
 
 msgid "International keyboard warning"
-msgstr "Попередження м╕жнародно╖ клав╕атури"
+msgstr "п÷п╬п©п╣я─п╣п╢п╤п╣п╫п╫я▐ п╪я√п╤п╫п╟я─п╬п╢п╫п╬я≈ п╨п╩п╟п╡я√п╟я┌я┐я─п╦"
 
 msgid "KDE International Keyboard already started on this display."
-msgstr "М╕жнародна клав╕атура KDE вже працю╓ на цьому диспле╖"
+msgstr "п°я√п╤п╫п╟я─п╬п╢п╫п╟ п╨п╩п╟п╡я√п╟я┌я┐я─п╟ KDE п╡п╤п╣ п©я─п╟я├я▌я■ п╫п╟ я├я▄п╬п╪я┐ п╢п╦я│п©п╩п╣я≈"
 
 msgid "Key for activating Alternate symbols in current keyboard map"
-msgstr "Клав╕ша для актив╕зац╕╖ альтернативних символ╕в в дан╕й розкладц╕"
+msgstr "п п╩п╟п╡я√я┬п╟ п╢п╩я▐ п╟п╨я┌п╦п╡я√п╥п╟я├я√я≈ п╟п╩я▄я┌п╣я─п╫п╟я┌п╦п╡п╫п╦я┘ я│п╦п╪п╡п╬п╩я√п╡ п╡ п╢п╟п╫я√п╧ я─п╬п╥п╨п╩п╟п╢я├я√"
 
 msgid "Key(s) for switching between keyboard maps"
-msgstr "Клав╕ш╕ для зм╕ни розкладок клав╕атур"
+msgstr "п п╩п╟п╡я√я┬я√ п╢п╩я▐ п╥п╪я√п╫п╦ я─п╬п╥п╨п╩п╟п╢п╬п╨ п╨п╩п╟п╡я√п╟я┌я┐я─"
 
 msgid "KeyMap: can't allocate memory"
-msgstr "KeyMap: не можу вид╕лити пам'ять"
+msgstr "KeyMap: п╫п╣ п╪п╬п╤я┐ п╡п╦п╢я√п╩п╦я┌п╦ п©п╟п╪'я▐я┌я▄"
 
 msgid "KeyMap: can't find symbol \"%s\"."
-msgstr "KeyMap: не можу знайти символ \"%s\"."
+msgstr "KeyMap: п╫п╣ п╪п╬п╤я┐ п╥п╫п╟п╧я┌п╦ я│п╦п╪п╡п╬п╩ \"%s\"."
 
 msgid "KeyMap: can't read keycode \"%s\"."
-msgstr "KeyMap: не можу прочитати код клав╕ш╕ \"%s\"."
+msgstr "KeyMap: п╫п╣ п╪п╬п╤я┐ п©я─п╬я┤п╦я┌п╟я┌п╦ п╨п╬п╢ п╨п╩п╟п╡я√я┬я√ \"%s\"."
 
 msgid "KeyMap: keycode \"%s\" is out of range."
-msgstr "KeyMap: код клав╕ш╕ \"%s\" поза межами дозволених код╕в."
+msgstr "KeyMap: п╨п╬п╢ п╨п╩п╟п╡я√я┬я√ \"%s\" п©п╬п╥п╟ п╪п╣п╤п╟п╪п╦ п╢п╬п╥п╡п╬п╩п╣п╫п╦я┘ п╨п╬п╢я√п╡."
 
 msgid ""
 "Keyboard map \"%s\" does not exists.\n"
 "Skipping this map."
 msgstr ""
-"Розкладка клав╕атури \"%s\" не ╕сну╓.\n"
-"Пропускаю."
+"п═п╬п╥п╨п╩п╟п╢п╨п╟ п╨п╩п╟п╡я√п╟я┌я┐я─п╦ \"%s\" п╫п╣ я√я│п╫я┐я■.\n"
+"п÷я─п╬п©я┐я│п╨п╟я▌."
 
 msgid "Keyboard map information"
-msgstr "╤нформац╕я про розкладку клав╕атури"
+msgstr "п├п╫я└п╬я─п╪п╟я├я√я▐ п©я─п╬ я─п╬п╥п╨п╩п╟п╢п╨я┐ п╨п╩п╟п╡я√п╟я┌я┐я─п╦"
 
 msgid "Keyboard maps"
-msgstr "Розкладки клав╕атур"
+msgstr "п═п╬п╥п╨п╩п╟п╢п╨п╦ п╨п╩п╟п╡я√п╟я┌я┐я─"
 
 msgid "Language"
-msgstr "Мова"
+msgstr "п°п╬п╡п╟"
 
 msgid "Left  Alt"
-msgstr "Л╕вий Alt"
+msgstr "п⌡я√п╡п╦п╧ Alt"
 
 msgid "Left  Control"
-msgstr "Л╕вий Control"
+msgstr "п⌡я√п╡п╦п╧ Control"
 
 msgid "Left  Meta"
-msgstr "Л╕вий Meta"
+msgstr "п⌡я√п╡п╦п╧ Meta"
 
 msgid "Lefts  (Alt+Shift)"
-msgstr "Л╕в╕   (Alt+Shift)"
+msgstr "п⌡я√п╡я√   (Alt+Shift)"
 
 msgid "Lefts  (Ctrl+Alt)"
-msgstr "Л╕в╕  (Ctrl+Alt)"
+msgstr "п⌡я√п╡я√  (Ctrl+Alt)"
 
 msgid "Lefts  (Ctrl+Shift)"
-msgstr "Л╕в╕  (Ctrl+Shift)"
+msgstr "п⌡я√п╡я√  (Ctrl+Shift)"
 
 msgid "List of active keyboard maps"
-msgstr "Список активних розкладок клав╕атур"
+msgstr "п║п©п╦я│п╬п╨ п╟п╨я┌п╦п╡п╫п╦я┘ я─п╬п╥п╨п╩п╟п╢п╬п╨ п╨п╩п╟п╡я√п╟я┌я┐я─"
 
 msgid "Move down selected keyboard map"
-msgstr "Посунути вибрану розкладку вниз"
+msgstr "п÷п╬я│я┐п╫я┐я┌п╦ п╡п╦п╠я─п╟п╫я┐ я─п╬п╥п╨п╩п╟п╢п╨я┐ п╡п╫п╦п╥"
 
 msgid "Move up selected keyboard map"
-msgstr "Посунути вибрану розкладку вгору"
+msgstr "п÷п╬я│я┐п╫я┐я┌п╦ п╡п╦п╠я─п╟п╫я┐ я─п╬п╥п╨п╩п╟п╢п╨я┐ п╡пЁп╬я─я┐"
 
 msgid "Place"
-msgstr "М╕сце"
+msgstr "п°я√я│я├п╣"
 
 msgid "Place in selected corner"
-msgstr "Поставити у вибраному кутку"
+msgstr "п÷п╬я│я┌п╟п╡п╦я┌п╦ я┐ п╡п╦п╠я─п╟п╫п╬п╪я┐ п╨я┐я┌п╨я┐"
 
 msgid "Remove selected keyboard map"
-msgstr "Видалити вибрану розкладку"
+msgstr "п▓п╦п╢п╟п╩п╦я┌п╦ п╡п╦п╠я─п╟п╫я┐ я─п╬п╥п╨п╩п╟п╢п╨я┐"
 
 msgid "Right Alt"
-msgstr "Правий Alt"
+msgstr "п÷я─п╟п╡п╦п╧ Alt"
 
 msgid "Right Control"
-msgstr "Правий Control"
+msgstr "п÷я─п╟п╡п╦п╧ Control"
 
 msgid "Right Meta"
-msgstr "Правий Meta"
+msgstr "п÷я─п╟п╡п╦п╧ Meta"
 
 msgid "Rights (Alt+Shift)"
-msgstr "Прав╕  (Alt+Shift)"
+msgstr "п÷я─п╟п╡я√  (Alt+Shift)"
 
 msgid "Rights (Ctrl+Alt)"
-msgstr "Прав╕ (Ctrl+Alt)"
+msgstr "п÷я─п╟п╡я√ (Ctrl+Alt)"
 
 msgid "Rights (Ctrl+Shift)"
-msgstr "Прав╕ (Ctrl+Shift)"
+msgstr "п÷я─п╟п╡я√ (Ctrl+Shift)"
 
 msgid "Save relations between window classes and keyboard maps on exit"
-msgstr "Запам'ятовувати в╕дношення м╕ж в╕конними класами та розкладками при виход╕"
+msgstr "п≈п╟п©п╟п╪'я▐я┌п╬п╡я┐п╡п╟я┌п╦ п╡я√п╢п╫п╬я┬п╣п╫п╫я▐ п╪я√п╤ п╡я√п╨п╬п╫п╫п╦п╪п╦ п╨п╩п╟я│п╟п╪п╦ я┌п╟ я─п╬п╥п╨п╩п╟п╢п╨п╟п╪п╦ п©я─п╦ п╡п╦я┘п╬п╢я√"
 
 msgid "Setup"
-msgstr "Установки"
+msgstr "пёя│я┌п╟п╫п╬п╡п╨п╦"
 
 msgid "Show menu in any window by holding sown the selected Switch key(s)"
-msgstr "Показувати меню в будь-якому в╕кн╕ при натиснен╕й клав╕ш╕(клав╕шах) перемикання"
+msgstr "п÷п╬п╨п╟п╥я┐п╡п╟я┌п╦ п╪п╣п╫я▌ п╡ п╠я┐п╢я▄-я▐п╨п╬п╪я┐ п╡я√п╨п╫я√ п©я─п╦ п╫п╟я┌п╦я│п╫п╣п╫я√п╧ п╨п╩п╟п╡я√я┬я√(п╨п╩п╟п╡я√я┬п╟я┘) п©п╣я─п╣п╪п╦п╨п╟п╫п╫я▐"
 
 msgid "Source:  "
-msgstr "Джерело:  "
+msgstr "п■п╤п╣я─п╣п╩п╬:  "
 
 msgid "Special behavior. Keyboard state is saved for each window class independently"
-msgstr "Особлива повед╕нка. Стан клав╕атури запам'ятову╓ться для кожного класу в╕кон окремо."
+msgstr "п·я│п╬п╠п╩п╦п╡п╟ п©п╬п╡п╣п╢я√п╫п╨п╟. п║я┌п╟п╫ п╨п╩п╟п╡я√п╟я┌я┐я─п╦ п╥п╟п©п╟п╪'я▐я┌п╬п╡я┐я■я┌я▄я│я▐ п╢п╩я▐ п╨п╬п╤п╫п╬пЁп╬ п╨п╩п╟я│я┐ п╡я√п╨п╬п╫ п╬п╨я─п╣п╪п╬."
 
 msgid "Standard behavior. Keyboard map effective for all windows"
-msgstr "Звичайна повед╕нка. Розкладка клав╕атури активна в ус╕х в╕кнах одночасно."
+msgstr "п≈п╡п╦я┤п╟п╧п╫п╟ п©п╬п╡п╣п╢я√п╫п╨п╟. п═п╬п╥п╨п╩п╟п╢п╨п╟ п╨п╩п╟п╡я√п╟я┌я┐я─п╦ п╟п╨я┌п╦п╡п╫п╟ п╡ я┐я│я√я┘ п╡я√п╨п╫п╟я┘ п╬п╢п╫п╬я┤п╟я│п╫п╬."
 
 msgid "Start up automatically"
-msgstr "Стартувати автоматично"
+msgstr "п║я┌п╟я─я┌я┐п╡п╟я┌п╦ п╟п╡я┌п╬п╪п╟я┌п╦я┤п╫п╬"
 
 msgid "Start&Up"
-msgstr "&Старт"
+msgstr "&п║я┌п╟я─я┌"
 
 msgid "Statistic:  "
-msgstr "Статистика:  "
+msgstr "п║я┌п╟я┌п╦я│я┌п╦п╨п╟:  "
 
 msgid "Switch and Alt Switch"
-msgstr "Клав╕ша перемикання та альтернативна клав╕ша"
+msgstr "п п╩п╟п╡я√я┬п╟ п©п╣я─п╣п╪п╦п╨п╟п╫п╫я▐ я┌п╟ п╟п╩я▄я┌п╣я─п╫п╟я┌п╦п╡п╫п╟ п╨п╩п╟п╡я√я┬п╟"
 
 msgid "Text label background color"
-msgstr "Кол╕р тла текстово╖ етикетки "
+msgstr "п п╬п╩я√я─ я┌п╩п╟ я┌п╣п╨я│я┌п╬п╡п╬я≈ п╣я┌п╦п╨п╣я┌п╨п╦ "
 
 msgid "Text label foreground color"
-msgstr "Кол╕р тексту текстово╖ етикетки "
+msgstr "п п╬п╩я√я─ я┌п╣п╨я│я┌я┐ я┌п╣п╨я│я┌п╬п╡п╬я≈ п╣я┌п╦п╨п╣я┌п╨п╦ "
 
 msgid "There are no keyboard maps left to add"
-msgstr "Б╕льше нема розкладок щоб додавати"
+msgstr "п▒я√п╩я▄я┬п╣ п╫п╣п╪п╟ я─п╬п╥п╨п╩п╟п╢п╬п╨ я┴п╬п╠ п╢п╬п╢п╟п╡п╟я┌п╦"
 
 msgid "Top Left"
-msgstr "Л╕воруч вгор╕"
+msgstr "п⌡я√п╡п╬я─я┐я┤ п╡пЁп╬я─я√"
 
 msgid "Top Right"
-msgstr "Праворуч вгор╕"
+msgstr "п÷я─п╟п╡п╬я─я┐я┤ п╡пЁп╬я─я√"
 
 msgid "U&p"
-msgstr "В&гору"
+msgstr "п▓&пЁп╬я─я┐"
 
 msgid "Use &hot list"
-msgstr "Користуватися \"&гарячим\" списком"
+msgstr "п п╬я─п╦я│я┌я┐п╡п╟я┌п╦я│я▐ \"&пЁп╟я─я▐я┤п╦п╪\" я│п©п╦я│п╨п╬п╪"
 
 msgid "Use only default and last active keyboard maps when switch key sequence is used"
-msgstr "Користуватися т╕льки стандартною та останньою активною розкладкою, коли використову╓ться посл╕довн╕сть перемикань"
+msgstr "п п╬я─п╦я│я┌я┐п╡п╟я┌п╦я│я▐ я┌я√п╩я▄п╨п╦ я│я┌п╟п╫п╢п╟я─я┌п╫п╬я▌ я┌п╟ п╬я│я┌п╟п╫п╫я▄п╬я▌ п╟п╨я┌п╦п╡п╫п╬я▌ я─п╬п╥п╨п╩п╟п╢п╨п╬я▌, п╨п╬п╩п╦ п╡п╦п╨п╬я─п╦я│я┌п╬п╡я┐я■я┌я▄я│я▐ п©п╬я│п╩я√п╢п╬п╡п╫я√я│я┌я▄ п©п╣я─п╣п╪п╦п╨п╟п╫я▄"
 
 msgid "Window"
-msgstr "В╕кно"
+msgstr "п▓я√п╨п╫п╬"
 
 msgid "With Alternate"
-msgstr "З альтернативною"
+msgstr "п≈ п╟п╩я▄я┌п╣я─п╫п╟я┌п╦п╡п╫п╬я▌"
 
 msgid "With Caps Lock"
-msgstr "З Caps Lock"
+msgstr "п≈ Caps Lock"
 
 msgid ""
 "X codes \"%s\" file does not exist.\n"
 "Using X default codes."
 msgstr ""
-"Файл X код╕в \"%s\" не ╕сну╓.\n"
-"Використовую стандартн╕ коди X."
+"п╓п╟п╧п╩ X п╨п╬п╢я√п╡ \"%s\" п╫п╣ я√я│п╫я┐я■.\n"
+"п▓п╦п╨п╬я─п╦я│я┌п╬п╡я┐я▌ я│я┌п╟п╫п╢п╟я─я┌п╫я√ п╨п╬п╢п╦ X."
 
 msgid "X default codes"
-msgstr "Стандартн╕ коди X"
+msgstr "п║я┌п╟п╫п╢п╟я─я┌п╫я√ п╨п╬п╢п╦ X"
 
 msgid ""
 "You're about to quit the \"International Keyboard\" tool.\n"
 " Do you want to have it autostarted at your next login?"
 msgstr ""
-"Ваша робота з \"М╕жнародними клав╕атурами\" зараз буде припинена.  Чи Ви\n"
-"хочете щоб ця програма автоматично стартувала при наступному Вашому\n"
-"користуванн╕ системою?"
+"п▓п╟я┬п╟ я─п╬п╠п╬я┌п╟ п╥ \"п°я√п╤п╫п╟я─п╬п╢п╫п╦п╪п╦ п╨п╩п╟п╡я√п╟я┌я┐я─п╟п╪п╦\" п╥п╟я─п╟п╥ п╠я┐п╢п╣ п©я─п╦п©п╦п╫п╣п╫п╟.  п╖п╦ п▓п╦\n"
+"я┘п╬я┤п╣я┌п╣ я┴п╬п╠ я├я▐ п©я─п╬пЁя─п╟п╪п╟ п╟п╡я┌п╬п╪п╟я┌п╦я┤п╫п╬ я│я┌п╟я─я┌я┐п╡п╟п╩п╟ п©я─п╦ п╫п╟я│я┌я┐п©п╫п╬п╪я┐ п▓п╟я┬п╬п╪я┐\n"
+"п╨п╬я─п╦я│я┌я┐п╡п╟п╫п╫я√ я│п╦я│я┌п╣п╪п╬я▌?"
 
 msgid ""
 "You're using \"International Keyboard\" for the first time.\n"
 "I installed a number of default settings."
 msgstr ""
-"Ви користу╓тесь \"М╕жнародними клав╕атурами\" перший раз. Я встановив\n"
-"для Вас ряд стандартних установок."
+"п▓п╦ п╨п╬я─п╦я│я┌я┐я■я┌п╣я│я▄ \"п°я√п╤п╫п╟я─п╬п╢п╫п╦п╪п╦ п╨п╩п╟п╡я√п╟я┌я┐я─п╟п╪п╦\" п©п╣я─я┬п╦п╧ я─п╟п╥. п╞ п╡я│я┌п╟п╫п╬п╡п╦п╡\n"
+"п╢п╩я▐ п▓п╟я│ я─я▐п╢ я│я┌п╟п╫п╢п╟я─я┌п╫п╦я┘ я┐я│я┌п╟п╫п╬п╡п╬п╨."
 
 msgid "alternative symbols"
-msgstr "альтернативн╕ символи"
+msgstr "п╟п╩я▄я┌п╣я─п╫п╟я┌п╦п╡п╫я√ я│п╦п╪п╡п╬п╩п╦"
 
 msgid "codes"
-msgstr "коди"
+msgstr "п╨п╬п╢п╦"
 
 msgid "default"
-msgstr "стандартний"
+msgstr "я│я┌п╟п╫п╢п╟я─я┌п╫п╦п╧"
 
 msgid "no file"
-msgstr "нема╓ файлу"
+msgstr "п╫п╣п╪п╟я■ я└п╟п╧п╩я┐"
 
 msgid "symbols"
-msgstr "символи"
+msgstr "я│п╦п╪п╡п╬п╩п╦"
 
 msgid "system file"
-msgstr "системний файл"
+msgstr "я│п╦я│я┌п╣п╪п╫п╦п╧ я└п╟п╧п╩"
 
 msgid "unknown"
-msgstr "нев╕домо"
+msgstr "п╫п╣п╡я√п╢п╬п╪п╬"
 
 msgid "user file"
-msgstr "файл користувача"
+msgstr "я└п╟п╧п╩ п╨п╬я─п╦я│я┌я┐п╡п╟я┤п╟"

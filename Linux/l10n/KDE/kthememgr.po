@@ -14,109 +14,109 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "%s Theme"
-msgstr "Тема %s"
+msgstr "п╒п╣п╪п╟ %s"
 
 msgid "&Author"
-msgstr "&Автор"
+msgstr "&п░п╡я┌п╬я─"
 
 msgid "&Description"
-msgstr "&Опис"
+msgstr "&п·п©п╦я│"
 
 msgid "&Email"
-msgstr "&Електронна пошта"
+msgstr "&п∙п╩п╣п╨я┌я─п╬п╫п╫п╟ п©п╬я┬я┌п╟"
 
 msgid "&Name"
-msgstr "&Назва"
+msgstr "&п²п╟п╥п╡п╟"
 
 msgid "&Webpage"
-msgstr "&Домашня стор╕нка"
+msgstr "&п■п╬п╪п╟я┬п╫я▐ я│я┌п╬я─я√п╫п╨п╟"
 
 msgid "(no preview pixmap)"
-msgstr "(нема╓ зображення для перегляду)"
+msgstr "(п╫п╣п╪п╟я■ п╥п╬п╠я─п╟п╤п╣п╫п╫я▐ п╢п╩я▐ п©п╣я─п╣пЁп╩я▐п╢я┐)"
 
 msgid "(no theme chosen)"
-msgstr "(нема╓ вибрано╖ теми)"
+msgstr "(п╫п╣п╪п╟я■ п╡п╦п╠я─п╟п╫п╬я≈ я┌п╣п╪п╦)"
 
 msgid "Active window"
-msgstr "Активне в╕кно"
+msgstr "п░п╨я┌п╦п╡п╫п╣ п╡я√п╨п╫п╬"
 
 msgid "Add Theme"
-msgstr "Додати тему"
+msgstr "п■п╬п╢п╟я┌п╦ я┌п╣п╪я┐"
 
 msgid "Add a new theme to the list."
-msgstr "Додати нову тему до списку"
+msgstr "п■п╬п╢п╟я┌п╦ п╫п╬п╡я┐ я┌п╣п╪я┐ п╢п╬ я│п©п╦я│п╨я┐"
 
 msgid "Add..."
-msgstr "Додати..."
+msgstr "п■п╬п╢п╟я┌п╦..."
 
 msgid "Cannot create directory %s"
-msgstr "Не можу створити каталог %s"
+msgstr "п²п╣ п╪п╬п╤я┐ я│я┌п╡п╬я─п╦я┌п╦ п╨п╟я┌п╟п╩п╬пЁ %s"
 
 msgid "Cannot enter directory %s"
-msgstr "Не можу вв╕йти в каталог %s"
+msgstr "п²п╣ п╪п╬п╤я┐ п╡п╡я√п╧я┌п╦ п╡ п╨п╟я┌п╟п╩п╬пЁ %s"
 
 msgid "Cannot make backup copy of %s: mv returned %d"
-msgstr "Не можу зробити резервну коп╕ю %s: в╕д mv повернулося %d"
+msgstr "п²п╣ п╪п╬п╤я┐ п╥я─п╬п╠п╦я┌п╦ я─п╣п╥п╣я─п╡п╫я┐ п╨п╬п©я√я▌ %s: п╡я√п╢ mv п©п╬п╡п╣я─п╫я┐п╩п╬я│я▐ %d"
 
 msgid "Cannot open file %s for reading"
-msgstr "Не можу в╕дкрити файл %s для читання"
+msgstr "п²п╣ п╪п╬п╤я┐ п╡я√п╢п╨я─п╦я┌п╦ я└п╟п╧п╩ %s п╢п╩я▐ я┤п╦я┌п╟п╫п╫я▐"
 
 msgid "Cannot open file %s for writing"
-msgstr "Не можу в╕дкрити файл %s для запису"
+msgstr "п²п╣ п╪п╬п╤я┐ п╡я√п╢п╨я─п╦я┌п╦ я└п╟п╧п╩ %s п╢п╩я▐ п╥п╟п©п╦я│я┐"
 
 msgid "Colors"
-msgstr "Кольори"
+msgstr "п п╬п╩я▄п╬я─п╦"
 
 msgid "Create New Theme"
-msgstr "Створити нову тему"
+msgstr "п║я┌п╡п╬я─п╦я┌п╦ п╫п╬п╡я┐ я┌п╣п╪я┐"
 
 msgid "Create a new theme from the current settings."
-msgstr "Створити нову тему ╕з даних установок"
+msgstr "п║я┌п╡п╬я─п╦я┌п╦ п╫п╬п╡я┐ я┌п╣п╪я┐ я√п╥ п╢п╟п╫п╦я┘ я┐я│я┌п╟п╫п╬п╡п╬п╨"
 
 msgid "Create..."
-msgstr "Створити..."
+msgstr "п║я┌п╡п╬я─п╦я┌п╦..."
 
 msgid "Disabled"
-msgstr "Вимкнений"
+msgstr "п▓п╦п╪п╨п╫п╣п╫п╦п╧"
 
 msgid ""
 "Error during cleanup of work directory: rc=%d\n"
 "%s"
 msgstr ""
-"Помилка п╕д час чищення робочого каталогу: rc=%d\n"
+"п÷п╬п╪п╦п╩п╨п╟ п©я√п╢ я┤п╟я│ я┤п╦я┴п╣п╫п╫я▐ я─п╬п╠п╬я┤п╬пЁп╬ п╨п╟я┌п╟п╩п╬пЁя┐: rc=%d\n"
 "%s"
 
 msgid ""
 "Failed to copy theme %s\n"
 "into themes directory %s"
 msgstr ""
-"Не можу скоп╕ювати тему %s\n"
-"в теку з темами %s"
+"п²п╣ п╪п╬п╤я┐ я│п╨п╬п©я√я▌п╡п╟я┌п╦ я┌п╣п╪я┐ %s\n"
+"п╡ я┌п╣п╨я┐ п╥ я┌п╣п╪п╟п╪п╦ %s"
 
 msgid ""
 "Failed to copy theme contents\n"
 "from %s\n"
 "into %s"
 msgstr ""
-"Не вдалося скоп╕ювати зм╕ст теми\n"
-"з %s\n"
-"в %s"
+"п²п╣ п╡п╢п╟п╩п╬я│я▐ я│п╨п╬п©я√я▌п╡п╟я┌п╦ п╥п╪я√я│я┌ я┌п╣п╪п╦\n"
+"п╥ %s\n"
+"п╡ %s"
 
 msgid "Failed to create directory %s: %s"
-msgstr "Не зм╕г створити теку %s: %s"
+msgstr "п²п╣ п╥п╪я√пЁ я│я┌п╡п╬я─п╦я┌п╦ я┌п╣п╨я┐ %s: %s"
 
 msgid "Failed to load preview image %s"
-msgstr "Не зм╕г прочитати зображення для перегляду %s"
+msgstr "п²п╣ п╥п╪я√пЁ п©я─п╬я┤п╦я┌п╟я┌п╦ п╥п╬п╠я─п╟п╤п╣п╫п╫я▐ п╢п╩я▐ п©п╣я─п╣пЁп╩я▐п╢я┐ %s"
 
 msgid "Failed to remove theme %s"
-msgstr "Не зм╕г стерти тему %s"
+msgstr "п²п╣ п╥п╪я√пЁ я│я┌п╣я─я┌п╦ я┌п╣п╪я┐ %s"
 
 msgid ""
 "Failed to remove theme:\n"
 "%s\n"
 "(%s)"
 msgstr ""
-"Не зм╕г стерти тему: %s\n"
+"п²п╣ п╥п╪я√пЁ я│я┌п╣я─я┌п╦ я┌п╣п╪я┐: %s\n"
 "%s\n"
 "(%s)"
 
@@ -124,26 +124,26 @@ msgid ""
 "Failed to unpack %s with\n"
 "%s"
 msgstr ""
-"Не зм╕г розпакувати %s з\n"
+"п²п╣ п╥п╪я√пЁ я─п╬п╥п©п╟п╨я┐п╡п╟я┌п╦ %s п╥\n"
 "%s"
 
 msgid "File Manager"
-msgstr "Менеджер файл╕в"
+msgstr "п°п╣п╫п╣п╢п╤п╣я─ я└п╟п╧п╩я√п╡"
 
 msgid "Give a short description of the theme here..."
-msgstr "Дайте короткий опис теми тут..."
+msgstr "п■п╟п╧я┌п╣ п╨п╬я─п╬я┌п╨п╦п╧ п╬п©п╦я│ я┌п╣п╪п╦ я┌я┐я┌..."
 
 msgid "Icon key name %s can not be used"
-msgstr "Не можна користуватися назвою п╕ктограми %s"
+msgstr "п²п╣ п╪п╬п╤п╫п╟ п╨п╬я─п╦я│я┌я┐п╡п╟я┌п╦я│я▐ п╫п╟п╥п╡п╬я▌ п©я√п╨я┌п╬пЁя─п╟п╪п╦ %s"
 
 msgid "Icons"
-msgstr "П╕ктограми"
+msgstr "п÷я√п╨я┌п╬пЁя─п╟п╪п╦"
 
 msgid "Inactive window"
-msgstr "Неактивне в╕кно"
+msgstr "п²п╣п╟п╨я┌п╦п╡п╫п╣ п╡я√п╨п╫п╬"
 
 msgid "Installer"
-msgstr "Встановлювач"
+msgstr "п▓я│я┌п╟п╫п╬п╡п╩я▌п╡п╟я┤"
 
 msgid ""
 "Internal error in theme mappings\n"
@@ -151,111 +151,111 @@ msgid ""
 "\n"
 "Entry `%s' is missing or has no value."
 msgstr ""
-"Внутр╕шня помилка в мап╕ тем (файл\n"
-"theme.mappings) в груп╕ %s:\n"
+"п▓п╫я┐я┌я─я√я┬п╫я▐ п©п╬п╪п╦п╩п╨п╟ п╡ п╪п╟п©я√ я┌п╣п╪ (я└п╟п╧п╩\n"
+"theme.mappings) п╡ пЁя─я┐п©я√ %s:\n"
 "\n"
-"Пункт %s або в╕дсутн╕й або ма╓\n"
-"невстановлене значення."
+"п÷я┐п╫п╨я┌ %s п╟п╠п╬ п╡я√п╢я│я┐я┌п╫я√п╧ п╟п╠п╬ п╪п╟я■\n"
+"п╫п╣п╡я│я┌п╟п╫п╬п╡п╩п╣п╫п╣ п╥п╫п╟я┤п╣п╫п╫я▐."
 
 msgid "Invert"
-msgstr "╤нверс╕я"
+msgstr "п├п╫п╡п╣я─я│я√я▐"
 
 msgid "KDE Theme Manager"
-msgstr "Менеджер тем KDE"
+msgstr "п°п╣п╫п╣п╢п╤п╣я─ я┌п╣п╪ KDE"
 
 msgid "Kde Theme Manager"
-msgstr "Менеджер тем Kde"
+msgstr "п°п╣п╫п╣п╢п╤п╣я─ я┌п╣п╪ Kde"
 
 msgid "Konsole"
 msgstr "Konsole"
 
 msgid "Mappings file theme.mappings not found."
-msgstr "Файл мап theme.mapings не знайдено"
+msgstr "п╓п╟п╧п╩ п╪п╟п© theme.mapings п╫п╣ п╥п╫п╟п╧п╢п╣п╫п╬"
 
 msgid "MyNewTheme"
-msgstr "МояНоваТема"
+msgstr "п°п╬я▐п²п╬п╡п╟п╒п╣п╪п╟"
 
 msgid ""
 "No proper kdelnk file found for %s.\n"
 "Installing icon(s) as %s"
 msgstr ""
-"Не знайдено в╕дпов╕дного kdelnk файлу для %s.\n"
-"Встановлюю п╕ктограми як %s"
+"п²п╣ п╥п╫п╟п╧п╢п╣п╫п╬ п╡я√п╢п©п╬п╡я√п╢п╫п╬пЁп╬ kdelnk я└п╟п╧п╩я┐ п╢п╩я▐ %s.\n"
+"п▓я│я┌п╟п╫п╬п╡п╩я▌я▌ п©я√п╨я┌п╬пЁя─п╟п╪п╦ я▐п╨ %s"
 
 msgid "Panel"
-msgstr "Панель"
+msgstr "п÷п╟п╫п╣п╩я▄"
 
 msgid "Remove the selected theme."
-msgstr "Видалити вибрану тему"
+msgstr "п▓п╦п╢п╟п╩п╦я┌п╦ п╡п╦п╠я─п╟п╫я┐ я┌п╣п╪я┐"
 
 msgid "Restart %s to activate the new settings?"
-msgstr "Перезапустити %s щоб зм╕ни актив╕зувалися?"
+msgstr "п÷п╣я─п╣п╥п╟п©я┐я│я┌п╦я┌п╦ %s я┴п╬п╠ п╥п╪я√п╫п╦ п╟п╨я┌п╦п╡я√п╥я┐п╡п╟п╩п╦я│я▐?"
 
 msgid "Restart Application"
-msgstr "Перезапустити програму"
+msgstr "п÷п╣я─п╣п╥п╟п©я┐я│я┌п╦я┌п╦ п©я─п╬пЁя─п╟п╪я┐"
 
 msgid "Save Theme"
-msgstr "Зберегти тему"
+msgstr "п≈п╠п╣я─п╣пЁя┌п╦ я┌п╣п╪я┐"
 
 msgid "Save the Work directory"
-msgstr "Зберегти робочу теку"
+msgstr "п≈п╠п╣я─п╣пЁя┌п╦ я─п╬п╠п╬я┤я┐ я┌п╣п╨я┐"
 
 msgid "Save the Work directory as..."
-msgstr "Зберегти робочу теку п╕д назвою..."
+msgstr "п≈п╠п╣я─п╣пЁя┌п╦ я─п╬п╠п╬я┤я┐ я┌п╣п╨я┐ п©я√п╢ п╫п╟п╥п╡п╬я▌..."
 
 msgid "Selected"
-msgstr "Вибране"
+msgstr "п▓п╦п╠я─п╟п╫п╣"
 
 msgid "Sounds"
-msgstr "Звуки"
+msgstr "п≈п╡я┐п╨п╦"
 
 msgid "The file(s) of this theme could not be found!"
-msgstr "Не можу знайти файл(и) ц╕╓╖ теми "
+msgstr "п²п╣ п╪п╬п╤я┐ п╥п╫п╟п╧я┌п╦ я└п╟п╧п╩(п╦) я├я√я■я≈ я┌п╣п╪п╦ "
 
 msgid "Theme added."
-msgstr "Тема додана."
+msgstr "п╒п╣п╪п╟ п╢п╬п╢п╟п╫п╟."
 
 msgid "Theme contains no .themerc file"
-msgstr "В тем╕ нема╓ файлу .themerc"
+msgstr "п▓ я┌п╣п╪я√ п╫п╣п╪п╟я■ я└п╟п╧п╩я┐ .themerc"
 
 msgid "Theme created."
-msgstr "Створена тема."
+msgstr "п║я┌п╡п╬я─п╣п╫п╟ я┌п╣п╪п╟."
 
 msgid ""
 "Theme removed locally.\n"
 "Now using global version."
 msgstr ""
-"Тема стерта локально.\n"
-"Зараз користуюся глобальною верс╕╓ю."
+"п╒п╣п╪п╟ я│я┌п╣я─я┌п╟ п╩п╬п╨п╟п╩я▄п╫п╬.\n"
+"п≈п╟я─п╟п╥ п╨п╬я─п╦я│я┌я┐я▌я│я▐ пЁп╩п╬п╠п╟п╩я▄п╫п╬я▌ п╡п╣я─я│я√я■я▌."
 
 msgid "Theme removed."
-msgstr "Тема стерта."
+msgstr "п╒п╣п╪п╟ я│я┌п╣я─я┌п╟."
 
 msgid "Theme saved."
-msgstr "Тема збережена."
+msgstr "п╒п╣п╪п╟ п╥п╠п╣я─п╣п╤п╣п╫п╟."
 
 msgid "Uninstall parts of previous theme"
-msgstr "Видалити частини попередньо╖ теми."
+msgstr "п▓п╦п╢п╟п╩п╦я┌п╦ я┤п╟я│я┌п╦п╫п╦ п©п╬п©п╣я─п╣п╢п╫я▄п╬я≈ я┌п╣п╪п╦."
 
 msgid "Unknown"
-msgstr "Нев╕домо"
+msgstr "п²п╣п╡я√п╢п╬п╪п╬"
 
 msgid ""
 "Unknown command `%s' in theme.mappings\n"
 "file in group %s."
 msgstr ""
-"Нев╕дома команда `%s' в файл╕ \n"
-"theme.mappings в груп╕ %s."
+"п²п╣п╡я√п╢п╬п╪п╟ п╨п╬п╪п╟п╫п╢п╟ `%s' п╡ я└п╟п╧п╩я√ \n"
+"theme.mappings п╡ пЁя─я┐п©я√ %s."
 
 msgid ""
 "Unknown pre-install command `%s' in\n"
 "theme.mappings file in group %s."
 msgstr ""
-"Нев╕дома встановлена команда `%s' в \n"
-"файл╕ theme.mappings в груп╕ %s."
+"п²п╣п╡я√п╢п╬п╪п╟ п╡я│я┌п╟п╫п╬п╡п╩п╣п╫п╟ п╨п╬п╪п╟п╫п╢п╟ `%s' п╡ \n"
+"я└п╟п╧п╩я√ theme.mappings п╡ пЁя─я┐п©я√ %s."
 
 msgid "Version %s"
-msgstr "Верс╕я %s"
+msgstr "п▓п╣я─я│я√я▐ %s"
 
 msgid ""
 "Version %s\n"
@@ -265,38 +265,38 @@ msgid ""
 "\n"
 "Gnu Public License (GPL)"
 msgstr ""
-"Верс╕я %s\n"
-"Права застережен╕ (C) 1998 \n"
+"п▓п╣я─я│я√я▐ %s\n"
+"п÷я─п╟п╡п╟ п╥п╟я│я┌п╣я─п╣п╤п╣п╫я√ (C) 1998 \n"
 "%s\n"
 "\n"
-"Загальна Публ╕чна Л╕ценз╕я GNU (GPL)"
+"п≈п╟пЁп╟п╩я▄п╫п╟ п÷я┐п╠п╩я√я┤п╫п╟ п⌡я√я├п╣п╫п╥я√я▐ GNU (GPL)"
 
 msgid "Wallpapers"
-msgstr "Шпалери"
+msgstr "п╗п©п╟п╩п╣я─п╦"
 
 msgid "Window Border"
-msgstr "╫раниц╕ в╕кон"
+msgstr "р░я─п╟п╫п╦я├я√ п╡я√п╨п╬п╫"
 
 msgid "Window Button Layout"
-msgstr "Розташування кнопок у в╕кнах"
+msgstr "п═п╬п╥я┌п╟я┬я┐п╡п╟п╫п╫я▐ п╨п╫п╬п©п╬п╨ я┐ п╡я√п╨п╫п╟я┘"
 
 msgid "Window Gimmick"
 msgstr "Window Gimmick"
 
 msgid "Window Titlebar"
-msgstr "Стр╕чка заголовку в╕кна"
+msgstr "п║я┌я─я√я┤п╨п╟ п╥п╟пЁп╬п╩п╬п╡п╨я┐ п╡я√п╨п╫п╟"
 
 msgid "Window text"
-msgstr "Текст в╕кна"
+msgstr "п╒п╣п╨я│я┌ п╡я√п╨п╫п╟"
 
 msgid "Work on the following parts:"
-msgstr "Робота над такими частинами:"
+msgstr "п═п╬п╠п╬я┌п╟ п╫п╟п╢ я┌п╟п╨п╦п╪п╦ я┤п╟я│я┌п╦п╫п╟п╪п╦:"
 
 msgid ""
 "Write error to %s:\n"
 "%s"
 msgstr ""
-"Помилка запису в %s:\n"
+"п÷п╬п╪п╦п╩п╨п╟ п╥п╟п©п╦я│я┐ п╡ %s:\n"
 "%s"
 
 msgid ""
@@ -304,27 +304,27 @@ msgid ""
 "The name of a theme file should end\n"
 "either with '.tar.gz' or '.tgz'\n"
 msgstr ""
-"Нев╕рний файл.\n"
-"Назва теми ма╓ зак╕нчуватися або \n"
-"на '.tar.gz' або на '.tgz'\n"
+"п²п╣п╡я√я─п╫п╦п╧ я└п╟п╧п╩.\n"
+"п²п╟п╥п╡п╟ я┌п╣п╪п╦ п╪п╟я■ п╥п╟п╨я√п╫я┤я┐п╡п╟я┌п╦я│я▐ п╟п╠п╬ \n"
+"п╫п╟ '.tar.gz' п╟п╠п╬ п╫п╟ '.tgz'\n"
 
 msgid "available"
-msgstr "доступно"
+msgstr "п╢п╬я│я┌я┐п©п╫п╬"
 
 msgid "by %s"
 msgstr " %s"
 
 msgid "empty"
-msgstr "пусто"
+msgstr "п©я┐я│я┌п╬"
 
 msgid "fatal error"
-msgstr "серйозна помилка"
+msgstr "я│п╣я─п╧п╬п╥п╫п╟ п©п╬п╪п╦п╩п╨п╟"
 
 msgid "kwmcom: communication with kwm failed\n"
-msgstr "kwmcom: не вда╓ться сп╕лкування з kwm\n"
+msgstr "kwmcom: п╫п╣ п╡п╢п╟я■я┌я▄я│я▐ я│п©я√п╩п╨я┐п╡п╟п╫п╫я▐ п╥ kwm\n"
 
 msgid "unknown"
-msgstr "нев╕домо"
+msgstr "п╫п╣п╡я√п╢п╬п╪п╬"
 
 msgid "warning"
-msgstr "попередження"
+msgstr "п©п╬п©п╣я─п╣п╢п╤п╣п╫п╫я▐"

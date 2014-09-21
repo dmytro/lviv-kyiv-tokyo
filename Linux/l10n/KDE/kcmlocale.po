@@ -14,36 +14,36 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "&Locale"
-msgstr "&Локаль"
+msgstr "&п⌡п╬п╨п╟п╩я▄"
 
 msgid "Applying language settings"
-msgstr "Застосування установок мови"
+msgstr "п≈п╟я│я┌п╬я│я┐п╡п╟п╫п╫я▐ я┐я│я┌п╟п╫п╬п╡п╬п╨ п╪п╬п╡п╦"
 
 msgid ""
 "Changed language settings apply only to newly started applications.\n"
 "To change the language of all programs, you will have to logout first."
 msgstr ""
-"Зм╕ни в установках мови будуть д╕яти т╕льки в тих програмах, як╕\n"
-"запускаються п╕сля цього.\n"
-"Щоб зм╕нилась мова в ус╕х програмах, Вам треба вийти з KDE."
+"п≈п╪я√п╫п╦ п╡ я┐я│я┌п╟п╫п╬п╡п╨п╟я┘ п╪п╬п╡п╦ п╠я┐п╢я┐я┌я▄ п╢я√я▐я┌п╦ я┌я√п╩я▄п╨п╦ п╡ я┌п╦я┘ п©я─п╬пЁя─п╟п╪п╟я┘, я▐п╨я√\n"
+"п╥п╟п©я┐я│п╨п╟я▌я┌я▄я│я▐ п©я√я│п╩я▐ я├я▄п╬пЁп╬.\n"
+"п╘п╬п╠ п╥п╪я√п╫п╦п╩п╟я│я▄ п╪п╬п╡п╟ п╡ я┐я│я√я┘ п©я─п╬пЁя─п╟п╪п╟я┘, п▓п╟п╪ я┌я─п╣п╠п╟ п╡п╦п╧я┌п╦ п╥ KDE."
 
 msgid "First"
-msgstr "Перша"
+msgstr "п÷п╣я─я┬п╟"
 
 msgid "Language"
-msgstr "Мова"
+msgstr "п°п╬п╡п╟"
 
 msgid "Locale settings"
-msgstr "Установка локал╕"
+msgstr "пёя│я┌п╟п╫п╬п╡п╨п╟ п╩п╬п╨п╟п╩я√"
 
 msgid "Second"
-msgstr "Друга"
+msgstr "п■я─я┐пЁп╟"
 
 msgid "Third"
-msgstr "Третя"
+msgstr "п╒я─п╣я┌я▐"
 
 msgid "usage: kcmlocale [-init | language]\n"
-msgstr "використання: kcmlocale [-init | мова]\n"
+msgstr "п╡п╦п╨п╬я─п╦я│я┌п╟п╫п╫я▐: kcmlocale [-init | п╪п╬п╡п╟]\n"
 
 msgid "without name!"
-msgstr "нема╓ назви!"
+msgstr "п╫п╣п╪п╟я■ п╫п╟п╥п╡п╦!"

@@ -14,269 +14,269 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid " Advanced "
-msgstr "Розширений"
+msgstr "п═п╬п╥я┬п╦я─п╣п╫п╦п╧"
 
 msgid " Date Modified "
-msgstr "Дата зм╕ни"
+msgstr "п■п╟я┌п╟ п╥п╪я√п╫п╦"
 
 msgid " Name& Location "
-msgstr "&Назва та м╕сце"
+msgstr "&п²п╟п╥п╡п╟ я┌п╟ п╪я√я│я├п╣"
 
 msgid "%d file(s) found"
-msgstr "Знайдено %d файл╕в"
+msgstr "п≈п╫п╟п╧п╢п╣п╫п╬ %d я└п╟п╧п╩я√п╡"
 
 msgid "&Add to archive"
-msgstr "Додати до &арх╕ву"
+msgstr "п■п╬п╢п╟я┌п╦ п╢п╬ &п╟я─я┘я√п╡я┐"
 
 msgid "&All files"
-msgstr "&Вс╕ файли"
+msgstr "&п▓я│я√ я└п╟п╧п╩п╦"
 
 msgid "&Browse ..."
-msgstr "Пере&гляд ..."
+msgstr "п÷п╣я─п╣&пЁп╩я▐п╢ ..."
 
 msgid "&Containing Text:"
-msgstr "Що &м╕стять текст:"
+msgstr "п╘п╬ &п╪я√я│я┌я▐я┌я▄ я┌п╣п╨я│я┌:"
 
 msgid "&Invert Selection"
-msgstr "&Протилежний виб╕р"
+msgstr "&п÷я─п╬я┌п╦п╩п╣п╤п╫п╦п╧ п╡п╦п╠я√я─"
 
 msgid "&Look in:"
-msgstr "&Шукати в:"
+msgstr "&п╗я┐п╨п╟я┌п╦ п╡:"
 
 msgid "&Named:"
-msgstr "П╕д &назвою:"
+msgstr "п÷я√п╢ &п╫п╟п╥п╡п╬я▌:"
 
 msgid "&Open"
-msgstr "&В╕дкрити"
+msgstr "&п▓я√п╢п╨я─п╦я┌п╦"
 
 msgid "&Preferences ..."
-msgstr "&Установки ... "
+msgstr "&пёя│я┌п╟п╫п╬п╡п╨п╦ ... "
 
 msgid "&Properties"
-msgstr "&Властивост╕"
+msgstr "&п▓п╩п╟я│я┌п╦п╡п╬я│я┌я√"
 
 msgid "&Save Search"
-msgstr "З&берегти пошук"
+msgstr "п≈&п╠п╣я─п╣пЁя┌п╦ п©п╬я┬я┐п╨"
 
 msgid "&Select All"
-msgstr "Вибрати &все"
+msgstr "п▓п╦п╠я─п╟я┌п╦ &п╡я│п╣"
 
 msgid "&Size is:"
-msgstr "&Розм╕р:"
+msgstr "&п═п╬п╥п╪я√я─:"
 
 msgid "&Start search"
-msgstr "По&чати пошук:"
+msgstr "п÷п╬&я┤п╟я┌п╦ п©п╬я┬я┐п╨:"
 
 msgid "&between"
-msgstr "&м╕ж"
+msgstr "&п╪я√п╤"
 
 msgid "&during the previous "
-msgstr "на &протяз╕ попередн╕х"
+msgstr "п╫п╟ &п©я─п╬я┌я▐п╥я√ п©п╬п©п╣я─п╣п╢п╫я√я┘"
 
 msgid "(none)"
-msgstr "(н╕чого)"
+msgstr "(п╫я√я┤п╬пЁп╬)"
 
 msgid "Add New"
-msgstr "Додати новий"
+msgstr "п■п╬п╢п╟я┌п╦ п╫п╬п╡п╦п╧"
 
 msgid "Add to Archive:"
-msgstr "Додати до арх╕ву:"
+msgstr "п■п╬п╢п╟я┌п╦ п╢п╬ п╟я─я┘я√п╡я┐:"
 
 msgid "Add to archive"
-msgstr "Додати до арх╕ву"
+msgstr "п■п╬п╢п╟я┌п╦ п╢п╬ п╟я─я┘я√п╡я┐"
 
 msgid "All Files and Folders"
-msgstr "Вс╕ файли та каталоги"
+msgstr "п▓я│я√ я└п╟п╧п╩п╦ я┌п╟ п╨п╟я┌п╟п╩п╬пЁп╦"
 
 msgid "Archivers"
-msgstr "Арх╕ватори"
+msgstr "п░я─я┘я√п╡п╟я┌п╬я─п╦"
 
 msgid "At Least"
-msgstr "Не менше"
+msgstr "п²п╣ п╪п╣п╫я┬п╣"
 
 msgid "At Most"
-msgstr "Не б╕льше"
+msgstr "п²п╣ п╠я√п╩я▄я┬п╣"
 
 msgid "Browse"
-msgstr "Переглянути"
+msgstr "п÷п╣я─п╣пЁп╩я▐п╫я┐я┌п╦"
 
 msgid "Cannot open or read directory."
-msgstr "Не можу в╕дкрити чи прочитати каталог"
+msgstr "п²п╣ п╪п╬п╤я┐ п╡я√п╢п╨я─п╦я┌п╦ я┤п╦ п©я─п╬я┤п╦я┌п╟я┌п╦ п╨п╟я┌п╟п╩п╬пЁ"
 
 msgid "Couldn't recognize archive type!"
-msgstr "Не можу розп╕знати тип арх╕ву!"
+msgstr "п²п╣ п╪п╬п╤я┐ я─п╬п╥п©я√п╥п╫п╟я┌п╦ я┌п╦п© п╟я─я┘я√п╡я┐!"
 
 msgid "Create Archive:"
-msgstr "Створити арх╕в:"
+msgstr "п║я┌п╡п╬я─п╦я┌п╦ п╟я─я┘я√п╡:"
 
 msgid "Delete File"
-msgstr "Видалити файл"
+msgstr "п▓п╦п╢п╟п╩п╦я┌п╦ я└п╟п╧п╩"
 
 msgid "Directories:"
-msgstr "Каталоги:"
+msgstr "п п╟я┌п╟п╩п╬пЁп╦:"
 
 msgid ""
 "Do you really want to delete file:\n"
 "%s"
 msgstr ""
-"Ви д╕йсно хочете стерти файл:\n"
+"п▓п╦ п╢я√п╧я│п╫п╬ я┘п╬я┤п╣я┌п╣ я│я┌п╣я─я┌п╦ я└п╟п╧п╩:\n"
 "%"
 
 msgid "Error while creating child process!"
-msgstr "Помилка п╕д час створення доч╕рнього процесу!"
+msgstr "п÷п╬п╪п╦п╩п╨п╟ п©я√п╢ я┤п╟я│ я│я┌п╡п╬я─п╣п╫п╫я▐ п╢п╬я┤я√я─п╫я▄п╬пЁп╬ п©я─п╬я├п╣я│я┐!"
 
 msgid "Executable files"
-msgstr "Файли програм"
+msgstr "п╓п╟п╧п╩п╦ п©я─п╬пЁя─п╟п╪"
 
 msgid "File format:"
-msgstr "Формат файлу:"
+msgstr "п╓п╬я─п╪п╟я┌ я└п╟п╧п╩я┐:"
 
 msgid "Find all files created or &modified:"
-msgstr "Знайти вс╕ файли створен╕ чи &зм╕нен╕"
+msgstr "п≈п╫п╟п╧я┌п╦ п╡я│я√ я└п╟п╧п╩п╦ я│я┌п╡п╬я─п╣п╫я√ я┤п╦ &п╥п╪я√п╫п╣п╫я√"
 
 msgid "Folders"
-msgstr "Теки"
+msgstr "п╒п╣п╨п╦"
 
 msgid "Include &subfolders"
-msgstr "Включити &п╕дкаталоги"
+msgstr "п▓п╨п╩я▌я┤п╦я┌п╦ &п©я√п╢п╨п╟я┌п╟п╩п╬пЁп╦"
 
 msgid ""
 "It isn't possible to delete\n"
 "selected directory"
 msgstr ""
-"Неможливо видалити\n"
-"вибраний каталог"
+"п²п╣п╪п╬п╤п╩п╦п╡п╬ п╡п╦п╢п╟п╩п╦я┌п╦\n"
+"п╡п╦п╠я─п╟п╫п╦п╧ п╨п╟я┌п╟п╩п╬пЁ"
 
 msgid ""
 "It isn't possible to delete\n"
 "selected file"
 msgstr ""
-"Неможливо видалити\n"
-"вибраний файл"
+"п²п╣п╪п╬п╤п╩п╦п╡п╬ п╡п╦п╢п╟п╩п╦я┌п╦\n"
+"п╡п╦п╠я─п╟п╫п╦п╧ я└п╟п╧п╩"
 
 msgid "It wasn't possible to save results!"
-msgstr "Не зм╕г записати результати!"
+msgstr "п²п╣ п╥п╪я√пЁ п╥п╟п©п╦я│п╟я┌п╦ я─п╣п╥я┐п╩я▄я┌п╟я┌п╦!"
 
 msgid "KB"
-msgstr "кб"
+msgstr "п╨п╠"
 
 msgid ""
 "KFind %s\n"
 "Frontend to find utility\n"
-"Miroslav FlМdr <flidr@kky.zcu.cz>\n"
+"Miroslav Flп°dr <flidr@kky.zcu.cz>\n"
 "\n"
 "Special thanks to Stephan Kulow\n"
 "<coolo@kde.org>"
 msgstr ""
 "KFind %s\n"
-"╤нтерфейс до програми find\n"
-"Miroslav FlМdr <flidr@kky.zcu.cz>\n"
+"п├п╫я┌п╣я─я└п╣п╧я│ п╢п╬ п©я─п╬пЁя─п╟п╪п╦ find\n"
+"Miroslav Flп°dr <flidr@kky.zcu.cz>\n"
 "\n"
-"Особлив╕ подяки Stephan Kulow\n"
+"п·я│п╬п╠п╩п╦п╡я√ п©п╬п╢я▐п╨п╦ Stephan Kulow\n"
 "<coolo@kde.org>"
 
 msgid "KFind Results File"
-msgstr "Файл результат╕в KFind"
+msgstr "п╓п╟п╧п╩ я─п╣п╥я┐п╩я▄я┌п╟я┌я√п╡ KFind"
 
 msgid "New Search"
-msgstr "Новий пошук"
+msgstr "п²п╬п╡п╦п╧ п©п╬я┬я┐п╨"
 
 msgid "Of &type:"
-msgstr "&Типу:"
+msgstr "&п╒п╦п©я┐:"
 
 msgid "Open Containing &Folder"
-msgstr "В╕дкрити &каталог, в який входить"
+msgstr "п▓я√п╢п╨я─п╦я┌п╦ &п╨п╟я┌п╟п╩п╬пЁ, п╡ я▐п╨п╦п╧ п╡я┘п╬п╢п╦я┌я▄"
 
 msgid "Open Containing Folder"
-msgstr "В╕дкрити каталог, в який входить"
+msgstr "п▓я√п╢п╨я─п╦я┌п╦ п╨п╟я┌п╟п╩п╬пЁ, п╡ я▐п╨п╦п╧ п╡я┘п╬п╢п╦я┌я▄"
 
 msgid "Patterns:"
-msgstr "Маски:"
+msgstr "п°п╟я│п╨п╦:"
 
 msgid "Plain Text"
-msgstr "Звичайний текст"
+msgstr "п≈п╡п╦я┤п╟п╧п╫п╦п╧ я┌п╣п╨я│я┌"
 
 msgid "Preferences"
-msgstr "Установки"
+msgstr "пёя│я┌п╟п╫п╬п╡п╨п╦"
 
 msgid "Results were saved to file\n"
-msgstr "Результати були збережен╕ в файл╕\n"
+msgstr "п═п╣п╥я┐п╩я▄я┌п╟я┌п╦ п╠я┐п╩п╦ п╥п╠п╣я─п╣п╤п╣п╫я√ п╡ я└п╟п╧п╩я√\n"
 
 msgid "S&top search"
-msgstr "&Зупинити пошук"
+msgstr "&п≈я┐п©п╦п╫п╦я┌п╦ п©п╬я┬я┐п╨"
 
 msgid "SUID executable files"
-msgstr "Файли програм з встановленим SUID"
+msgstr "п╓п╟п╧п╩п╦ п©я─п╬пЁя─п╟п╪ п╥ п╡я│я┌п╟п╫п╬п╡п╩п╣п╫п╦п╪ SUID"
 
 msgid "Save Search Results"
-msgstr "Записати результати пошуку"
+msgstr "п≈п╟п©п╦я│п╟я┌п╦ я─п╣п╥я┐п╩я▄я┌п╟я┌п╦ п©п╬я┬я┐п╨я┐"
 
 msgid "Save results to file ~/.kfind-results.html"
-msgstr "Записати результати в файл  ~/.kfind-results.html"
+msgstr "п≈п╟п©п╦я│п╟я┌п╦ я─п╣п╥я┐п╩я▄я┌п╟я┌п╦ п╡ я└п╟п╧п╩  ~/.kfind-results.html"
 
 msgid "Save results to file:"
-msgstr "Записати результати в файл:"
+msgstr "п≈п╟п©п╦я│п╟я┌п╦ я─п╣п╥я┐п╩я▄я┌п╟я┌п╦ п╡ я└п╟п╧п╩:"
 
 msgid "Saving"
-msgstr "Збереження"
+msgstr "п≈п╠п╣я─п╣п╤п╣п╫п╫я▐"
 
 msgid "Special files (sockets, device files...)"
-msgstr "Спец╕альн╕ файли (сокети, файли спец╕альних пристро╖в ...)"
+msgstr "п║п©п╣я├я√п╟п╩я▄п╫я√ я└п╟п╧п╩п╦ (я│п╬п╨п╣я┌п╦, я└п╟п╧п╩п╦ я│п©п╣я├я√п╟п╩я▄п╫п╦я┘ п©я─п╦я│я┌я─п╬я≈п╡ ...)"
 
 msgid ""
 "Specified directory\n"
 "is not empty!"
 msgstr ""
-"Вказаний каталог\n"
-"не пустий!"
+"п▓п╨п╟п╥п╟п╫п╦п╧ п╨п╟я┌п╟п╩п╬пЁ\n"
+"п╫п╣ п©я┐я│я┌п╦п╧!"
 
 msgid "Start Search"
-msgstr "Почати пошук"
+msgstr "п÷п╬я┤п╟я┌п╦ п©п╬я┬я┐п╨"
 
 msgid "Stop Search"
-msgstr "Зупинити пошук"
+msgstr "п≈я┐п©п╦п╫п╦я┌п╦ п©п╬я┬я┐п╨"
 
 msgid "Symbolic links"
-msgstr "Символ╕чн╕ посилання"
+msgstr "п║п╦п╪п╡п╬п╩я√я┤п╫я√ п©п╬я│п╦п╩п╟п╫п╫я▐"
 
 msgid "The date is not valid!!"
-msgstr "Нев╕рна дата!!"
+msgstr "п²п╣п╡я√я─п╫п╟ п╢п╟я┌п╟!!"
 
 msgid "The day(s) value isn't valid!!"
-msgstr "Вказаний нев╕рний день!!"
+msgstr "п▓п╨п╟п╥п╟п╫п╦п╧ п╫п╣п╡я√я─п╫п╦п╧ п╢п╣п╫я▄!!"
 
 msgid "The month(s) value isn't valid!!"
-msgstr "Вказаний нев╕рний м╕сяць!!"
+msgstr "п▓п╨п╟п╥п╟п╫п╦п╧ п╫п╣п╡я√я─п╫п╦п╧ п╪я√я│я▐я├я▄!!"
 
 msgid "The value in size isn't valid number!!"
-msgstr "Вказаний розм╕р не ╓ числом!!"
+msgstr "п▓п╨п╟п╥п╟п╫п╦п╧ я─п╬п╥п╪я√я─ п╫п╣ я■ я┤п╦я│п╩п╬п╪!!"
 
 msgid "Unse&lect All"
-msgstr "В╕дм╕нити &виб╕р всього"
+msgstr "п▓я√п╢п╪я√п╫п╦я┌п╦ &п╡п╦п╠я√я─ п╡я│я▄п╬пЁп╬"
 
 msgid ""
 "You have no permission\n"
 " to delete this directory"
 msgstr ""
-"Ви не ма╓те дозволу на \n"
-"стирання цього каталогу"
+"п▓п╦ п╫п╣ п╪п╟я■я┌п╣ п╢п╬п╥п╡п╬п╩я┐ п╫п╟ \n"
+"я│я┌п╦я─п╟п╫п╫я▐ я├я▄п╬пЁп╬ п╨п╟я┌п╟п╩п╬пЁя┐"
 
 msgid ""
 "You have no permission\n"
 " to delete this file"
 msgstr ""
-"Ви не ма╓те дозволу на\n"
-"стирання цього файлу"
+"п▓п╦ п╫п╣ п╪п╟я■я┌п╣ п╢п╬п╥п╡п╬п╩я┐ п╫п╟\n"
+"я│я┌п╦я─п╟п╫п╫я▐ я├я▄п╬пЁп╬ я└п╟п╧п╩я┐"
 
 msgid "and"
-msgstr "та"
+msgstr "я┌п╟"
 
 msgid "day(s)"
-msgstr "дн╕в"
+msgstr "п╢п╫я√п╡"
 
 msgid "during the previou&s "
-msgstr "на протяз╕ попередн╕&х"
+msgstr "п╫п╟ п©я─п╬я┌я▐п╥я√ п©п╬п©п╣я─п╣п╢п╫я√&я┘"
 
 msgid "month(s)"
-msgstr "м╕сяц╕в"
+msgstr "п╪я√я│я▐я├я√п╡"
 

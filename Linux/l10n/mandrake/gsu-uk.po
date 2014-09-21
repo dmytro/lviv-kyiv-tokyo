@@ -16,33 +16,33 @@ msgstr ""
 #: gsu.c:28
 #, c-format
 msgid "oops %s not found\n"
-msgstr "Не можу знайти %s\n"
+msgstr "п²п╣ п╪п╬п╤я┐ п╥п╫п╟п╧я┌п╦ %s\n"
 
 #: gsu.c:66
 msgid "Incorrect password"
-msgstr "Нев╕рний пароль"
+msgstr "п²п╣п╡я√я─п╫п╦п╧ п©п╟я─п╬п╩я▄"
 
 #: gsu.c:66 gsu.c:92
 msgid "Ok"
-msgstr "Гаразд"
+msgstr "п⌠п╟я─п╟п╥п╢"
 
 #: gsu.c:82
 msgid ""
 "The action you requested requires root priviliges.\n"
 "Please enter the root password"
 msgstr ""
-"Ця д╕я вимага╓ прив╕ле╖в адм╕н╕стратора.\n"
-"Будь-ласка, введ╕ть пароль користувача root"
+"п╕я▐ п╢я√я▐ п╡п╦п╪п╟пЁп╟я■ п©я─п╦п╡я√п╩п╣я≈п╡ п╟п╢п╪я√п╫я√я│я┌я─п╟я┌п╬я─п╟.\n"
+"п▒я┐п╢я▄-п╩п╟я│п╨п╟, п╡п╡п╣п╢я√я┌я▄ п©п╟я─п╬п╩я▄ п╨п╬я─п╦я│я┌я┐п╡п╟я┤п╟ root"
 
 #: gsu.c:85
 msgid "Password:"
-msgstr "Пароль:"
+msgstr "п÷п╟я─п╬п╩я▄:"
 
 #: gsu.c:93
 msgid "Cancel"
-msgstr "В╕дм╕нити"
+msgstr "п▓я√п╢п╪я√п╫п╦я┌п╦"
 
 #: gsu.c:116
 msgid "usage: gsu [-c] command [args]\n"
-msgstr "Використання: gsu [-c] команда [аргументи]\n"
+msgstr "п▓п╦п╨п╬я─п╦я│я┌п╟п╫п╫я▐: gsu [-c] п╨п╬п╪п╟п╫п╢п╟ [п╟я─пЁя┐п╪п╣п╫я┌п╦]\n"
 
